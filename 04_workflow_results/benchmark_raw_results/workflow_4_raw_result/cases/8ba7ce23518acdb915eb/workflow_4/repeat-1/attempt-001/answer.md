@@ -1,0 +1,1 @@
+Tại thời điểm đầu năm, chỉ tiêu "Cộng" tiền và các khoản tương đương tiền hợp nhất của Tổng công ty Cổ phần Phong Phú là 74.073.059.413 VND [C1]. Đến số cuối quý, chỉ tiêu này đạt 123.381.740.914 VND [C1].

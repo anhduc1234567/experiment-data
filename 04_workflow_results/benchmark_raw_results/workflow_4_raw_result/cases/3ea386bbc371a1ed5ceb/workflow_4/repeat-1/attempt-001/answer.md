@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Cổ phần Phong Phú, chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay, và được ghi nhận vào chi phí khi phát sinh [C3].

@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh của Công ty Cổ phần Khoáng sản Bắc Kạn trong Báo cáo tài chính Quý 4/2024 là 221.216.833.935 đồng [C1].

@@ -1,0 +1,14 @@
+{
+  "source_run": "20261029-221945-full",
+  "workflow": "workflow_4",
+  "population_successful_retained_answer_accuracy": 100,
+  "population_mean": 0.445,
+  "seed": 20261103,
+  "sampling": "random.Random(seed).sample(sorted(records, key=case_id), 20)",
+  "review": "Assistant reference-based review with single 0/2/4 rating normalized by 4; not a Gemini run, not a human expert gold. Initial review done without displaying original scores; original scores revealed afterward. Selected source/context checks followed comparison; no score changes afterward.",
+  "review_mean": 0.375,
+  "gemini_sample_mean": 0.3875,
+  "exact_agreement": 15,
+  "max_absolute_difference": 0.25,
+  "paid_calls": 0
+}

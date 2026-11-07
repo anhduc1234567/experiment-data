@@ -1,0 +1,4 @@
+- Số dư khoản **Thuế và các khoản phải nộp Nhà nước** (Mã số 313) tại ngày 31/12/2024 là **13.541.753.038 VND**, tăng so với đầu năm là **4.257.742.129 VND** [G2].
+- **Tài sản ngắn hạn** tại ngày 31/12/2024 là **285.416.829.838 VND** và **Nợ ngắn hạn** là **161.265.689.632 VND** [G1, G2].
+- Phép tính so sánh biến động khoản phải nộp Nhà nước: $13.541.753.038 - 4.257.742.129 = 9.284.010.909$ VND (tăng).
+- Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế năm nay đạt **221.216.833.935 VND** [G4].

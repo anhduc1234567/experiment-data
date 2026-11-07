@@ -1,0 +1,1 @@
+Lãi cơ bản trên cổ phiếu năm nay (lũy kế năm 2024) là 4.451 VND [G1].

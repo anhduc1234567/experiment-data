@@ -1,0 +1,1 @@
+Tiền và các khoản tương đương tiền cuối kỳ năm 2024 (tại ngày 31/12/2024) của Tổng Công ty Cổ phần Phong Phú là 123.381.740.914 VND [G1] (trang 2, 3, 4).

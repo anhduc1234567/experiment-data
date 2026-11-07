@@ -1,0 +1,1 @@
+Số dư chỉ tiêu **Tiền và tương đương tiền** cuối quý (tại ngày 31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là **143.694.292.293 VND** [C1].

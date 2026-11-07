@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa thông tin về các chỉ tiêu lợi nhuận gộp, tổng lợi nhuận kế toán trước thuế và lợi nhuận kế toán sau thuế năm 2024 trong Báo cáo kết quả hoạt động kinh doanh hợp nhất của Tổng Công ty Thiết bị điện Đông Anh - Công ty Cổ phần [C1], [C2].

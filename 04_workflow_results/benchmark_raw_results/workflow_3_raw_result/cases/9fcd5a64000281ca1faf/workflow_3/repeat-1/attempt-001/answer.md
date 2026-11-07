@@ -1,0 +1,2 @@
+Các khoản mục tiền tệ có gốc ngoại tệ vào cuối năm (ngày kết thúc kỳ kế toán) được đánh giá theo tỷ giá giao dịch thực tế tại ngày của Bảng cân đối kế toán [N1]. Cụ thể:
+- Các khoản mục tiền tệ có gốc ngoại tệ được phân loại là tài sản áp dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Tổng Công ty thường xuyên có giao dịch [N1].

@@ -1,0 +1,1 @@
+Tổng chi phí trả trước dài hạn cuối quý IV/2024 (tại ngày 31/12/2024) là 56.849.484.598 VND [G1].

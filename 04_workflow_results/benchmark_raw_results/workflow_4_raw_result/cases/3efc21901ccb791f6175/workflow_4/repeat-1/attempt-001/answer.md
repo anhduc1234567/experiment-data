@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, tổng số vốn góp của chủ sở hữu (vốn góp của chủ sở hữu hợp nhất) của Tổng công ty Thiết bị điện Đông Anh là 324.863.920.000 VND [C2].

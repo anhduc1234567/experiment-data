@@ -1,0 +1,1 @@
+Tên công ty trước đây của Tổng Công ty Thiết bị điện Đông Anh là Công ty Cổ phần Chế tạo Thiết bị điện Đông Anh [N1].

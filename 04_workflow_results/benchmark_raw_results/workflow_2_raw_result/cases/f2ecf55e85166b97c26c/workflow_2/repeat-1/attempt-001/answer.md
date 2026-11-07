@@ -1,0 +1,1 @@
+Tổng giá trị đầu tư tài chính dài hạn (Mã số 250) tại thời điểm cuối quý IV/2024 (31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là **28.690.216.075 VND** [G1].

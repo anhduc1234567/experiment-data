@@ -1,0 +1,1 @@
+Giá gốc của hàng tồn kho được tính theo phương pháp bình quân gia quyền và được hạch toán theo phương pháp kê khai thường xuyên [C2].

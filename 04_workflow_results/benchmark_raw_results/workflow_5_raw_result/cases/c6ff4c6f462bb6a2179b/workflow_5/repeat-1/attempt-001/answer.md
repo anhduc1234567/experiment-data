@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính Quý 4/2024 của Tổng công ty Cổ phần Phong Phú [C2] không chứa số liệu cụ thể về lợi nhuận sau thuế năm 2024 và 2023 cũng như các yếu tố biến động. Do đó, context hiện tại thiếu dữ liệu để trả lời câu hỏi.

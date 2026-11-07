@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (từ [C1] và [C2]) không chứa thông tin về số liệu thuế và các khoản phải nộp nhà nước đã thực nộp trong năm tài chính. Do đó, context hiện tại thiếu dữ liệu để trả lời câu hỏi này.

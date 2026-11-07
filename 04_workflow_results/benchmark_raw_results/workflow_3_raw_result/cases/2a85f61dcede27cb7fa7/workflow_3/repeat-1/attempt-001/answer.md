@@ -1,0 +1,4 @@
+Dựa trên Bảng cân đối kế toán tại ngày 31/12/2024 [G1], tác động của việc mua sắm tài sản cố định trong năm tài chính đến tổng nguyên giá và khấu hao lũy kế của tài sản cố định hữu hình như sau:
+
+- **Nguyên giá tài sản cố định hữu hình** (Mã số 222): Tăng từ 572.405.526.466 VND đầu năm lên 693.886.405.452 VND vào cuối quý. Phép tính biến động nguyên giá: 693.886.405.452 - 572.405.526.466 = 121.480.878.986 VND (tăng).
+- **Giá trị hao mòn lũy kế tài sản cố định hữu hình** (Mã số 223): Tăng từ (358.231.014.003) VND đầu năm lên (390.714.432.589) VND vào cuối quý. Phép tính biến động hao mòn lũy kế: 390.714.432.589 - 358.231.014.003 = 32.483.418.586 VND (tăng thêm mức khấu hao lũy kế).

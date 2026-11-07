@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, cổ tức được ghi nhận là nợ phải trả khi được Đại hội đồng cổ đông phê duyệt [C4, trang 13]. Các tài liệu được cung cấp không chứa số liệu cụ thể về số tiền cổ tức được chia, các khoản nợ phải trả liên quan đến cổ tức, hay thời điểm ghi nhận cụ thể khoản phải trả cổ tức trong kỳ.

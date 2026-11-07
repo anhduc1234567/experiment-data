@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) không chứa đủ số liệu về Tổng nợ phải trả và Vốn chủ sở hữu tại thời điểm cuối Quý 4/2024 để tính hệ số D/E ratio. Do đó, không thể tính toán hệ số này dựa trên dữ liệu hiện có.

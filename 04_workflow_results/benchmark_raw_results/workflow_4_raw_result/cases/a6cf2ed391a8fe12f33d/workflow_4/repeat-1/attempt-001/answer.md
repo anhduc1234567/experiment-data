@@ -1,0 +1,1 @@
+Các khoản đầu tư nắm giữ đến ngày đáo hạn (ngắn hạn) là khoản tiền gửi ngân hàng có kỳ hạn từ 6 tháng đến 12 tháng, với giá trị ghi sổ bằng giá gốc [C1].

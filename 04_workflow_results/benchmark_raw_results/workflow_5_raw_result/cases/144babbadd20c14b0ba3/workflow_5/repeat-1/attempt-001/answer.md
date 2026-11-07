@@ -1,0 +1,1 @@
+Tổng Công ty Cổ phần Phong Phú áp dụng các Chuẩn mực kế toán, các Thông tư hướng dẫn thực hiện Chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính hợp nhất [C3].

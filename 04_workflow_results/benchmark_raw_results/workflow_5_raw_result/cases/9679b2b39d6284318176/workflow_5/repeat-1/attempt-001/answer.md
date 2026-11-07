@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, số dư khoản trả trước cho người bán ngắn hạn (Trả trước cho người bán khác) tại thời điểm cuối quý là 21.623.063.707 đồng và số đầu năm là 8.220.335.833 đồng [C2].

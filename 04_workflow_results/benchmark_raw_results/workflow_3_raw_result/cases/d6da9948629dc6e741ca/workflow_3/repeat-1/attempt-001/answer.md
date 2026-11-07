@@ -1,0 +1,1 @@
+Tổng Công ty Cổ phần Phong Phú công bố Báo cáo tài chính hợp nhất Quý 4 năm 2024 [N2].

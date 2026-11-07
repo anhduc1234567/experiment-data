@@ -1,0 +1,1 @@
+Vốn đầu tư của chủ sở hữu tại thời điểm cuối kỳ trên Báo cáo tình hình tài chính riêng quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương là 840.839.760.000 VND [C1, C2].

@@ -1,0 +1,3 @@
+- Lợi nhuận sau thuế chưa phân phối cuối kỳ (31/12/2024): 43.404.961.299 VND [G1].
+- Lợi nhuận sau thuế chưa phân phối đầu năm: 54.254.677.312 VND [G1].
+- Mức độ thay đổi (Số cuối năm - Số đầu năm): 43.404.961.299 - 54.254.677.312 = -10.849.716.013 VND [G1].

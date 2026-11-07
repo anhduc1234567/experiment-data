@@ -1,0 +1,5 @@
+Dựa trên Báo cáo tài chính của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần (Quý 4 2024), mối quan hệ giữa các khoản tăng/giảm dự phòng nợ phải thu khó đòi và chi phí quản lý doanh nghiệp được thuyết minh như sau:
+
+- Theo phần Thuyết minh Báo cáo tài chính (mục Các khoản phải thu), **tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp** trên Báo cáo kết quả hoạt động kinh doanh [N1].
+- Cụ thể trên Bảng cân đối kế toán [G1], số dư "Dự phòng các khoản phải thu ngắn hạn khó đòi (*)" (Mã số 137) biến động từ số đầu năm là (95.180.977.729) VND giảm xuống còn (74.593.686.815) VND ở số cuối quý (giảm khoảng 20.587.291.014 VND).
+- Sự thay đổi này tác động trực tiếp vào chi phí quản lý doanh nghiệp (Mã số 26 trên Báo cáo kết quả hoạt động kinh doanh [G3]), với chi phí quản lý doanh nghiệp lũy kế từ đầu năm đến cuối quý này là 81.097.025.190 VND so với 99.249.385.801 VND ở cùng kỳ năm trước.

@@ -1,0 +1,1 @@
+Tại ngày 31 tháng 12 năm 2024, tiền và các khoản tương đương tiền của Công ty Cổ phần Khoáng sản Bắc Kạn (Báo cáo tài chính riêng) là 143.694.292.293 VND (số đầu năm là 27.424.122.422 VND) [C1], [C2], [C3].

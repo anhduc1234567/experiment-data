@@ -1,0 +1,1 @@
+Tập đoàn áp dụng các Chuẩn mực kế toán, các Thông tư hướng dẫn thực hiện Chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính hợp nhất [C2]. Năm tài chính của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm [C3]. Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam (VND) [C3].

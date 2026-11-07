@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng công ty Cổ phần Phong Phú, tài liệu không chứa thông tin hoặc số liệu cụ thể về số dư Quỹ khen thưởng phúc lợi tại thời điểm cuối kỳ (31/12/2024).

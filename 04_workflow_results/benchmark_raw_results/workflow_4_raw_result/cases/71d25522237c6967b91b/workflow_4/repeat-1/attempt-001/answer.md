@@ -1,0 +1,1 @@
+Bằng chứng hiện tại cung cấp số liệu doanh thu bán hàng và cung cấp dịch vụ [C1] và chi phí quản lý doanh nghiệp [C2], nhưng thiếu dữ liệu về chi phí tài chính lũy kế từ Báo cáo kết quả hoạt động kinh doanh hợp nhất Quý 4 2024 để tính tỷ lệ chi phí tài chính trên doanh thu thuần.

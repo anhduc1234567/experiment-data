@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu [C1], [C2] và [C3] không chứa số liệu về chi phí trả trước ngắn hạn, tài sản ngắn hạn và nợ ngắn hạn trên bảng cân đối kế toán hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh. Do đó, không đủ cơ sở dữ liệu để đánh giá ảnh hưởng đến thanh khoản theo yêu cầu.

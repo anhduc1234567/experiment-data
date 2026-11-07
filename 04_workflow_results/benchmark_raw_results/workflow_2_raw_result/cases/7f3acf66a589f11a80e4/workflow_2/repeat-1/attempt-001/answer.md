@@ -1,0 +1,1 @@
+Tổng dự phòng bảo hành cuối năm 2024 (tại ngày 31/12/2024) là 44.869.700.243 VND (bao gồm dự phòng bảo hành sản phẩm ngắn hạn 7.952.244.057 VND và dự phòng bảo hành sản phẩm dài hạn 36.917.456.186 VND) [N1].

@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh, số dư nguyên giá tài sản cố định hữu hình tại ngày 01/01/2024 (số đầu năm) là 572.405.526.466 VND [C1], [C3] và số cuối kỳ là 693.886.405.452 VND [C1].

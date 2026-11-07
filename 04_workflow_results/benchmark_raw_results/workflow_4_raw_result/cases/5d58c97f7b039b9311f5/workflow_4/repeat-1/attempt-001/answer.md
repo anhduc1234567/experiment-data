@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong ngữ cảnh không chứa số liệu về chỉ tiêu Tổng tài sản dài hạn tại thời điểm cuối quý và đầu năm của Công ty Cổ phần Khoáng sản Bắc Kạn trong Quý 4/2024 để thực hiện so sánh.

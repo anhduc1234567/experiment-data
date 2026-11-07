@@ -1,0 +1,1 @@
+Doanh thu bán thành phẩm năm 2024 là 1.824.172.245.220 VND [N1].

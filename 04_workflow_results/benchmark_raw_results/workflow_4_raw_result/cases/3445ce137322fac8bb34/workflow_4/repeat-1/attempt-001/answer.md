@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, chi phí bán hàng dự án (bao gồm chi phí hoa hồng môi giới, chi phí thưởng bán hàng,...) được phân bổ vào chi phí tương ứng với số căn hộ đã bàn giao cho khách hàng trong năm [C2].

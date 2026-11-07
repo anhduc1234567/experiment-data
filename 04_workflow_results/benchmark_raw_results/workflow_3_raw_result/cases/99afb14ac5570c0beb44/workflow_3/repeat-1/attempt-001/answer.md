@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, ngữ cảnh được cung cấp không chứa thông tin hoặc số liệu về Công ty Cổ phần Nam Dương Phú (thiếu dữ liệu trong bảng danh sách công ty con tại [N1]). Do đó, không thể so sánh tỷ lệ lợi ích và tỷ lệ quyền biểu quyết cũng như xác định nguyên nhân khác biệt.

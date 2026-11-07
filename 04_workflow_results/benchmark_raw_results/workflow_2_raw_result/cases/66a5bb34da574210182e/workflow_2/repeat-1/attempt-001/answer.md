@@ -1,0 +1,1 @@
+Phương pháp xác định nguyên giá (giá vốn) cho lãi hoặc lỗ từ chuyển nhượng chứng khoán kinh doanh là **phương pháp bình quân gia quyền di động** [N2].

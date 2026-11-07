@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) thiếu các chỉ tiêu chi tiết về "Tiền chi trả nợ gốc vay" và "Tiền thu từ đi vay" trên Báo cáo lưu chuyển tiền tệ lũy kế năm hiện tại. Do đó, không đủ cơ sở dữ liệu để tính toán tỷ lệ theo yêu cầu.

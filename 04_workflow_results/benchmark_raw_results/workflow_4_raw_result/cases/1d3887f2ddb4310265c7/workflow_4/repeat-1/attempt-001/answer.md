@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa đủ số liệu về Tổng nợ phải trả và Vốn chủ sở hữu tại thời điểm cuối Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú để tính hệ số D/E ratio. Do đó, không thể thực hiện việc tính toán này dựa trên các chunk [C1], [C2], và [C3].

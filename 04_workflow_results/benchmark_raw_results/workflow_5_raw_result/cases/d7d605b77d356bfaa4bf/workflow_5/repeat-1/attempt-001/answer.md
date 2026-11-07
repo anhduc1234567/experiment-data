@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất ([C1], [C2]) không chứa dữ liệu về doanh thu thuần và lợi nhuận gộp của Tổng công ty Cổ phần Phong Phú trong quý 4 năm 2024 để tính tỷ suất lợi nhuận gộp. Do đó, thiếu thông tin để đưa ra kết quả tính toán.

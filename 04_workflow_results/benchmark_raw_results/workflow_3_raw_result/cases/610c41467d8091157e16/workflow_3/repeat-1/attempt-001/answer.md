@@ -1,0 +1,1 @@
+Dựa trên Báo cáo kết quả hoạt động kinh doanh hợp nhất Quý 4 năm 2024 [G1], các bảng dữ liệu cung cấp không có thông tin chi tiết về "chi phí bảo hành sản phẩm". Do đó, không có dữ liệu để so sánh chi phí bảo hành sản phẩm trong Quý 4 năm 2024 với Quý 4 năm 2023.

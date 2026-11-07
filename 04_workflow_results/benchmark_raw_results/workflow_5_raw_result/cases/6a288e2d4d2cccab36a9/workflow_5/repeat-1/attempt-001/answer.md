@@ -1,0 +1,1 @@
+Chi phí xây dựng cơ bản dở dang của Công ty Cổ phần Khoáng sản Bắc Kạn tại thời điểm đầu năm là 6.595.777.186 đồng và cuối quý (tại ngày 31/12/2024) là 11.902.048.907 đồng [C1].

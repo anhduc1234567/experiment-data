@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1, C2], hiện không có thông tin chi tiết hoặc số liệu cụ thể về chỉ tiêu thuế thu nhập cá nhân phải nộp vào cuối kỳ tại Mục 15 "Thuế và các khoản phải nộp Nhà nước" do đoạn văn bản cung cấp dừng lại ở tiêu đề của mục này [C1].

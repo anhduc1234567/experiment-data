@@ -1,0 +1,1 @@
+Lãi tiền vay lũy kế từ ngày 01/01/2024 đến 31/12/2024 (Lũy kế năm nay, Mã số: 23) của Công ty Cổ phần Khoáng sản Bắc Kạn là **8.562.700.166 VNĐ** [G1] (Trang 7).

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu về chi phí xây dựng cơ bản dở dang trên Báo cáo tài chính quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2], [C3]. Do đó, không đủ cơ sở để trả lời hoặc phân tích biến động về chỉ tiêu này.

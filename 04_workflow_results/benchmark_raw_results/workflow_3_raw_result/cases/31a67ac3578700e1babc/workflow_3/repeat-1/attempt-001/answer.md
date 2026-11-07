@@ -1,0 +1,1 @@
+Mã cổ phiếu của công ty là: **BKC** [N1], [N2].

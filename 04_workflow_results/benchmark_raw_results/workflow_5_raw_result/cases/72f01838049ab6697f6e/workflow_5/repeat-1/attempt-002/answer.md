@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế TNDN quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn tăng 28.027.488.415 đồng (tăng khoảng 28 tỷ đồng) so với quý 4/2023 [C1, C2]. Nguyên nhân chủ yếu là do trong quý 4/2024 thị trường tinh quặng kém ổn định nên Công ty tiếp tục bán tinh quặng kém tồn kho [C2].

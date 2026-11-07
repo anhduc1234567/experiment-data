@@ -1,0 +1,1 @@
+Tổng Công ty chưa đánh giá giá trị hợp lý của tài sản tài chính và công nợ tài chính tại ngày kết thúc niên độ kế toán do Thông tư 210 cũng như các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý của các tài sản tài chính và công nợ tài chính, trong khi Thông tư 210 yêu cầu áp dụng Chuẩn mực báo cáo tài chính quốc tế về vi [N1].

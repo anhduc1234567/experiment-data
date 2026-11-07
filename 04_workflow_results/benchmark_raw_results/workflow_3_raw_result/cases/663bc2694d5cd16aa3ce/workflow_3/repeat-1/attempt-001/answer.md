@@ -1,0 +1,1 @@
+Dựa trên context được cung cấp, tài liệu không chứa dữ liệu chi tiết về cơ cấu doanh thu theo từng ngành nghề kinh doanh hoặc thuyết minh phân đoạn để đánh giá đầy đủ mức độ đa dạng hóa ngành nghề của Tổng Công ty Phong Phú [G1], [N1], [N2]. Context chỉ đề cập một phần hoạt động kinh doanh bao bì và dịch vụ vận tải [N1], cũng như kết quả kinh doanh chung [G1], [G2].

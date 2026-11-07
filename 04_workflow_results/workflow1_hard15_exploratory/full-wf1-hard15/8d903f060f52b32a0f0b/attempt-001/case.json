@@ -1,0 +1,11 @@
+{
+  "case_id": "8d903f060f52b32a0f0b",
+  "question_number": 61,
+  "question": "Đánh giá mức độ hiệu quả của việc quản lý vốn lưu động dựa trên các thay đổi về phải thu, hàng tồn kho và phải trả.",
+  "reference": "Dựa trên các thay đổi về phải thu, hàng tồn kho và phải trả, mức độ hiệu quả của việc quản lý vốn lưu động có dấu hiệu chưa tối ưu, dẫn đến lưu chuyển tiền thuần từ hoạt động kinh doanh bị âm trong cả hai năm. Cụ thể: Tăng/giảm các khoản phải thu (âm 25.113.710.437 VND năm hiện tại) cho thấy công ty đang cho khách hàng nợ nhiều hơn hoặc thu tiền chậm hơn. Mặc dù tăng/giảm hàng tồn kho dương (92.441.475.845 VND năm hiện tại) cho thấy hàng tồn kho giảm (giải phóng tiền mặt), nhưng Tăng/giảm các khoản phải trả âm (105.991.619.839 VND năm hiện tại) chỉ ra rằng công ty đã thanh toán một lượng lớn cho nhà cung cấp hoặc các khoản phải trả khác. Sự kết hợp của các yếu tố này, đặc biệt là việc các khoản phải trả giảm mạnh và phải thu tăng, đã làm giảm đáng kể dòng tiền từ hoạt động kinh doanh.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0007",
+  "source_file": "dau_tu_APEC.md",
+  "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+  "selection_topic": "Quản lý vốn lưu động"
+}

@@ -1,0 +1,1 @@
+Tổng tài sản dài hạn cuối kỳ tại ngày 31/12/2024 là 678.363.404.324 VND [G1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương không chứa số liệu hoặc thông tin về chỉ tiêu Chi phí xây dựng cơ bản dở dang qua các kỳ [C1], [C2].

@@ -1,0 +1,1 @@
+Giá trị nguyên giá tài sản cố định hữu hình cuối quý IV/2024 (tại ngày 31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là **202.305.110.894 VND** [G1] (trang 3, 4, 5, 6).

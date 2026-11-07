@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, Công ty Cổ phần Khoáng sản Bắc Kạn có Tiền và các khoản tương đương tiền là 143.694.292.293 VND và Tổng tài sản ngắn hạn là 285.416.829.838 VND [C1]. Tỷ lệ tiền và các khoản tương đương tiền trên tổng tài sản ngắn hạn là: (143.694.292.293 / 285.416.829.838) * 100 = 50,34% [C1].

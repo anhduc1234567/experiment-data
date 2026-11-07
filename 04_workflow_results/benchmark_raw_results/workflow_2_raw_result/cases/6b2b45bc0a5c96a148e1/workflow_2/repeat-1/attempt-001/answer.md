@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế chưa phân phối cuối kỳ (Số cuối năm) là 43.404.961.299 VND [G1].

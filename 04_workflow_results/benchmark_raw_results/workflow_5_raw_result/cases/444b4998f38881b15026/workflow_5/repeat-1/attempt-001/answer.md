@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các chunk không chứa thông tin về kỳ kế toán hoặc niên độ kế toán trong phần đặc điểm hoạt động của doanh nghiệp hoặc phần thuyết minh Báo cáo tài chính để xác định chi tiết theo yêu cầu tham khảo.

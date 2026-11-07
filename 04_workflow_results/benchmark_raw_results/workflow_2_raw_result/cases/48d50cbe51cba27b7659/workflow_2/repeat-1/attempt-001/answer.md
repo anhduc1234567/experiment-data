@@ -1,0 +1,1 @@
+Dự phòng giảm giá đầu tư vào các công cụ vốn của các đơn vị khác được lập dựa trên giá trị thị trường của cổ phiếu đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cậy [N1].

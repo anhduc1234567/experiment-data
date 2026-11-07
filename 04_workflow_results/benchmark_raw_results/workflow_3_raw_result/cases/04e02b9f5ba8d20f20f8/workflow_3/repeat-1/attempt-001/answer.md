@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp trong context, không có thông tin chi tiết về điều kiện hoặc thời điểm cụ thể khi nào thì dự phòng giảm giá đầu tư vào công ty con được lập.

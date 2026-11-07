@@ -1,0 +1,1 @@
+Tổng doanh thu hoạt động tài chính hợp nhất của Tổng Công ty Cổ phần Phong Phú năm 2024 là 46.655.901.465 VND và năm 2023 là 43.283.518.454 VND [C1].

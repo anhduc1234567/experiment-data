@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, công ty con hoạt động trong lĩnh vực sản xuất, kinh doanh bông, xơ, sợi tại TP. Thủ Đức là **Công ty TNHH Coats Phong Phú** (có địa chỉ tại số 48 Tăng Nhơn Phú, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh) [N1].

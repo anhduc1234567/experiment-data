@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ các phần Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) chưa chứa thông tin về Bảng cân đối kế toán phần hàng tồn kho, số dư đầu năm và cuối kỳ của hàng tồn kho, cũng như nguyên nhân sụt giảm và các rủi ro liên quan [C1], [C2], [C3]. Do đó, phần context hiện tại thiếu dữ liệu để trả lời câu hỏi về hàng tồn kho.

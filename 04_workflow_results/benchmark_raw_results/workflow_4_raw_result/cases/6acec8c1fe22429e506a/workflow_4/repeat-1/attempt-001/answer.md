@@ -1,0 +1,1 @@
+Trong Quý IV/2024, Công ty Cổ phần Thương mại và Du lịch Kim Bôi đã từ khoản đầu tư khác trở thành công ty liên kết của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương do Công ty sở hữu 5.200.000 cổ phần tương ứng với tỷ lệ sở hữu 22,26% (số đầu năm là 5.200.000 cổ phần tương ứng 19,05%) [C1].

@@ -1,0 +1,1 @@
+Dựa trên ngữ cảnh được cung cấp, không có thông tin về tên công ty con có tỷ lệ góp vốn 100% [N1], [N2].

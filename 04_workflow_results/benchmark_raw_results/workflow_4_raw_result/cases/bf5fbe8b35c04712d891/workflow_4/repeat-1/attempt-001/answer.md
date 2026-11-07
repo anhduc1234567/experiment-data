@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần, chỉ tiêu đầu tư góp vốn vào đơn vị khác tại thời điểm 31/12/2024 là 2.500.000.000 VND [C1, C2]. Cụ thể gồm khoản đầu tư vào Công ty CP Dịch vụ sửa chữa nhiệt điện Miền Bắc với giá trị 2.500.000.000 VND [C1].

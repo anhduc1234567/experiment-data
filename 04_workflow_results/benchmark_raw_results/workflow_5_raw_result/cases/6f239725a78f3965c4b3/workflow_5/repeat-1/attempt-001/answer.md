@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, chỉ tiêu **Lưu chuyển tiền thuần trong năm** (mã số 50) là **37.389.062.365** đồng cho năm nay và **11.258.895.496** đồng cho năm trước [C1].

@@ -1,0 +1,1 @@
+Số dư Quỹ đầu tư phát triển hợp nhất tại ngày 01/01/2023 là 31.555.340.750 VND [C2]. Bằng chứng hiện tại không cung cấp số liệu về số dư Quỹ đầu tư phát triển tại ngày 31/12/2024.

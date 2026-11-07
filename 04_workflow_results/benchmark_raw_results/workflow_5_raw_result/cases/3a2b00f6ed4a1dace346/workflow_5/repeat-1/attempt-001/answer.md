@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp từ Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú chứa nội dung về chính sách kế toán cho "Tiền và các khoản tương đương tiền" [C2] và phần đầu của "Báo cáo lưu chuyển tiền tệ hợp nhất" [C1], nhưng hoàn toàn thiếu số liệu cụ thể về số dư tiền và các khoản tương đương tiền tại thời điểm cuối kỳ.

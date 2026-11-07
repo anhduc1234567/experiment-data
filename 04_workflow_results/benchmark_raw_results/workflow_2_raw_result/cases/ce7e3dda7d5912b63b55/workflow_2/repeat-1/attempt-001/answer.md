@@ -1,0 +1,1 @@
+Số tiền thuế và các khoản phải nộp Nhà nước nói chung tại thời điểm cuối quý 4/2024 (ngày 31 tháng 12 năm 2024) là 33.918.780.022 VND [G1]. Context không tách riêng số liệu chi tiết của thuế thu nhập cá nhân.

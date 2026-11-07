@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không đầy đủ để tính toán biên lợi nhuận gộp do thiếu số liệu về doanh thu thuần và giá vốn hàng bán trong Quý 4 năm 2024 của Tổng công ty Thiết bị Điện Đông Anh. Đối với chi phí bán hàng trong Quý 4 năm 2024, tổng chi phí là 32.353.556.234 VND [C2].

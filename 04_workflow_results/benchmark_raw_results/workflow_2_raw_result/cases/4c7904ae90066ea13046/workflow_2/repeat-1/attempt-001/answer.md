@@ -1,0 +1,1 @@
+Tổng tài sản dài hạn (Mã số 200) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ tại thời điểm cuối kỳ (31/12/2024) là 1.804.768.871.621 VND [G1] (trang 2, 3, 4).

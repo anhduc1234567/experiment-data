@@ -1,0 +1,1 @@
+Tên đầy đủ của Công ty Cổ phần Khoáng sản Bắc Kạn (mã chứng khoán: BKC) theo Báo cáo tài chính Quý 4/2024 là **Công ty Cổ phần khoáng sản Bắc Kạn** [C1].

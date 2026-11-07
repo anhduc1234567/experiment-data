@@ -1,0 +1,1 @@
+Dựa trên bằng chứng được cung cấp, tài liệu không chứa đủ số liệu về chỉ tiêu Tổng tài sản ngắn hạn tại thời điểm cuối quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2].

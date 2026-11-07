@@ -1,0 +1,1 @@
+Tổng các khoản phải trả ngắn hạn khác tại ngày 31/12/2024 (cuối năm 2024) là 45.988.189.917 VND [G1].

@@ -1,0 +1,1 @@
+Tại thời điểm ngày 31 tháng 12 năm 2024 (cuối quý IV/2024), nguyên giá hàng tồn kho (chỉ tiêu Hàng tồn kho mã số 141) của Công ty Cổ phần Khoáng sản Bắc Kạn là 88.566.669.300 VND [C2]. Tổng giá trị hàng tồn kho sau khi trừ dự phòng giảm giá là 87.115.328.316 VND [C2].

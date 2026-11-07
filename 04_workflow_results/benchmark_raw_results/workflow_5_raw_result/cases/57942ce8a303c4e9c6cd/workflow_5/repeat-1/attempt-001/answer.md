@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (trang bìa và các phần thông tin chung) không đề cập đến mã chứng khoán của Tổng Công ty Cổ phần Phong Phú [C1, C2, C3].

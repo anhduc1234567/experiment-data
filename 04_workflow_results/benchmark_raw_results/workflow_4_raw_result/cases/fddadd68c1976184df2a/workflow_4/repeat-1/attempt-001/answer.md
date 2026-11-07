@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian 10 năm [C2].

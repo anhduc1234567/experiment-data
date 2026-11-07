@@ -1,0 +1,1 @@
+Công ty Cổ phần Đầu tư APEC hoạt động trong lĩnh vực chính là **đầu tư và kinh doanh bất động sản** [N1], [N2].

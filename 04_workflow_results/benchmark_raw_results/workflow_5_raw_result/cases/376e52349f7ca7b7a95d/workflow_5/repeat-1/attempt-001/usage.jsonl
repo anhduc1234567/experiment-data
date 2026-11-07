@@ -1,0 +1,2 @@
+{"kind": "llm", "run_id": "01a18380-d00b-70c7-9260-1614df0111f4", "node": "plan_and_retrieve", "status": "ok", "elapsed_seconds": 1.589501458016457, "model": "gemini-3.5-flash-lite", "usage": {"input_tokens": 324, "output_tokens": 152, "total_tokens": 476, "input_token_details": {"cache_read": 0}}}
+{"kind": "llm", "run_id": "01a18380-d6ac-7073-88e4-addf61885753", "node": "rag_generate", "status": "error", "usage": null, "error_type": "ChatGoogleGenerativeAIError", "elapsed_seconds": 0.20554112500394695}

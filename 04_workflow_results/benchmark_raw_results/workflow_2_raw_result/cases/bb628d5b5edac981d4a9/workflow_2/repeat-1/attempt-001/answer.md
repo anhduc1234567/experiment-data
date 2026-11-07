@@ -1,0 +1,1 @@
+Tài sản cố định vô hình của Tập đoàn Phong Phú chủ yếu bao gồm chương trình phần mềm [N3].

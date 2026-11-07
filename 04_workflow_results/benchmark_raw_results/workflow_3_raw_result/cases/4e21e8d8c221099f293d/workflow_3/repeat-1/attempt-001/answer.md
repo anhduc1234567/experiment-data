@@ -1,0 +1,1 @@
+Số dư tiền và các khoản tương đương tiền cuối kỳ (tại ngày 31 tháng 12 năm 2024) là **97.964.405.114 VND** (trong đó Tiền là 17.964.405.114 VND và Các khoản tương đương tiền là 80.000.000.000 VND) [G1].

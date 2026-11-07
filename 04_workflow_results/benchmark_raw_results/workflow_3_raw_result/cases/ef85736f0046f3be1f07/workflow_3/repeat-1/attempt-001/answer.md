@@ -1,0 +1,4 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, thông tin chi tiết về lợi thế thương mại như sau:
+
+- **Trên Bảng cân đối kế toán:** Lợi thế thương mại (mã số 269, thuyết minh V.12) được ghi nhận là một khoản tài sản dài hạn khác [G1]. Giá trị cuối quý là 6.889.138.340 VND, giảm so với số đầu năm là 10.825.788.821 VND [G1].
+- **Ảnh hưởng đến lợi nhuận và bảng cân đối kế toán:** Context được cung cấp không chứa thuyết minh chi tiết về chính sách kế toán, thời gian phân bổ, hay chi phí phân bổ cụ thể của lợi thế thương mại ảnh hưởng đến kết quả hoạt động kinh doanh. Do đó, thiếu dữ liệu để nêu cụ thể mức độ ảnh hưởng đến lợi nhuận.

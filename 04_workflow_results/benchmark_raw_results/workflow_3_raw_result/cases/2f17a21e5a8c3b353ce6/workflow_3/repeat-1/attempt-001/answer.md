@@ -1,0 +1,1 @@
+Tính đến ngày 24 tháng 01 năm 2025, Tổng Giám đốc của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (APEC Investment) là bà Nguyễn Phương Dung (được bổ nhiệm ngày 01 tháng 4 năm 2024) [N2].

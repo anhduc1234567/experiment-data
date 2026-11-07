@@ -1,0 +1,193 @@
+stage,device,collection,report_id,repeat,seconds,hits
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.007746666989987716,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.0040333330107387155,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.002656625001691282,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,3,0.0033732499869074672,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,4,0.0026049170119222254,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,5,0.00217929101199843,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,6,0.0031034169951453805,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,7,0.003455666999798268,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,8,0.002871292002964765,1
+neo4j_query_client_wall,db,neo4j,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,9,0.0027921250148210675,1
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.003446707996772602,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.004573459009407088,153
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.0056522919912822545,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.0046674589975737035,153
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.0030864999862387776,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.005101874994579703,153
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,3,0.003688041993882507,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,3,0.003492624993668869,153
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,4,0.003085375006776303,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,4,0.00431579101132229,153
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.0019291250209789723,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.004203666001558304,212
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.003501917002722621,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.004790334001882002,212
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.0017113749927375466,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.0035947500145994127,212
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,3,0.0015128340164665133,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,3,0.0034402500023134053,212
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,4,0.0019919170008506626,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,4,0.0037621670053340495,212
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.004019666026579216,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.002227125019999221,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0020526250009424984,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,3,0.002063833991996944,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,4,0.0016701669956091791,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,5,0.0016595839988440275,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,6,0.001664375013206154,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,7,0.0021459590061567724,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,8,0.0013395840069279075,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,9,0.0013145830016583204,1
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.0019448749953880906,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.0029591249767690897,109
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.0018150410032831132,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.0028919579926878214,109
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0018379160028416663,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0025301249988842756,109
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,3,0.0015361249970737845,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,3,0.002315167017513886,109
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,4,0.0014537499810103327,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,4,0.002248167002107948,109
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.0014104999718256295,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.003426667011808604,165
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.001526458014268428,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.0029938750085420907,165
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0014678750012535602,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0031097920145839453,165
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,3,0.001655250001931563,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,3,0.003359249996719882,165
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,4,0.0022515419987030327,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,4,0.003829082997981459,165
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.0023201660078484565,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.0023463749967049807,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.0034112909925170243,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,3,0.00278995800181292,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,4,0.002333541982807219,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,5,0.0019230000034440309,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,6,0.0020506670116446912,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,7,0.0023648329952266067,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,8,0.0015934169932734221,1
+neo4j_query_client_wall,db,neo4j,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,9,0.0023097080120351166,1
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.00157891699927859,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.0030107909988146275,170
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.0013418750022538006,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.002878624974982813,170
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.0016431669937446713,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.0028732909995596856,170
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,3,0.001596207992406562,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,3,0.0029046660056337714,170
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,4,0.0014346670068334788,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,4,0.0037910829996690154,170
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.0022423340124078095,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.004841708025196567,219
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.0016712920041754842,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.0049739160167519,219
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.0020128329924773425,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.004223041003569961,219
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,3,0.001803666993509978,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,3,0.003659624984720722,219
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,4,0.0017906249850057065,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,4,0.003384957992238924,219
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.0017914169875439256,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.0048809589934535325,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.0026576660166028887,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,3,0.0020863749959971756,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,4,0.001453917007893324,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,5,0.0026478329964447767,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,6,0.0020528339955490083,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,7,0.0018537910073064268,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,8,0.001326541998423636,1
+neo4j_query_client_wall,db,neo4j,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,9,0.0013266250025480986,1
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.001865875005023554,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.00201554101658985,67
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.0016756670083850622,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.0021800829854328185,67
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.0018453749944455922,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.002260707988170907,67
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,3,0.0016120419895742089,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,3,0.0015975830028764904,67
+qdrant_dense_rpc_preencoded,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,4,0.0012280000082682818,20
+qdrant_scroll_all_report_chunks,db,financial_md_chunks,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,4,0.0015164589858613908,67
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.0015769589808769524,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.003118041990092024,121
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.001663625007495284,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.002831499994499609,121
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.0016503749939147383,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.0026660829898901284,121
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,3,0.0016294579836539924,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,3,0.0027681670035235584,121
+qdrant_dense_rpc_preencoded,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,4,0.0015413749788422137,20
+qdrant_scroll_all_report_chunks,db,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,4,0.0026765000075101852,121
+hybrid_search,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.022160541993798688,20
+rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,1.6655702920106705,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,1.6877308340044692,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.023506457975599915,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,1.8213315420143772,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,1.844837999989977,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.026262500003213063,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,1.5938875830033794,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,1.6201500830065925,20
+hybrid_search,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.021930458024144173,20
+rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,2.2136753329832572,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,2.2356057910074014,20
+hybrid_search,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.02609404199756682,20
+rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,1.6649476249876898,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,1.6910416669852566,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.024084750009933487,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,1.7898174170113634,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,1.813902167021297,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.02536633299314417,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,1.5930947499873582,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,1.6184610829805024,20
+hybrid_search,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.02233933299430646,20
+rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,2.222072250006022,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,2.2444115830003284,20
+hybrid_search,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.028719041001750156,20
+rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,1.74931979199755,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,1.7780388329993002,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.02547954101464711,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,1.8305331250012387,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,1.8560126660158858,20
+hybrid_search,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.025012374971993268,20
+rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,1.6006801250041462,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,1.6256924999761395,20
+hybrid_search,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.018140833009965718,20
+rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,2.1626482919964474,20
+hybrid_plus_rerank,cpu,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,2.180789125006413,20
+hybrid_search,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.035574209003243595,20
+rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.8040293749945704,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,0,0.839603583997814,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.02160066700889729,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.8752962079888675,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,0,0.8968968749977648,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.028605666011571884,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.7833066250022966,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,0,0.8119122910138685,20
+hybrid_search,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,0.026174541999353096,20
+rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,1.055274082988035,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,0,1.081448624987388,20
+hybrid_search,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.030472125014057383,20
+rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.8003555410250556,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,1,0.830827666039113,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.02448533399729058,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.8591616659832653,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,1,0.8836469999805558,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.03131787499296479,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.7680139579751994,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,1,0.7993318329681642,20
+hybrid_search,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,0.021685957995941862,20
+rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,1.0467396250169259,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,1,1.0684255830128677,20
+hybrid_search,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.029036207997705787,20
+rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.8128987079835497,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024,2,0.8419349159812555,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.0236360419949051,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.8617971249914262,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024,2,0.8854331669863313,20
+hybrid_search,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.02537399998982437,20
+rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.7783077500062063,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024,2,0.8036817499960307,20
+hybrid_search,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,0.023116709024179727,20
+rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,1.0404411659983452,20
+hybrid_plus_rerank,mps,financial_full_md_chunks_800,Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024,2,1.063557875022525,20

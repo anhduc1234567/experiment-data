@@ -1,0 +1,1 @@
+Tiền và các khoản tương đương tiền cuối kỳ hiện tại (tại ngày 31/12/2024) của TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN là **8.510.613.197 VND** [G1].

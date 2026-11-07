@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) thiếu thông tin về chi phí bán hàng, chi phí quản lý doanh nghiệp và doanh thu thuần trên Báo cáo kết quả hoạt động kinh doanh để có thể đánh giá hiệu quả kiểm soát chi phí [C1], [C2].

@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (tại trang 10, chunk [C1]) chưa nêu cụ thể số năm cho thời gian sử dụng hữu ích ước tính của từng loại tài sản cố định (như máy móc, thiết bị), mà chỉ dẫn chiếu theo phương pháp đường thẳng phù hợp với Thông tư số 45/2013/TT-BTC và Thông tư số 147/2016/TT-BTC của Bộ Tài chính [C1].

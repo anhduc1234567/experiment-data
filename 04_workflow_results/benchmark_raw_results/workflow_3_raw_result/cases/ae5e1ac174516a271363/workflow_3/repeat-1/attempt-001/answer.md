@@ -1,0 +1,1 @@
+Số lượng cổ phiếu đang lưu hành của Tổng Công ty tại ngày 31/12/2024 là 32.418.392 cổ phiếu [N1].

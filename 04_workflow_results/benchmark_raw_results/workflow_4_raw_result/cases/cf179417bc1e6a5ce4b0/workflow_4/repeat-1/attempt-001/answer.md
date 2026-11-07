@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa đủ số liệu về tài sản cố định và tổng tài sản dài hạn tại thời điểm cuối kỳ trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1, C2, C3]. Do đó, không thể tính toán tỷ lệ theo yêu cầu.

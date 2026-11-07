@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu hiện tại không chứa số liệu cụ thể về doanh thu thuần về bán hàng và cung cấp dịch vụ năm 2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2].

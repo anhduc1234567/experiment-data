@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong ngữ cảnh không chứa thông tin về số đầu kỳ, số cuối kỳ và mức biến động của Lợi nhuận sau thuế chưa phân phối trong bảng cân đối kế toán và thuyết minh quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2].

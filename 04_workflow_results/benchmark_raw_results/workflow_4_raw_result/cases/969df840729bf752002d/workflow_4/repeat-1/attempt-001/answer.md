@@ -1,0 +1,1 @@
+Theo thuyết minh Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, tỷ lệ trích lập dự phòng phải thu ngắn hạn khó đòi đối với nhóm nợ quá hạn từ 1 năm đến dưới 2 năm là 50% giá trị của khoản nợ [C2].

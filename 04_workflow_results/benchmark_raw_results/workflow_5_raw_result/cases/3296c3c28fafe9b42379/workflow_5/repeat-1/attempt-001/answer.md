@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, phần thông tin chi tiết về các thành viên Hội đồng quản trị, Ban Kiểm soát, Ban Tổng Giám đốc và Kế toán trưởng trong kỳ bị thiếu trong đoạn trích dẫn (chỉ có tiêu đề mục) [C3], do đó không đủ thông tin để nêu cụ thể về các thay đổi thành viên.

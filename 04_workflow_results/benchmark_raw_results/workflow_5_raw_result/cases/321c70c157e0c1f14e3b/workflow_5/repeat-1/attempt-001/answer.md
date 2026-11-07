@@ -1,0 +1,1 @@
+Số dư chỉ tiêu Tiền và các khoản tương đương tiền hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần tại ngày 31/12/2024 là 8.510.613.197 VND (tại ngày 01/01/2024 là 8.812.382.501 VND) [C2].

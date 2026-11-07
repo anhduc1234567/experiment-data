@@ -1,0 +1,3 @@
+- Tiền trả nợ gốc vay: (303.384.104.022) VND [C1].
+- Vay và nợ thuê tài chính dài hạn: Số cuối quý là 30.390.000.000 VND, số đầu năm là 30.390.000.000 VND [C2].
+- Các chỉ tiêu về số dư nợ vay ngắn hạn, tổng tài sản, vốn chủ sở hữu và chi phí lãi vay không có thông tin trong các bằng chứng được cung cấp.

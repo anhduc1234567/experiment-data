@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, chỉ tiêu lợi nhuận sau thuế chưa phân phối tại thời điểm cuối kỳ là 43.404.961.299 VND (số cuối kỳ) và 54.254.677.312 VND (số đầu năm) [C1].

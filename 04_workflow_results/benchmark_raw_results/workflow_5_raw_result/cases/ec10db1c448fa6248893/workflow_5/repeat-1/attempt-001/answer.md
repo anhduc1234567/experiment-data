@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1]) không chứa số liệu về lợi nhuận sau thuế chưa phân phối tại thời điểm cuối kỳ và đầu năm của Công ty Cổ phần Khoáng sản Bắc Kạn trong Quý 4/2024. Do đó, context thiếu thông tin để trả lời câu hỏi.

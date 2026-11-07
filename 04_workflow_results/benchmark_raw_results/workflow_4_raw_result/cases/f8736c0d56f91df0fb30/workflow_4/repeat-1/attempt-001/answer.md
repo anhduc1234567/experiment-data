@@ -1,0 +1,1 @@
+Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp của cổ đông Công ty mẹ năm 2024 là 365.717.565.199 đồng và năm 2023 là 311.362.639.035 đồng [C1]. Mức tăng trưởng lợi nhuận là: ((365.717.565.199 - 311.362.639.035) / 311.362.639.035) * 100 = 17,46% [C1].

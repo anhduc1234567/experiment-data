@@ -1,0 +1,1 @@
+Nguyên giá tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng tại thời điểm cuối quý là 121.033.583.131 đồng [N1].

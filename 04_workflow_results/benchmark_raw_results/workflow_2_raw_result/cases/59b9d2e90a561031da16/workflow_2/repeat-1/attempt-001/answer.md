@@ -1,0 +1,1 @@
+Phần lợi nhuận phát sinh sau ngày đầu tư của Coats Phong Phu Limited Liability Company (Công ty TNHH Coats Phong Phú) tại thời điểm số cuối quý là 311.747.220.573 VND [N1].

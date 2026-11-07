@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, tài liệu được cung cấp không chứa thông tin về các chi nhánh phụ thuộc, thuyết minh phân đoạn hay thuyết minh về đơn vị phụ thuộc để phân tích sự ảnh hưởng đến cơ cấu quản lý và hiệu quả hoạt động [N1], [N2], [N3], [N4], [N5], [N6]. Do đó, thiếu dữ liệu để trả lời câu hỏi này.

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, phần bằng chứng hiện tại chưa cung cấp đủ thông tin về chỉ tiêu Tổng nợ phải trả tại thời điểm ngày 31 tháng 12 năm 2024 [C2], [C3].

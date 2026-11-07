@@ -1,0 +1,1 @@
+Chi phí trả trước ngắn hạn của Công ty Cổ phần Khoáng sản Bắc Kạn tại thời điểm cuối quý (31/12/2024) là 5.274.966.011 VND và đầu năm là 4.012.022.519 VND [C1]. Mức thay đổi tăng là: 5.274.966.011 - 4.012.022.519 = 1.262.943.492 VND [C1].

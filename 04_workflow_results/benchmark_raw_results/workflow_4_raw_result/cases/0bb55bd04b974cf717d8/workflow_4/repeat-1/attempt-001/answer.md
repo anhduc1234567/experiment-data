@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) không chứa thông tin về số dư Tổng nợ phải trả trên Bảng cân đối kế toán tại thời điểm cuối quý 4 năm 2024 của Tổng Công ty Thiết bị điện Đông Anh.

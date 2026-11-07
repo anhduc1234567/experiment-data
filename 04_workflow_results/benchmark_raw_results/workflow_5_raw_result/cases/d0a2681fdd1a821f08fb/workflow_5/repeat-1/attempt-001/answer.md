@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng công ty Cổ phần Phong Phú không chứa thông tin về ý kiến kiểm toán ngoại trừ [C1], [C2].

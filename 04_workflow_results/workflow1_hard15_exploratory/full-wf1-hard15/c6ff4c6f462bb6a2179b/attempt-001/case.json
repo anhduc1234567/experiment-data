@@ -1,0 +1,11 @@
+{
+  "case_id": "c6ff4c6f462bb6a2179b",
+  "question_number": 279,
+  "question": "Phân tích các yếu tố chính đóng góp vào sự thay đổi của lợi nhuận sau thuế trong năm 2024 so với năm 2023.",
+  "reference": "Lợi nhuận sau thuế năm 2024 tăng đáng kể so với năm 2023. Các yếu tố chính đóng góp vào sự thay đổi này bao gồm:\\n-   **Doanh thu thuần tăng:** Từ 1.749.381.396.637 VND (2023) lên 2.232.677.430.682 VND (2024).\\n-   **Lợi nhuận gộp tăng:** Từ 347.743.961.775 VND (2023) lên 429.149.458.081 VND (2024), cho thấy hiệu quả bán hàng được cải thiện.\\n-   **Phần lãi trong công ty liên doanh, liên kết tăng:** Từ 320.268.114.578 VND (2023) lên 343.707.103.466 VND (2024).\\n-   **Thu nhập khác tăng mạnh:** Từ 124.867.296 VND (2023) lên 8.896.409.053 VND (2024).\\n-   **Lợi nhuận thuần từ hoạt động kinh doanh tăng:** Từ 280.922.762.509 VND (2023) lên 372.039.176.860 VND (2024).\\nNgược lại, **chi phí tài chính** cũng tăng từ 87.735.875.529 VND lên 100.877.952.896 VND và **chi phí quản lý doanh nghiệp** tăng từ 221.824.872.170 VND lên 258.205.156.185 VND, nhưng mức tăng này không đủ để bù đắp cho sự tăng trưởng mạnh mẽ của doanh thu và lợi nhuận gộp, cũng như thu nhập từ các công ty liên kết và thu nhập khác.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0038",
+  "source_file": "phong_phu.md",
+  "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Biến động lợi nhuận"
+}

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại chỉ đề cập đến mục "1. Tiền và các khoản tương đương tiền" tại trang 15 [C1] và "7. Hàng tồn kho" tại trang 10 [C2] thuộc Bản thuyết minh Báo cáo tài chính hợp nhất Quý 4/2024 của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ, nhưng chưa cung cấp số liệu chi tiết về số dư tiền mặt và tiền gửi ngân hàng tại thời điểm cuối kỳ.

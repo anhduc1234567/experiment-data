@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không chứa thông tin thuyết minh về chính sách kế toán và nguyên tắc ghi nhận doanh thu bán hàng và cung cấp dịch vụ trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn. Do đó, phần này đang bị thiếu trong dữ liệu.

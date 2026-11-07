@@ -1,0 +1,3 @@
+Dự phòng giảm giá chứng khoán kinh doanh được lập cho từng loại chứng khoán mua bán trên thị trường có giá trị hợp lý thấp hơn giá gốc [C1]. Giá trị hợp lý của chứng khoán kinh doanh được xác định như sau:
+* Đối với chứng khoán niêm yết: giá đóng cửa tại ngày gần nhất có giao dịch tính đến thời điểm kết thúc năm tài chính [C2].
+* Đối với cổ phiếu đăng ký giao dịch trên UPCOM: giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất trước thời điểm kết thúc năm tài chính do Sở Giao dịch chứng khoán công bố [C2].

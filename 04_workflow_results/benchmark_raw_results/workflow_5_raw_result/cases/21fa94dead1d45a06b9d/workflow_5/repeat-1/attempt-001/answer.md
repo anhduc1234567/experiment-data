@@ -1,0 +1,1 @@
+Các công cụ, dụng cụ đã đưa vào sử dụng được phân bổ vào chi phí theo phương pháp đường thẳng với thời gian phân bổ không quá 03 năm [C2].

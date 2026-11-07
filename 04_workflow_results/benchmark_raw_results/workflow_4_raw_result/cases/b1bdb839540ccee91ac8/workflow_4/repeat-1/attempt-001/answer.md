@@ -1,0 +1,3 @@
+Số liệu chỉ tiêu Tiền và các khoản tương đương tiền (Mã số 110) trên Bảng cân đối kế toán riêng tại ngày 31 tháng 12 năm 2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG như sau:
+- Số cuối năm: 97.964.405.114 VND (trong đó Tiền là 17.964.405.114 VND và Các khoản tương đương tiền là 80.000.000.000 VND) [C2].
+- Số đầu năm: 60.575.342.749 VND (trong đó Tiền là 18.575.342.749 VND và Các khoản tương đương tiền là 42.000.000.000 VND) [C2].

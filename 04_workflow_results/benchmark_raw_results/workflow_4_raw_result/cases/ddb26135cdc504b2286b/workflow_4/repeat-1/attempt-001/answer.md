@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) thiếu số liệu cụ thể về Tổng số Nợ ngắn hạn và Nợ dài hạn tại cuối kỳ để thực hiện việc so sánh tỷ trọng [C1], [C2].

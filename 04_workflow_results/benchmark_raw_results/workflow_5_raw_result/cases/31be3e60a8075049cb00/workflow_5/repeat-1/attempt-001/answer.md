@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các chunk hiện tại (C1) không chứa số liệu về chỉ tiêu chi phí tài chính lũy kế từ đầu năm đến cuối quý 4 năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn. Do đó, không đủ dữ liệu để trả lời câu hỏi này.

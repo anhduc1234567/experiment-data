@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, số tiền thuế thu nhập cá nhân phải nộp cuối kỳ (tại ngày 31/12/2024) là **1.467.873.104 VND** (theo Thuyết minh V.15 - Thuế và các khoản phải nộp Nhà nước) [N2].

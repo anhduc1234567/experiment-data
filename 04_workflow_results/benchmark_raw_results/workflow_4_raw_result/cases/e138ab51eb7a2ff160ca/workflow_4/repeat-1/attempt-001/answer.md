@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần, chi phí dịch vụ mua ngoài là 8.742.651.396 VND (Quý 4 năm 2024) và 17.304.175.457 VND (Năm 2024) [C1]. Tổng chi phí quản lý doanh nghiệp cộng gộp là 30.745.852.163 VND (Quý 4 năm 2024) và 81.097.025.190 VND (Năm 2024) [C1].

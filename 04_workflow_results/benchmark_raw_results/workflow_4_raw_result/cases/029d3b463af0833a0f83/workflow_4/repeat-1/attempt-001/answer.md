@@ -1,0 +1,1 @@
+Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương hoạt động theo Giấy chứng nhận đăng ký doanh nghiệp số 0102005769 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp lần đầu ngày 31 tháng 7 năm 2006 [C1].

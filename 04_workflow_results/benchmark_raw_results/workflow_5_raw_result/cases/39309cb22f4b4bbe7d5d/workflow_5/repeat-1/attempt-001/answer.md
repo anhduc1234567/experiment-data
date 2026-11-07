@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong ngữ cảnh không chứa số liệu về các khoản mục doanh thu hoạt động tài chính trong Báo cáo kết quả kinh doanh và Thuyết minh chi tiết cho năm 2024 và 2023 của Tổng Công ty Cổ phần Phong Phú [C1], [C2]. Do đó, không đủ dữ liệu để so sánh tổng số và xác định loại biến động lớn nhất.

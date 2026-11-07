@@ -1,0 +1,1 @@
+Tại thời điểm cuối quý 4 năm 2024 (ngày cuối kỳ), Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần có giá trị tài sản cố định hữu hình là 303.171.972.863 đồng và tổng tài sản dài hạn là 331.642.211.987 đồng [C1, C2]. Tỷ lệ phần trăm của tài sản cố định hữu hình trên tổng tài sản dài hạn là khoảng 91,41%.

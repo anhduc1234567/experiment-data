@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất quý 4 năm 2024 của Tập đoàn Phong Phú, tài sản cố định vô hình của Tập đoàn chỉ có chương trình phần mềm [C2].

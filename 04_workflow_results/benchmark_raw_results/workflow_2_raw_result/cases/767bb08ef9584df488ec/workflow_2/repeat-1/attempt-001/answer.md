@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, context hiện tại không chứa thông tin hoặc số liệu về sự ổn định thị trường tinh quặng kẽm cũng như thuyết minh làm rõ ảnh hưởng của yếu tố này đến lợi nhuận của công ty [G1], [G2]. Do thiếu dữ liệu, không thể thực hiện việc phân tích tác động theo yêu cầu.

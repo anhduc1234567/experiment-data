@@ -1,0 +1,1 @@
+Việc lập Báo cáo tài chính hợp nhất tuân thủ theo các Chuẩn mực Kế toán Việt Nam đòi hỏi Ban Giám đốc phải đưa ra các ước tính và giả định có ảnh hưởng đến số liệu báo cáo về các khoản tài sản, công nợ, việc trình bày các tài sản và công nợ tiềm tàng tại ngày lập Báo cáo tài chính hợp nhất, cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt quý 4 năm 2024 [N1].

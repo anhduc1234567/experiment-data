@@ -1,0 +1,1 @@
+Tiền lãi, cổ tức và lợi nhuận của các kỳ sau khi chứng khoán kinh doanh được mua được ghi nhận vào doanh thu [N1].

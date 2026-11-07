@@ -1,0 +1,3 @@
+Theo báo cáo, vai trò của Ban Tổng Giám đốc trong việc ngăn chặn gian lận và sai phạm tài chính bao gồm:
+- Thực hiện các biện pháp thích hợp để quản lý tài sản của Công ty nhằm ngăn chặn và phát hiện các hành vi gian lận và các vi phạm khác [N1].
+- Thiết lập và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu nhằm hạn chế rủi ro có sai sót do gian lận hoặc nhầm lẫn trong việc lập và trình bày Báo cáo tài chính [N2].

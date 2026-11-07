@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) thiếu thông tin chi tiết về số liệu tiền và các khoản tương đương tiền tại thời điểm cuối kỳ và đầu năm. Do đó, không có đủ dữ liệu để trả lời câu hỏi.

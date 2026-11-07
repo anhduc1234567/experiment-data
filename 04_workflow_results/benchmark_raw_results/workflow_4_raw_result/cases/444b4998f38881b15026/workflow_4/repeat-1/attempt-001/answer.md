@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương không chứa thông tin cụ thể về kỳ kế toán và năm tài chính [C1], [C2].

@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, số liệu về vay và nợ thuê tài chính dài hạn (Mã số 338, Thuyết minh VI.15b) tại thời điểm cuối quý là 38.742.516.596 VNĐ và đầu năm là 35.067.724.816 VNĐ [C2] (trang 3) [C2].

@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế TNDN của công ty trong quý IV/2024 (Quý IV năm nay) là **29.990.104.893 VNĐ** (được tính bằng Tổng lợi nhuận trước thuế trừ Chi phí thuế TNDN hiện hành và Chi phí thuế TNDN hoãn lại: 37.487.631.116 - 7.497.526.223 = 29.990.104.893 VNĐ) [G1] (Trang 7).

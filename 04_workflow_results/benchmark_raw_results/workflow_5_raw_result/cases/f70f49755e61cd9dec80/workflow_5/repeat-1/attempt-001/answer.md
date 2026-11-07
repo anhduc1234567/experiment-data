@@ -1,0 +1,1 @@
+Ông Hồ Xuân Vinh đã được tái bổ nhiệm làm Thành viên Hội đồng Quản lý (HĐQT) vào ngày 10 tháng 5 năm 2024 [C1].

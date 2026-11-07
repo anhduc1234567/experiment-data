@@ -1,0 +1,1 @@
+Một doanh nghiệp được coi là công ty con của Tập đoàn Phong Phú khi doanh nghiệp đó chịu sự kiểm soát của Công ty mẹ [N1].

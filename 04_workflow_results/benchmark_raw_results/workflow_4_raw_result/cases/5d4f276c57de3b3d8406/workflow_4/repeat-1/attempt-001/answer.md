@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) có đề cập đến mục "13a. Phải trả người bán ngắn hạn" [C2], tuy nhiên các chunk bằng chứng hiện tại không chứa số liệu chi tiết về số dư cuối kỳ của chỉ tiêu này [C2, C3].

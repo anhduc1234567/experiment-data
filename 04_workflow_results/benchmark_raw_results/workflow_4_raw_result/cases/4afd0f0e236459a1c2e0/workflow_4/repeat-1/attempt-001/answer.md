@@ -1,0 +1,1 @@
+Lợi nhuận trước thuế của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – Thái Bình Dương trên Báo cáo lưu chuyển tiền tệ riêng năm nay là (9.805.992.079) VND và năm trước là (48.187.112.561) VND [C1].

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa đầy đủ dữ liệu về số dư khoản phải thu ngắn hạn của khách hàng tại thời điểm cuối quý 4 năm 2024 và đầu năm 2024 [C3]. Do đó, không thể xác định chính xác số liệu theo yêu cầu từ các tài liệu đã truy xuất.

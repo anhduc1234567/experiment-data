@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1]) chỉ chứa thông tin về đặc điểm hoạt động của Công ty Cổ phần Khoáng sản Bắc Kạn trong Thuyết minh báo cáo tài chính Quý IV/2024. Context hiện tại thiếu số liệu về doanh thu, giá vốn hàng bán và lợi nhuận gộp theo yêu cầu của kế hoạch tham khảo.

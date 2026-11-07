@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương) không chứa số liệu về chỉ tiêu chi phí xây dựng cơ bản dở dang trên bảng cân đối kế toán [C1], [C2].

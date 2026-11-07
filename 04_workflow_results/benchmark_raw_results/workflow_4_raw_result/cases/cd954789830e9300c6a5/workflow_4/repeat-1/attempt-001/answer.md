@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, không tìm thấy số liệu về chỉ tiêu "Phải nộp ngân sách nhà nước" tại thời điểm cuối kỳ và đầu kỳ trên Bảng cân đối kế toán hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh.

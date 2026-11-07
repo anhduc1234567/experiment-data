@@ -1,0 +1,1 @@
+Dựa trên Thuyết minh BCTC [N2], tỷ lệ vốn góp của các cổ đông khác nắm giữ tại ngày 31/12/2024 và ngày 01/01/2024 là **53,51%** vốn điều lệ (tính bằng 100% - 46,49% sở hữu bởi Tập đoàn Điện lực Việt Nam). Tỷ lệ này không thay đổi giữa hai thời điểm.

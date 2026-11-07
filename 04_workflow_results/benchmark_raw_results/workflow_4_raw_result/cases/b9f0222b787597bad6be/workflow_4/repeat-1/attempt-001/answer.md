@@ -1,0 +1,1 @@
+Phương pháp xác định giá gốc hàng tồn kho: Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được [C1].

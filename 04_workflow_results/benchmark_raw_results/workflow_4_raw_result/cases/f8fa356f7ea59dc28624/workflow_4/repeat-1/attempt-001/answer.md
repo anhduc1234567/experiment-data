@@ -1,0 +1,4 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần:
+
+- **Chính sách quản lý rủi ro thị trường và rủi ro tài chính:** Rủi ro thị trường gồm 3 loại: rủi ro lãi suất, rủi ro ngoại tệ và rủi ro về giá khác [C2]. Tổng công ty không thực hiện các biện pháp phòng ngừa rủi ro này do thiếu thị trường mua các công cụ tài chính [C2]. Về rủi ro lãi suất, trong kỳ kế toán kết thúc ngày 31/12/2024, Tổng công ty không có rủi ro lãi suất trọng yếu do phần lớn tài sản và nợ phải trả tài chính có lãi suất cố định [C2].
+- **Việc định giá công cụ tài chính:** Tổng công ty chưa đánh giá giá trị hợp lý của tài sản tài chính và công nợ tài chính tại ngày kết thúc niên độ kế toán do Thông tư 210 và các quy định hiện hành chưa có hướng dẫn cụ thể về việc xác định giá trị hợp lý [C3] (trang 24).

@@ -1,0 +1,3 @@
+1. Số dư thuế và các khoản phải nộp nhà nước (bao gồm thuế thu nhập cá nhân) tại thời điểm cuối Quý 4 2024 (31/12/2024) là 23.375.210.141 VND và số đầu năm (01/01/2024) là 18.462.440.744 VND [G1].
+2. Mức biến động tuyệt đối: 23.375.210.141 VND - 18.462.440.744 VND = 4.912.769.397 VND. Mức biến động tương đối: (4.912.769.397 VND / 18.462.440.744 VND) * 100% khoảng 26,61% [G1].
+3. Context không cung cấp thông tin chi tiết riêng cho khoản mục thuế thu nhập cá nhân hay thuyết minh chi tiết cho khoản mục này (chỉ có thông tin về thuế TNDN và các khoản phải trả khác) [N1], [N4], do đó không đủ dữ liệu để phân tích sâu nguyên nhân cụ thể của sự thay đổi.

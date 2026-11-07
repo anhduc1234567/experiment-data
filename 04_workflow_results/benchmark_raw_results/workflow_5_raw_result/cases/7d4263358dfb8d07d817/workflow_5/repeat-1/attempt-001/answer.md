@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo kết quả hoạt động kinh doanh và phần đầu Bảng cân đối kế toán Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương) không chứa số liệu về số dư nợ và vay thuê tài chính ngắn hạn cũng như tổng nguồn vốn hoặc tổng tài sản tại Quý 4/2024 [C1, C2]. Do đó, phần bằng chứng hiện tại thiếu dữ liệu để đánh giá tỷ lệ phụ thuộc.

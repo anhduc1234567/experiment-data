@@ -1,0 +1,1 @@
+Tổng nợ phải trả cuối kỳ (tại ngày 31 tháng 12 năm 2024) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là **778.449.407.564 VND** [G1].

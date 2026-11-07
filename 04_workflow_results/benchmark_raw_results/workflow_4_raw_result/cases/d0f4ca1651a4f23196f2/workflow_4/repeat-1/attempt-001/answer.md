@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất từ Quý 4 năm 2024 của Tổng Công ty Cổ phần Phong Phú [C1] không chứa số liệu về chỉ tiêu "lợi nhuận gộp" mà chỉ đề cập đến "Lợi thế thương mại" tại Mục 12 [C1]. Do đó, context hiện tại thiếu dữ liệu để trả lời số liệu lợi nhuận gộp quý 4 năm 2024.

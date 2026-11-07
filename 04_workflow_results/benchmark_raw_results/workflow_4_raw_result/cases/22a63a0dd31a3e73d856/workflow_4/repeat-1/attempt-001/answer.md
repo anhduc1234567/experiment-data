@@ -1,0 +1,1 @@
+Số dư của chỉ tiêu hàng mua đang đi đường tại thời điểm ngày 31/12/2024 trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh là 48.092.383.847 VND [C1].

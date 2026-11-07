@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, nguyên giá đầu tư vào Công ty Cổ phần Bến xe Nghệ An vào cuối kỳ là **21.570.216.075 VND** [N1].

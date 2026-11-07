@@ -1,0 +1,1 @@
+Số dư quỹ khen thưởng phúc lợi cuối kỳ (tại ngày 31/12/2024) là **13.560.886.743 VND** [G1].

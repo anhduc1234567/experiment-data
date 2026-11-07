@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương chưa đầy đủ và không chứa thông tin chi tiết về ngành nghề kinh doanh chính và lĩnh vực hoạt động của công ty [C1], [C2], [C3].

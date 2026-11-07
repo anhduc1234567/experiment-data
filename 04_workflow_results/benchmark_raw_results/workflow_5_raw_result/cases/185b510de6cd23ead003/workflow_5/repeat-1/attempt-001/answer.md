@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn không chứa thông tin về khoản đầu tư vào Công ty Cổ phần Bến xe Nghệ An [C1, C2, C3].

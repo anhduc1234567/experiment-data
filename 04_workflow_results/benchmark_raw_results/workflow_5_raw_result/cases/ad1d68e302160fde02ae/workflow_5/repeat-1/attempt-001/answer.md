@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu cụ thể về chỉ tiêu lợi nhuận sau thuế thu nhập doanh nghiệp trong Quý 4/2024 và cùng kỳ năm trước để thực hiện so sánh [C1], [C2], [C3].

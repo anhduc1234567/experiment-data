@@ -1,0 +1,1 @@
+- Lưu chuyển tiền thuần trong kỳ (Mã số 50) của Quý 4/2024 (Năm nay): 115.546.375.843 VND [G3] (Trang 8).- Lưu chuyển tiền thuần trong kỳ (Mã số 50) của cùng kỳ năm trước (Quý 4/2023): 22.932.178.435 VND [G3] (Trang 8).- Mức thay đổi tuyệt đối: 115.546.375.843 - 22.932.178.435 = 92.614.197.408 VND.- Tỷ lệ thay đổi: (92.614.197.408 / 22.932.178.435) * 100 = 403,86%.

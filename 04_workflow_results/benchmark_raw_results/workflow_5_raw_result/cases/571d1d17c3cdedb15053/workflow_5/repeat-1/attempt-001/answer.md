@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu về chi phí trả trước ngắn hạn tại thời điểm cuối kỳ và đầu năm của Công ty Cổ phần Khoáng sản Bắc Kạn Quý 4/2024 để tính toán sự thay đổi [C1], [C2].

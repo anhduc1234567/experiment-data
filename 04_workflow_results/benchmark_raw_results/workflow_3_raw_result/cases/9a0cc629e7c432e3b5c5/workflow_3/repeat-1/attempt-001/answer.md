@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu cuối kỳ (tại ngày 31 tháng 12 năm 2024) là 884.244.721.299 VND [G1].

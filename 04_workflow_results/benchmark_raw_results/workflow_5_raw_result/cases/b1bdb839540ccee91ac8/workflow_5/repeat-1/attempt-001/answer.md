@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2]) chưa có dữ liệu chi tiết về số dư tiền và các khoản tương đương tiền cuối kỳ của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG trong Quý 4/2024 do đoạn trích bị thiếu phần số liệu cụ thể tại mục này.

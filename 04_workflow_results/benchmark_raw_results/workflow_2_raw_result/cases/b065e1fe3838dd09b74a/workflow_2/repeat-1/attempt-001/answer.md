@@ -1,0 +1,1 @@
+Giá trị vốn đầu tư của chủ sở hữu (Vốn góp của chủ sở hữu, Mã số 411) cuối kỳ tại ngày 31/12/2024 là **840.839.760.000 VND** [G1].

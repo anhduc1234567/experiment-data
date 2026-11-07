@@ -1,0 +1,1 @@
+Số dư cuối năm 2024 (tại ngày 31/12/2024) của khoản dự phòng bảo hành trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh gồm: Dự phòng bảo hành sản phẩm ngắn hạn là 7.952.244.057 VND và Dự phòng bảo hành sản phẩm dài hạn là 36.917.456.186 VND; tổng cộng là 44.869.700.243 VND [C1] (Trang 18).

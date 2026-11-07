@@ -1,0 +1,1 @@
+Dựa trên các tài liệu đã truy xuất từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, bằng chứng hiện tại không cung cấp đầy đủ số liệu về tổng vốn chủ sở hữu, vốn góp của chủ sở hữu, thặng dư vốn cổ phần và các cấu phần vốn khác từ Bảng cân đối kế toán và Thuyết minh vốn chủ sở hữu [C1], [C2].

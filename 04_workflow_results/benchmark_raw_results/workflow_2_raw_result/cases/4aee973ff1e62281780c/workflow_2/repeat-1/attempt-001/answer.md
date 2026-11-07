@@ -1,0 +1,1 @@
+Chu kỳ sản xuất kinh doanh bình quân của hoạt động chuyển nhượng bất động sản của Công ty thường trên 12 tháng [N1].

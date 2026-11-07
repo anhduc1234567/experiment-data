@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các chunk [C1], [C2], [C3] không chứa số liệu về Tổng nợ phải trả và Vốn chủ sở hữu của Công ty Cổ phần Khoáng sản Bắc Kạn tại thời điểm cuối quý và đầu năm của Báo cáo tài chính Quý 4/2024. Do đó, không đủ dữ liệu để tính toán và so sánh hệ số D/E ratio.

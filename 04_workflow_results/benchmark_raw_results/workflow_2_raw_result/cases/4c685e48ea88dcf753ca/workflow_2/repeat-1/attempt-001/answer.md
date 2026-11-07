@@ -1,0 +1,1 @@
+Tổng số tiền và các khoản tương đương tiền (trong đó chỉ tiêu Tiền mã số 111) tại thời điểm cuối quý IV/2024 (ngày 31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là **143.694.292.293 VND** [G1].

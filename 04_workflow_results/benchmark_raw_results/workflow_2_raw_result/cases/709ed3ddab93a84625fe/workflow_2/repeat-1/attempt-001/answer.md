@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của Công ty cổ phần Đầu tư Châu Á - Thái Bình Dương (Trang 13) [N1], dự phòng tổn thất cho các khoản đầu tư vào công ty con được trích lập khi công ty con bị lỗ. Mức dự phòng được căn cứ vào dự kiến mức tổn thất có thể xảy ra [N1].

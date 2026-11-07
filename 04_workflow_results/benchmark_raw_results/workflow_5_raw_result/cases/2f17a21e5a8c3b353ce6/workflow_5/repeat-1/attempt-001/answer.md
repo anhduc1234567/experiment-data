@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, tài liệu không đề cập đến thông tin cụ thể về họ tên của Tổng Giám đốc tính đến ngày 24 tháng 01 năm 2025 [C1], [C2], [C3].

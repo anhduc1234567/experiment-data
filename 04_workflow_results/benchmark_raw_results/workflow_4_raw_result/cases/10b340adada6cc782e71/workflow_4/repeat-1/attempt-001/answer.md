@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ (Cộng doanh thu bán hàng và cung cấp dịch vụ) hợp nhất của Tổng Công ty Cổ phần Phong Phú cho năm 2024 là 2.238.054.501.804 đồng [C1].

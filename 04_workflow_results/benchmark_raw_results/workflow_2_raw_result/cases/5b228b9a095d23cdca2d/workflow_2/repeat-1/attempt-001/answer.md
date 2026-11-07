@@ -1,0 +1,1 @@
+Hàng tồn kho được ghi nhận theo nguyên tắc giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được [N1].

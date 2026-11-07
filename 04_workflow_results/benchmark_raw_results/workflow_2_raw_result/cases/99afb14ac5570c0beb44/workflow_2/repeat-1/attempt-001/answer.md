@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, thuyết minh "5a. Danh sách Công ty con được hợp nhất" [N1] không cung cấp chi tiết về tỷ lệ lợi ích và tỷ lệ quyền biểu quyết của Công ty Cổ phần Nam Dương Phú. Do thiếu dữ liệu trong context, không thể so sánh hoặc xác định sự khác biệt giữa hai tỷ lệ này.

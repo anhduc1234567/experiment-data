@@ -1,0 +1,1333 @@
+{
+  "created_at": "2026-10-26T15:13:25.213930+00:00",
+  "audit_file": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/structure-audit-source-aware.json",
+  "status": "verified",
+  "reports": [
+    {
+      "file_id": "20260327_-_HPG_-_BCTC_hop_nhat_nam_2025_sau_kiem_toan_1774868465.md",
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính hợp nhất đã được kiểm toán|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 2904,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4029,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 2773,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1996,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 754,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 905,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 2051,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 3199,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 2111,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1661,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "20260429_-_RAL_-_BCTC_tong_hop_Q1.2026_1777868140.md",
+      "report_id": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông|Báo cáo tài chính tổng hợp|Quý 1 2026",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 2874,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4656,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 3564,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 3536,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 1084,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1084,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1831,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2843,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1421,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2229,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "ACB_202607222020ACB2020BCTC20hop20nhat20Quy20220nam202026_23072026085136.md",
+      "report_id": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN Á CHÂU|BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ|Quý 2 2026",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 11,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN",
+          "characters": 2960,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN CỐ ĐỊNH",
+          "characters": 2789,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 2532,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1798,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "CHỈ TIÊU NGOÀI",
+          "characters": 1826,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP LÃI VÀ CÁC KHOẢN",
+          "characters": 2105,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP TỪ HOẠT ĐỘNG KHÁC",
+          "characters": 1871,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "CHI PHÍ THUẾ",
+          "characters": 1576,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 7719,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1682,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 3024,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "BAC.md",
+      "report_id": "Ngân hàng Thương mại Cổ phần Bắc Á|Báo cáo tài chính riêng lẻ giữa niên độ|Bán niên",
+      "status": "verified",
+      "sections": 4,
+      "subsections_verified": 11,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN",
+          "characters": 2951,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN CỐ ĐỊNH",
+          "characters": 3120,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 2537,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 2368,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "CHỈ TIÊU NGOÀI",
+          "characters": 2548,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP LÃI VÀ CÁC KHOẢN",
+          "characters": 2366,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP TỪ HOẠT ĐỘNG KHÁC",
+          "characters": 4156,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "CHI PHÍ THUẾ",
+          "characters": 1435,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 6884,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 3543,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 3402,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "BKC_24Q4.md",
+      "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+      "status": "verified",
+      "sections": 4,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3145,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4691,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 3818,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 3162,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 879,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1055,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 2257,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 4419,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1721,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2297,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "CCS_Baocaotaichinh_2025_Kiemtoan.md",
+      "report_id": "Công ty Cổ phần Chíp Sáng|Báo cáo tài chính|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 1709,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 2712,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1619,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1903,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 564,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 677,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 934,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2253,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 965,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1239,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "CNC_Baocaotaichinh_2024_Kiemtoan.md",
+      "report_id": "Công ty Cổ phần Công nghệ cao Traphaco|Báo cáo tài chính|Năm 2024",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 2033,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 1958,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1097,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1392,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 584,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 467,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1245,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2267,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 809,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1477,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "DPC_Baocaotaichinh_2025_Kiemtoan.md",
+      "report_id": "Công ty Cổ phần Nhựa Đà Nẵng|Báo cáo tài chính|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3451,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4713,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 4605,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 3354,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 749,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 899,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1680,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 1565,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1565,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2799,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "GER_Baocaotaichinh_2025_Kiemtoan.md",
+      "report_id": "Công ty Cổ phần Thể thao Ngôi sao Geru|Báo cáo tài chính tổng hợp đã được kiểm toán|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 1727,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 2270,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1299,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1670,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 719,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 863,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1712,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 1691,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 140,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1660,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "HPG_202607302020HPG2020BCTC20Cong20ty20me20Quy202202620va20giai20trinh_31072026084824.md",
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính riêng|Quý 2/2026",
+      "status": "verified",
+      "sections": 4,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 2930,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 3226,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1637,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1823,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 1205,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1406,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1896,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2414,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 2072,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1910,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "L10_Baocaotaichinh_2025_Kiemtoan.md",
+      "report_id": "Công ty Cổ phần Lilama 10|Báo cáo tài chính đã được kiểm toán|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 1829,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 2276,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 2249,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1876,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 559,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 671,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1412,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2489,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1161,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2342,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "Song_da_72_nam_2024.md",
+      "report_id": "Công ty Cổ phần Sông Đà 7.02|Báo cáo tài chính|Năm 2024",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 1069,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 1932,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1099,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1235,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 435,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 544,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1032,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2417,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 743,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1438,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "VNM_Baocaotaichinh_2025_Kiemtoan_Congtyme.md",
+      "report_id": "Công ty Cổ phần Sữa Việt Nam|Báo cáo tài chính riêng|Năm 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 2306,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 6596,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1623,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1468,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 709,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 851,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1444,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2566,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1909,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2009,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "VNM_Q2_2025.md",
+      "report_id": "Công ty Cổ phần Sữa Việt Nam|Báo cáo tài chính hợp nhất giữa niên độ|Quý 2 2025",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3645,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4420,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 1999,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 2051,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 1399,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1959,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 4668,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 5051,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1527,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 4015,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "dau_tu_APEC.md",
+      "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3519,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4751,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 4285,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 2940,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 879,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1231,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 2574,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2979,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1924,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2163,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "dong_anh.md",
+      "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+      "status": "verified",
+      "sections": 4,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3405,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 5665,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 4320,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 3102,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 1359,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1631,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 2830,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 3867,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1934,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 3339,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "hoaphatbao-cao-tai-chinh-hop-nhat-nam-2024-da-kiem-toan-1.md",
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính hợp nhất|Năm 2024",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3171,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4249,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 2821,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 1615,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 734,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 881,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 3010,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 4731,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1085,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1901,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "phong_phu.md",
+      "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+      "status": "verified",
+      "sections": 5,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3327,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4828,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 3727,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 2681,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 1044,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 1462,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 2206,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 2294,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 2294,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 3450,
+          "status": "ok"
+        }
+      ]
+    },
+    {
+      "file_id": "phucnguyenbctc.md",
+      "report_id": "CÔNG TY CỔ PHẦN MAY VÀ XUẤT NHẬP KHẨU PHÚC NGUYỄN|BẢNG CÂN ĐỐI KẾ TOÁN|Năm 2025",
+      "status": "verified",
+      "sections": 4,
+      "subsections_verified": 10,
+      "checks": [
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN NGẮN HẠN",
+          "characters": 3951,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "TÀI SẢN DÀI HẠN",
+          "characters": 4088,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "NỢ PHẢI TRẢ",
+          "characters": 3338,
+          "status": "ok"
+        },
+        {
+          "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "subsection": "VỐN CHỦ SỞ HỮU",
+          "characters": 2318,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU BÁN HÀNG VÀ CUNG CẤP DỊCH VỤ",
+          "characters": 749,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 899,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH",
+          "subsection": "THU NHẬP KHÁC",
+          "characters": 1942,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+          "characters": 1637,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+          "characters": 1637,
+          "status": "ok"
+        },
+        {
+          "section": "BÁO CÁO LƯU CHUYỂN TIỀN TỆ",
+          "subsection": "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+          "characters": 2192,
+          "status": "ok"
+        }
+      ]
+    }
+  ],
+  "notes_policy": "Section title/pages only in Neo4j; raw text/table/subsections omitted. Qdrant indexing pending.",
+  "verified_reports": 19,
+  "verified_subsections": 192
+}

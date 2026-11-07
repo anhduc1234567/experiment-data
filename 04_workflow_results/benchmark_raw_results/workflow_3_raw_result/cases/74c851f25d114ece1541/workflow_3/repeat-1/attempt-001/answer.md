@@ -1,0 +1,5 @@
+Sự khác biệt trong việc ghi nhận doanh thu giữa các trường hợp dựa trên Thuyết minh Báo cáo tài chính như sau:
+
+* **Bán hàng hóa:** Doanh thu chỉ được ghi nhận khi các điều kiện cụ thể không còn tồn tại và người mua không được quyền trả lại hàng hóa, sản phẩm (trừ trường hợp đổi lấy hàng hóa, dịch vụ khác); Tập đoàn đã hoặc sẽ thu được lợi ích kinh tế từ giao dịch; và xác định được chi phí liên quan [N1].
+* **Cung cấp dịch vụ:** Được ghi nhận khi đồng thời thỏa mãn các điều kiện là doanh thu được xác định tương đối chắc chắn. Trường hợp hợp đồng quy định người mua được quyền trả lại dịch vụ đã mua theo những điều kiện cụ thể, doanh thu chỉ được ghi nhận khi những điều kiện cụ thể đó không còn [N1].
+* **Bán bất động sản:** Tập đoàn là chủ đầu tư và doanh thu được ghi nhận khi thỏa mãn đồng thời các điều kiện: bất động sản đã hoàn thành toàn bộ và bàn giao cho người mua, đã chuyển giao rủi ro và lợi ích gắn liền với quyền sở hữu; không còn nắm giữ quyền quản lý như người sở hữu hoặc quyền kiểm soát bất động sản; doanh thu xác định tương đối chắc chắn; đã hoặc sẽ thu được lợi ích kinh tế; và xác định được chi phí liên quan [N2].

@@ -1,0 +1,1 @@
+Tổng Công ty thực hiện các biện pháp để giảm thiểu rủi ro tín dụng bằng cách đưa ra các chính sách tín dụng phù hợp, đồng thời thường xuyên theo dõi tình hình để đánh giá xem Tổng Công ty có chịu rủi ro tín dụng hay không [N2].

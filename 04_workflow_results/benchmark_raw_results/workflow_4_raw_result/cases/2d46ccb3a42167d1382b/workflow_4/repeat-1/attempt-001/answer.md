@@ -1,0 +1,1 @@
+Số dư khoản phải thu khách hàng tại cuối quý 4/2024 đối với Công ty cổ phần kim loại màu Bắc Bộ là 11.946.876.150 đồng [C1].

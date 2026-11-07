@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh không chứa thông tin hoặc số liệu về chỉ tiêu dự phòng bảo hành sản phẩm cuối năm 2024 [C1], [C2].

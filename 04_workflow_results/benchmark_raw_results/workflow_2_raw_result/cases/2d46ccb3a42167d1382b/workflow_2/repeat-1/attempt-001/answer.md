@@ -1,0 +1,1 @@
+Khoản phải thu từ Công ty Cổ phần Kim loại màu Bắc Bộ cuối quý (31/12/2024) là 11.946.876.150 VND [N1].

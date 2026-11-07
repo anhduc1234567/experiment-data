@@ -1,0 +1,1 @@
+Trong năm 2024, Tổng Công ty Thiết bị điện Đông Anh áp dụng thuế suất thuế thu nhập doanh nghiệp (TNDN) bằng 20% lợi nhuận thu được từ tất cả các hoạt động kinh doanh [C1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa bảng đối chiếu biến động vốn chủ sở hữu và thuyết minh liên quan để phân tích sự thay đổi các thành phần vốn chủ sở hữu của Công ty Cổ phần Khoáng sản Bắc Kạn trong Quý 4/2024 [C1], [C2].

@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ lũy kế năm 2024 (lũy kế từ đầu năm đến cuối quý này Năm nay) là 2.248.612.114.714 VND [G1] (trang 6).

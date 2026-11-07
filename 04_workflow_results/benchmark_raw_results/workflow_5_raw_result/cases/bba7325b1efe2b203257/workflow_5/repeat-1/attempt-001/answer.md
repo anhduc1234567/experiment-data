@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, hiện tại **không có thông tin** hoặc bằng chứng nào đề cập đến hệ thống kiểm soát nội bộ và trách nhiệm của Ban Giám đốc/Ban Tổng Giám đốc trong việc lập và trình bày báo cáo tài chính trung thực, hợp lý [C1], [C2], [C3].

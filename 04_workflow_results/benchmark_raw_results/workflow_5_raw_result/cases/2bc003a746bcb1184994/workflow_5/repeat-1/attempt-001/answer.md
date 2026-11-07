@@ -1,0 +1,1 @@
+Chi phí xây dựng cơ bản dở dang dài hạn hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần tại thời điểm ngày 31/12/2024 là 11.684.848.322 VND và tại ngày 01/01/2024 là 67.294.629.333 VND [C1].

@@ -1,0 +1,1 @@
+Tổng tiền mặt và tiền gửi không kỳ hạn tại ngân hàng (chỉ tiêu Tiền, Mã số 111) của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần tại thời điểm cuối năm (31/12/2024) là **8.510.613.197 VND** [G1].

@@ -1,0 +1,1 @@
+Giá trị hàng mua đang đi đường cuối năm 2024 (tại ngày 31/12/2024) là 48.092.383.847 VND [N1] (trang Thuyết minh báo cáo tài chính).

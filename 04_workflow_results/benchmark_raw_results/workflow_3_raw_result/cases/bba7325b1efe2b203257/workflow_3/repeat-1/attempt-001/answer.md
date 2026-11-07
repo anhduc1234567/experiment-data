@@ -1,0 +1,1 @@
+Ban Tổng Giám đốc có trách nhiệm thiết lập và thực hiện hệ thống kiểm soát nội bộ một cách hữu hiệu nhằm hạn chế rủi ro có sai sót trong yêu cầu do gian lận hoặc nhân lên trong việc lập và trình bày Báo cáo tài chính [N1].

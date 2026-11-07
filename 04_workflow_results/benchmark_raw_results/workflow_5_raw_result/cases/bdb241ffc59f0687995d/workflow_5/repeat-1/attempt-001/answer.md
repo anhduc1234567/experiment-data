@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã truy xuất trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, tài liệu hiện không chứa thông tin cụ thể về số liệu vốn điều lệ của công ty.

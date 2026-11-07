@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2] không chứa đủ thông tin chi tiết về tài sản cố định vô hình và tài sản thuê tài chính để thực hiện việc đánh giá hiệu quả quản lý theo yêu cầu.

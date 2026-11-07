@@ -1,0 +1,1 @@
+Tại thời điểm cuối năm Quý 4/2024, Tổng tài sản dài hạn (Mã số 200) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là 678.363.404.324 đồng (số đầu năm là 861.079.208.636 đồng) [C1].

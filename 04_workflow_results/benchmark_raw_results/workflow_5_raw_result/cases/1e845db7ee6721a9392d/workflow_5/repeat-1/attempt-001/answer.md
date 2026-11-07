@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp, không tìm thấy số liệu cụ thể cho chỉ tiêu "Lưu chuyển tiền tệ thuần từ hoạt động kinh doanh" cho năm 2024 từ Báo cáo lưu chuyển tiền tệ trong BCTC Quý 4/2024 của Tổng công ty Cổ phần Phong Phú [C1].

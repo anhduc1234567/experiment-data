@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C2]) thiếu dữ liệu chi tiết về các khoản giảm trừ doanh thu, doanh thu thuần, giá vốn hàng bán và lợi nhuận gộp. Do đó, không đủ cơ sở để nêu số liệu, tính toán hay phân tích tác động theo yêu cầu.

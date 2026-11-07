@@ -1,0 +1,1 @@
+Vốn đầu tư của chủ sở hữu tại thời điểm cuối kỳ là 840.839.760.000 đồng [C1].

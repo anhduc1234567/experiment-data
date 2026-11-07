@@ -1,0 +1,1 @@
+Dựa trên bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa bảng Thuyết minh chi tiết tình hình tăng giảm tài sản cố định hữu hình và vô hình trong năm tài chính [C1]. Do đó, không đủ thông tin để xác định khoản mục nào có mức tăng nguyên giá lớn nhất.

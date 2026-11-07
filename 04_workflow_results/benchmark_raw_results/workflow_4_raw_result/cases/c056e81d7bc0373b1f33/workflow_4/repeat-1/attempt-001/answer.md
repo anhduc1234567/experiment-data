@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp, Bảng cân đối kế toán tại Quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn ([C2]) chỉ cung cấp số liệu về Tài sản ngắn hạn là 285.416.829.838 VND tại ngày 31 tháng 12 năm 2024 [C1]. Bằng chứng hiện tại thiếu dữ liệu về giá trị tài sản cố định hữu hình và tổng tài sản dài hạn, do đó không thể tính tỷ trọng theo yêu cầu.

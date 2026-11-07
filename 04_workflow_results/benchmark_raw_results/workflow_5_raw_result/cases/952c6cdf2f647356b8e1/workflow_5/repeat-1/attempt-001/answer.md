@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, bằng chứng cung cấp không chứa chỉ tiêu lợi nhuận gộp mà chỉ có thông tin về Lợi nhuận trước thuế [C1], [C2]. Do đó, context thiếu thông tin để trả lời về lợi nhuận gộp.

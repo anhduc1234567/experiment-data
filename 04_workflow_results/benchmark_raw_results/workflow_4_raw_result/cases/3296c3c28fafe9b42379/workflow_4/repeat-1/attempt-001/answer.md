@@ -1,0 +1,1 @@
+Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG có đề cập đến phần "Hội đồng quản trị và Ban điều hành, quản lý" [C1, C3], tuy nhiên các bằng chứng hiện tại (chunk 1, 2, 3) chưa cung cấp đầy đủ danh sách chi tiết các thành viên Hội đồng quản trị để đánh giá sự thay đổi và tính ổn định của ban lãnh đạo.

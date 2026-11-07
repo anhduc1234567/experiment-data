@@ -1,0 +1,1 @@
+Giá vốn hàng bán năm 2024 (lũy kế từ đầu năm đến cuối quý này Năm nay) của TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN là **1.916.592.138.721 VND** (Quý 4 năm nay là 1.049.809.869.253 VND) [G1] (Trang 6).

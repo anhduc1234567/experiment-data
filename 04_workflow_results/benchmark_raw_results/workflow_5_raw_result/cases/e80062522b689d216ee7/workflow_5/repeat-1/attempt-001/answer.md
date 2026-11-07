@@ -1,0 +1,1 @@
+Chỉ tiêu Phải trả ngắn hạn khác của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần tại thời điểm cuối năm 2024 (Quý 4 2024) theo Báo cáo tài chính hợp nhất là 45.988.189.917 đồng (số đầu năm là 16.551.178.536 đồng) [C1].

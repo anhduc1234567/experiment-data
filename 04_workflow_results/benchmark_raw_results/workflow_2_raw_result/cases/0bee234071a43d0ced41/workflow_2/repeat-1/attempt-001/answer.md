@@ -1,0 +1,1 @@
+Tổng chi phí tài chính lũy kế năm 2024 của Tổng Công ty Cổ phần Phong Phú là **100.877.952.896 VND** [G1] (Trang 5).

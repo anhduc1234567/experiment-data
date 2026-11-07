@@ -1,0 +1,1 @@
+Tại thời điểm cuối Quý 4/2024, các khoản thuế và các khoản phải nộp nhà nước của Công ty Cổ phần Khoáng sản Bắc Kạn đối với Thuế GTGT phải nộp và Thuế Nhập khẩu đều có số thuế còn phải nộp cuối kỳ là `-` (không phát sinh số phải nộp cuối kỳ) [C1].

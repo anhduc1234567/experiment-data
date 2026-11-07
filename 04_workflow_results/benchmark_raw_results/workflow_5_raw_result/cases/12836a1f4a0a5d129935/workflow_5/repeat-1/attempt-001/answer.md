@@ -1,0 +1,1 @@
+Bằng chứng hiện tại từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn không cung cấp đầy đủ số liệu về chỉ tiêu chi phí trả trước ngắn hạn trên Bảng cân đối kế toán cũng như các khoản mục dòng tiền từ hoạt động kinh doanh liên quan trên Báo cáo lưu chuyển tiền tệ [C1], [C2].

@@ -1,0 +1,11 @@
+{
+  "case_id": "f5b3e43b218fe094d6d3",
+  "question_number": 467,
+  "question": "Đánh giá hiệu quả quản lý chi phí của công ty thông qua việc phân tích chi phí bán hàng và chi phí quản lý doanh nghiệp.",
+  "reference": "Trong năm 2024, tổng doanh thu bán hàng và cung cấp dịch vụ tăng khoảng 28.99% so với năm 2023 (từ 439.951.065.783 VND lên 567.481.233.266 VND).\\n- **Chi phí bán hàng:** Tăng từ 2.789.541.716 VND (2023) lên 3.056.796.798 VND (2024), tăng khoảng 9.58%. Mức tăng chi phí bán hàng thấp hơn nhiều so với tốc độ tăng doanh thu cho thấy công ty đang quản lý chi phí bán hàng khá hiệu quả, hoặc có những thay đổi trong kênh phân phối hoặc chiến lược bán hàng giúp giảm tỷ lệ chi phí này trên doanh thu.\\n- **Chi phí quản lý doanh nghiệp:** Tăng từ 13.995.577.833 VND (2023) lên 16.357.674.035 VND (2024), tăng khoảng 16.88%. Mức tăng này cũng thấp hơn tốc độ tăng doanh thu, cho thấy công ty có khả năng kiểm soát tốt các chi phí hành chính và quản lý chung trong bối cảnh hoạt động mở rộng.\\n\\nNhìn chung, việc chi phí bán hàng và chi phí quản lý doanh nghiệp tăng với tốc độ chậm hơn đáng kể so với tốc độ tăng doanh thu là một dấu hiệu tích cực, phản ánh hiệu quả trong công tác quản lý chi phí và khả năng tận dụng quy mô (economy of scale) của công ty.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0063",
+  "source_file": "backan.md",
+  "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Hiệu quả chi phí"
+}

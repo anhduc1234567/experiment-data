@@ -1,0 +1,1 @@
+Ban Tổng Giám đốc cam kết đã tuân thủ các yêu cầu trong việc lập Báo cáo tài chính riêng và khẳng định Báo cáo tài chính riêng đã phản ánh trung thực, hợp lý tình hình tài chính của Công ty tại ngày 31/12/2024 cũng như kết quả hoạt động kinh doanh, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam và các quy định pháp lý liên quan [C1, Trang 2].

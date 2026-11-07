@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn (chunk [C1]) không chứa số liệu về tài sản cố định hữu hình, tổng tài sản dài hạn hay bảng cân đối kế toán để tính tỷ trọng. Do đó, context thiếu thông tin để chứng minh kết luận này.

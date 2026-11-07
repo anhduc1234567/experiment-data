@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (Quý 4/2024 của Tổng công ty Cổ phần Phong Phú [C2]) chưa đầy đủ để xác định số liệu cụ thể về lưu chuyển tiền thuần từ hoạt động kinh doanh và các chỉ tiêu tài chính liên quan cho cả năm 2024 do dữ liệu bị ngắt quãng [C1, C2].

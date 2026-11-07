@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng tại mục "Bảng đối chiếu biến động của vốn chủ sở hữu" [C1] bị cắt cụt và thiếu số liệu chi tiết để xác định chính xác số dư vốn chủ sở hữu cuối quý IV/2024.

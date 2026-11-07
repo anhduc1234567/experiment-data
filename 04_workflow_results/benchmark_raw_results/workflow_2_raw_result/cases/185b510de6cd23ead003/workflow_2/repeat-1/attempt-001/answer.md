@@ -1,0 +1,1 @@
+Nguyên giá đầu tư vào Công ty Cổ phần Bến xe Nghệ An tại cuối kỳ (Quý 4/2024) là 21.570.216.075 VND [N4].

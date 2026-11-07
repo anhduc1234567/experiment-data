@@ -1,0 +1,4 @@
+- Nợ dài hạn cuối kỳ (Mã số 330): 211.455.297.112 VND [G1]
+- Tổng nợ phải trả cuối kỳ (Mã số 300): 778.449.407.564 VND [G1]
+- Phép tính tỷ lệ nợ dài hạn trên tổng nợ phải trả cuối kỳ: (211.455.297.112 / 778.449.407.564) * 100 = 27,16%
+- Tỷ lệ nợ dài hạn trên tổng nợ phải trả cuối kỳ là 27,16%.

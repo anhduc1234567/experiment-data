@@ -1,0 +1,1 @@
+Tỷ lệ vốn góp của các cổ đông khác tại ngày 31/12/2024 và ngày 01/01/2024 đều là 53,51% vốn điều lệ (tương ứng với số vốn 173.850.160.000 VND) [N2]. So sánh giữa hai mốc thời gian, tỷ lệ vốn góp của các cổ đông khác không có sự biến động (giữ nguyên ở mức 53,51%) [N2].

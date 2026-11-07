@@ -1,0 +1,1 @@
+Trong năm 2024, Công ty Cổ phần Khoáng sản Bắc Kạn không có giao dịch nào có giá trị từ 35% tổng tài sản trở lên [C2]. Bằng chứng không cung cấp số liệu cụ thể về tổng tài sản năm 2024 [C1, C2].

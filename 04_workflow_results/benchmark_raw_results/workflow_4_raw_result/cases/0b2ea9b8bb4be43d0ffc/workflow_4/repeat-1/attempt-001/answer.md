@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu (chunk [C1], [C2], [C3], [C4]) chưa bao gồm số liệu chi tiết về khoản vay và nợ thuê tài chính ngắn hạn và dài hạn trên Báo cáo tình hình tài chính hợp nhất cũng như Thuyết minh các khoản vay tại Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh.

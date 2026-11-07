@@ -1,0 +1,1 @@
+Dựa trên ngữ cảnh được cung cấp, không có thông tin về ý kiến kiểm toán đối với Báo cáo tài chính năm 2024 của Tổng công ty Cổ phần Phong Phú [N1].

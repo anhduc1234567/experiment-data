@@ -1,0 +1,1 @@
+Mối quan hệ giữa các khoản tăng/giảm dự phòng nợ phải thu khó đòi và chi phí quản lý doanh nghiệp là: Tăng hoặc giảm số dư tài khoản dự phòng nợ phải thu khó đòi được hạch toán trực tiếp vào chi phí quản lý doanh nghiệp trên Báo cáo kết quả hoạt động kinh doanh [N1, N4].

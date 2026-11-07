@@ -1,0 +1,1 @@
+Tại thời điểm ngày 31/12/2024, số dư các khoản phải thu ngắn hạn của khách hàng hợp nhất là 855.094.953.808 VND, trong đó phải thu từ các bên liên quan là 603.687.756.541 VND và phải thu từ bên thứ 3 là 251.407.197.267 VND [C1].

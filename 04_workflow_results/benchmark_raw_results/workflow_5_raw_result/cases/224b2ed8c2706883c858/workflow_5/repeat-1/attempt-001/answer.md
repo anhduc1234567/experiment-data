@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp chưa chứa thông tin chi tiết về việc phân phối lợi nhuận, cổ tức đã chia, trích lập các quỹ và toàn bộ sự biến động của vốn chủ sở hữu trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú (mục 22 về Vốn chủ sở hữu chưa được thể hiện đầy đủ nội dung bảng biến động trong phần bằng chứng) [C4].

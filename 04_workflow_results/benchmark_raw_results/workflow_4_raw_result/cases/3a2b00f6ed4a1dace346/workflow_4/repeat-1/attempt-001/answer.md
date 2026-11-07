@@ -1,0 +1,1 @@
+Tại ngày 31 tháng 12 năm 2024, chỉ tiêu Tiền và các khoản tương đương tiền (Mã số 110) hợp nhất của Tổng Công ty Cổ phần Phong Phú là 123.381.740.914 VND (trong đó Tiền là 72.781.740.914 VND và Các khoản tương đương tiền không được hiển thị đầy đủ trong đoạn trích), tăng so với số đầu năm là 74.073.059.413 VND [C2].

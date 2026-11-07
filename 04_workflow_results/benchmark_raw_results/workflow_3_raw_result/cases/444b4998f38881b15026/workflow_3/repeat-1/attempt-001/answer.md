@@ -1,0 +1,1 @@
+Dữ liệu trong context không cung cấp thông tin về kỳ kế toán (từ ngày nào đến ngày nào) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương.

@@ -1,0 +1,4 @@
+Theo Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, các thuyết minh về chính sách kế toán đối với doanh thu bao gồm:
+
+- **Doanh thu cung cấp dịch vụ**: Được ghi nhận khi thỏa mãn các điều kiện như xác định tương đối chắc chắn, Tập đoàn đã hoặc sẽ thu được lợi ích kinh tế, xác định được phần công việc đã hoàn thành và chi phí phát sinh cho giao dịch [C1]. Doanh thu ghi nhận trong kỳ được căn cứ vào kết quả phần công việc đã hoàn thành vào ngày kết thúc kỳ kế toán [C2].
+- **Doanh thu bán bất động sản** (mà Tập đoàn là chủ đầu tư): Được ghi nhận khi bất động sản đã hoàn thành toàn bộ và bàn giao, đã chuyển giao rủi ro và lợi ích gắn liền với quyền sở hữu, không còn nắm giữ quyền quản lý hoặc kiểm soát, doanh thu xác định tương đối chắc chắn, thu được hoặc sẽ thu được lợi ích kinh tế, và xác định được chi phí liên quan [C2].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2]) không chứa số liệu chi tiết về chỉ tiêu Lưu chuyển tiền thuần từ hoạt động kinh doanh cho năm 2024 do đoạn bảng bị ngắt quãng.

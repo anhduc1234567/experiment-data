@@ -1,0 +1,3 @@
+Chi phí xây dựng cơ bản dở dang **không được khấu hao** [N4].
+
+**Tại sao:** Theo thuyết minh Báo cáo tài chính, chi phí xây dựng cơ bản dở dang phản ánh các chi phí liên quan trực tiếp đến các tài sản đang trong quá trình xây dựng, máy móc thiết bị đang lắp đặt để phục vụ cho mục đích sản xuất, cho thuê và quản lý cũng như chi phí liên quan đến việc sửa chữa tài sản cố định đang thực hiện; các tài sản này được ghi nhận theo giá gốc và **không được tính khấu hao** [N4].

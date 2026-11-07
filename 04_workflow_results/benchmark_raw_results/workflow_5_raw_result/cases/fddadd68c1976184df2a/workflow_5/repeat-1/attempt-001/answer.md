@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, bằng chứng đã cung cấp (Thuyết minh số 12 về Lợi thế thương mại) chỉ thể hiện các số liệu về nguyên giá, số đã phân bổ và giá trị còn lại của lợi thế thương mại mà không nêu thông tin chi tiết về **phương pháp phân bổ** và **thời gian phân bổ** [C1].

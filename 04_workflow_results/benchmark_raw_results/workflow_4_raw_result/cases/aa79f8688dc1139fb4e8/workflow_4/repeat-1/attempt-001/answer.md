@@ -1,0 +1,4 @@
+Trên Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần:
+- **Chi phí lãi vay**: Quý 4 năm 2024 là 8.926.027.902 VND, Quý 4 năm 2023 là 9.005.664.747 VND; lũy kế năm 2024 là 27.525.674.895 VND, năm 2023 là 41.020.668.470 VND [C2, C3].
+- **Chi phí tài chính tổng thể** (Cộng chi phí lãi vay và chi phí khác): Quý 4 năm 2024 là 13.215.398.909 VND, Quý 4 năm 2023 là 10.134.193.488 VND; lũy kế năm 2024 là 34.073.782.949 VND, năm 2023 là 46.601.186.849 VND [C3].
+- **Khả năng sinh lời**: Context cung cấp thiếu dữ liệu về các chỉ tiêu khả năng sinh lời trên Báo cáo kết quả hoạt động kinh doanh hợp nhất Quý 4 2024.

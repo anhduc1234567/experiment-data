@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong tài liệu không chứa thông tin về số dư cuối kỳ của khoản người mua trả tiền trước ngắn hạn từ bên liên quan là Tập đoàn Dệt May Việt Nam (chỉ có thông tin về phải trả ngắn hạn khác cho Tập đoàn Dệt may Việt Nam tại [C1]). Do đó, context thiếu dữ liệu để trả lời câu hỏi này.

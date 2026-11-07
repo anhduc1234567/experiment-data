@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp chỉ chứa thông tin về thuế và các khoản phải nộp Nhà nước [C1] cùng với các khoản phải thu ngắn hạn/dài hạn khác [C2], nhưng hoàn toàn thiếu thông tin về số dư, chi tiết thuyết minh, giải thích hoặc biện pháp quản lý rủi ro liên quan đến "Các khoản phải trả ngắn hạn khác" trên Báo cáo tài chính Quý 4/2024 của Tổng công ty Cổ phần Phong Phú.

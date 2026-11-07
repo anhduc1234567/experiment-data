@@ -1,0 +1,1 @@
+Báo cáo tài chính hợp nhất được lập trên cơ sở kế toán dồn tích (trừ các thông tin liên quan đến các luồng tiền) [N1].

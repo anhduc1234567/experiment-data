@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại [C1] chỉ nêu định nghĩa và cách trình bày của tài sản cố định hữu hình, nhưng không chứa số liệu cụ thể về nguyên giá, giá trị hao mòn lũy kế hay giá trị thuần tại thời điểm đầu kỳ và cuối kỳ trên BCTC hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh [C1].

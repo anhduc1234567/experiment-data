@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các đoạn trích không chứa thông tin về thuyết minh chính sách kế toán áp dụng cho các khoản phải thu ngắn hạn và dài hạn để biết phương pháp ghi nhận theo giá trị nào [C1], [C2], [C3].

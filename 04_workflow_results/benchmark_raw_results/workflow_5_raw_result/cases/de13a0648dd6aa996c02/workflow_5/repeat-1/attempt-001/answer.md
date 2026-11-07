@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) chưa chứa thông tin chi tiết về chính sách kế toán chi phí đi vay, điều kiện vốn hóa và thời điểm vốn hóa chi phí đi vay vào nguyên giá tài sản dở dang hoặc tài sản đủ điều kiện trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh.

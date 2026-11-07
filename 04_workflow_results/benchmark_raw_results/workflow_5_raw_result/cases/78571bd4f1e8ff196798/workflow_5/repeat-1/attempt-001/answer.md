@@ -1,0 +1,1 @@
+Vốn chủ sở hữu hợp nhất (Mã số 400) cuối kỳ của Tổng Công ty Thiết bị Điện Đông Anh Quý 4 2024 là 630.248.222.611 đồng, và đầu năm là 559.357.925.770 đồng [C1].

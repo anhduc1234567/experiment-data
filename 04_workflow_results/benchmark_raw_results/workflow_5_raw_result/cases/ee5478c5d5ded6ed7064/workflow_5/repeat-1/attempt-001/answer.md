@@ -1,0 +1,1 @@
+Bằng chứng cung cấp không chứa thông tin chi tiết về các khoản phải thu khách hàng lớn và thuyết minh trích lập dự phòng rủi ro tín dụng tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2], [C3].

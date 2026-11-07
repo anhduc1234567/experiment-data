@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về số dư đầu kỳ và cuối kỳ của khoản phải nộp ngân sách nhà nước trong Bảng cân đối kế toán hợp nhất Quý 4 năm 2024.

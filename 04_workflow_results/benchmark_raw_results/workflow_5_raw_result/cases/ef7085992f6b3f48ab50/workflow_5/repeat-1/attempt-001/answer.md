@@ -1,0 +1,1 @@
+Các khoản đầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn mà Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư [C1]. Tuy nhiên, bằng chứng được cung cấp không đầy đủ để mô tả chi tiết về phương pháp xác định giá trị hợp lý và nguyên tắc trích lập dự phòng cụ thể cho nhóm khoản đầu tư này.

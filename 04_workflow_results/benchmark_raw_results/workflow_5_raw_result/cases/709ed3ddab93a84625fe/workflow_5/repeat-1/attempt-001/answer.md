@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất từ Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương ghi nhận số liệu dự phòng đầu tư vào công ty con tại ngày kết thúc năm tài chính được ghi nhận vào chi phí tài chính [C1, C2], nhưng văn bản chưa cung cấp đầy đủ chi tiết về phương pháp tính cụ thể.

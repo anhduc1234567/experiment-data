@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ của Công ty Cổ phần Khoáng sản Bắc Kạn trong quý IV/2024 là 238.639.874.106 đồng, tăng 58.093.726.699 đồng so với mức 180.546.147.407 đồng của quý IV/2023 [C2].

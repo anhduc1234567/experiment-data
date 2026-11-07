@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư (lũy kế từ đầu năm đến cuối quý này) năm nay là -85.025.437.582 VND, năm trước là -72.183.863.396 VND [G1]. So sánh với năm trước, lưu chuyển tiền thuần từ hoạt động đầu tư năm nay giảm 12.841.574.186 VND (từ -72.183.863.396 VND xuống -85.025.437.582 VND) [G1].

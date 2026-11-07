@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh, lợi nhuận sau thuế chưa phân phối của công ty đạt 213.498.607.796 đồng [C1]. Về việc phân phối cổ tức, tiền cổ tức và lợi nhuận đã trả cho chủ sở hữu trong kỳ là -34.428.337.250 đồng [C2].

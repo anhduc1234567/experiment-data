@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk [C1] và [C2]) chưa đầy đủ chi tiết các khoản mục cụ thể trong chi phí quản lý doanh nghiệp năm 2023 và 2024 để thực hiện so sánh mức giảm theo yêu cầu.

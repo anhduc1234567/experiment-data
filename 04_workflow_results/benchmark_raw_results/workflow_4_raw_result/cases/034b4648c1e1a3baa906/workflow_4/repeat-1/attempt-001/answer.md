@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, các khoản mục cấu thành giá gốc của chi phí sản xuất kinh doanh dở dang đối với các dự án bất động sản bao gồm các chi phí thuê nhà thầu thực hiện các hạng mục của dự án bất động sản và các chi phí có liên quan trực tiếp khác [C3].

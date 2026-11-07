@@ -1,0 +1,1 @@
+Dựa trên ngữ cảnh được cung cấp [N1], không có thông tin chi tiết về tỷ lệ lập dự phòng cho các khoản nợ quá hạn từ 1 năm đến dưới 2 năm.

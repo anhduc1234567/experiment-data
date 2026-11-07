@@ -1,0 +1,11 @@
+{
+  "case_id": "ee5478c5d5ded6ed7064",
+  "question_number": 443,
+  "question": "Đánh giá rủi ro tín dụng đối với các khoản phải thu khách hàng lớn của công ty.",
+  "reference": "Các khoản phải thu khách hàng lớn cuối quý bao gồm: Công ty Cổ phần Kim loại màu Bắc Bộ (11.946.876.150 VND), Công ty TNHH Thương mại Quốc tế Vũ Hoàng (15.816.269.175 VND), Công ty Hợp tác Thương mại Quốc tế NANNING MINGFEENG (4.362.942.630 VND). Đặc biệt, Công ty Cổ phần Kim loại màu Bắc Bộ có khoản phải thu giảm đáng kể từ 37.446.876.150 VND xuống 11.946.876.150 VND, cho thấy khả năng thu hồi nợ tốt. Tuy nhiên, Công ty TNHH Thương mại TTHD 869 không còn khoản phải thu nào cuối kỳ so với 5.867.456.870 VND đầu năm, cho thấy đã thu hồi hết. Công ty TNHH Thương mại Quốc tế Vũ Hoàng xuất hiện khoản phải thu mới khá lớn cuối kỳ. Rủi ro tín dụng tồn tại ở bất kỳ khoản phải thu nào, đặc biệt với các khách hàng có khoản phải thu lớn. Tuy nhiên, không có dự phòng cụ thể cho các khoản này trong bảng V.2.1. Các khoản phải thu khách hàng, điều này ngụ ý rằng công ty đánh giá các khoản này có khả năng thu hồi cao. Mặc dù vậy, sự tập trung khoản phải thu vào một số khách hàng lớn luôn tiềm ẩn rủi ro nếu có bất kỳ vấn đề nào với khả năng thanh toán của các khách hàng này.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0060",
+  "source_file": "backan.md",
+  "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Rủi ro tín dụng"
+}

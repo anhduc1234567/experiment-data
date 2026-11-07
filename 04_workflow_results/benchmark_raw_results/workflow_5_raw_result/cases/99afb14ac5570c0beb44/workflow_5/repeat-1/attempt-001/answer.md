@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất ([C1], [C2], [C3]) nhắc đến Danh sách Công ty con được hợp nhất và các khoản đầu tư tài chính nhưng thiếu thông tin cụ thể về tỷ lệ lợi ích và tỷ lệ quyền biểu quyết của Công ty Cổ phần Nam Dương Phú trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú để so sánh và giải thích sự khác biệt.

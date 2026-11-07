@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, chỉ tiêu lợi thế thương mại tại cuối kỳ (ngày 31 tháng 12 năm 2024) có nguyên giá là 61.306.069.300 đồng, số đã phân bổ là 54.416.930.960 đồng và giá trị còn lại cuối kỳ là 6.889.138.340 đồng [C2].

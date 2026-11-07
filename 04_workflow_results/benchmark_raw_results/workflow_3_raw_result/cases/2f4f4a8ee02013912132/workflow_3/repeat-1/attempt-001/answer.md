@@ -1,0 +1,1 @@
+Các Báo cáo tài chính được lập và trình bày dựa trên các Chuẩn mực Kế toán Việt Nam và Chế độ Kế toán doanh nghiệp Việt Nam được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014, Thông tư số 53/2016/TT-BTC ngày 21 tháng 03 năm 2016 cùng các thông tư hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính [N1].

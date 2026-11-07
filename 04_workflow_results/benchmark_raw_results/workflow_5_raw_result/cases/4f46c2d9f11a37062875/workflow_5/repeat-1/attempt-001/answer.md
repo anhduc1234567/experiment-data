@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các chunk [C1] và [C2] không chứa thông tin về chỉ tiêu "lợi nhuận gộp" của quý IV năm nay và quý IV năm trước. Do đó, không đủ dữ liệu để tính toán mức tăng trưởng lợi nhuận gộp theo yêu cầu.

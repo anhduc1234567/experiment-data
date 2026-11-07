@@ -1,0 +1,1 @@
+Số dư tiền và các khoản tương đương tiền tại cuối kỳ (ngày 31 tháng 12 năm 2024) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ là **123.381.740.914 VND** [G1].

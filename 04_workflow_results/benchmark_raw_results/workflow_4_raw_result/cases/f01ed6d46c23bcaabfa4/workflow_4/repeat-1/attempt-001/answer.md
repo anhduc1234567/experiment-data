@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024 trong Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh, tổng tài sản ngắn hạn là 1.562.030.097.086 VND [C2]. Bằng chứng đã truy xuất không cung cấp số liệu về tổng số dư các khoản phải thu ngắn hạn, do đó không thể tính toán tỷ trọng theo yêu cầu.

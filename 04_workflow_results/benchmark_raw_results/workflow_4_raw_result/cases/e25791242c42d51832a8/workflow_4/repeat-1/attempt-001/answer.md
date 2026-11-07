@@ -1,0 +1,1 @@
+Khoản vay và nợ thuê tài chính dài hạn phải trả Tập đoàn Dệt May Việt Nam tại thời điểm số cuối quý là 516.330.778.162 đồng và số đầu năm là 509.186.881.533 đồng [C1].

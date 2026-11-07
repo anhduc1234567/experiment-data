@@ -1,0 +1,1 @@
+Mục đích và ý nghĩa của việc trích lập dự phòng phải trả liên quan đến Saigon Agriculture Incorporation (Tổng Công ty Nông nghiệp Sài Gòn – TNHH MTV) tại Quý 4/2024 là nhằm phản ánh khoản tổn thất dựa trên xác định thiệt hại tại thời điểm chuyển nhượng của dự án Khu nhà ở tại Khu phố 4, Phường Phước Long B, TP. Thủ Đức, TP.HCM [N1].

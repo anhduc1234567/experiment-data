@@ -1,0 +1,1 @@
+Công ty lập dự phòng cho các khoản nợ phải thu quá hạn từ 1 năm đến dưới 2 năm với tỷ lệ **50%** giá trị [N2].

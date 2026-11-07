@@ -1,0 +1,1 @@
+Tổng nợ phải trả (Mã số 300) tại thời điểm cuối quý 4 năm 2024 (ngày 31/12/2024) của Tổng công ty Thiết bị điện Đông Anh - CTCP là 1.263.424.086.462 VND [G1] (Trang 4).

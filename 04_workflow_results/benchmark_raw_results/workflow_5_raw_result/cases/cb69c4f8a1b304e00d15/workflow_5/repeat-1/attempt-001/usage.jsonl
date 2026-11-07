@@ -1,0 +1,1 @@
+{"kind": "llm", "run_id": "01a18380-e924-73fa-8799-0c1a4dcf1fe1", "node": "plan_and_retrieve", "status": "error", "usage": null, "error_type": "ChatGoogleGenerativeAIError", "elapsed_seconds": 0.1780784160073381}

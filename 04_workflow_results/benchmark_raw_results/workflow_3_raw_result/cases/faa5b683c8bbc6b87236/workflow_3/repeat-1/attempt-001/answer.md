@@ -1,0 +1,1 @@
+Nguyên giá hàng tồn kho (Hàng tồn kho - Giá gốc) tại thời điểm cuối quý IV/2024 là **88.566.669.300 VND** [G1].

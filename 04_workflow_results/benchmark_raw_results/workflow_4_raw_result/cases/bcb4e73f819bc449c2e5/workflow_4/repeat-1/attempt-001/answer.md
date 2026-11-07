@@ -1,0 +1,1 @@
+Tại thời điểm cuối Quý 4 năm 2024, số dư khoản phải thu ngắn hạn của khách hàng của Công ty Cổ phần Khoáng sản Bắc Kạn là 21.634.113.469 VND, giảm so với số dư đầu năm là 74.215.295.676 VND [C1]. Mức giảm (thay đổi) là 52.581.182.207 VND [C1].

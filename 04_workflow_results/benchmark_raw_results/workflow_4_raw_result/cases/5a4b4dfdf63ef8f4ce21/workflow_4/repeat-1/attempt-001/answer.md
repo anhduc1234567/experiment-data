@@ -1,0 +1,1 @@
+Bằng chứng hiện tại tại [C1] chưa cung cấp đầy đủ số liệu cho chỉ tiêu "Lưu chuyển tiền thuần từ hoạt động kinh doanh" (Mã số 20 hoặc tổng cộng phần I) của Quý 4/2024 và năm trước do đoạn văn bản bị cắt ngang ở phần điều chỉnh lợi nhuận trước thuế. Do đó, không đủ cơ sở để so sánh sự thay đổi theo yêu cầu [C1].

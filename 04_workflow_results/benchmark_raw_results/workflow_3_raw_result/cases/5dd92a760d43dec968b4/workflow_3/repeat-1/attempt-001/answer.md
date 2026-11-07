@@ -1,0 +1,1 @@
+Dựa trên Thuyết minh Báo cáo tài chính hợp nhất, số dư các khoản phải thu ngắn hạn của khách hàng là các bên liên quan tại thời điểm cuối kỳ (31/12/2024) là **275.253.189.812 VND** [N1].

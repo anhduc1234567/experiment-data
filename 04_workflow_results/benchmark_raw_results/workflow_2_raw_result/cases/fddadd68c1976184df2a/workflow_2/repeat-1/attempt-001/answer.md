@@ -1,0 +1,1 @@
+Công ty phân bổ lợi thế thương mại theo phương pháp đường thẳng trong thời gian 10 năm [N1].

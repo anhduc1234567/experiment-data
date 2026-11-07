@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa đầy đủ số liệu về lưu chuyển tiền thuần từ hoạt động tài chính trong năm 2024 để phân tích nguyên nhân âm và tác động của nó [C1, C2, C3, C4].

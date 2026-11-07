@@ -1,0 +1,1 @@
+Giá trị còn lại của tài sản cố định hữu hình tại ngày 31/12/2024 là 43.631.497.699 VND (Mã số 221, Thuyết minh 6) [G1].

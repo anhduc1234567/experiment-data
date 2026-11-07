@@ -1,0 +1,11 @@
+{
+  "case_id": "b0c1e42133169137ebf6",
+  "question_number": 139,
+  "question": "Đánh giá khả năng sinh lời và quản lý vốn của công ty dựa trên dòng tiền từ các hoạt động chính.",
+  "reference": "Dựa trên báo cáo lưu chuyển tiền tệ, công ty có dòng tiền dương từ cả ba hoạt động chính: kinh doanh (72.219.495.035 VND), đầu tư (85.025.437.582 VND) và tài chính (12.534.244.934 VND).\\n*   **Khả năng sinh lời:** Dòng tiền dương từ hoạt động kinh doanh cho thấy công ty vẫn tạo ra tiền từ hoạt động cốt lõi, nhưng sự sụt giảm so với năm trước cần được theo dõi.\\n*   **Quản lý vốn:** Dòng tiền từ hoạt động đầu tư dương và tăng cho thấy công ty có thể đang thu hồi các khoản đầu tư hoặc thanh lý tài sản một cách hiệu quả. Dòng tiền dương từ hoạt động tài chính cho thấy công ty vẫn có khả năng huy động vốn, tuy nhiên sự sụt giảm mạnh so với năm trước có thể do công ty đã trả nợ gốc vay gần bằng mức đi vay mới hoặc giảm sự phụ thuộc vào nguồn vốn vay. Nhìn chung, công ty đang có khả năng tạo và quản lý dòng tiền một cách ổn định, mặc dù có những thay đổi trong cơ cấu dòng tiền cần được phân tích kỹ hơn.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0018",
+  "source_file": "dong_anh.md",
+  "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+  "selection_topic": "Dòng tiền và quản lý vốn"
+}

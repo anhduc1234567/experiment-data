@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp chứa thông tin về tổng nguồn vốn (3.570.997.443.691 đồng tại cuối kỳ hoặc 3.538.779.459.801 đồng tại đầu kỳ) [C2], tuy nhiên bằng chứng thiếu số liệu chi tiết về chỉ tiêu Vốn chủ sở hữu để tính toán tỷ lệ vốn chủ sở hữu trên tổng nguồn vốn theo kế hoạch tham khảo.

@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CTCP Đầu tư Châu Á – Thái Bình Dương, thời gian phân bổ tối đa đối với chi phí công cụ, dụng cụ là không quá 03 năm [C1].

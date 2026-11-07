@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ năm 2024 của công ty là 2.232.677.430.682 VND [G1] (trang 5).

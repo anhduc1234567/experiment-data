@@ -1,0 +1,1 @@
+Dựa trên bằng chứng được cung cấp, tài liệu không chứa đủ số liệu cụ thể về vay và nợ thuê tài chính ngắn hạn và dài hạn tại Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú để thực hiện đánh giá cơ cấu [C1].

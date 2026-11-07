@@ -1,0 +1,1 @@
+Theo context được cung cấp, không có định nghĩa cụ thể về 'công ty con' theo chính sách kế toán của Công ty APEC Investment mà chỉ có danh sách các công ty con [N2].

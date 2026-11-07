@@ -1,0 +1,1 @@
+Theo thuyết minh Báo cáo tài chính hợp nhất, số dư các tài khoản trên Bảng cân đối kế toán giữa các công ty trong cùng Tập đoàn, các giao dịch nội bộ và các khoản lãi nội bộ chưa thực hiện phát sinh từ các giao dịch này phải được loại trừ hoàn toàn khi lập báo cáo tài chính hợp nhất nhằm phản ánh chính xác tình hình tài chính của toàn Tập đoàn [N2].

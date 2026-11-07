@@ -1,0 +1,1 @@
+Tổng chi phí bán hàng trong Quý 4 năm 2024 là 32.353.556.234 VND (Thuyết minh: 5.5, Trang: 6) [G1].

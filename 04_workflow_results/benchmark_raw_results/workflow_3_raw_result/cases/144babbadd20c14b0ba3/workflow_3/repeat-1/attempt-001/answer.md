@@ -1,0 +1,3 @@
+Các thông tư của Bộ Tài chính hướng dẫn về chế độ kế toán doanh nghiệp được Tập đoàn Phong Phú áp dụng bao gồm:
+- Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 hướng dẫn Chế độ kế toán doanh nghiệp (thay thế Quyết định số 15/2006/QĐ-BTC và Thông tư số 244/2009/TT-BTC) [N1].
+- Thông tư số 202/2014/TT-BTC (thay thế phần XIII - Thông tư số 161/2007/TT-BTC) hướng dẫn lập và trình bày Báo cáo tài chính hợp nhất [N1].

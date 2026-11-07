@@ -1,0 +1,1 @@
+Theo Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024 của Tổng Công ty Cổ phần Phong Phú, số dư Tài sản ngắn hạn là 1.766.228.572.070 VND và Tiền và các khoản tương đương tiền là 123.381.740.914 VND [C2]. Context không cung cấp đầy đủ số liệu về Các khoản đầu tư tài chính ngắn hạn, Phải thu ngắn hạn, Hàng tồn kho và Nợ ngắn hạn.

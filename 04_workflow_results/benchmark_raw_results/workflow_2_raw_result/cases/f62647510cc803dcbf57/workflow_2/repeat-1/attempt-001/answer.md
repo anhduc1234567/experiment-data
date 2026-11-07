@@ -1,0 +1,1 @@
+Dựa trên các tài liệu và thông tin được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, không có dữ liệu chi tiết về danh sách các công ty con và tỷ lệ quyền biểu quyết cụ thể để xác định công ty nào có tỷ lệ biểu quyết trên 90% [N1, N2, N3, N4, N5, N6].

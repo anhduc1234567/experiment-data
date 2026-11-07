@@ -1,0 +1,1 @@
+Mệnh giá cổ phiếu đang lưu hành của Tổng Công Ty Cổ Phần Phong Phú trong Báo cáo tài chính Quý 4/2024 là 10.000 VND [C1].

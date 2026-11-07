@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu cuối kỳ (tại ngày 31/12/2024) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là **884.244.721.299 VND** [G1].

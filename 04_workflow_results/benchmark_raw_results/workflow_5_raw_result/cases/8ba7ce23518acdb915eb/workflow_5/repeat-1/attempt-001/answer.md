@@ -1,0 +1,1 @@
+Bằng chứng hiện tại không cung cấp số liệu về các khoản tương đương tiền tại thời điểm đầu năm và cuối kỳ trên Báo cáo lưu chuyển tiền tệ hoặc Bảng cân đối kế toán của Tổng Công ty Cổ phần Phong Phú Quý 4/2024 [C1], [C2].

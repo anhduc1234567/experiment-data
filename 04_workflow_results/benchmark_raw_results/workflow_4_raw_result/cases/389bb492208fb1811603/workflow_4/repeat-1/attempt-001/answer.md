@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp, ngữ cảnh không chứa số liệu cụ thể về tổng vốn chủ sở hữu và số dư cuối kỳ, do phần thông tin trong đoạn [C1] thuộc mục "Chi tiết vốn góp của chủ sở hữu" chỉ hiển thị một phần bảng số liệu và không nêu rõ tổng số vốn chủ sở hữu.

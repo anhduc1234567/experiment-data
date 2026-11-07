@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) chưa chứa số liệu về lợi nhuận gộp trong Báo cáo kết quả hoạt động kinh doanh hợp nhất [C1], [C2].

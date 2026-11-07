@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp trong context, hiện không có dữ liệu về ý kiến kiểm toán đối với Báo cáo tài chính năm 2024 của Tổng Công ty Cổ phần Phong Phú.

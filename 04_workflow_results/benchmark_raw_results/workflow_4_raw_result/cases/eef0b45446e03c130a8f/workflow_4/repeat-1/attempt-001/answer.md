@@ -1,0 +1,1 @@
+Tại Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, các khoản **Phải trả người bán ngắn hạn** (Mã số 311) là 71.005.972.408 đồng vào số cuối năm và 89.344.730.178 đồng vào số đầu năm [C1]. Đối với chỉ tiêu **Người mua trả tiền trước ngắn hạn**, bằng chứng hiện tại chưa cung cấp đầy đủ số liệu do bị cắt đoạn ở Thuyết minh V.1 [C1].

@@ -1,0 +1,33 @@
+W1029 23:06:49.546000 94019 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+[MODEL] Loading query embedding: sentence-transformers/all-MiniLM-L6-v2 | device=cpu (once per process)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 12329.50it/s]
+/Users/hnaduc/workspace/code/ftu-qa/agent_demo/src/agent_demo/storage/vector_db.py:199: FutureWarning: The `get_sentence_embedding_dimension` method has been renamed to `get_embedding_dimension`.
+  _vector_size = _encoder.get_sentence_embedding_dimension()
+[MODEL] Embedding ready | device=cpu | 4.137s; subsequent queries reuse this instance
+DB complete dau_tu_APEC.md
+DB complete dong_anh.md
+DB complete phong_phu.md
+DB complete BKC_24Q4.md
+[MODEL] Loading BGE reranker: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-reranker-v2-m3/snapshots/953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e | device=cpu (once per process)
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 12676.68it/s]
+[MODEL] Reranker ready | device=cpu | 0.667s; cached for next queries
+Pipeline complete cpu 1
+Pipeline complete cpu 2
+Pipeline complete cpu 3
+[MODEL] Move cached reranker cpu -> mps; no reload
+[MODEL] Move cached embedding cpu -> mps; no reload
+Pipeline complete mps 1
+Pipeline complete mps 2
+Pipeline complete mps 3
+{'stage': 'hybrid_plus_rerank', 'device': 'cpu', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 1795.9705000102986, 'p95_ms': 2239.5683974042186, 'mean_ms': 1849.7228609994636}
+{'stage': 'hybrid_plus_rerank', 'device': 'mps', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 862.7909579809057, 'p95_ms': 1074.2859519014019, 'mean_ms': 900.5584304153066}
+{'stage': 'hybrid_search', 'device': 'cpu', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 24.548562490963377, 'p95_ms': 27.36794345255475, 'mean_ms': 24.09135049917192}
+{'stage': 'hybrid_search', 'device': 'mps', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 25.774270994588733, 'p95_ms': 33.23322529759025, 'mean_ms': 26.756611252494622}
+{'stage': 'neo4j_query_client_wall', 'device': 'db', 'collection': 'neo4j', 'n': 40, 'median_ms': 2.2684165160171688, 'p95_ms': 4.075714309874454, 'mean_ms': 2.5123750521743204}
+{'stage': 'qdrant_dense_rpc_preencoded', 'device': 'db', 'collection': 'financial_full_md_chunks_800', 'n': 20, 'median_ms': 1.6674585058353841, 'p95_ms': 2.314060748904013, 'mean_ms': 1.8270667977049015}
+{'stage': 'qdrant_dense_rpc_preencoded', 'device': 'db', 'collection': 'financial_md_chunks', 'n': 20, 'median_ms': 1.7453540058340877, 'p95_ms': 3.786254493752496, 'mean_ms': 2.1684208477381617}
+{'stage': 'qdrant_scroll_all_report_chunks', 'device': 'db', 'collection': 'financial_full_md_chunks_800', 'n': 20, 'median_ms': 3.4334585070610046, 'p95_ms': 4.848318424774334, 'mean_ms': 3.5826687031658366}
+{'stage': 'qdrant_scroll_all_report_chunks', 'device': 'db', 'collection': 'financial_md_chunks', 'n': 20, 'median_ms': 2.885291483835317, 'p95_ms': 4.6891797974240035, 'mean_ms': 3.006229047605302}
+{'stage': 'rerank', 'device': 'cpu', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 1769.5686045044567, 'p95_ms': 2217.4539456435014, 'mean_ms': 1825.6315105002916}
+{'stage': 'rerank', 'device': 'mps', 'collection': 'financial_full_md_chunks_800', 'n': 12, 'median_ms': 836.0301869834075, 'p95_ms': 1050.580131103925, 'mean_ms': 873.801819162812}

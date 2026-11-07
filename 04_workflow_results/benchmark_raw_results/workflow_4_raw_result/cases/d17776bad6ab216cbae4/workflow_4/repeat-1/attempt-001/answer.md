@@ -1,0 +1,1 @@
+Tài sản ngắn hạn của Công ty Cổ phần Khoáng sản Bắc Kạn tại thời điểm cuối quý (31/12/2024) là 285.416.829.838 VND và số đầu năm là 266.334.866.645 VND [C1]. Sự thay đổi tăng là: 285.416.829.838 - 266.334.866.645 = 19.081.963.193 VND [C1].

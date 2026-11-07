@@ -1,0 +1,1 @@
+Dựa trên Bảng cân đối kế toán hợp nhất tại ngày 31/12/2024 của Tổng Công ty Cổ phần Phong Phú [G1, G2], tài liệu không có mục riêng biệt về tổng các khoản phải thu từ các bên liên quan cuối kỳ. Do đó, thiếu dữ liệu để xác định chính xác con số này.

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, ngữ cảnh không cung cấp đầy đủ thông tin chi tiết về tất cả các khoản mục được bao gồm trong giá gốc của công trình dở dang của dự án bất động sản [G1, N1, N2].

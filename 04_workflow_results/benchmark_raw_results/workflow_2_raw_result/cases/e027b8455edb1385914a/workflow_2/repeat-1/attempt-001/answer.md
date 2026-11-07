@@ -1,0 +1,1 @@
+Nguyên giá tài sản cố định hữu hình tại thời điểm cuối kỳ (31/12/2024) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ là **2.287.317.961.521 VND** [G1].

@@ -1,0 +1,1 @@
+Tập đoàn Điện lực Việt Nam (EVN) nắm giữ 46,49% vốn điều lệ của Tổng Công ty [N1], [N2].

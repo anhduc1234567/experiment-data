@@ -1,0 +1,1 @@
+Tổng tài sản dài hạn của Tổng công ty Cổ phần Phong Phú tại cuối kỳ (ngày 31/12/2024) là 1.804.768.871.621 VND [G1] (Trang 2).

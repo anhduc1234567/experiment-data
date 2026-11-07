@@ -1,0 +1,1 @@
+Tổng giá trị đầu tư góp vốn vào đơn vị khác cuối năm 2024 (tại ngày 31/12/2024) là 2.500.000.000 VND [G1].

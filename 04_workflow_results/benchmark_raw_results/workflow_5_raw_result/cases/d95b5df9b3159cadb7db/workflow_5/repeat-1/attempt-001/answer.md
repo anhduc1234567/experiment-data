@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) thiếu thông tin chi tiết về chỉ tiêu chi phí lãi vay đã trả hoặc dòng tiền từ hoạt động tài chính liên quan đến lãi vay đã trả do đoạn Báo cáo lưu chuyển tiền tệ bị cắt cụt [C1] và các phần khác không chứa dữ liệu này [C2].

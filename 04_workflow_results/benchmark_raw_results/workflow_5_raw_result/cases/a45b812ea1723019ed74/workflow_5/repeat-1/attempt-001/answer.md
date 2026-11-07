@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần, tổng cộng tài sản (Mã số 270) ghi nhận số cuối quý là 1.893.672.309.073 đồng và đầu năm là 1.484.594.593.036 đồng [C1]. Trong đó, mục Tài sản dài hạn khác (Mã số 260) có số cuối quý là 465.981.340 đồng và đầu năm là 116.084.481 đồng [C2].

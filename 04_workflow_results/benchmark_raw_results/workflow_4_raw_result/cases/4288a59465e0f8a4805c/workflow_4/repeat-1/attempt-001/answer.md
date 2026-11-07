@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú không chứa thông tin hoặc số liệu về doanh thu bán thành phẩm, do ngữ cảnh chỉ cung cấp nội dung liên quan đến Lợi thế thương mại [C1]. Do đó, context hiện tại thiếu dữ liệu để trả lời về khoản mục doanh thu bán thành phẩm.

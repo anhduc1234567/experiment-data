@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, chỉ tiêu Phải trả người bán ngắn hạn hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần là 365.386.187.763 VND (toàn bộ là phải trả người bán bên thứ ba), tăng so với số đầu năm (01/01/2024) là 243.324.735.578 VND [C1].

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa thông tin hoặc số liệu về chỉ tiêu "Chi phí trả trước dài hạn" trên Bảng cân đối kế toán tại thời điểm cuối quý 4 năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2].

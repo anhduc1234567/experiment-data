@@ -1,0 +1,5 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, chính sách kế toán dự phòng giảm giá đầu tư vào công cụ vốn của các đơn vị khác được quy định như sau:
+* Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc khi giá trị hợp lý của khoản đầu tư được xác định một cách tin cậy, việc lập dự phòng được căn cứ dựa trên giá trị thị trường của cổ phiếu [C1].
+* Đối với các khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo, việc lập dự phòng căn cứ vào khoản lỗ của bên được đầu tư với mức trích lập bằng chênh lệch giữa vốn đầu tư thực tế của các chủ sở hữu và vốn chủ sở hữu tại ngày kết thúc năm tài chính nhân với tỷ lệ vốn điều lệ của Công ty so với tổng vốn điều lệ thực góp tại đơn vị khác [C1].
+
+Bằng chứng không cung cấp phương pháp xác định giá trị thị trường của cổ phiếu.

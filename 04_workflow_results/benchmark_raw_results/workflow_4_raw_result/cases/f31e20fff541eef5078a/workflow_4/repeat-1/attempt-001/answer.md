@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã truy xuất trong Báo cáo tài chính hợp nhất Quý 4/2024 của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ, thông tin về chỉ tiêu lợi nhuận sau thuế chưa phân phối tại thời điểm cuối kỳ và đầu năm chưa được cung cấp trong các chunk bằng chứng hiện có (chỉ có nội dung liên quan đến Thuyết minh 12. Lợi thế thương mại) [C1].

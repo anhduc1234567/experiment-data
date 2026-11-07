@@ -1,0 +1,1 @@
+Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG được lập trên cơ sở kế toán dồn tích [C1]. Ban Tổng Giám đốc đảm bảo tuân thủ các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 và các thông tư hướng dẫn của Bộ Tài chính [C1].

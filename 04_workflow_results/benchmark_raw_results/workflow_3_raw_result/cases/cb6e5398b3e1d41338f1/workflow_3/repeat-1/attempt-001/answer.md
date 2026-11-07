@@ -1,0 +1,1 @@
+Thuế giá trị gia tăng được khấu trừ cuối kỳ (tại ngày 31/12/2024) là 3.824.125.418 VND [G1] (Số đầu năm là 853.815.320 VND [G1]).

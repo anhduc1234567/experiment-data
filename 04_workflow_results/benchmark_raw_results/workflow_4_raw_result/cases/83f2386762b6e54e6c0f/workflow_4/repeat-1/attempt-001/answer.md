@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Cổ phần Phong Phú, số dư dự phòng giảm giá hàng tồn kho biến động như sau: Số đầu năm là 9.274.342.496 đồng, trích lập/(hoàn nhập) là (2.319.154.389) đồng, dẫn đến số cuối kỳ là 6.955.188.107 đồng [C2].

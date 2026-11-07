@@ -1,0 +1,1 @@
+Địa chỉ trụ sở chính của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (APEC Investment) là: Tầng 3, tòa nhà Grand Plaza, số 117 Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội [N2], [N4].

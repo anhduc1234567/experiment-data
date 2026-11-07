@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế TNDN của Quý 4/2024 là 29.990.104.893 đồng và Quý 4/2023 là 1.962.616.478 đồng [C1]. Lợi nhuận quý IV/2024 tăng so với quý IV/2023 là 28 tỷ đồng [C1], tương ứng tỷ lệ tăng trưởng là $(29.990.104.893 - 1.962.616.478) / 1.962.616.478 \times 100 \approx 1.428,21\% [C1]$.

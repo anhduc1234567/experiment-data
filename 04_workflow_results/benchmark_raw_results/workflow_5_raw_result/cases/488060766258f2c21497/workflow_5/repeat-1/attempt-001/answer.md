@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin về khoản mục chi phí xây dựng cơ bản dở dang trên bảng cân đối kế toán và thuyết minh chi tiết của Tổng Công ty Cổ phần Phong Phú trong Quý 4/2024 để giải thích nguyên nhân và ý nghĩa của việc tăng. Do đó, phần nội dung này đang bị thiếu trong dữ liệu [C1], [C2], [C3].

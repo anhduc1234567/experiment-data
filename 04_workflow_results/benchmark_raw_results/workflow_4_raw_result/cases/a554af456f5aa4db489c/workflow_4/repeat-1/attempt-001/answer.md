@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, tài sản cố định hữu hình của Công ty Cổ phần Khoáng sản Bắc Kạn có nguyên giá là 202.305.110.894 đồng và giá trị hao mòn lũy kế là (158.673.613.195) đồng [C1]. Giá trị còn lại của tài sản cố định hữu hình tại ngày 31/12/2024 là 43.631.497.699 đồng [C1].

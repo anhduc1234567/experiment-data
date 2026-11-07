@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin về ý kiến kiểm toán trong Báo cáo tài chính năm 2024 của Tổng công ty Cổ phần Phong Phú [C1], [C2].

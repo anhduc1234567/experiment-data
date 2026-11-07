@@ -1,0 +1,1 @@
+Công ty áp dụng các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán doanh nghiệp Việt Nam ban hành theo Thông tư số 200/2014/TT-BTC ngày 22/12/2014, Thông tư số 53/2016/TT-BTC ngày 21/03/2016 và các thông tư hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính để lập và trình bày Báo cáo tài chính [C1, C2].

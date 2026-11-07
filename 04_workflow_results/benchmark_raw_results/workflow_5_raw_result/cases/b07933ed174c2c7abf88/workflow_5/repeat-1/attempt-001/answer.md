@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ các đoạn [C1] và [C2]) không chứa thông tin hoặc số liệu về lợi nhuận sau thuế chưa phân phối, các quỹ và cổ tức đã chia trong kỳ của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần quý 4 năm 2024 để đánh giá mức độ bền vững. Do đó, phần thông tin này đang bị thiếu trong dữ liệu.

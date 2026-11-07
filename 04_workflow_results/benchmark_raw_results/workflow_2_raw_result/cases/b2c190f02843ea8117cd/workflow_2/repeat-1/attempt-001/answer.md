@@ -1,0 +1,1 @@
+Tại ngày 31 tháng 12 năm 2024 (cuối Quý 4/2024), chỉ tiêu Thuế và các khoản phải nộp Nhà nước (Mã số 313, Thuyết minh 10) là 13.541.753.038 VND [G1]. (Lưu ý: Context chưa tách riêng chi tiết tiểu mục thuế thu nhập doanh nghiệp trong bảng cân đối kế toán mà chỉ cung cấp tổng số thuế và các khoản phải nộp Nhà nước).

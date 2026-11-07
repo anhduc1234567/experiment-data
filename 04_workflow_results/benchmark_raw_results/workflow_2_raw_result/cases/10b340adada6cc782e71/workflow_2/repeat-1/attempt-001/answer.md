@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ lũy kế năm 2024 (cả năm 2024) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ là **2.232.677.430.682 VND** [G1] (Trang 5).

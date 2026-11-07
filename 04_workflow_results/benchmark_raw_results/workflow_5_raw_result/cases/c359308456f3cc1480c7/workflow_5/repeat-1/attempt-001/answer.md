@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk [C1] và [C2]) không chứa số liệu về chỉ tiêu lợi nhuận sau thuế thu nhập doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất của Quý 4 năm 2024.

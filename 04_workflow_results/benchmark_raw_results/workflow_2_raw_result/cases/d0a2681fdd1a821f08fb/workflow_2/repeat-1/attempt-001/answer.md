@@ -1,0 +1,1 @@
+Dựa trên ngữ cảnh được cung cấp trong báo cáo tài chính Quý 4/2024 của Tổng công ty Cổ phần Phong Phú, không có thông tin hoặc dữ liệu nào đề cập đến báo cáo kiểm toán có ý kiến ngoại trừ hoặc cơ sở dẫn đến ý kiến đó. Do thiếu dữ liệu trong context, không thể trả lời nguyên nhân cụ thể.

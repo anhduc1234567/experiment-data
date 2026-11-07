@@ -1,0 +1,1 @@
+Tổng các khoản vay và nợ thuê tài chính ngắn hạn của công ty tại thời điểm cuối kỳ (ngày 31/12/2024) là **374.262.338.235 VND** (Mã số 320, Thuyết minh V.19) [G1].

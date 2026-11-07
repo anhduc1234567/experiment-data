@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ (số cuối năm), Tổng nợ phải trả (Mã số 300) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG trên Bảng cân đối kế toán Quý 4/2024 là 778.449.407.564 đồng [C1].

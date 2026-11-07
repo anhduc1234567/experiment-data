@@ -1,0 +1,1 @@
+Cổ tức và lợi nhuận của các kỳ sau khi khoản đầu tư được mua được ghi nhận vào doanh thu. Cổ tức và lợi nhuận của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị khoản đầu tư đó. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được [N2].

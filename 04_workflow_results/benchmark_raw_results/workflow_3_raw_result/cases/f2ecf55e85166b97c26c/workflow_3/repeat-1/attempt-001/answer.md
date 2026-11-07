@@ -1,0 +1,1 @@
+Tổng giá trị đầu tư tài chính dài hạn tại thời điểm cuối quý IV/2024 (Mã số 250) là **28.690.216.075 VND** [G1].

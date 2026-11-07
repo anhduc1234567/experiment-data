@@ -1,0 +1,1 @@
+Số dư cuối kỳ (giá gốc) của khoản đầu tư vào Công ty Cổ phần Dệt may Đông Nam là **37.594.227.632 đồng** [N2] (Trang 17, 26).

@@ -1,0 +1,1 @@
+Tổng Công ty không thực hiện các biện pháp phòng ngừa rủi ro lãi suất do thiếu thị trường mua các công cụ tài chính [N1].

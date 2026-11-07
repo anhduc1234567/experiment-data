@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế thu nhập doanh nghiệp năm 2024 (lũy kế đến quý IV năm 2024) là **(10.849.716.013) VND** (Trang 8).

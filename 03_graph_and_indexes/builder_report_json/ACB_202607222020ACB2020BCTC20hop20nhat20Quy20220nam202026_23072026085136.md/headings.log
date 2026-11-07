@@ -1,0 +1,42 @@
+Embedding model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+Reranker model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-reranker-v2-m3/snapshots/953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
+Loading local models (device=mps, top_k=3, min_rerank_score=0.0); pages=33
+Local models ready; using supplied metadata
+True balance boundary: page=3, line=1, rows=36, indicators=('cac cong cu tai chinh phai sinh', 'cac khoan phai thu', 'cho vay khach hang', 'chung khoan dau tu', 'chung khoan kinh doanh', 'tai san co dinh', 'tien gui', 'tien mat', 'tong tai san')
+Page 3: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.6815, rerank=4.1624), line='BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ TẠI NGÀY 30 THÁNG 6 NĂM 2026'
+Page 4: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.6815, rerank=4.1624), line='BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ TẠI NGÀY 30 THÁNG 6 NĂM 2026'
+Page 4: statement body accepted (numeric_rows=24, indicator_rows=9, signals=('no phai tra', 'phat hanh giay to co gia', 'tien gui', 'von chu so huu', 'von dieu le')): table and financial indicators present
+Page 5: CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=1.0000, rerank=9.4616), line='CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH'
+Page 5: statement body accepted (numeric_rows=11, indicator_rows=8, signals=('bao lanh', 'cam ket')): table and financial indicators present
+Page 6: BÁO CÁO KẾT QUẢ HOẠT ĐỘNG -> BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (vector=0.7117, rerank=2.3517), line='BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT GIỮA NIÊN ĐỘ QUÝ II NĂM 2026'
+Page 6: statement body accepted (numeric_rows=22, indicator_rows=16, signals=('chi phi du phong rui ro tin dung', 'chi phi hoat dong', 'chi phi hoat dong dich vu', 'chi phi lai', 'chi phi thue', 'lai co ban tren co phieu', 'loi nhuan', 'thu nhap lai', 'thu nhap tu gop von', 'thu nhap tu hoat dong dich vu', 'thu nhap tu hoat dong khac')): table and financial indicators present
+Page 7: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=0.7276, rerank=4.7112), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ QUÝ II NĂM 2026'
+Page 7: statement body accepted (numeric_rows=24, indicator_rows=9, signals=('chenh lech so tien thuc thu', 'chi phi lai', 'luu chuyen tien', 'thu nhap lai', 'thu nhap tu hoat dong dich vu', 'tien chi', 'tien thu')): table and financial indicators present
+Page 8: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=0.7276, rerank=4.7112), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT GIỮA NIÊN ĐỘ QUÝ II NĂM 2026'
+Page 8: statement body accepted (numeric_rows=16, indicator_rows=9, signals=('anh huong cua thay doi ty gia', 'luu chuyen tien', 'tien thu', 'tien va cac khoan tuong duong tien')): table and financial indicators present
+Page 9: THUYẾT MINH BÁO CÁO TÀI CHÍNH -> THUYẾT MINH BÁO CÁO TÀI CHÍNH (vector=0.7150, rerank=4.8138), line='THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUÝ II NĂM 2026'
+Page 10: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 11: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 12: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 13: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 14: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 15: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 16: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 17: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 18: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 19: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 20: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 21: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 22: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 23: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 24: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 25: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 26: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 27: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 28: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 29: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 30: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 31: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 32: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 33: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+True balance boundary: page=3, line=1, rows=36, indicators=('cac cong cu tai chinh phai sinh', 'cac khoan phai thu', 'cho vay khach hang', 'chung khoan dau tu', 'chung khoan kinh doanh', 'tai san co dinh', 'tien gui', 'tien mat', 'tong tai san')

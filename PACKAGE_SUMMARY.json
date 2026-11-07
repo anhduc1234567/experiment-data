@@ -1,0 +1,60 @@
+{
+  "started_at": "2026-11-05T19:53:32.002006+07:00",
+  "completed_at": "2026-11-05T19:54:10.872467+07:00",
+  "sections": {
+    "01_source_reports": 38,
+    "02_question_sets": 2,
+    "03_graph_and_indexes": 72,
+    "04_workflow_results": 15481,
+    "05_ragas_evaluation": 24,
+    "06_build_and_retrieval_benchmarks": 21,
+    "README.md": 1,
+    "PACKAGE_SUMMARY.json": 1,
+    "07_prompts": 14
+  },
+  "ragas_status": {
+    "workflow_2": {
+      "run": "full-wf2",
+      "valid_metric_scores": 2105,
+      "expected_metric_scores": 2105,
+      "complete_cases": 421
+    },
+    "workflow_3": {
+      "run": "full-wf3",
+      "valid_metric_scores": 2105,
+      "expected_metric_scores": 2105,
+      "complete_cases": 421
+    },
+    "workflow_4": {
+      "run": "full-wf4",
+      "valid_metric_scores": 2105,
+      "expected_metric_scores": 2105,
+      "complete_cases": 421
+    },
+    "workflow_5": {
+      "run": "full-wf5",
+      "valid_metric_scores": 2105,
+      "expected_metric_scores": 2105,
+      "complete_cases": 421
+    }
+  },
+  "source_pdfs": 17,
+  "source_markdown": 20,
+  "retained_questions": 421,
+  "excluded_runtime_db": true,
+  "excluded_secrets": true,
+  "verification": "Every copied file read back and SHA-256 verified; source bytes unchanged during individual reads.",
+  "release_scope": "Single 421-case evaluation dataset and retained-case workflow exports; obsolete dataset variants and archived runs omitted.",
+  "packaged_files": 15655,
+  "payload_bytes_excluding_manifest_summary": 2439231364,
+  "excluded_source_code": true,
+  "excluded_code_snapshots": true,
+  "excluded_local_paper_and_rewrite": true,
+  "prompt_files": 14,
+  "prompt_workflows": [
+    "workflow_2",
+    "workflow_3",
+    "workflow_4",
+    "workflow_5"
+  ]
+}

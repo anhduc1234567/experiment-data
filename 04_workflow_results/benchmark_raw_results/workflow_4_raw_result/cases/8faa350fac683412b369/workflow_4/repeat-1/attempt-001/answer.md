@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ Bảng cân đối kế toán tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) thiếu thông tin về các khoản mục nợ ngắn hạn và tổng nợ phải trả tại thời điểm 31/12/2024 [C1], [C2]. Do đó, không đủ dữ liệu để tính tỷ lệ theo kế hoạch tham khảo.

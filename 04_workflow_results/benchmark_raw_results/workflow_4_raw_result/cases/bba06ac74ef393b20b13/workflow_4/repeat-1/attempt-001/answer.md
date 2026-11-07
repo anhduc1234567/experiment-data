@@ -1,0 +1,1 @@
+Chi tiết vốn góp của chủ sở hữu tại Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 tại ngày 31/12/2024 và 01/01/2024 như sau: Tập đoàn Điện lực Việt Nam góp 151.013.760.000 VND (chiếm 46,49%) [C1]. Dữ liệu về các cổ đông khác không đầy đủ do bằng chứng bị cắt đoạn [C1].

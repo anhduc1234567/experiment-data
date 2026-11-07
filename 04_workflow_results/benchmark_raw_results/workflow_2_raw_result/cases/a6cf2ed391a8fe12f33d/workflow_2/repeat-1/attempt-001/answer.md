@@ -1,0 +1,1 @@
+Các khoản đầu tư nắm giữ đến ngày đáo hạn (ngắn hạn) tại ngày 31/12/2024 chủ yếu bao gồm khoản tiền gửi ngân hàng có kỳ hạn từ 6 tháng đến 12 tháng [N1].

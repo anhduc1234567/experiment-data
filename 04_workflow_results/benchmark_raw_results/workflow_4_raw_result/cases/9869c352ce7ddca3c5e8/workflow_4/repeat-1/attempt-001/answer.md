@@ -1,0 +1,3 @@
+Dựa trên bằng chứng đã truy xuất, thông tin về số dư vốn chủ sở hữu và các yếu tố thay đổi trong hai năm gần nhất chưa đầy đủ do context không cung cấp toàn bộ Bảng cân đối kế toán hợp nhất và Báo cáo thay đổi vốn chủ sở hữu. Tuy nhiên, một số khoản mục thuộc vốn chủ sở hữu tại ngày kết thúc kỳ kế toán năm 2024 được ghi nhận như sau:
+- Quỹ đầu tư phát triển: 63.366.340.750 VND (tăng từ 45.755.340.750 VND tại đầu kỳ) [C3].
+- Lợi nhuận sau thuế chưa phân phối: 213.498.607.796 VND (tăng từ 172.248.062.395 VND) [C3].

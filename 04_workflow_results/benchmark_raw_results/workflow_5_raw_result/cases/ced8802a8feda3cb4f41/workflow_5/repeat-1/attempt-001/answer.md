@@ -1,0 +1,1 @@
+Dự phòng giảm giá chứng khoán kinh doanh được lập cho từng loại chứng khoán được mua bán trên thị trường và có giá trị hợp lý thấp hơn giá gốc [C1]. Tuy nhiên, bằng chứng được cung cấp chưa đầy đủ để trình bày chi tiết về phương pháp, căn cứ và các yếu tố xác định giá trị hợp lý của chứng khoán kinh doanh do đoạn văn bản bị cắt ngang tại phần xác định giá trị hợp lý [C1].

@@ -1,0 +1,1 @@
+Tổng tài sản dài hạn của Công ty Cổ phần Khoáng sản Bắc Kạn tại thời điểm cuối Quý 4/2024 (ngày 31/12/2024) là **143.209.703.764 VND** [G1] (trang 3, 4, 5, 6).

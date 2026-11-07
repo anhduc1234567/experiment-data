@@ -1,0 +1,5 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú:
+
+1. **Ảnh hưởng đến lợi nhuận**: Chi phí phân bổ lợi thế thương mại được ghi nhận vào chi phí quản lý doanh nghiệp [N2]. Trong năm 2024, chi phí phân bổ lợi thế thương mại là **3.936.650.481 VND** [N2], làm tăng chi phí quản lý doanh nghiệp và từ đó làm giảm lợi nhuận thuần từ hoạt động kinh doanh cũng như lợi nhuận kế toán trước thuế và sau thuế tương ứng.
+
+2. **Ảnh hưởng đến bảng cân đối kế toán**: Chỉ tiêu Lợi thế thương mại (Mã số 269) ghi nhận số dư đầu năm là **10.825.788.821 VND** và giảm xuống còn **6.889.138.340 VND** tại thời điểm cuối quý 4/2024 (ngày 31/12/2024) [G1]. Phép tính giảm: 10.825.788.821 - 6.889.138.340 = **3.936.650.481 VND** (khớp với chi phí phân bổ trong năm). Việc phân bổ này làm giảm quy mô tài sản dài hạn (Mã số 200) và tổng tài sản của công ty từ **3.538.779.459.801 VND** (số đầu năm) xuống **3.570.997.443.691 VND** (số cuối quý) [G1].

@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư năm hiện tại (Quý 4/2024) là 40.218.532.929 VND [G1] (Trang 9, 10).

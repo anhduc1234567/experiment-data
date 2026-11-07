@@ -1,0 +1,24 @@
+Embedding model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+Reranker model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-reranker-v2-m3/snapshots/953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
+Loading local models (device=mps, top_k=3, min_rerank_score=0.0); pages=18
+Local models ready; using supplied metadata
+True balance boundary: page=6, line=3, rows=16, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san ngan han', 'tien va')
+Page 6: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.7556, rerank=4.7283), line='BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG TẠI NGÀY 31 THÁNG 12 NĂM 2025'
+Page 7: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.7411, rerank=4.8579), line='BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG TẠI NGÀY 31 THÁNG 12 NĂM 2025 TIẾP THEO'
+Page 7: statement body accepted (numeric_rows=25, indicator_rows=6, signals=('cac khoan phai thu', 'tai san co dinh', 'tai san dai han', 'tong tai san')): table and financial indicators present
+Page 8: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.7411, rerank=4.8579), line='BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG TẠI NGÀY 31 THÁNG 12 NĂM 2025 TIẾP THEO'
+Page 8: statement body accepted (numeric_rows=22, indicator_rows=6, signals=('loi nhuan sau thue chua phan phoi', 'no dai han', 'no ngan han', 'no phai tra', 'von chu so huu')): table and financial indicators present
+Page 9: BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH -> BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (vector=0.7555, rerank=8.8325), line='BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025'
+Page 9: statement body accepted (numeric_rows=18, indicator_rows=15, signals=('cac khoan giam tru', 'chi phi ban hang', 'chi phi khac', 'chi phi quan ly', 'chi phi tai chinh', 'chi phi thue', 'doanh thu ban hang', 'doanh thu hoat dong tai chinh', 'doanh thu thuan', 'gia von', 'loi nhuan', 'thu nhap khac')): table and financial indicators present
+Page 10: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=0.7763, rerank=7.2704), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025'
+Page 10: statement body accepted (numeric_rows=22, indicator_rows=13, signals=('cac khoan du phong', 'chi phi lai vay', 'khau hao', 'loi nhuan ke toan truoc thue', 'luu chuyen tien', 'tien chi', 'tien thu')): table and financial indicators present
+Page 11: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=0.7763, rerank=7.2704), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025'
+Page 11: statement body accepted (numeric_rows=8, indicator_rows=7, signals=('anh huong cua thay doi ty gia', 'luu chuyen tien', 'tien chi', 'tien thu', 'tien va cac khoan tuong duong tien')): table and financial indicators present
+Page 12: THUYẾT MINH BÁO CÁO TÀI CHÍNH -> THUYẾT MINH BÁO CÁO TÀI CHÍNH (vector=0.7632, rerank=4.6583), line='THUYẾT MINH BÁO CÁO TÀI CHÍNH RIÊNG CHO NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2025'
+Page 13: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 14: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 15: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 16: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 17: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 18: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+True balance boundary: page=6, line=3, rows=16, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san ngan han', 'tien va')

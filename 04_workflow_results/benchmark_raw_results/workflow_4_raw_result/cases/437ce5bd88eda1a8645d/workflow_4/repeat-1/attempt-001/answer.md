@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, hiện không có dữ liệu hoặc thông tin đề cập đến chỉ tiêu lãi tiền vay và chi phí lãi tiền vay phát sinh trong kỳ từ 01/01/2024 đến 31/12/2024 [C1, C2, C3].

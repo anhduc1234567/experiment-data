@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế năm hiện tại (năm nay) là 72.219.495.035 VND [G1].

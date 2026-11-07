@@ -1,0 +1,1 @@
+Dựa trên BCTC riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, bằng chứng [C1] chỉ cung cấp thông tin về doanh thu bán hàng và cung cấp dịch vụ (Mã số 1) và các khoản giảm trừ doanh thu (Mã số 2), chưa bao gồm chỉ tiêu lợi nhuận thuần từ hoạt động kinh doanh. Do đó, context hiện tại thiếu dữ liệu để trả lời câu hỏi về chỉ tiêu này.

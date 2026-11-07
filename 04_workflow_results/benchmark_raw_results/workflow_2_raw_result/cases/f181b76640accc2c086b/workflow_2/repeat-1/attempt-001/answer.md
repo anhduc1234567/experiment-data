@@ -1,0 +1,1 @@
+Nợ ngắn hạn cuối kỳ (tại ngày 31/12/2024) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là **566.994.110.452 VND** [G1].

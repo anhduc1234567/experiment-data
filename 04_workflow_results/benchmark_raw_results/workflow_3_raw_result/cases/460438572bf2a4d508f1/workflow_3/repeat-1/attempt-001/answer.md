@@ -1,0 +1,1 @@
+Tỷ lệ chi phí lãi vay trên tổng chi phí tài chính lũy kế năm 2024 (lũy kế từ đầu năm đến cuối quý 4 năm 2024) là: (27.525.674.895 / 34.073.782.949) * 100 = 80,78% [G1].

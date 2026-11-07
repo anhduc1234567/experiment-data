@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) chưa đầy đủ để xác định các khoản mục chi phí bán hàng trong Báo cáo kết quả hoạt động kinh doanh và Thuyết minh chi tiết năm 2024 và năm 2023 của Tổng Công ty Cổ phần Phong Phú, do các đoạn trích chỉ đề cập đến các khoản giảm trừ doanh thu và giá vốn hàng bán.

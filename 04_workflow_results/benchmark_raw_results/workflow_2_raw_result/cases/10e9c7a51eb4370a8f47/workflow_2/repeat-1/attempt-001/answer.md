@@ -1,0 +1,1 @@
+Tổng tài sản ngắn hạn của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ tại thời điểm cuối kỳ (31/12/2024) là **1.766.228.572.070 VND** [G1] (trang 2, 3, 4).

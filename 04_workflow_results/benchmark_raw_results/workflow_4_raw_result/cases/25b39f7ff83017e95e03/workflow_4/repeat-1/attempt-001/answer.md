@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4 2024 của Tổng công ty Thiết bị Điện Đông Anh) chưa chứa thông tin về chỉ tiêu số dư thuế thu nhập doanh nghiệp phải nộp cuối kỳ trong Báo cáo tài chính hợp nhất [C1], [C2].

@@ -1,0 +1,1 @@
+Số dư cuối kỳ của tài sản cố định hữu hình trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là 16.326.198.818 VND (trong đó nguyên giá là 24.034.952.927 VND và giá trị hao mòn lũy kế là 7.708.754.109 VND) [C2].

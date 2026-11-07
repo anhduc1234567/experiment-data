@@ -1,0 +1,1 @@
+Các giao dịch nội bộ và các khoản lãi chưa thực hiện phải được loại trừ hoàn toàn khi lập báo cáo tài chính hợp nhất nhằm tuân thủ các Chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính hợp nhất, cụ thể theo các quy định tại Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014 và Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 [N2].

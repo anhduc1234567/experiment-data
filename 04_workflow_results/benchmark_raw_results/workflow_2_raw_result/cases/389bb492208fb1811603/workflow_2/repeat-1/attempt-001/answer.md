@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu cuối kỳ (tại ngày 31/12/2024) của Tổng công ty Cổ phần Phong Phú là 1.847.626.077.877 VND (Mã số 400, trang 4) [G1].

@@ -1,0 +1,1 @@
+Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn có ngày lập là 20 tháng 01 năm 2025 [C1] và thời gian ký công bố thông tin là 24 tháng 01 năm 2025 [C2].

@@ -1,0 +1,1 @@
+Dựa trên Bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024, chỉ tiêu 'Đầu tư vào công ty liên doanh, liên kết' (Mã số 252) có giá trị là 641.856.168.732 VND ở số cuối quý và 631.403.652.016 VND ở số đầu năm [G1] (Trang 3).

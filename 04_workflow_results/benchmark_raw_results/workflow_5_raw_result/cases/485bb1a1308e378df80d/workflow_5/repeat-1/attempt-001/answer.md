@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1] và [C2]) chỉ chứa thông tin về Doanh thu bán hàng và cung cấp dịch vụ, không chứa số liệu về Lợi nhuận gộp từ bán hàng và cung cấp dịch vụ trong Báo cáo kết quả hoạt động kinh doanh hợp nhất Quý 4 năm 2024 và Quý 4 năm 2023 của Tổng công ty Thiết bị điện Đông Anh.

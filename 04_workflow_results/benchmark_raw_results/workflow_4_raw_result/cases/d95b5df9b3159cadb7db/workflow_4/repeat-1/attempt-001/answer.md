@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng được cung cấp (chunk C1 và C2) hiện không chứa thông tin về chỉ tiêu chi phí lãi vay đã trả hoặc dòng tiền chi trả lãi vay lũy kế từ đầu năm đến cuối Quý 4/2024. Do đó, phần số liệu này đang bị thiếu trong dữ liệu [C1], [C2].

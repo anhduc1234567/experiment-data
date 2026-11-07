@@ -1,0 +1,11 @@
+{
+  "case_id": "7d4263358dfb8d07d817",
+  "question_number": 38,
+  "question": "Đánh giá mức độ phụ thuộc vào các khoản vay và nợ thuê tài chính ngắn hạn của công ty.",
+  "reference": "Khoản vay và nợ thuê tài chính ngắn hạn của công ty đã giảm đáng kể từ 380.475.557.454 VND vào đầu năm xuống 156.502.422.354 VND vào cuối kỳ. Mặc dù vẫn là một khoản mục lớn trong nợ ngắn hạn, sự sụt giảm này cho thấy mức độ phụ thuộc vào các nguồn tài trợ ngắn hạn này đã giảm bớt. Điều này có thể được xem là một dấu hiệu tích cực về việc cải thiện cơ cấu tài chính và giảm rủi ro thanh khoản ngắn hạn, hoặc công ty đã chuyển đổi một phần nợ ngắn hạn sang nợ dài hạn như thể hiện qua sự gia tăng của vay và nợ thuê tài chính dài hạn.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0004",
+  "source_file": "dau_tu_APEC.md",
+  "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+  "selection_topic": "Phụ thuộc nợ vay"
+}

@@ -1,0 +1,1 @@
+Rủi ro thanh khoản của Tổng Công ty Thiết bị Điện Đông Anh là rủi ro Tổng Công ty gặp khó khăn khi thực hiện các nghĩa vụ tài chính do thiếu vốn [C1]. Rủi ro thanh khoản này chủ yếu phát sinh từ việc các tài sản tài chính và nợ phải trả tài chính có các thời điểm đáo hạn khác nhau [C1].

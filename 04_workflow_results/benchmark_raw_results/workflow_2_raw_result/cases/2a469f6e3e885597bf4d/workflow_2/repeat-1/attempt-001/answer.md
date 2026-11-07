@@ -1,0 +1,1 @@
+Tổng nguyên giá tài sản cố định hữu hình cuối kỳ (tại ngày 31/12/2024) là **693.886.405.452 VND** [G1].

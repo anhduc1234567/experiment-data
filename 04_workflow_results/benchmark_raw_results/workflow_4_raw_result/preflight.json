@@ -1,0 +1,26 @@
+{
+  "backan.md": {
+    "full_report": {
+      "qdrant_collection": "financial_full_md_chunks_800",
+      "qdrant_chunks": 121
+    }
+  },
+  "dau_tu_APEC.md": {
+    "full_report": {
+      "qdrant_collection": "financial_full_md_chunks_800",
+      "qdrant_chunks": 212
+    }
+  },
+  "dong_anh.md": {
+    "full_report": {
+      "qdrant_collection": "financial_full_md_chunks_800",
+      "qdrant_chunks": 165
+    }
+  },
+  "phong_phu.md": {
+    "full_report": {
+      "qdrant_collection": "financial_full_md_chunks_800",
+      "qdrant_chunks": 219
+    }
+  }
+}

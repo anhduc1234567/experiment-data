@@ -1,0 +1,1 @@
+Dựa trên Bản thuyết minh Báo cáo tài chính [N1], chi phí bán hàng dự án (bao gồm: chi phí hoa hồng môi giới, chi phí thưởng bán hàng,...) được phân bổ vào chi phí tương ứng số căn hộ đã bàn giao cho khách hàng trong năm.

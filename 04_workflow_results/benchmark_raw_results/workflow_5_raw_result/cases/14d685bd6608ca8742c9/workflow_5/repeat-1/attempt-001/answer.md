@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không cung cấp đủ số liệu về chỉ tiêu Hàng tồn kho trên Báo cáo tình hình tài chính tại thời điểm cuối kỳ và đầu năm của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương quý 4/2024 để thực hiện so sánh [C1], [C2], [C3].

@@ -1,0 +1,1 @@
+Vốn góp của Tập đoàn Dệt May Việt Nam vào Tổng công ty Cổ phần Phong Phú tại thời điểm cuối quý 4/2024 là 374.087.960.000 VND (và số đầu năm cũng là 374.087.960.000 VND) [N1].

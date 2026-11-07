@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất từ Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, context hiện tại không chứa thông tin về danh mục các công ty con, lĩnh vực hoạt động của các công ty con hay số liệu tài chính liên quan để đánh giá mức độ đa dạng hóa [C1], [C2], [C3].

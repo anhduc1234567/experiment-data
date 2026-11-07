@@ -1,0 +1,4 @@
+Chính sách kế toán hàng tồn kho của Tổng Công ty Thiết bị điện Đông Anh - Công ty Cổ phần [N1]:
+- **Nguyên tắc ghi nhận:** Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được [N1].
+- **Phương pháp xác định giá gốc:** Được xác định theo phương pháp giá bình quân sau từng lần nhập xuất [N1].
+- **Thành phần chi phí gốc:** Bao gồm chi phí mua, chi phí chế biến và các chi phí liên quan trực tiếp khác để đưa hàng tồn kho đến địa điểm và trạng thái hiện tại. Đối với sản phẩm sản xuất, giá gốc bao gồm chi phí nguyên vật liệu trực tiếp, nhân công trực tiếp và chi phí sản xuất chung tính trên cơ sở hoạt động bình thường [N1].

@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không chứa thông tin chi tiết về thuyết minh các khoản phải thu ngắn hạn và tình hình trích lập dự phòng phải thu ngắn hạn khó đòi tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2], [C3].

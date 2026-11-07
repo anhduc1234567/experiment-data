@@ -1,0 +1,1 @@
+Các thành viên Hội đồng quản trị được bổ nhiệm hoặc tái bổ nhiệm vào ngày 10 tháng 5 năm 2024 bao gồm: Ông Nguyễn Đức Quân giữ chức Chủ tịch (bổ nhiệm), Bà Nguyễn Phương Dung giữ chức Thành viên (bổ nhiệm), Bà Nguyễn Đỗ Hoàng Lan giữ chức Thành viên (bổ nhiệm), Ông Đinh Quốc Đức giữ chức Thành viên (tái bổ nhiệm), và Ông Hồ Xuân Vinh giữ chức Thành viên (tái bổ nhiệm) [C1], [C2].

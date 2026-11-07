@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng cung cấp không đề cập đến số liệu tổng tài sản năm 2024 [C1], [C2], [C3]. Đối với các giao dịch, hợp đồng lớn có giá trị từ 35% tổng tài sản trở lên trong năm 2024, công ty báo cáo là không có [C2].

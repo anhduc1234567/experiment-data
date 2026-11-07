@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn ([C1], [C2]) không chứa thông tin về nguyên giá và hao mòn lũy kế của tài sản cố định hữu hình. Do đó, ngữ cảnh hiện tại thiếu dữ liệu để đánh giá theo kế hoạch tham khảo.

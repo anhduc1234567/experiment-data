@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp, không tìm thấy số liệu về số dư dự phòng phải thu ngắn hạn khó đòi cuối năm 2024 và cuối năm 2023 [C1]. Bằng chứng [C1] chỉ chứa thông tin về "Dự phòng phải thu dài hạn khó đòi (*)" (mã số 219) với số dư là - [C1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp [C1], [C2] không chứa thông tin về giá trị hàng tồn kho cuối kỳ và đầu năm của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần Quý 4 2024. Do đó, không thể xác định số liệu và tính toán sự thay đổi.

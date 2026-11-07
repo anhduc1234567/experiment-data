@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không chứa các đoạn thuyết minh chi tiết về các tiêu chí xác định bên liên quan của Tập đoàn trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, mà chỉ đề cập đến giao dịch với bên liên quan là Tập đoàn Dệt may Việt Nam tại mục Người mua trả tiền trước ngắn hạn [C2].

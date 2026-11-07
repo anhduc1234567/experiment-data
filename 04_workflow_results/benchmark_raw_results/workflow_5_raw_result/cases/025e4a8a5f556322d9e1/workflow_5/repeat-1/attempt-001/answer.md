@@ -1,0 +1,3 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG:
+- Tổng chi phí tài chính (từ dữ liệu chi tiết trong [C1]): Tổng cộng là **58.553.138.851 VND** (Quý IV năm 2024) và **63.578.625.194 VND** (Quý IV năm 2023) [C1].
+- Doanh thu bán hàng và cung cấp dịch vụ (Mã số 01): **73.486.501.074 VND** cho Quý IV năm 2024 và **49.835.041.235 VND** cho Quý IV năm 2023 [C2]. Phần doanh thu thuần (sau khi trừ các khoản giảm trừ doanh thu) Quý IV năm 2024 là **73.486.501.074 VND** (do các khoản giảm trừ doanh thu là `-`) [C2].

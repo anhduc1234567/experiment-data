@@ -1,0 +1,1 @@
+Dựa trên các tài liệu đã truy xuất, Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú có đề cập đến chỉ tiêu "19b. Vay và nợ thuê tài chính dài hạn" [C2], tuy nhiên các đoạn bằng chứng hiện tại (chunk 60 và chunk 188) chưa cung cấp số liệu cụ thể cho chỉ tiêu này cũng như chỉ tiêu "Vay và nợ thuê tài chính ngắn hạn" tại thời điểm cuối kỳ.

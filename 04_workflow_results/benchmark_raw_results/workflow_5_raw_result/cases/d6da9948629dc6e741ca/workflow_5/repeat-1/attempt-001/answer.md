@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, loại báo cáo tài chính được công bố là Báo cáo tài chính hợp nhất [C1].

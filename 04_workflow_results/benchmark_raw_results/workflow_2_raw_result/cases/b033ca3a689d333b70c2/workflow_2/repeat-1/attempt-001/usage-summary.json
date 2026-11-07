@@ -1,0 +1,95 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "totals": {
+    "llm_calls": 8,
+    "calls_missing_usage": 0,
+    "input_tokens": 20881,
+    "output_tokens": 1864,
+    "cached_input_tokens": 0,
+    "reasoning_tokens": 0,
+    "tool_calls": 0
+  },
+  "by_node": {
+    "planner_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1088,
+      "output_tokens": 586,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "table_selection_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 4803,
+      "output_tokens": 41,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "balance_sheet_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 3301,
+      "output_tokens": 20,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "income_statement_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 2145,
+      "output_tokens": 9,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "cash_flow_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 2568,
+      "output_tokens": 19,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "notes_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1430,
+      "output_tokens": 44,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "summary_context_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 4273,
+      "output_tokens": 878,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "final_answer_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1273,
+      "output_tokens": 267,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    }
+  },
+  "estimated_standard_usd_for_recorded_usage": 0.0109243,
+  "pricing_usd_per_million": {
+    "input": 0.3,
+    "cached_input": 0.03,
+    "output": 2.5
+  },
+  "pricing_checked_at": "2026-10-26",
+  "pricing_source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "note": "Provider usage only; missing usage/retries can make totals incomplete. Estimate excludes free tier, batch/priority discounts, cache storage, OCR, and local infrastructure. Reasoning is a subset of output tokens, not added again."
+}

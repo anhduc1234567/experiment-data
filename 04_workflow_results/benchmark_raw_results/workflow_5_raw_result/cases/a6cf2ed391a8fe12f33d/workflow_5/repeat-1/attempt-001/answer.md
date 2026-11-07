@@ -1,0 +1,1 @@
+Các khoản đầu tư nắm giữ đến ngày đáo hạn (ngắn hạn) tại CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là khoản tiền gửi ngân hàng có kỳ hạn từ 6 tháng đến 12 tháng, với giá trị ghi sổ bằng giá gốc [C1].

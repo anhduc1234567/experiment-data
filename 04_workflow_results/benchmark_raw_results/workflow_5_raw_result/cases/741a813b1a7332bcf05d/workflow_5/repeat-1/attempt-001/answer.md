@@ -1,0 +1,1 @@
+Tổng doanh thu bán hàng và cung cấp dịch vụ hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần trong Quý 4 năm 2024 là 1.225.400.771.502 VND và lũy kế từ đầu năm đến cuối quý 4 năm 2024 (Năm 2024) là 2.248.612.114.714 VND [C1], [C2].

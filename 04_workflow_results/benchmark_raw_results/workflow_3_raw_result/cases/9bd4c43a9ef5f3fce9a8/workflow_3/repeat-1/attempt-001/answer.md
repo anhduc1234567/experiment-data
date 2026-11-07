@@ -1,0 +1,5 @@
+Dựa trên Bảng cân đối kế toán Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú:
+- **Phải thu ngắn hạn khác** (Mã số 136, Thuyết minh V.5): Số cuối quý là 54.837.551.162 VND, giảm so với số đầu năm là 136.997.473.022 VND [G1].
+- **Phải thu dài hạn khác** (Mã số 216, Thuyết minh V.5): Số cuối quý là 3.940.070.645 VND, tăng so với số đầu năm là 1.948.001.131 VND [G2].
+
+Về các khoản phải thu hợp tác kinh doanh và thuyết minh chi tiết: Context không cung cấp đầy đủ bảng Thuyết minh V.5 chi tiết về các khoản phải thu hợp tác kinh doanh và đối tác liên quan, ngoại trừ một số liệu lẻ trong đoạn trích [N2] đề cập đến "Tổng Công ty Nông Nghiệp Sài Gòn TNHH MTV - Phải thu tiền hợp tác kinh doanh của Dự án Tăng Phú House: 307.066.666". Do thiếu dữ liệu toàn diện trong context, không thể phân tích sâu hơn về quy mô, cơ cấu và rủi ro tín dụng của các khoản hợp tác kinh doanh này.

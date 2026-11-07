@@ -1,0 +1,1 @@
+Tiền và tương đương tiền cuối kỳ tại ngày 31 tháng 12 năm 2024 là 143.694.292.293 VND [G1, G2].

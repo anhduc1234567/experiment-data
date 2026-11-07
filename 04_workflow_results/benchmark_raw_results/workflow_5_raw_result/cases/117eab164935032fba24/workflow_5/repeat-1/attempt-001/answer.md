@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư của Tổng Công ty Cổ phần Phong Phú trong Báo cáo tài chính Quý 4/2024 đạt 16.369.226.038 đồng (lũy kế 144.518.213.558 đồng) [C1]. Tuy nhiên, bằng chứng hiện tại không cung cấp đủ số liệu về dòng tiền thuần tổng cộng để đánh giá toàn diện [C1], [C2].

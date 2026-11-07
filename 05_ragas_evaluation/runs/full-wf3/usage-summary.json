@@ -1,0 +1,38 @@
+{
+  "context_precision": {
+    "requests": 1056,
+    "prompt_tokens": 2257203,
+    "completion_tokens": 87913,
+    "total_tokens": 2365310
+  },
+  "all": {
+    "requests": 4003,
+    "prompt_tokens": 8920572,
+    "completion_tokens": 626995,
+    "total_tokens": 9691070
+  },
+  "context_recall": {
+    "requests": 421,
+    "prompt_tokens": 1666842,
+    "completion_tokens": 135280,
+    "total_tokens": 1802122
+  },
+  "faithfulness": {
+    "requests": 842,
+    "prompt_tokens": 1769413,
+    "completion_tokens": 391778,
+    "total_tokens": 2161626
+  },
+  "context_relevance": {
+    "requests": 842,
+    "prompt_tokens": 2341163,
+    "completion_tokens": 6567,
+    "total_tokens": 2415269
+  },
+  "answer_accuracy": {
+    "requests": 842,
+    "prompt_tokens": 885951,
+    "completion_tokens": 5457,
+    "total_tokens": 946743
+  }
+}

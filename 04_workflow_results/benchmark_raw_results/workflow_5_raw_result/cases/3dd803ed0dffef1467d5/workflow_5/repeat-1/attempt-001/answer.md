@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú không chứa thông tin hoặc điều kiện, tiêu chí để xác định khi nào một doanh nghiệp được coi là công ty con của Tập đoàn Phong Phú [C1], [C2], [C3].

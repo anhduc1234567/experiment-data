@@ -1,0 +1,1 @@
+Giá trị còn lại của lợi thế thương mại tại cuối kỳ (31/12/2024) là **6.889.138.340 VND** (Mã số 269, Thuyết minh V.12) [G1], [N1].

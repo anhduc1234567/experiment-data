@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng được cung cấp không chứa chỉ tiêu tổng hợp "Tổng tài sản dài hạn" tại thời điểm cuối Quý 4 năm 2024 [C1], [C2], [C3]. Do đó, phần bằng chứng hiện tại thiếu số liệu để trả lời trực tiếp cho chỉ tiêu này.

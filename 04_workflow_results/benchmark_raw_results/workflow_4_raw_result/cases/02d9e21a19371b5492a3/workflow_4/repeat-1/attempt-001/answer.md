@@ -1,0 +1,1 @@
+Dựa trên các tài liệu đã cung cấp, bằng chứng hiện tại chỉ đề cập đến chi phí trả trước ngắn hạn (Cuối quý: 5.274.966.011 VND, Đầu năm: 4.012.022.519 VND) [C1], nhưng chưa cung cấp số liệu cụ thể cho chi phí trả trước dài hạn tại thời điểm cuối quý IV năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn.

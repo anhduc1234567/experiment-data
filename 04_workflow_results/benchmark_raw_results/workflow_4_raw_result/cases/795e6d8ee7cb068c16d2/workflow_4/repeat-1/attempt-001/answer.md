@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk C1 và C2) không chứa thông tin về số dư nợ ngắn hạn và tổng nợ phải trả tại thời điểm cuối quý 4 năm 2024 trên Bảng cân đối kế toán hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần. Do đó, phần này đang bị thiếu trong dữ liệu.

@@ -1,0 +1,1 @@
+Phương pháp khấu hao tài sản cố định hữu hình mà Tổng Công ty áp dụng là phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính [N1].

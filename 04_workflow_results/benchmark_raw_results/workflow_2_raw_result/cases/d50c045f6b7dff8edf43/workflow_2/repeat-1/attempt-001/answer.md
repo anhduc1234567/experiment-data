@@ -1,0 +1,4 @@
+- Giá gốc hàng tồn kho (Mã số 141) tại thời điểm cuối kỳ (31/12/2024) là 607.962.909.452 VND, số đầu năm (01/01/2024) là 605.029.837.217 VND [G1].
+- Chênh lệch tuyệt đối: 607.962.909.452 - 605.029.837.217 = +2.933.072.235 VND.
+- Tỷ lệ phần trăm thay đổi: (2.933.072.235 / 605.029.837.217) * 100 \u2248 +0,48%.
+- Ý nghĩa: Giá gốc hàng tồn kho tăng nhẹ không đáng kể giữa đầu năm và cuối kỳ, phản ánh quy mô dự trữ hàng hóa của công ty được duy trì ổn định.

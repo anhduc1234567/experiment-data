@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất ([C1], [C2]) chỉ đề cập đến thuyết minh về phương pháp kế toán Hàng tồn kho trên Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, nhưng hoàn toàn thiếu số liệu cụ thể về số dư cuối kỳ của chỉ tiêu Hàng tồn kho. Do đó, không thể cung cấp số liệu theo yêu cầu.

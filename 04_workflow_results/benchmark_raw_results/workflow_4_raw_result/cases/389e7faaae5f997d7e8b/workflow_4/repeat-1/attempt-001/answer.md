@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (chunk 119) [C1] tại phần "1. Tiền và các khoản tương đương tiền" thuộc Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Cổ phần Phong Phú chưa cung cấp số liệu cụ thể cho chỉ tiêu này (phần số liệu bị thiếu trong văn bản). Do đó, không thể xác định được số liệu Tiền và các khoản tương đương tiền cuối kỳ năm 2024 [C1].

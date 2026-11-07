@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk C1, C2, C3) đề cập đến mục "4.3 Trả trước cho người bán ngắn hạn" nhưng thiếu số liệu chi tiết về số dư khoản trả trước cho người bán ngắn hạn tại thời điểm cuối năm 2023 và cuối năm 2024 trên Bảng cân đối kế toán hợp nhất và Thuyết minh chi tiết [C1], [C2], [C3].

@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) có đề cập đến các khoản phải trả người lao động [C1], chi phí phải trả ngắn hạn [C1], phải trả dài hạn khác [18b] và thuyết minh liên quan [C2], tuy nhiên **thiếu số liệu cụ thể** về các khoản phải trả ngắn hạn khác cũng như nguyên nhân tăng và biện pháp quản lý theo yêu cầu.

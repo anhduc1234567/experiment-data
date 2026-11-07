@@ -1,0 +1,1 @@
+Chi phí đi vay được vốn hóa vào nguyên giá tài sản khi chúng là chi phí đi vay liên quan trực tiếp đến việc mua, đầu tư xây dựng hoặc sản xuất những tài sản cần một thời gian tương đối dài để hoàn thành đưa vào sử dụng hoặc kinh doanh. Các khoản chi phí này sẽ được cộng vào nguyên giá tài sản cho đến khi tài sản đó được đưa vào sử dụng hoặc kinh doanh [N1].

@@ -1,0 +1,1 @@
+Chu kỳ sản xuất kinh doanh của hoạt động chuyển nhượng bất động sản của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG thường trên 12 tháng [C1, C2]. Chu kỳ này bắt đầu từ thời điểm xin giấy phép đầu tư, thực hiện giải phóng mặt bằng, xây dựng cơ bản cho đến thời điểm hoàn thiện [C2].

@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế đến cuối quý 4 năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn thiếu dữ liệu trong bằng chứng [C1] do nội dung bị cắt ngang.

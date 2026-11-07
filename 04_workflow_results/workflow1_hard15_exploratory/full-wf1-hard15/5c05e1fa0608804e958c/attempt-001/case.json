@@ -1,0 +1,11 @@
+{
+  "case_id": "5c05e1fa0608804e958c",
+  "question_number": 21,
+  "question": "Phân tích rủi ro tiềm ẩn khi dự phòng phải thu ngắn hạn khó đòi tăng lên đáng kể.",
+  "reference": "Dự phòng phải thu ngắn hạn khó đòi tăng từ 1.776.021.051 VND đầu năm lên 2.905.382.051 VND cuối kỳ, cho thấy sự gia tăng đáng kể. Điều này tiềm ẩn rủi ro tài chính vì nó phản ánh khả năng công ty không thu hồi được các khoản nợ từ khách hàng hoặc các bên khác. Sự gia tăng này có thể cho thấy chất lượng tín dụng của các khoản phải thu đang xấu đi, hoặc chính sách trích lập dự phòng của công ty thận trọng hơn. Nếu các khoản này thực sự trở thành nợ khó đòi, công ty sẽ phải ghi nhận tổn thất, ảnh hưởng đến lợi nhuận và dòng tiền, đồng thời làm giảm tài sản.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0002",
+  "source_file": "dau_tu_APEC.md",
+  "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+  "selection_topic": "Rủi ro phải thu"
+}

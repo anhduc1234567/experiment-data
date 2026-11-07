@@ -1,0 +1,4 @@
+- Lợi nhuận sau thuế TNDN (Mã số 60) quý IV/2024 (Năm nay): 29.990.104.893 VNĐ [G1].
+- Lợi nhuận sau thuế TNDN (Mã số 60) quý IV/2023 (Năm trước): 1.962.616.478 VNĐ [G1].
+- Phép tính tỷ lệ tăng trưởng: ((29.990.104.893 - 1.962.616.478) / 1.962.616.478) * 100% = 1.428,21%.
+- Nhận xét: Lợi nhuận sau thuế TNDN giữa quý IV/2024 tăng mạnh so với quý IV/2023, phản ánh hiệu quả hoạt động kinh doanh trong kỳ tăng trưởng rất cao [G1].

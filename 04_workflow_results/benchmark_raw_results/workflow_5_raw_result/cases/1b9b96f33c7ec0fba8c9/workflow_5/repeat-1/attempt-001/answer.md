@@ -1,0 +1,1 @@
+Chi phí bán hàng hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần trong Quý 4 năm 2024 là 32.353.556.234 VND [C1].

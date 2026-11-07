@@ -1,0 +1,1 @@
+Vốn góp của chủ sở hữu (Mã số 411) của CTCP Thiết bị điện Đông Anh tại ngày 31/12/2024 là 324.863.920.000 VND [G1].

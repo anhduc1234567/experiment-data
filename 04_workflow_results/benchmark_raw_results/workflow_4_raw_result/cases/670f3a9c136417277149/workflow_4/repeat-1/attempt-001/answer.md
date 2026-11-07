@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa bảng Thuyết minh chi tiết về tài sản cố định hữu hình và vô hình (bao gồm số liệu nguyên giá đầu năm, tăng trong năm và cuối năm của từng khoản mục) để xác định khoản mục nào có mức tăng nguyên giá lớn nhất. Do đó, ngữ cảnh hiện tại thiếu dữ liệu để trả lời câu hỏi [C1], [C2].

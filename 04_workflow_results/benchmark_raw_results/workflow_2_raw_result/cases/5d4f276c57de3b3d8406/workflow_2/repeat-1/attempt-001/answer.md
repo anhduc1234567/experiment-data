@@ -1,0 +1,1 @@
+Tổng các khoản phải trả người bán ngắn hạn cuối kỳ (tại ngày 31/12/2024) là 264.764.073.637 VND [G1].

@@ -1,0 +1,1 @@
+Thuế suất thuế thu nhập doanh nghiệp áp dụng cho Tổng Công ty là 20% lợi nhuận thu được từ tất cả các hoạt động kinh doanh [N1].

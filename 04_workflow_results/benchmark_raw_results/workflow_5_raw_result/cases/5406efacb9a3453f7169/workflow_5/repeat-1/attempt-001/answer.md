@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1], [C2], [C3]) không chứa thông tin về các khoản dự phòng phải trả ngắn hạn và dài hạn, đặc biệt là dự phòng bảo hành sản phẩm trên Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị điện Đông Anh.

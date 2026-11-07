@@ -1,0 +1,1 @@
+Kỳ kế toán quý 4 năm 2024 của Công ty được bắt đầu từ ngày 01 tháng 10 và kết thúc vào ngày 31 tháng 12 năm dương lịch [N1].

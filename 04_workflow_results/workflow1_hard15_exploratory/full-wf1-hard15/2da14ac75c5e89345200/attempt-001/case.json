@@ -1,0 +1,11 @@
+{
+  "case_id": "2da14ac75c5e89345200",
+  "question_number": 188,
+  "question": "Đánh giá rủi ro phụ thuộc vào các bên liên quan dựa trên cấu trúc các khoản phải thu/phải trả hiện tại.",
+  "reference": "Cấu trúc các khoản phải thu và phải trả hiện tại cho thấy công ty có mức độ phụ thuộc đáng kể vào các bên liên quan. Cụ thể, các khoản phải thu ngắn hạn từ các bên liên quan chiếm tới khoảng 70.60% tổng phải thu của khách hàng, tạo ra rủi ro tập trung nếu các bên này gặp vấn đề về tài chính. Ngược lại, khoản mục người mua trả tiền trước ngắn hạn từ các bên liên quan cũng chiếm tỷ lệ rất cao (khoảng 85.34%), mang lại lợi ích lớn về thanh khoản. Sự phụ thuộc này có thể mang lại sự ổn định trong quan hệ kinh doanh nhưng đồng thời cũng tiềm ẩn rủi ro nếu có bất kỳ thay đổi nào trong mối quan hệ hoặc khả năng tài chính của các bên liên quan, gây ảnh hưởng đến hoạt động và dòng tiền của công ty.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0025",
+  "source_file": "dong_anh.md",
+  "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+  "selection_topic": "Rủi ro bên liên quan"
+}

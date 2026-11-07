@@ -1,0 +1,1 @@
+Tại thời điểm cuối Quý 4/2024 (31/12/2024), Công ty Cổ phần Khoáng sản Bắc Kạn có số dư tiền gửi ngân hàng không kỳ hạn là 143.585.616.557 VND [C2], và tổng tiền và các khoản tương đương tiền là 143.694.292.293 VND [C2, C3] (Trang 8 [C2]).

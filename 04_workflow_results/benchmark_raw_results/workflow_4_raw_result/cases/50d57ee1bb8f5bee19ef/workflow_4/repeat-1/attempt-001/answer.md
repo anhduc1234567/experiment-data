@@ -1,0 +1,1 @@
+Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần thiếu dữ liệu về chi phí bán hàng và chi phí quản lý doanh nghiệp, do đó không đủ bằng chứng để tính toán tỷ lệ chi phí trên doanh thu theo yêu cầu [C1], [C2].

@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp, bằng chứng không chứa thông tin chi tiết về các khoản phải thu từ các bên liên quan tại thời điểm cuối kỳ trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, mà chỉ cung cấp thông tin về các khoản vay và nợ thuê tài chính ngắn hạn/dài hạn phải trả các bên liên quan [C2, C3].

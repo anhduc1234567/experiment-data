@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần, số liệu về thuế thu nhập cá nhân được ghi nhận tại thuyết minh như sau: số đầu năm là 14.510.488 đồng và số cuối kỳ là 30.707.702 đồng [C2].

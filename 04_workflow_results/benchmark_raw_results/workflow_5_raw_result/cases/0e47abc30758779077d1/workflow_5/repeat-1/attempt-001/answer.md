@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất, tài liệu không cung cấp thông tin chi tiết về thuế suất giá trị gia tăng (GTGT) áp dụng cho các sản phẩm và dịch vụ của Tổng Công ty. Tài liệu chỉ đề cập đến nghĩa vụ nộp thuế Thu nhập Doanh nghiệp (TNDN) với thuế suất bằng 20% lợi nhuận thu được từ tất cả các hoạt động kinh doanh trong năm 2024 [C2].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) thiếu thông tin về mệnh giá một cổ phiếu đang lưu hành [C1], [C2].

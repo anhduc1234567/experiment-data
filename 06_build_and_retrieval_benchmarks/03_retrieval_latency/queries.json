@@ -1,0 +1,74 @@
+[
+  {
+    "metadata": {
+      "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG",
+      "report_type": "Báo cáo tài chính riêng",
+      "report_time": "Quý 4/2024",
+      "file_id": "dau_tu_APEC.md",
+      "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+      "sector": "Bất động sản"
+    },
+    "graph": {
+      "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG",
+      "time": "Quý 4/2024",
+      "type_report": "Báo cáo tài chính riêng",
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN NGẮN HẠN"
+    },
+    "query": "đầu tư tài chính ngắn hạn chứng khoán kinh doanh"
+  },
+  {
+    "metadata": {
+      "company_name": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN",
+      "report_type": "BÁO CÁO TÀI CHÍNH HỢP NHẤT",
+      "report_time": "Quý 4 2024",
+      "file_id": "dong_anh.md",
+      "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+      "sector": "Công nghiệp"
+    },
+    "graph": {
+      "company_name": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN",
+      "time": "Quý 4 2024",
+      "type_report": "BÁO CÁO TÀI CHÍNH HỢP NHẤT",
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN NGẮN HẠN"
+    },
+    "query": "thuyết minh hàng tồn kho dự phòng giảm giá hàng tồn kho"
+  },
+  {
+    "metadata": {
+      "company_name": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ",
+      "report_type": "Báo cáo tài chính",
+      "report_time": "Quý 4/2024",
+      "file_id": "phong_phu.md",
+      "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+      "sector": "Hàng tiêu dùng thiết yếu"
+    },
+    "graph": {
+      "company_name": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ",
+      "time": "Quý 4/2024",
+      "type_report": "Báo cáo tài chính",
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN NGẮN HẠN"
+    },
+    "query": "Hàng hoá tồn kho chi tiết"
+  },
+  {
+    "metadata": {
+      "company_name": "Công ty Cổ phần Khoáng sản Bắc Kạn",
+      "report_type": "Báo cáo tài chính",
+      "report_time": "Quý 4/2024",
+      "file_id": "BKC_24Q4.md",
+      "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+      "sector": "Nguyên vật liệu"
+    },
+    "graph": {
+      "company_name": "Công ty Cổ phần Khoáng sản Bắc Kạn",
+      "time": "Quý 4/2024",
+      "type_report": "Báo cáo tài chính",
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN NGẮN HẠN"
+    },
+    "query": "giao dịch lớn bên liên quan hợp đồng giao dịch 35% tài sản"
+  }
+]

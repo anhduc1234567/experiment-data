@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không đủ để xác định số liệu về các khoản vay và nợ thuê tài chính ngắn hạn, tổng nợ phải trả và vốn chủ sở hữu trên Báo cáo tình hình tài chính Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG [C1], [C2].

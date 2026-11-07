@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp nêu rõ các quy định kế toán đối với tài sản cố định vô hình và tài sản cố định thuê tài chính của Tổng Công ty Cổ phần Phong Phú trong Báo cáo tài chính Quý 4/2024 [C1], [C2], nhưng không chứa số liệu cụ thể về giá trị của các khoản mục này trên bảng cân đối kế toán hoặc thuyết minh.

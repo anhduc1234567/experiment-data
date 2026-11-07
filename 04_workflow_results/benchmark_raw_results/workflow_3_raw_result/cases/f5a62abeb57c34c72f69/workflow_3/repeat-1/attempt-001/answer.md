@@ -1,0 +1,1 @@
+Báo cáo tài chính hợp nhất được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc và phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Việt Nam và các quy định hiện hành khác về kế toán tại Việt Nam [N1].

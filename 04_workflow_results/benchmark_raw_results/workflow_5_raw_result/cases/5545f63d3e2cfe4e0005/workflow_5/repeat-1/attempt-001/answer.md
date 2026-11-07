@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất từ Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần [C2] không cung cấp đầy đủ số liệu về chỉ tiêu tài sản cố định hữu hình cuối quý. Do đó, context thiếu thông tin và không chứng minh được kết luận về số liệu này.

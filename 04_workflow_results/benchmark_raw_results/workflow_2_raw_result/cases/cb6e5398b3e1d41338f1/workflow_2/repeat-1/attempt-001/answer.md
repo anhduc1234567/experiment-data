@@ -1,0 +1,1 @@
+Thuế GTGT được khấu trừ cuối kỳ (tại ngày 31/12/2024) của TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN là **3.824.125.418 VND** (Mã số 152, Thuyết minh VI.17b) [G1].

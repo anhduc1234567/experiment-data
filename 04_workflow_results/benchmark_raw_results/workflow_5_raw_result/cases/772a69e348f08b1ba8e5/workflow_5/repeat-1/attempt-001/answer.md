@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng được cung cấp không đầy đủ để xác định tổng số liệu "Lưu chuyển tiền thuần trong kỳ" và cùng kỳ năm trước [C3]. Do đó, không đủ cơ sở để tính toán sự thay đổi.

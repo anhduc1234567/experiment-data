@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4 năm 2024 tại ngày 31/12/2024: - Tổng nợ phải trả (Mã số 300): 1.263.424.086.462 VND [G1]. - Vốn chủ sở hữu (Mã số 400): 630.248.222.611 VND [G2]. Tỷ lệ nợ trên vốn chủ sở hữu (D/E ratio) cuối quý 4 năm 2024 là: 1.263.424.086.462 / 630.248.222.611 = 2,00 (lần).

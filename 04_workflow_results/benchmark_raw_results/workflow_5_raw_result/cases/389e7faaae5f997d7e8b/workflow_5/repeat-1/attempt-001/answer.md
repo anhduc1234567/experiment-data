@@ -1,0 +1,1 @@
+Số dư khoản mục Tiền và các khoản tương đương tiền hợp nhất tại thời điểm cuối quý 4/2024 (ngày 31 tháng 12 năm 2024) của Tổng Công ty Cổ phần Phong Phú là 123.381.740.914 VND [C1].

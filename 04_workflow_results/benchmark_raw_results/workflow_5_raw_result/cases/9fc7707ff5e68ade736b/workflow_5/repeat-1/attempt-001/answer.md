@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã truy xuất, tài liệu không nêu rõ tên cụ thể của công ty con nào hoạt động trong lĩnh vực sản xuất, kinh doanh bông, sợi có địa bàn tại TP. Thủ Đức, mà chỉ ghi nhận địa chỉ tại số 48 Tăng Nhơn Phú, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh với ngành nghề "Sản xuất, mua bán bông, xơ, sợi" [C1].

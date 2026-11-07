@@ -1,0 +1,11 @@
+{
+  "case_id": "aeb525cba1a08776b96f",
+  "question_number": 173,
+  "question": "Phân tích tác động của sự gia tăng mạnh của hàng tồn kho đến thanh khoản và hiệu quả hoạt động của công ty.",
+  "reference": "Hàng tồn kho của công ty đã tăng mạnh từ 527.637.100.349 VND cuối năm 2023 lên 717.226.300.892 VND cuối năm 2024. Sự gia tăng này có thể có tác động đến thanh khoản và hiệu quả hoạt động. Về thanh khoản, nó làm \\đóng băng\\ một lượng vốn lưu động lớn, giảm lượng tiền mặt sẵn có. Về hiệu quả hoạt động, hàng tồn kho tăng có thể dẫn đến chi phí lưu kho cao hơn, tăng rủi ro lỗi thời, hư hỏng hoặc giảm giá trị, nếu không được quản lý hiệu quả có thể ảnh hưởng đến lợi nhuận của công ty.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0023",
+  "source_file": "dong_anh.md",
+  "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+  "selection_topic": "Tồn kho và thanh khoản"
+}

@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không có thông tin về chỉ tiêu tổng số Tài sản cố định hữu hình trên Bảng cân đối kế toán Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, mà chỉ ghi nhận giá trị còn lại chi tiết theo các khoản mục tại Thuyết minh [C2].

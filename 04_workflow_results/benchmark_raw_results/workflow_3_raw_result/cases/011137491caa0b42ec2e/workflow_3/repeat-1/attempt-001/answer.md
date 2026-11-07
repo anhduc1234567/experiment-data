@@ -1,0 +1,1 @@
+Chi phí thuế thu nhập doanh nghiệp hiện hành của năm 2024 (lũy kế từ đầu năm đến cuối quý này Năm nay) là 36.173.937.439 VND [G1].

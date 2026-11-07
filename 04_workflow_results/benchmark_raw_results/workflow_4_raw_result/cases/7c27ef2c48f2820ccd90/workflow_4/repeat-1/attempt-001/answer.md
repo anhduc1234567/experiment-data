@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2], [C3]) không chứa thông tin về tổng số liệu của chỉ tiêu "Tổng tài sản dài hạn" tại thời điểm cuối quý 4 năm 2024 trên bảng cân đối kế toán hợp nhất.

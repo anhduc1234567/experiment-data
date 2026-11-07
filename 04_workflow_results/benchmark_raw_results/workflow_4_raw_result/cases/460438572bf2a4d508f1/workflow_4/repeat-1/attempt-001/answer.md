@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, trong năm 2024, chi phí lãi vay là 27.525.674.895 VND và tổng chi phí tài chính (Cộng) là 34.073.782.949 VND [C1]. Tỷ lệ chi phí lãi vay trên tổng chi phí tài chính năm 2024 là: (27.525.674.895 / 34.073.782.949) * 100% ≈ 80,79% [C1].

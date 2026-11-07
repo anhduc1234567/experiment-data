@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, các bên liên quan bao gồm các Công ty thuộc Tập đoàn Điện lực Việt Nam, các cổ đông góp vốn, các thành viên trong Hội đồng Quản trị và Ban Giám đốc của Tổng Công ty [C3].

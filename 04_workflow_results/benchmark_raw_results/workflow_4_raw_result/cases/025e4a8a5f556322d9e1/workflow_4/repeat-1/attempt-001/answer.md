@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo kết quả hoạt động kinh doanh quý 4/2024 (Báo cáo tài chính riêng của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG) thiếu dữ liệu về chi phí tài chính và doanh thu thuần (chỉ có chỉ tiêu doanh thu bán hàng và cung cấp dịch vụ và các khoản giảm trừ doanh thu) [C2], do đó không đủ cơ sở để tính tỷ lệ chi phí tài chính trên doanh thu thuần.

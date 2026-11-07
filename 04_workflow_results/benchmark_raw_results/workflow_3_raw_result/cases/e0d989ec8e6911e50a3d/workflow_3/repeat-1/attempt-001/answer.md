@@ -1,0 +1,1 @@
+Dựa trên Thuyết minh Báo cáo tài chính Quý 4 2024, cổ đông chính của Tổng Công ty là Tập đoàn Điện lực Việt Nam ("EVN") nắm giữ tỷ lệ sở hữu là **46,49%** vốn điều lệ, trong khi các cổ đông khác nắm giữ **53,51%** vốn điều lệ [N1]. Context không cung cấp thêm danh sách chi tiết hay tỷ lệ sở hữu của các cổ đông chính khác.

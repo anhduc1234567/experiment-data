@@ -1,0 +1,1 @@
+Tổng tiền (bao gồm tiền mặt tại quỹ và tiền gửi ngân hàng) cuối kỳ (tại ngày 31/12/2024) là chỉ tiêu "Tiền" (Mã số 111) trên Bảng cân đối kế toán hợp nhất Quý 4/2024 với số tiền là **72.781.740.914 VND** [G1].

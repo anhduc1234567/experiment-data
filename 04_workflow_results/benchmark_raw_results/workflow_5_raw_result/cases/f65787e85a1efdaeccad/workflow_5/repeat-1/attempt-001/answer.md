@@ -1,0 +1,3 @@
+Các chính sách kế toán liên quan đến việc ghi nhận doanh thu, lãi và cổ tức từ chứng khoán kinh doanh tại Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (Báo cáo tài chính riêng Quý 4/2024) như sau:
+* Lãi hoặc lỗ từ việc chuyển nhượng chứng khoán kinh doanh được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính; giá vốn được xác định theo phương pháp bình quân gia quyền di động [C1, trang 12].
+* Cổ tức và lợi nhuận được chia tính cho năm tài chính được ghi nhận dựa trên tỷ lệ sở hữu vốn điều lệ của Công ty so với tổng số vốn điều lệ thực góp [C1, trang 12].

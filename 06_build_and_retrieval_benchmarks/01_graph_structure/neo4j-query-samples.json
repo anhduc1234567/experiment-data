@@ -1,0 +1,132 @@
+{
+  "counts": [
+    {
+      "label": "Company",
+      "count": 16
+    },
+    {
+      "label": "Report",
+      "count": 19
+    },
+    {
+      "label": "Section",
+      "count": 90
+    },
+    {
+      "label": "Sector",
+      "count": 8
+    },
+    {
+      "label": "Subsection",
+      "count": 192
+    },
+    {
+      "label": "Time",
+      "count": 9
+    }
+  ],
+  "notes_check": {
+    "notes_sections": 18,
+    "notes_with_text": 0,
+    "notes_subsections": 0
+  },
+  "samples": [
+    {
+      "file_id": "dau_tu_APEC.md",
+      "metadata": {
+        "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG",
+        "report_type": "Báo cáo tài chính riêng",
+        "report_time": "Quý 4/2024",
+        "sector": "Bất động sản",
+        "file_id": "dau_tu_APEC.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/dau_tu_APEC.md/normalized.json",
+        "normalized_sha256": "dedffc47a9a3e55c1f4883e99d4bb98461e88b9711bec6504fffe278cb2d6b85",
+        "graph_status": "verified",
+        "qdrant_status": "pending",
+        "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+        "created_at": "2026-10-26T15:13:25.213930+00:00"
+      },
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN NGẮN HẠN",
+      "rows": [
+        {
+          "company": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG",
+          "report_type": "Báo cáo tài chính riêng",
+          "table_structure": "# BẢNG CÂN ĐỐI KẾ TOÁN\nTại ngày 31 tháng 12 năm 2024\nĐơn vị tính: VND\n| TÀI SẢN                                             | Mã số | Thuyết minh | Số cuối năm     | Số đầu năm        |\n| --------------------------------------------------- | ----- | ----------- | --------------- | ----------------- |",
+          "pages": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "time": "Quý 4/2024",
+          "raw_text": "| A - TÀI SẢN NGẮN HẠN                                | 100   |             | 984.330.724.539 | 1.045.015.266.013 |\n| I. Tiền và các khoản tương đương tiền               | 110   | V.1         | 97.964.405.114  | 60.575.342.749    |\n| 1. Tiền                                             | 111   |             | 17.964.405.114  | 18.575.342.749    |\n| 2. Các khoản tương đương tiền                       | 112   |             | 80.000.000.000  | 42.000.000.000    |\n| II. Đầu tư tài chính ngắn hạn                       | 120   |             | 39.734.935.971  | 37.792.275.971    |\n| 1. Chứng khoán kinh doanh                           | 121   | V.2a        | 6.764.115.000   | 6.764.115.000     |\n| 2. Dự phòng giảm giá chứng khoán kinh doanh         | 122   | V.2a        | (5.054.591.307) | (5.017.251.307)   |\n| 3. Đầu tư nắm giữ đến ngày đáo hạn                  | 123   | V.2b        | 38.025.412.278  | 36.045.412.278    |\n| III. Các khoản phải thu ngắn hạn                    | 130   |             | 362.793.062.285 | 401.680.516.983   |\n| 1. Phải thu ngắn hạn của khách hàng                 | 131   | V.3a        | 83.697.533.531  | 84.342.831.550    |\n| 2. Trả trước cho người bán ngắn hạn                 | 132   | V.4         | 11.748.605.329  | 17.709.353.952    |\n| 3. Phải thu nội bộ ngắn hạn                         | 133   |             | -               | -                 |\n| 4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng | 134   |             | -               | -                 |\n| 5. Phải thu về cho vay ngắn hạn                     | 135   | V.5         | 85.566.500.000  | 124.566.500.000   |\n| 6. Phải thu ngắn hạn khác                           | 136   | V.6a        | 184.685.805.476 | 176.837.852.532   |\n| 7. Dự phòng phải thu ngắn hạn khó đòi               | 137   |             | (2.905.382.051) | (1.776.021.051)   |\n| 8. Tài sản thiếu chờ xử lý                          | 139   |             | -               | -                 |\n| IV. Hàng tồn kho                                    | 140   |             | 474.117.608.966 | 528.207.406.021   |\n| 1. Hàng tồn kho                                     | 141   | V.7         | 474.117.608.966 | 528.207.406.021   |\n| 2. Dự phòng giảm giá hàng tồn kho                   | 149   |             | -               | -                 |\n| V. Tài sản ngắn hạn khác                            | 150   |             | 9.720.712.203   | 16.759.724.289    |\n| 1. Chi phí trả trước ngắn hạn                       | 151   |             | -               | -                 |\n| 2. Thuế giá trị gia tăng được khấu trừ              | 152   |             | 8.454.392.750   | 16.759.724.289    |\n| 3. Thuế và các khoản khác phải thu Nhà nước         | 153   | V.15        | 1.266.319.453   | -                 |\n| 4. Giao dịch mua bán lại trái phiếu Chính phủ       | 154   |             | -               | -                 |\n| 5. Tài sản ngắn hạn khác                            | 155   |             | -               | -                 |\nBáo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính\n Trang 3\n# CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á - THÁI BÌNH DƯƠNG\nĐịa chỉ: Tầng 3, tòa nhà Grand Plaza, 117 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội\nBÁO CÁO TÀI CHÍNH\nQUÝ IV/2024\nBảng cân đối kế toán (tiếp theo)\n| TÀI SẢN                                         | Mã số | Thuyết minh | Số cuối năm       | Số đầu năm        |\n| ----------------------------------------------- | ----- | ----------- | ----------------- | ----------------- |"
+        }
+      ]
+    },
+    {
+      "file_id": "BAC.md",
+      "metadata": {
+        "company_name": "Ngân hàng Thương mại Cổ phần Bắc Á",
+        "report_type": "Báo cáo tài chính riêng lẻ giữa niên độ",
+        "report_time": "Bán niên",
+        "sector": "Ngân hàng",
+        "file_id": "BAC.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/BAC.md/normalized.json",
+        "normalized_sha256": "eb0b45b3e0cba20c628fd06e78b978345b387229812fa8614d1ee01915d51b70",
+        "graph_status": "verified",
+        "qdrant_status": "pending",
+        "report_id": "Ngân hàng Thương mại Cổ phần Bắc Á|Báo cáo tài chính riêng lẻ giữa niên độ|Bán niên",
+        "created_at": "2026-10-26T15:13:25.213930+00:00"
+      },
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "TÀI SẢN",
+      "rows": [
+        {
+          "company": "Ngân hàng Thương mại Cổ phần Bắc Á",
+          "report_type": "Báo cáo tài chính riêng lẻ giữa niên độ",
+          "table_structure": "Biểu số: B02a/TCTD\n**BÁO CÁO TÌNH HÌNH TÀI CHÍNH RIÊNG LẺ GIỮA NIÊN ĐỘ**\ntại ngày 31 tháng 12 năm 2024\n|                                                            | Thuyết minh | 31/12/2024triệu đồng | 31/12/2023triệu đồng |\n| ---------------------------------------------------------- | ----------- | -------------------- | -------------------- |",
+          "pages": [
+            3,
+            4,
+            5
+          ],
+          "time": "Bán niên",
+          "raw_text": "| **TÀI SẢN**                                                |             |                      |                      |\n| **Tiền mặt, vàng bạc, đá quý**                             | **3**       | **566.449**          | **616.434**          |\n| **Tiền gửi tại Ngân hàng Nhà nước Việt Nam (\"NHNN\")**      | **4**       | **798.225**          | **887.264**          |\n| **Tiền gửi và cho vay các tổ chức tín dụng (\"TCTD\") khác** | **5**       | **16.023.622**       | **15.362.500**       |\n| Tiền gửi tại TCTD khác                                     | 5.1         | 12.454.527           | 13.602.238           |\n| Cho vay các TCTD khác                                      |             | 3.569.095            | 1.760.262            |\n| Dự phòng rủi ro cho vay các TCTD khác                      |             |                      |                      |\n| **Chứng khoán kinh doanh**                                 | **6**       | **24.599.926**       | **20.992.851**       |\n| Chứng khoán kinh doanh                                     |             | 24.599.926           | 20.992.851           |\n| Dự phòng rủi ro chứng khoán kinh doanh                     |             |                      |                      |\n| **Các công cụ TC phái sinh và các tài sản TC khác**        | **7**       | **184.066**          |                      |\n| **Cho vay khách hàng**                                     |             | **108.228.371**      | **98.654.289**       |\n| Cho vay khách hàng                                         | 8           | 109.552.804          | 99.853.975           |\n| Dự phòng rủi ro cho vay khách hàng                         | 9           | (1.324.433)          | (1.199.686)          |\n| **Chứng khoán đầu tư**                                     | **10**      | **9.380.559**        | **10.548.824**       |\n| Chứng khoán đầu tư sẵn sàng để bán                         |             | 9.400.555            | 10.570.319           |\n| Chứng khoán đầu tư giữ đến ngày đáo hạn                    |             |                      |                      |\n| Dự phòng rủi ro chứng khoán đầu tư                         |             | (19.996)             | (21.495)             |\n| **Góp vốn, đầu tư dài hạn**                                | **11**      | **273.156**          | **269.530**          |\n| Đầu tư vào công ty con                                     |             | 127.000              | 127.000              |\n| Vốn góp liên doanh                                         |             |                      |                      |\n| Đầu tư vào công ty liên kết                                |             |                      |                      |\n| Đầu tư dài hạn khác                                        |             | 168.105              | 162.845              |\n| Dự phòng giảm giá đầu tư dài hạn                           |             | (21.949)             | (20.315)             |"
+        }
+      ]
+    },
+    {
+      "file_id": "phucnguyenbctc.md",
+      "metadata": {
+        "company_name": "CÔNG TY CỔ PHẦN MAY VÀ XUẤT NHẬP KHẨU PHÚC NGUYỄN",
+        "report_type": "BẢNG CÂN ĐỐI KẾ TOÁN",
+        "report_time": "Năm 2025",
+        "sector": "Công nghiệp",
+        "file_id": "phucnguyenbctc.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/phucnguyenbctc.md/normalized.json",
+        "normalized_sha256": "80a65c4fd3acf296815de0bdaf42a5385ea8e77656db81eea32a66708d9962d8",
+        "graph_status": "verified",
+        "qdrant_status": "pending",
+        "report_id": "CÔNG TY CỔ PHẦN MAY VÀ XUẤT NHẬP KHẨU PHÚC NGUYỄN|BẢNG CÂN ĐỐI KẾ TOÁN|Năm 2025",
+        "created_at": "2026-10-26T15:13:25.213930+00:00"
+      },
+      "section": "BẢNG CÂN ĐỐI KẾ TOÁN",
+      "subsection": "NỢ PHẢI TRẢ",
+      "rows": [
+        {
+          "company": "CÔNG TY CỔ PHẦN MAY VÀ XUẤT NHẬP KHẨU PHÚC NGUYỄN",
+          "report_type": "BẢNG CÂN ĐỐI KẾ TOÁN",
+          "table_structure": "- **BCTC đã được kiểm toán**: [ ]\n- **Ý kiến kiểm toán**:\nĐơn vị tính: Đồng Việt Nam\n| TÀI SẢN<br/>1                                                              | Mã số<br/>2 | Thuyết minh<br/>3 | Số cuối năm<br/>4 | Số đầu năm<br/>5 |\n| -------------------------------------------------------------------------- | ----------- | ----------------- | ----------------- | ---------------- |",
+          "pages": [
+            1,
+            2,
+            3
+          ],
+          "time": "Năm 2025",
+          "raw_text": "| C - NỢ PHẢI TRẢ (300= 310 + 330)                      | 300 |   | 74.535.795.178 | 25.431.456.350 |\n| I. Nợ ngắn hạn (310 = 311 + 312 +…+ 323 + 324)        | 310 |   | 74.535.795.178 | 25.431.456.350 |\n| 1. Phải trả người bán ngắn hạn                        | 311 |   | 29.654.271.102 | 18.659.507.527 |\n| 2. Người mua trả tiền trước ngắn hạn                  | 312 |   | 0              | 0              |\n| 3. Thuế và các khoản phải nộp Nhà nước                | 313 |   | 0              | 23.811.956     |\n| 4. Phải trả người lao động                            | 314 |   | 0              | 0              |\n| 5. Chi phí phải trả ngắn hạn                          | 315 |   | 0              | 0              |\n| 6. Phải trả nội bộ ngắn hạn                           | 316 |   | 0              | 0              |\n| 7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng   | 317 |   | 0              | 0              |\n| 2/4                                                   |     |   |                |                |\n Trang 2\n| 8. Doanh thu chưa thực hiện ngắn hạn                     | 318  |   | 0              | 0             |\n| -------------------------------------------------------- | ---- | - | -------------- | ------------- |\n| 9. Phải trả ngắn hạn khác                                | 319  |   | 921.693.380    | 788.306.171   |\n| 10. Vay và nợ thuê tài chính ngắn hạn                    | 320  |   | 43.959.830.696 | 5.959.830.696 |\n| 11. Dự phòng phải trả ngắn hạn                           | 321  |   | 0              | 0             |\n| 12. Quỹ khen thưởng, phúc lợi                            | 322  |   | 0              | 0             |\n| 13. Quỹ bình ổn giá                                      | 323  |   | 0              | 0             |\n| 14. Giao dịch mua bán lại trái phiếu Chính phủ           | 324  |   | 0              | 0             |\n| II. Nợ dài hạn (330 = 331 + 332 +…+ 342 + 343)           | 330  |   | 0              | 0             |\n| 1. Phải trả người bán dài hạn                            | 331  |   | 0              | 0             |\n| 2. Người mua trả tiền trước dài hạn                      | 332  |   | 0              | 0             |\n| 3. Chi phí phải trả dài hạn                              | 333  |   | 0              | 0             |\n| 4. Phải trả nội bộ về vốn kinh doanh                     | 334  |   | 0              | 0             |\n| 5. Phải trả nội bộ dài hạn                               | 335  |   | 0              | 0             |\n| 6. Doanh thu chưa thực hiện dài hạn                      | 336  |   | 0              | 0             |\n| 7. Phải trả dài hạn khác                                 | 337  |   | 0              | 0             |\n| 8. Vay và nợ thuê tài chính dài hạn                      | 338  |   | 0              | 0             |\n| 9. Trái phiếu chuyển đổi                                 | 339  |   | 0              | 0             |\n| 10. Cổ phiếu ưu đãi                                      | 340  |   | 0              | 0             |\n| 11. Thuế thu nhập hoãn lại phải trả                      | 341  |   | 0              | 0             |\n| 12. Dự phòng phải trả dài hạn                            | 342  |   | 0              | 0             |\n| 13. Quỹ phát triển khoa học và công nghệ                 | 343  |   | 0              | 0             |"
+        }
+      ]
+    }
+  ]
+}

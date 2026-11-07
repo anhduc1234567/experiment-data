@@ -1,0 +1,1 @@
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ quý 4 năm 2024 của Tổng công ty Cổ phần Phong Phú là **113.908.947.407 VND** [G1] (Trang 5).

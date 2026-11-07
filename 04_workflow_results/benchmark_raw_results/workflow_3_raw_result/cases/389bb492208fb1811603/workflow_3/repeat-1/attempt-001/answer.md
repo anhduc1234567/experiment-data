@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu cuối kỳ (Quý 4/2024) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ là 1.847.626.077.877 VND [G1].

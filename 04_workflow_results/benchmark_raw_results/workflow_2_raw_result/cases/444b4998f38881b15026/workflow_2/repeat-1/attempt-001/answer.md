@@ -1,0 +1,1 @@
+Năm tài chính của Công ty APEC Investment bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm [N1].

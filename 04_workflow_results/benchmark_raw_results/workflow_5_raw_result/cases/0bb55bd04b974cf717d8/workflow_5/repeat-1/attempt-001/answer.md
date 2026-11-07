@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp, bằng chứng hiện tại không chứa số liệu về Tổng số dư Nợ phải trả cuối quý 4 năm 2024 trong Bảng cân đối kế toán hợp nhất của Tổng công ty Thiết bị điện Đông Anh.

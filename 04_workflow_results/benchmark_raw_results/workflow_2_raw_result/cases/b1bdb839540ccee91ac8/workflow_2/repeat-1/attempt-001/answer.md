@@ -1,0 +1,1 @@
+Tiền và các khoản tương đương tiền cuối kỳ (tại ngày 31/12/2024) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là **97.964.405.114 VND** [G1].

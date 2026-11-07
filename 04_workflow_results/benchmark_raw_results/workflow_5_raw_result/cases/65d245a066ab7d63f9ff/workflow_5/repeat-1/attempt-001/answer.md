@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại [C1] thuộc Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng Công ty Cổ phần Phong Phú hiện chưa có số liệu chi tiết về lợi nhuận thuần từ hoạt động kinh doanh và các chỉ tiêu liên quan do phần nội dung này trống.

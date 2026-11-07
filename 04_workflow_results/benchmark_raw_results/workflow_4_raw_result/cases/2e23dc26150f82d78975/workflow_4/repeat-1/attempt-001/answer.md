@@ -1,0 +1,1 @@
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo sổ sách kế toán được lưu giữ đầy đủ để phản ánh chính xác tình hình tài chính của Công ty và tuân thủ chế độ kế toán [C1]. Đồng thời, Ban Tổng Giám đốc có trách nhiệm quản lý tài sản và thực hiện các biện pháp thích hợp để ngăn chặn, phát hiện các hành vi gian lận cũng như các vi phạm khác [C1].

@@ -1,0 +1,1 @@
+Nguyên giá (giá vốn) cho lãi hoặc lỗ từ việc chuyển nhượng chứng khoán kinh doanh được xác định theo phương pháp bình quân gia quyền di động [N1].

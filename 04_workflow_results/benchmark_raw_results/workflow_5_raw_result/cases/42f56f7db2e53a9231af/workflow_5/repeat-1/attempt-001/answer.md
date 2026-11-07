@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, bằng chứng được cung cấp (từ [C1], [C2], [C3]) không chứa thông tin về chỉ tiêu "Lưu chuyển tiền thuần từ hoạt động đầu tư" cho kỳ kế toán năm hiện tại.

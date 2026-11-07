@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG) hiện chưa chứa thông tin chi tiết về số tiền lãi vay đã trả trong kỳ trên Báo cáo lưu chuyển tiền tệ hoặc thuyết minh liên quan do các phần bằng chứng truy xuất không bao gồm chỉ tiêu này [C1, C2, C3].

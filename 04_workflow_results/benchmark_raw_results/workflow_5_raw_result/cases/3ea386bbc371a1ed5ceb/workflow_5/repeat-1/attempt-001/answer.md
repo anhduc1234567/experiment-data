@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, khoản mục chi phí trả lãi vay phải trả thuộc chi phí phải trả ngắn hạn ghi nhận số cuối quý là 976.018.244 VND và số đầu năm là 868.496.364 VND [C1].

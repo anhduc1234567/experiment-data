@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế năm 2024 (Lũy kế từ đầu năm đến cuối quý Năm 2024) của Tổng công ty Cổ phần Phong Phú là (48.975.189.294) VND [G1].

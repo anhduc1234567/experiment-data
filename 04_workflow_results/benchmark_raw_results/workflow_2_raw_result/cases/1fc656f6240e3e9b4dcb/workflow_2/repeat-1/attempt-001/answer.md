@@ -1,0 +1,7 @@
+- **Trích xuất số liệu hàng tồn kho từ Bảng cân đối kế toán [G1]**: 
+  - Số đầu năm: 146.117.484.978 VND (trang 3, 4, 5, 6).
+  - Số cuối quý 4/2024: 87.115.328.316 VND (trang 3, 4, 5, 6).
+- **Tính toán mức giảm tuyệt đối và tỷ lệ giảm**: 
+  - Mức giảm tuyệt đối = 146.117.484.978 - 87.115.328.316 = 59.002.156.662 VND.
+  - Tỷ lệ giảm = (59.002.156.662 / 146.117.484.978) * 100% ≈ 40,38%.
+- **Đánh giá rủi ro**: Hàng tồn kho sụt giảm đáng kể 59.002.156.662 VND (tương đương 40,38%) từ đầu năm đến cuối quý. Theo Báo cáo lưu chuyển tiền tệ [G4], chỉ tiêu "Tăng, giảm hàng tồn kho" lũy kế từ đầu năm là 59.002.156.662 VND (trang 8), cho thấy sự sụt giảm này đã giải phóng dòng tiền từ hàng tồn kho vào hoạt động kinh doanh.

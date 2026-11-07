@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, số dư ngoại tệ các loại của Tổng Công ty Thiết bị điện Đông Anh - Công ty Cổ phần (Báo cáo tài chính hợp nhất Quý 4 2024) gồm có: USD là 10.712,36 và EUR là 5.856,19 [C2]. Bằng chứng không thuyết minh chi tiết số dư tiền mặt và tiền gửi bằng ngoại tệ cụ thể cho từng loại USD và EUR.

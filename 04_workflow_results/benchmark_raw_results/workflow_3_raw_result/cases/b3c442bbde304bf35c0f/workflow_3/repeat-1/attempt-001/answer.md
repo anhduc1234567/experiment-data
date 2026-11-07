@@ -1,0 +1,1 @@
+Tổng tài sản ngắn hạn cuối kỳ (tại ngày 31/12/2024) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là **984.330.724.539 VND** [G1].

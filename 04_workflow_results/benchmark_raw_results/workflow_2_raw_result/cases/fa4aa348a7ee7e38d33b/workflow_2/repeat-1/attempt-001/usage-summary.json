@@ -1,0 +1,77 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "totals": {
+    "llm_calls": 6,
+    "calls_missing_usage": 0,
+    "input_tokens": 11255,
+    "output_tokens": 1202,
+    "cached_input_tokens": 0,
+    "reasoning_tokens": 0,
+    "tool_calls": 0
+  },
+  "by_node": {
+    "planner_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1087,
+      "output_tokens": 419,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "table_selection_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 4771,
+      "output_tokens": 26,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "income_statement_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 2078,
+      "output_tokens": 9,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "notes_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1271,
+      "output_tokens": 51,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "summary_context_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1317,
+      "output_tokens": 385,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "final_answer_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 731,
+      "output_tokens": 312,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    }
+  },
+  "estimated_standard_usd_for_recorded_usage": 0.0063815,
+  "pricing_usd_per_million": {
+    "input": 0.3,
+    "cached_input": 0.03,
+    "output": 2.5
+  },
+  "pricing_checked_at": "2026-10-26",
+  "pricing_source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "note": "Provider usage only; missing usage/retries can make totals incomplete. Estimate excludes free tier, batch/priority discounts, cache storage, OCR, and local infrastructure. Reasoning is a subset of output tokens, not added again."
+}

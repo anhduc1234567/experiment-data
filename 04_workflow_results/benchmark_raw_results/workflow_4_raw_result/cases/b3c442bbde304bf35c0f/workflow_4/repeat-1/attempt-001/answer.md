@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, Tổng tài sản ngắn hạn (Mã số 100, A - TÀI SẢN NGẮN HẠN) tại thời điểm cuối kỳ (số cuối năm) là 984.330.724.539 VND và số đầu năm là 1.045.015.266.013 VND [C3].

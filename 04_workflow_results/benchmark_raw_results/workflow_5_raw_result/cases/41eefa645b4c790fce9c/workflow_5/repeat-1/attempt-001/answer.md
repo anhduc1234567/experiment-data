@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1, C2, C3] không chứa thông tin về cơ cấu các khoản đầu tư tài chính dài hạn và thuyết minh chi tiết về nội dung này. Do đó, không đủ dữ liệu để phân tích chiến lược đầu tư dài hạn theo yêu cầu.

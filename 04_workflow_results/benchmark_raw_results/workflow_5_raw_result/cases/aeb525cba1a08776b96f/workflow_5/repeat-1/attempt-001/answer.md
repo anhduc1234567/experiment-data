@@ -1,0 +1,1 @@
+Bằng chứng hiện tại từ Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần chưa cung cấp đầy đủ các số liệu về hàng tồn kho, tài sản ngắn hạn, nợ ngắn hạn và dòng tiền từ hoạt động kinh doanh để thực hiện phân tích thanh khoản và hiệu quả hoạt động theo kế hoạch tham khảo.

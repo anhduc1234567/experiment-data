@@ -1,0 +1,1 @@
+Số dư nợ ngắn hạn (Nợ ngắn hạn, Mã số 310) tại thời điểm cuối kỳ trên Báo cáo tình hình tài chính riêng quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương là **566.994.110.452** đồng (số đầu năm là **895.630.596.406** đồng) [C3] (trang 29).

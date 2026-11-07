@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, các tài liệu không chứa thông tin về số dư cuối kỳ của khoản đầu tư vào Công ty Cổ phần Dệt may Đông Nam. Bằng chứng [C3] chỉ đề cập đến tỷ lệ sở hữu của Tổng Công ty Cổ phần Phong Phú tại Công ty cổ phần dệt Đông Nam là 35.99% [C3].

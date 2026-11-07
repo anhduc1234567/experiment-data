@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng công ty Cổ phần Phong Phú [C1] hiện chưa chứa số liệu cụ thể về giá gốc hàng tồn kho cuối kỳ và đầu năm. Do đó, không đủ dữ liệu để so sánh và phân tích sự thay đổi của chỉ tiêu này [C1].

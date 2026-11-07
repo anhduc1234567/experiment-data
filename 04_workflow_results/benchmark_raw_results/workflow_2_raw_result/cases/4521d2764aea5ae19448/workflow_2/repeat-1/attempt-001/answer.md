@@ -1,0 +1,1 @@
+Thuế suất thuế thu nhập doanh nghiệp áp dụng cho Tổng Công ty trong năm 2024 là 20% trên lợi nhuận thu được từ tất cả các hoạt động kinh doanh [N5].

@@ -1,0 +1,1 @@
+Tổng Công ty ghi nhận doanh thu từ bán hàng khi kết quả giao dịch hàng hoá được xác định một cách đáng tin cậy và Tổng Công ty có khả năng thu được các lợi ích kinh tế từ giao dịch này, cụ thể là khi giao hàng và chuyển quyền sở hữu cho người mua [N2].

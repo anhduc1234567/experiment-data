@@ -1,0 +1,1 @@
+Tổng nợ phải trả cuối kỳ (Số cuối năm) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG trong Báo cáo tài chính riêng Quý 4/2024 là 778.449.407.564 đồng [C1].

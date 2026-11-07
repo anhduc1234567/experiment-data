@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không cung cấp số liệu chi tiết về chỉ tiêu Tổng tài sản dài hạn tại thời điểm cuối quý và đầu năm trên Báo cáo tình hình tài chính của Công ty Cổ phần Khoáng sản Bắc Kạn Quý 4/2024. Do đó, không đủ cơ sở để so sánh sự thay đổi [C1].

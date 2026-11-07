@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin hoặc số liệu về chỉ tiêu "Bất động sản đầu tư" tại thời điểm cuối kỳ và đầu năm trên Bảng cân đối kế toán riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG [C1], [C2], [C3]. Do đó, không đủ cơ sở để trả lời câu hỏi này.

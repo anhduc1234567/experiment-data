@@ -1,0 +1,23 @@
+Embedding model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+Reranker model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-reranker-v2-m3/snapshots/953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
+Loading local models (device=mps, top_k=3, min_rerank_score=0.0); pages=18
+Local models ready; using supplied metadata
+True balance boundary: page=8, line=4, rows=26, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san ngan han', 'tien va')
+Page 8: BẢNG CÂN ĐỐI KẾ TOÁN -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=1.0000, rerank=9.9690), line='BẢNG CÂN ĐỐI KẾ TOÁN'
+Page 9: BẢNG CÂN ĐỐI KẾ TOÁN -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=1.0000, rerank=9.9690), line='BẢNG CÂN ĐỐI KẾ TOÁN'
+Page 9: statement body accepted (numeric_rows=37, indicator_rows=8, signals=('cac khoan phai thu', 'tai san co dinh', 'tai san dai han')): table and financial indicators present
+Page 10: BẢNG CÂN ĐỐI KẾ TOÁN -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=1.0000, rerank=9.9690), line='BẢNG CÂN ĐỐI KẾ TOÁN'
+Page 10: statement body accepted (numeric_rows=30, indicator_rows=3, signals=('no dai han', 'no ngan han', 'no phai tra')): table and financial indicators present
+Page 11: BẢNG CÂN ĐỐI KẾ TOÁN -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=1.0000, rerank=9.9690), line='BẢNG CÂN ĐỐI KẾ TOÁN'
+Page 11: statement body accepted (numeric_rows=20, indicator_rows=5, signals=('loi nhuan sau thue chua phan phoi', 'tong cong nguon von', 'von chu so huu')): table and financial indicators present
+Page 12: BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH -> BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (vector=1.0000, rerank=10.7863), line='BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH'
+Page 12: statement body accepted (numeric_rows=20, indicator_rows=18, signals=('cac khoan giam tru', 'chi phi ban hang', 'chi phi khac', 'chi phi quan ly', 'chi phi tai chinh', 'chi phi thue', 'doanh thu ban hang', 'doanh thu hoat dong tai chinh', 'doanh thu thuan', 'gia von', 'lai co ban tren co phieu', 'loi nhuan', 'thu nhap khac')): table and financial indicators present
+Page 13: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=1.0000, rerank=10.7961), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ'
+Page 13: statement body accepted (numeric_rows=23, indicator_rows=17, signals=('luu chuyen tien', 'tien chi', 'tien thu')): table and financial indicators present
+Page 14: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=1.0000, rerank=10.7961), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ'
+Page 14: statement body accepted (numeric_rows=4, indicator_rows=4, signals=('anh huong cua thay doi ty gia', 'luu chuyen tien', 'tien thu', 'tien va tuong duong tien')): table and financial indicators present
+Page 15: THUYẾT MINH BÁO CÁO TÀI CHÍNH -> THUYẾT MINH BÁO CÁO TÀI CHÍNH (vector=0.9565, rerank=9.7713), line='BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH'
+Page 16: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 17: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+Page 18: THUYẾT MINH BÁO CÁO TÀI CHÍNH (notes continuation; no model call)
+True balance boundary: page=8, line=4, rows=26, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san ngan han', 'tien va')

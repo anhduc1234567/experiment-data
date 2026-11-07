@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu (mã 400) của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần tại thời điểm 31/12/2024 theo Bảng cân đối kế toán hợp nhất Quý 4 2024 là 630.248.222.611 đồng (số đầu năm là 559.357.925.770 đồng) [C1].

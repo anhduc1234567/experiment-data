@@ -1,0 +1,1 @@
+Dựa trên context đã chuẩn bị, dữ liệu không cung cấp thông tin về nguyên nhân hoặc cơ sở dẫn đến ý kiến kiểm toán ngoại trừ của kiểm toán viên đối với Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú.

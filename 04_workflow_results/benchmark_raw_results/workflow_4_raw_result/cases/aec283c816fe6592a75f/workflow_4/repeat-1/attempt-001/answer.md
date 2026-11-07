@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không chứa số liệu cụ thể của chỉ tiêu Hàng tồn kho tại thời điểm cuối kỳ trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1].

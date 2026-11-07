@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã được cung cấp trong báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], thông tin về khoản đầu tư vào Công ty Cổ phần Dệt may Đông Nam không xuất hiện trong các đoạn bằng chứng [C1], [C2], và [C3]. Do đó, phần bằng chứng hiện tại thiếu dữ liệu để xác định số dư cuối kỳ của khoản đầu tư này.

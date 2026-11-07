@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk [C2]) chỉ đề cập đến tiêu đề phần "4.1 Tiền và các khoản tương đương tiền" nhưng chưa cung cấp số liệu chi tiết về số dư Tiền và các khoản tương đương tiền cuối kỳ hiện tại trên Bảng cân đối kế toán hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh.

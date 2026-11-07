@@ -1,0 +1,1 @@
+Bằng chứng hiện tại cung cấp số liệu về tổng cộng tài sản tại thời điểm cuối kỳ Quý 4/2024 là 3.570.997.443.691 VND [C2], nhưng thiếu số liệu cụ thể về tài sản cố định để tính tỷ lệ theo yêu cầu.

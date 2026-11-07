@@ -1,0 +1,26 @@
+{
+  "workflow_2": {
+    "run": "full-wf2",
+    "valid_metric_scores": 2105,
+    "expected_metric_scores": 2105,
+    "complete_cases": 421
+  },
+  "workflow_3": {
+    "run": "full-wf3",
+    "valid_metric_scores": 2105,
+    "expected_metric_scores": 2105,
+    "complete_cases": 421
+  },
+  "workflow_4": {
+    "run": "full-wf4",
+    "valid_metric_scores": 2105,
+    "expected_metric_scores": 2105,
+    "complete_cases": 421
+  },
+  "workflow_5": {
+    "run": "full-wf5",
+    "valid_metric_scores": 2105,
+    "expected_metric_scores": 2105,
+    "complete_cases": 421
+  }
+}

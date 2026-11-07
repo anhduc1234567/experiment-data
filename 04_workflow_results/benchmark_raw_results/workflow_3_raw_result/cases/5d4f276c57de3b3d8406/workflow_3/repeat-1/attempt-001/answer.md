@@ -1,0 +1,1 @@
+Tổng các khoản phải trả người bán ngắn hạn cuối kỳ (tại ngày 31 tháng 12 năm 2024) của Tổng công ty Cổ phần Phong Phú là **264.764.073.637 VND** [G1].

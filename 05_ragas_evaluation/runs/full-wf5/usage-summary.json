@@ -1,0 +1,38 @@
+{
+  "context_recall": {
+    "requests": 421,
+    "prompt_tokens": 1132700,
+    "completion_tokens": 117497,
+    "total_tokens": 1250197
+  },
+  "all": {
+    "requests": 3965,
+    "prompt_tokens": 6036991,
+    "completion_tokens": 473481,
+    "total_tokens": 6723724
+  },
+  "answer_accuracy": {
+    "requests": 837,
+    "prompt_tokens": 807820,
+    "completion_tokens": 5197,
+    "total_tokens": 859323
+  },
+  "context_relevance": {
+    "requests": 837,
+    "prompt_tokens": 1265830,
+    "completion_tokens": 5996,
+    "total_tokens": 1398702
+  },
+  "faithfulness": {
+    "requests": 843,
+    "prompt_tokens": 1167342,
+    "completion_tokens": 271153,
+    "total_tokens": 1439514
+  },
+  "context_precision": {
+    "requests": 1027,
+    "prompt_tokens": 1663299,
+    "completion_tokens": 73638,
+    "total_tokens": 1775988
+  }
+}

@@ -1,0 +1,1 @@
+Tổng doanh thu bán hàng và cung cấp dịch vụ (lũy kế năm nay từ 01/01/2024 đến 31/12/2024) là **567.481.233.266 VNĐ** [G1] (Trang 7).

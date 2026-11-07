@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn (chunk [C1], [C2]) không chứa thông tin hoặc số liệu cụ thể về vốn điều lệ của công ty [C1], [C2].

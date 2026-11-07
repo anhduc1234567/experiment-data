@@ -1,0 +1,1 @@
+Mệnh giá một cổ phiếu đang lưu hành của Tổng công ty Cổ phần Phong Phú là 10.000 VND [N1].

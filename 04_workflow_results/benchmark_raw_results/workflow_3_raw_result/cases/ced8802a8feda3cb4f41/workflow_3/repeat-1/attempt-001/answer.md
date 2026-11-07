@@ -1,0 +1,3 @@
+Dựa trên Thuyết minh Báo cáo tài chính [N1], các yếu tố mà công ty sử dụng để xác định giá trị hợp lý của chứng khoán kinh doanh bao gồm:
+- Đối với chứng khoán niêm yết trên thị trường chứng khoán: Giá đóng cửa tại ngày gần nhất có giao dịch tính đến thời điểm kết thúc năm tài chính.
+- Đối với cổ phiếu đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết (UPCOM): Giá tham chiếu bình quân trong 30 ngày giao dịch liền kề gần nhất trước thời điểm kết thúc năm tài chính do Sở Giao dịch chứng khoán công bố.

@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế đến cuối quý này (Quý 4/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là 221.216.833.935 VND [G1] (trang 8).

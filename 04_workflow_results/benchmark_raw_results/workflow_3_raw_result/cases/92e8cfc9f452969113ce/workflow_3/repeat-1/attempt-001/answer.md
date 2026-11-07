@@ -1,0 +1,1 @@
+Dựa trên thông tin được cung cấp trong phần Thuyết minh báo cáo tài chính, công ty có đưa ra tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán [N1]. Tuy nhiên, do dữ liệu trong context bị thiếu và cắt cụt, không có thêm thông tin chi tiết về ý kiến kiểm toán hay các thuyết minh cụ thể khác để đánh giá toàn diện mức độ tuân thủ.

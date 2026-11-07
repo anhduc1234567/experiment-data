@@ -1,0 +1,5 @@
+Dựa trên Báo cáo tài chính Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, chính sách ghi nhận ngoại tệ được áp dụng như sau:
+
+- **Chính sách kế toán:** Tổng Công ty áp dụng Chuẩn mực Kế toán Việt Nam số 10 (VAS 10) và Thông tư số 200/2014/TT-BTC. Các nghiệp vụ phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá thực tế tại ngày phát sinh [N1]. Tại ngày kết thúc kỳ kế toán, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế (tài sản dùng tỷ giá mua, nợ phải trả dùng tỷ giá bán) [N1, N2].
+- **Tác động đến lợi nhuận:** Tất cả các khoản chênh lệch tỷ giá phát sinh được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh; tuy nhiên, lãi chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán không được dùng để phân chia lợi nhuận [N2].
+- **Dữ liệu số học:** Context không cung cấp số liệu chi tiết về số tiền cụ thể của lãi/lỗ chênh lệch tỷ giá hối đoái ảnh hưởng đến lợi nhuận trong kỳ [G1, N1, N2].

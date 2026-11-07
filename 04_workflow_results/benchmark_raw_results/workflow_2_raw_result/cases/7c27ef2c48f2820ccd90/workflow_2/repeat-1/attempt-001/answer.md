@@ -1,0 +1,1 @@
+Tổng tài sản dài hạn tại ngày 31/12/2024 (cuối quý 4 năm 2024) của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần là 331.642.211.987 VND [G1].

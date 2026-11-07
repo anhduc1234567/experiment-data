@@ -1,0 +1,5 @@
+- Số dư 'Chi phí xây dựng cơ bản dở dang khác' tại ngày 01/01/2024 (Đầu năm): 67.294.629.333 VND [N1].
+- Số dư 'Chi phí xây dựng cơ bản dở dang khác' tại ngày 31/12/2024 (Số cuối quý): 63.400.000 VND [N1].
+- Biến động tuyệt đối: 63.400.000 - 67.294.629.333 = -67.231.229.333 VND.
+- Tốc độ tăng trưởng tương đối: (-67.231.229.333 / 67.294.629.333) * 100 = -99,91%.
+- Đánh giá tác động: Khoản mục này giảm mạnh, làm giảm quy mô tài sản dở dang dài hạn cũng như tổng chi phí xây dựng cơ bản dở dang của doanh nghiệp trong kỳ [G1, N1].

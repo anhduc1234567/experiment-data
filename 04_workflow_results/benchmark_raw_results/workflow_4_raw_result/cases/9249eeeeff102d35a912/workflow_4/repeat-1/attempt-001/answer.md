@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (Báo cáo tài chính riêng), số dư tài sản cố định (giá trị còn lại cộng tài sản cố định hữu hình) là 16.326.198.818 VND [C2] và tổng tài sản dài hạn (Mã số 200) là 678.363.404.324 VND [C1].

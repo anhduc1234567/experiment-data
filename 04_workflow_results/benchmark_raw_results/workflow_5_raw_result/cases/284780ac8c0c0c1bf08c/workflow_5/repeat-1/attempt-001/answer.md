@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) chưa chứa dữ liệu chi tiết về chỉ tiêu nguyên giá tài sản cố định hữu hình tại thời điểm cuối quý IV/2024 trên Bảng cân đối kế toán hoặc phần Thuyết minh do phần văn bản bị giới hạn.

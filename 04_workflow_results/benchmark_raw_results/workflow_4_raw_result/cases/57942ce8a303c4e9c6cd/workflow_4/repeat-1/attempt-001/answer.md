@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, các tài liệu không chứa thông tin về mã cổ phiếu của Tổng công ty [C1], [C2].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) chưa chứa các thuyết minh chi tiết hoặc ý kiến kiểm toán liên quan đến việc áp dụng và tuân thủ các chuẩn mực kế toán Việt Nam [C1], [C2].

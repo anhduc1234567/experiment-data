@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa thông tin về chỉ tiêu "Giá vốn hàng bán" cho năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần [C1, C2].

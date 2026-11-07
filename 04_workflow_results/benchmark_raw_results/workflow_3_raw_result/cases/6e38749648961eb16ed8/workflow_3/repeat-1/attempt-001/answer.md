@@ -1,0 +1,1 @@
+Dựa trên Thuyết minh Báo cáo tài chính, hiện tại Tổng Công ty đang đánh giá rủi ro thanh khoản ở mức thấp [N1].

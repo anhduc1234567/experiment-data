@@ -1,0 +1,1 @@
+Cổ tức được ghi nhận là nợ phải trả khi được Đại hội đồng cổ đông phê duyệt [N1], [N4].

@@ -1,0 +1,17 @@
+Embedding model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-m3/snapshots/5617a9f61b028005a4858fdac845db406aefb181
+Reranker model: /Users/hnaduc/workspace/code/ftu-qa/agent_demo/model/models--BAAI--bge-reranker-v2-m3/snapshots/953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
+Loading local models (device=mps, top_k=3, min_rerank_score=0.0); pages=7
+Local models ready; using supplied metadata
+True balance boundary: page=1, line=6, rows=37, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san co dinh', 'tai san dai han', 'tai san ngan han', 'tien va')
+Page 1: BẢNG CÂN ĐỐI KẾ TOÁN -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.8467, rerank=6.0288), line='BẢNG CÂN ĐỐI KẾ TOÁN BÁO CÁO RIÊNG'
+Page 2: no accepted heading; continue previous section
+Page 3: no accepted heading; continue previous section
+Page 4: BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH -> BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH (vector=0.8405, rerank=8.2097), line='BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH BÁO CÁO RIÊNG'
+Page 4: statement body accepted (numeric_rows=19, indicator_rows=18, signals=('cac khoan giam tru', 'chi phi ban hang', 'chi phi khac', 'chi phi quan ly', 'chi phi tai chinh', 'chi phi thue', 'doanh thu ban hang', 'doanh thu hoat dong tai chinh', 'doanh thu thuan', 'gia von', 'lai co ban tren co phieu', 'loi nhuan', 'thu nhap khac')): table and financial indicators present
+Page 5: BÁO CÁO LƯU CHUYỂN TIỀN TỆ -> BÁO CÁO LƯU CHUYỂN TIỀN TỆ (vector=0.8583, rerank=8.3528), line='BÁO CÁO LƯU CHUYỂN TIỀN TỆ BÁO CÁO RIÊNG'
+Page 5: statement body accepted (numeric_rows=28, indicator_rows=17, signals=('anh huong cua thay doi ty gia', 'cac khoan du phong', 'chi phi lai vay', 'khau hao', 'loi nhuan truoc thue', 'luu chuyen tien', 'tien chi', 'tien thu', 'tien va tuong duong tien')): table and financial indicators present
+Page 6: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.9088, rerank=4.7962), line='BÁO CÁO TÀI CHÍNH'
+Page 6: statement body rejected -> None (numeric_rows=0, indicator_rows=0, signals=()): insufficient table/indicator evidence
+Page 7: BÁO CÁO TÌNH HÌNH TÀI CHÍNH -> BẢNG CÂN ĐỐI KẾ TOÁN (vector=0.9088, rerank=4.7962), line='BÁO CÁO TÀI CHÍNH'
+Page 7: statement body rejected -> None (numeric_rows=0, indicator_rows=0, signals=()): insufficient table/indicator evidence
+True balance boundary: page=1, line=6, rows=37, indicators=('cac khoan phai thu', 'hang ton kho', 'tai san co dinh', 'tai san dai han', 'tai san ngan han', 'tien va')

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong [C1] và [C2] không chứa thông tin về nguyên tắc và lý do loại trừ giao dịch nội bộ và lãi chưa thực hiện khi lập báo cáo tài chính hợp nhất. Do đó, ngữ cảnh hiện tại thiếu dữ liệu để trả lời câu hỏi này.

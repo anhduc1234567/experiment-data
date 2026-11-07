@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế năm hiện tại (năm 2024) của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần trên Báo cáo tài chính hợp nhất Quý 4 2024 là 72.219.495.035 VND [C1].

@@ -1,0 +1,1 @@
+Bà Vũ Thị Thanh Loan giữ chức vụ Quyền Kế toán trưởng của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG từ ngày bổ nhiệm là ngày 01 tháng 09 năm 2023 [C1] (Trang 1).

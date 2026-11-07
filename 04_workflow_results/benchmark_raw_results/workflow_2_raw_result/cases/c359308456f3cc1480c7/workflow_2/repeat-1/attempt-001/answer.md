@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế TNDN của Quý 4 năm 2024 là 81.979.022.403 VND [G1].

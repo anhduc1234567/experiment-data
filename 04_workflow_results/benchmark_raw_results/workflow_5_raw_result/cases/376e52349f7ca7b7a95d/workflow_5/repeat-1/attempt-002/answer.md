@@ -1,0 +1,1 @@
+Doanh thu từ khoáng sản của Công ty Cổ phần Khoáng sản Bắc Kạn năm 2024 là 567.467.597.046 VND và năm 2023 là 439.935.474.845 VND [C1]. Mức tăng trưởng doanh thu từ khoáng sản năm 2024 so với năm 2023 là: ((567.467.597.046 - 439.935.474.845) / 439.935.474.845) * 100% ≈ 29,01% [C1].

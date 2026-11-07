@@ -1,0 +1,1 @@
+Nguyên giá tài sản cố định hữu hình cuối kỳ là 2.287.317.961.521 VND [G1] (Trang 2).

@@ -1,0 +1,1 @@
+Dựa trên ngữ cảnh được cung cấp ([N1]), không có đủ dữ liệu để xác định ngành nghề kinh doanh chính của Tổng Công ty Cổ phần Phong Phú, vì ngữ cảnh chỉ đề cập đến hoạt động kinh doanh bao bì và dịch vụ vận tải mà không nêu rõ đây có phải là ngành nghề kinh doanh chính của tổng công ty này hay không.

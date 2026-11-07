@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu cụ thể về số dư lợi nhuận sau thuế chưa phân phối tại thời điểm đầu năm và cuối kỳ của Tổng Công ty Cổ phần Phong Phú Quý 4/2024 để xác định sự thay đổi. Do đó, phần số liệu này đang bị thiếu trong context [C1], [C2].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về số dư Đầu tư tài chính ngắn hạn và Tổng tài sản ngắn hạn tại cuối kỳ (31/12/2024) của Tổng Công ty Cổ phần Phong Phú, do các đoạn trích chỉ đề cập đến Phải trả dài hạn khác, Lợi thế thương mại và Doanh thu hoạt động tài chính [C1], [C2], [C3]. Do đó, không đủ dữ liệu để tính tỷ trọng theo yêu cầu.

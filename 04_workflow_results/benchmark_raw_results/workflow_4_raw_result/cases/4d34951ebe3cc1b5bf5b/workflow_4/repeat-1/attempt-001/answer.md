@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh chỉ chứa thông tin về Tổng tài sản ngắn hạn tại ngày 31/12/2024 là 1.766.228.572.070 VND [C1]. Context hiện tại thiếu thông tin về tổng nợ phải trả, vốn chủ sở hữu và tổng tài sản (toàn bộ) tại thời điểm cuối Quý 4/2024 để đánh giá cơ cấu nguồn vốn và khả năng thanh toán dài hạn.

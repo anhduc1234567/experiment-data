@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, lãi hoặc lỗ từ việc chuyển nhượng chứng khoán kinh doanh được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính, và giá vốn được xác định theo phương pháp bình quân gia quyền di động [C1].

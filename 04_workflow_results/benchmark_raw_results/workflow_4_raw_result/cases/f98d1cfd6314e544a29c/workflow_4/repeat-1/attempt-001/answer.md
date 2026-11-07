@@ -1,0 +1,1 @@
+Các khoản đầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn mà Công ty không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư [C1]. Bằng chứng hiện tại chưa cung cấp đầy đủ thông tin chi tiết về chính sách kế toán dự phòng giảm giá cụ thể cho các khoản đầu tư này.

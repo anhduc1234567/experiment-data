@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn ([C1], [C2]) chưa chứa thông tin về chi phí lãi vay, tổng chi phí tài chính và lợi nhuận. Do đó, không có đủ số liệu để trả lời câu hỏi.

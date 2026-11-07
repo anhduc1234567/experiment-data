@@ -1,0 +1,1 @@
+Chi phí thuế thu nhập doanh nghiệp hiện hành của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần năm 2024 là 36.173.937.439 VND và Quý 4 năm 2024 là 20.424.349.926 VND [C1].

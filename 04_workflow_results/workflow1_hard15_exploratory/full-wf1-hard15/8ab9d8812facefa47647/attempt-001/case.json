@@ -1,0 +1,11 @@
+{
+  "case_id": "8ab9d8812facefa47647",
+  "question_number": 273,
+  "question": "Đánh giá mức độ độc lập tài chính của công ty dựa trên tỷ lệ vốn chủ sở hữu trên tổng nguồn vốn.",
+  "reference": "Tại cuối kỳ, tổng vốn chủ sở hữu là 1.847.626.077.877 VND và tổng nguồn vốn là 3.570.997.443.691 VND. Tỷ lệ vốn chủ sở hữu trên tổng nguồn vốn là 1.847.626.077.877 / 3.570.997.443.691 ≈ 51,74%. Mức tỷ lệ này cho thấy hơn một nửa nguồn vốn của công ty được tài trợ bởi vốn chủ sở hữu, điều này thể hiện mức độ độc lập tài chính tương đối cao. Công ty ít phụ thuộc vào nợ vay bên ngoài, giúp giảm rủi ro tài chính và tăng cường khả năng tự chủ trong hoạt động và đầu tư.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0037",
+  "source_file": "phong_phu.md",
+  "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Độc lập tài chính"
+}

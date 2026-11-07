@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần, thời gian sử dụng hữu ích ước tính đối với máy móc, thiết bị là từ 3 đến 20 năm [C1].

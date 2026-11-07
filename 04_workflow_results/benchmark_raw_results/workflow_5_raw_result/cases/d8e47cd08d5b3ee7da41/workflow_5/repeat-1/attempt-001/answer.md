@@ -1,0 +1,1 @@
+Theo Thuyết minh Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, phương pháp tính giá trị hàng tồn kho được áp dụng là **phương pháp thực tế bình quân**, kết hợp với phương pháp hạch toán hàng tồn kho theo **phương pháp kê khai thường xuyên** [C1].

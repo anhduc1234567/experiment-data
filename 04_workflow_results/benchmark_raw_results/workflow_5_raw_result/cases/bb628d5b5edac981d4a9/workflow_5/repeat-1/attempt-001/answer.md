@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, phần thuyết minh về tài sản cố định vô hình thể hiện rằng tài sản cố định vô hình được thể hiện theo nguyên giá trừ hao mòn lũy kế [C2]. Tuy nhiên, bối cảnh cung cấp không có đủ thông tin chi tiết về các khoản mục cụ thể để xác định loại hình chủ yếu của tài sản cố định vô hình [C1], [C2].

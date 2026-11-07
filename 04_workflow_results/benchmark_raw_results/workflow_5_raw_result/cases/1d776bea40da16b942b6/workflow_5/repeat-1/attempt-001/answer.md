@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) thiếu thông tin về số dư các khoản đầu tư tài chính ngắn hạn và tổng tài sản ngắn hạn tại thời điểm cuối kỳ để có thể tính tỷ trọng [C1], [C2].

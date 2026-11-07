@@ -1,0 +1,1 @@
+Tổng chi phí tài chính năm 2024 của công ty là **100.877.952.896 VND** [G1] (trang 5).

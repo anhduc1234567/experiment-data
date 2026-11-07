@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ (số cuối năm), Tổng vốn chủ sở hữu (Mã số 400) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – Thái Bình Dương trên Bảng cân đối kế toán thuộc Báo cáo tài chính riêng Quý 4/2024 là 884.244.721.299 VNĐ (số đầu năm là 895.094.437.312 VNĐ) [C1].

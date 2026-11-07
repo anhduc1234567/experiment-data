@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin về các khoản mục doanh thu bán thành phẩm, doanh thu bán hàng hóa, và doanh thu bất động sản trong Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú. Do đó, phần bằng chứng hiện tại thiếu dữ liệu để phân tích sự đóng góp của từng nguồn vào tổng doanh thu [C1], [C2].

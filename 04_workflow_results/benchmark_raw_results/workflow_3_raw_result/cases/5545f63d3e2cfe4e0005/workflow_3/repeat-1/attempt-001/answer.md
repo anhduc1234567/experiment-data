@@ -1,0 +1,1 @@
+Giá trị tài sản cố định hữu hình cuối quý (tại ngày 31/12/2024) là 303.171.972.863 VND (trong đó Nguyên giá là 693.886.405.452 VND và Giá trị hao mòn lũy kế là (390.714.432.589) VND) [G1].

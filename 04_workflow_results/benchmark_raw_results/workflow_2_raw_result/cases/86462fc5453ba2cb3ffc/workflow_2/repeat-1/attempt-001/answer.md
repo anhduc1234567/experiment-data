@@ -1,0 +1,1 @@
+Công ty Cổ phần Khoáng sản Bắc Kạn được niêm yết trên Sở giao dịch Chứng khoán Hà Nội [N1], [N3].

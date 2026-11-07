@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không chứa thông tin chi tiết về chính sách kế toán ghi nhận doanh thu và thuyết minh chi tiết về doanh thu trong Báo cáo tài chính quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh, ngoại trừ bảng số liệu tổng hợp về doanh thu bán hàng và cung cấp dịch vụ [C1].

@@ -1,0 +1,30 @@
+{
+  "backan.md": {
+    "graph_and_notes": {
+      "neo4j_sections": 4,
+      "qdrant_chunks": 67,
+      "notes_status": "ready"
+    }
+  },
+  "dau_tu_APEC.md": {
+    "graph_and_notes": {
+      "neo4j_sections": 5,
+      "qdrant_chunks": 153,
+      "notes_status": "ready"
+    }
+  },
+  "dong_anh.md": {
+    "graph_and_notes": {
+      "neo4j_sections": 4,
+      "qdrant_chunks": 109,
+      "notes_status": "ready"
+    }
+  },
+  "phong_phu.md": {
+    "graph_and_notes": {
+      "neo4j_sections": 5,
+      "qdrant_chunks": 170,
+      "notes_status": "ready"
+    }
+  }
+}

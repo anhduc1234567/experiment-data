@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1]) dừng lại ở phần "1. Tiền và các khoản tương đương tiền" thuộc Thuyết minh Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú (trang 15). Do đó, ngữ cảnh hiện tại thiếu thông tin và không chứng minh được số liệu chi tiết về các khoản phải thu từ các bên liên quan tại thời điểm cuối kỳ.

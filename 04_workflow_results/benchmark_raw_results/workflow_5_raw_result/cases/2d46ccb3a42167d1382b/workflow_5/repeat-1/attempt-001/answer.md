@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn không chứa thông tin về số dư khoản phải thu ngắn hạn hoặc dài hạn từ Công ty Cổ phần Kim loại màu Bắc Bộ tại thời điểm cuối quý 4/2024 [C1], [C2].

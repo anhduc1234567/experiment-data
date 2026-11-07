@@ -1,0 +1,1 @@
+Lợi nhuận trước thuế năm hiện tại (lũy kế đến quý IV năm 2024) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là: (9.805.992.079) VND [G1] (Trang 7, 8).

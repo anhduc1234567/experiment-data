@@ -1,0 +1,1 @@
+Đơn vị tiền tệ sử dụng trong kế toán của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là Đồng Việt Nam (VND) do phần lớn các nghiệp vụ được thực hiện bằng đơn vị tiền tệ VND [C1].

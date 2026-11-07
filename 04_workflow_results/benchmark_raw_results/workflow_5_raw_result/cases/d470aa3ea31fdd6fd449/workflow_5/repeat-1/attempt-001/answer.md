@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh thiếu thông tin về giá trị tài sản cố định hữu hình tại thời điểm cuối quý [C1], [C2], do đó không đủ dữ liệu để tính toán tỷ lệ theo yêu cầu.

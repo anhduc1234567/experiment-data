@@ -1,0 +1,1 @@
+Tổng thuế và các khoản phải nộp Nhà nước cuối quý (Quý 4/2024) là 13.541.753.038 VND [G1] (Mã số 313, chỉ tiêu Thuế và các khoản phải nộp Nhà nước thuộc Nợ ngắn hạn trên Bảng cân đối kế toán, trang 4).

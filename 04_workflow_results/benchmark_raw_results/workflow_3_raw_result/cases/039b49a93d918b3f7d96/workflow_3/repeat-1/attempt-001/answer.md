@@ -1,0 +1,1 @@
+Dựa trên Thuyết minh Báo cáo tài chính, việc ghi nhận đúng thời điểm đối với doanh thu cung cấp dịch vụ được xác định bằng cách tham chiếu đến tỷ lệ hoàn thành của từng giao dịch tại ngày kết thúc niên độ kế toán [N1], đồng thời đảm bảo việc ghi nhận các khoản lãi tiền gửi trên cơ sở dồn tích [N1].

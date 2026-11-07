@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế chưa phân phối của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương trên Báo cáo tài chính riêng Quý 4/2024 tại thời điểm cuối kỳ là 43.404.961.299 đồng và đầu năm là 54.254.677.312 đồng [C1]. Mức độ thay đổi (cuối kỳ so với đầu năm) là giảm 10.849.716.013 đồng [C1].

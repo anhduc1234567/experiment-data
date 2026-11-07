@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Bảng cân đối kế toán [C1] và Thuyết minh phải trả khác [C2]) không chứa thông tin về chỉ tiêu Chi phí tài chính lũy kế từ đầu năm đến cuối quý 4 năm 2024 trên Báo cáo kết quả hoạt động kinh doanh của Công ty Cổ phần Khoáng sản Bắc Kạn. Do đó, context thiếu số liệu để trả lời câu hỏi này.

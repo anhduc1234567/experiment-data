@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (tại [C1] và [C3]) chứa thông tin về TSCĐ vô hình và nguyên tắc kế toán tài sản cố định hữu hình, nhưng thiếu số liệu chi tiết về nguyên giá, khấu hao lũy kế hoặc giá trị còn lại cuối kỳ của chỉ tiêu máy móc và thiết bị trên Bảng cân đối kế toán hoặc Thuyết minh tài sản cố định hữu hình.

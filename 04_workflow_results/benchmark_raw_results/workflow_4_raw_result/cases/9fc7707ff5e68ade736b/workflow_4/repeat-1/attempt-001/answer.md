@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất trong báo cáo tài chính Quý 4/2024 của Tổng công ty Cổ phần Phong Phú, tài liệu không cung cấp đầy đủ thông tin để xác định các công ty con hoạt động trong lĩnh vực sản xuất kinh doanh bông sợi có trụ sở hoặc địa chỉ tại TP Thủ Đức [C1], [C2], [C3].

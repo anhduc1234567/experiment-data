@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (chunk [C1], [C2]) chỉ đề cập đến tiêu đề "4.12 Thuế và các khoản phải nộp, phải thu Nhà nước" nhưng không cung cấp số liệu cụ thể về các chỉ tiêu liên quan đến thuế và các khoản phải nộp Nhà nước trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh.

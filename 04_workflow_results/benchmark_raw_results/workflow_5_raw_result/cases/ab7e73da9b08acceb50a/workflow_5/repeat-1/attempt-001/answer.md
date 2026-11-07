@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương ([C1]) chưa chứa số liệu về số dư lợi nhuận sau thuế chưa phân phối tại thời điểm đầu năm và cuối kỳ. Do đó, không đủ cơ sở dữ liệu để tính toán mức độ thay đổi theo yêu cầu.

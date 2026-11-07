@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị Điện Đông Anh - Công ty cổ phần, khoản **Chi phí xây dựng cơ bản dở dang khác** tại ngày 31/12/2024 là **63.400.000 VND**, giảm mạnh so với mức **67.294.629.333 VND** tại ngày 01/01/2024 [C1].

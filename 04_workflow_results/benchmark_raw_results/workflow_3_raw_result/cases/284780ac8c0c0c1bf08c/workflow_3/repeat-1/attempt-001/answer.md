@@ -1,0 +1,1 @@
+Giá trị nguyên giá tài sản cố định hữu hình cuối quý IV/2024 là 202.305.110.894 VND [G1] (trang 4).

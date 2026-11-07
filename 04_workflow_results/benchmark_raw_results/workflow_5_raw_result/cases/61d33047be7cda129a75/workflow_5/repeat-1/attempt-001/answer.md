@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không đề cập đến các khoản giảm khác trong nguyên giá và hao mòn lũy kế của tài sản cố định hữu hình trên thuyết minh Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2], [C3].

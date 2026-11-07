@@ -1,0 +1,1 @@
+Số dư tiền và các khoản tương đương tiền cuối kỳ (tại ngày 31/12/2024) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là **97.964.405.114 VND** [G1].

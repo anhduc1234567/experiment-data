@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất, tài liệu không đề cập cụ thể đến tỷ lệ dự phòng áp dụng cho khoản nợ quá hạn từ 1 năm đến dưới 2 năm [C1], [C2].

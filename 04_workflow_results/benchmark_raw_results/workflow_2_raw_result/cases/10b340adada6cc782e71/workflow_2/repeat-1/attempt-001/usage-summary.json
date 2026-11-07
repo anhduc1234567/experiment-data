@@ -1,0 +1,68 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "totals": {
+    "llm_calls": 5,
+    "calls_missing_usage": 0,
+    "input_tokens": 9467,
+    "output_tokens": 659,
+    "cached_input_tokens": 0,
+    "reasoning_tokens": 0,
+    "tool_calls": 0
+  },
+  "by_node": {
+    "planner_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1093,
+      "output_tokens": 247,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "table_selection_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 4607,
+      "output_tokens": 19,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "income_statement_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1914,
+      "output_tokens": 17,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "summary_context_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 1225,
+      "output_tokens": 289,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    },
+    "final_answer_agent": {
+      "llm_calls": 1,
+      "calls_missing_usage": 0,
+      "input_tokens": 628,
+      "output_tokens": 87,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": 0,
+      "tool_calls": 0
+    }
+  },
+  "estimated_standard_usd_for_recorded_usage": 0.0044876000000000004,
+  "pricing_usd_per_million": {
+    "input": 0.3,
+    "cached_input": 0.03,
+    "output": 2.5
+  },
+  "pricing_checked_at": "2026-10-26",
+  "pricing_source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "note": "Provider usage only; missing usage/retries can make totals incomplete. Estimate excludes free tier, batch/priority discounts, cache storage, OCR, and local infrastructure. Reasoning is a subset of output tokens, not added again."
+}

@@ -1,0 +1,1 @@
+Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú không cung cấp đầy đủ số liệu về đầu tư vào công ty liên kết, liên doanh tại thời điểm cuối kỳ và đầu năm để thực hiện so sánh sự thay đổi [C1].

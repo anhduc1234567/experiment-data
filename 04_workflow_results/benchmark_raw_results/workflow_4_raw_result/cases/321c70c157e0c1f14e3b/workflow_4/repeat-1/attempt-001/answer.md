@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh) chưa chứa số liệu cụ thể về chỉ tiêu tiền và các khoản tương đương tiền cuối kỳ trên Bảng Cân đối kế toán [C3].

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo lưu chuyển tiền tệ hợp nhất (trang 7), khoản mục thuế duy nhất được ghi nhận số tiền đã nộp trong năm tài chính (lũy kế từ đầu năm đến cuối quý này năm nay) là 'Thuế thu nhập doanh nghiệp đã nộp' (Mã số 15) [G2] với số tiền là -28.865.363.770 VND (tương đương số tiền đã nộp là 28.865.363.770 VND).

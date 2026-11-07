@@ -1,0 +1,1 @@
+Đơn vị tiền tệ sử dụng trong kế toán của công ty là Đồng Việt Nam (VND) [N1].

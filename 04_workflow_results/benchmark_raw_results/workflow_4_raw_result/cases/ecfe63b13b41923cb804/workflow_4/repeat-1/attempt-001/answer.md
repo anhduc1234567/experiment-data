@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, Tổng Công ty Cổ phần Phong Phú ghi nhận tài sản ngắn hạn hợp nhất là 1.766.228.572.070 VND và tiền cùng các khoản tương đương tiền hợp nhất là 123.381.740.914 VND (trong đó tiền là 72.781.740.914 VND) [C1]. Bằng chứng hiện tại chưa cung cấp đầy đủ số liệu về các khoản phải thu, hàng tồn kho và nợ ngắn hạn tại thời điểm cuối quý 4/2024.

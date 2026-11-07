@@ -1,0 +1,1 @@
+Tổng Công ty ghi nhận doanh thu từ bán hàng khi giao hàng và chuyển quyền sở hữu cho người mua [N4].

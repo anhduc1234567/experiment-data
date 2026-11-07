@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về chỉ tiêu Tổng nợ phải trả cuối kỳ trong Bảng cân đối kế toán Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2].

@@ -1,0 +1,1 @@
+Khoản người mua trả tiền trước ngắn hạn từ bên liên quan (Tập đoàn Dệt May Việt Nam) cuối kỳ là **21.442.860 VND** [N1].

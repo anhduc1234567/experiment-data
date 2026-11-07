@@ -1,0 +1,1 @@
+Tại thời điểm cuối quý 4 năm 2024 (ngày 31/12/2024), Tổng Công ty Cổ phần Phong Phú có chỉ tiêu Tiền và các khoản tương đương tiền hợp nhất (Mã số 110) là 123.381.740.914 VND, trong đó chỉ tiêu Tiền (Mã số 111) là 72.781.740.914 VND [C3]. Bằng chứng không tách cụ thể số dư chi tiết của tiền mặt tại quỹ, tiền gửi ngân hàng không kỳ hạn và tiền gửi có kỳ hạn.

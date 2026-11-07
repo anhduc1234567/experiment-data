@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng được cung cấp (Báo cáo lưu chuyển tiền tệ [C1], Bảng cân đối kế toán [C2], và thông tin chung [C3], [C4]) chưa đầy đủ để nêu rõ số liệu về dòng tiền trả nợ gốc vay, tổng nợ vay và vốn chủ sở hữu nhằm đánh giá cấu trúc nợ và rủi ro tài chính.

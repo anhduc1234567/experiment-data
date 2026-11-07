@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024) không chứa thông tin về điều kiện và cơ sở xác định giá trị thị trường của cổ phiếu cũng như chính sách kế toán dự phòng giảm giá đầu tư công cụ vốn [C1], [C2].

@@ -1,0 +1,1 @@
+Các khoản phải thu trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi [C1].

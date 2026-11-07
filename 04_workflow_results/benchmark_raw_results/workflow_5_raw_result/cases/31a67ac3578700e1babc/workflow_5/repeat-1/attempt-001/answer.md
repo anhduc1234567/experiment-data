@@ -1,0 +1,1 @@
+Mã chứng khoán của Công ty Cổ phần Khoáng sản Bắc Kạn trong Báo cáo tài chính Quý 4/2024 là **BKC** [C2].

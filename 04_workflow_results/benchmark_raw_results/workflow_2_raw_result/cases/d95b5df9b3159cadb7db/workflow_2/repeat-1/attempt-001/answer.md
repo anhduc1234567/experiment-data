@@ -1,0 +1,1 @@
+Chi phí lãi vay đã trả lũy kế đến cuối quý này (Quý 4/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là (8.037.487.351) VND [G1] (trang 8).

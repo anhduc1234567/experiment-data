@@ -1,0 +1,1 @@
+Doanh thu thuần về bán hàng và cung cấp dịch vụ (Doanh thu bán hàng và cung cấp dịch vụ) lũy kế đến quý IV năm 2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG (Báo cáo tài chính riêng) là 209.580.465.103 VND [C2].

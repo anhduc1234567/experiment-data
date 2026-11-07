@@ -1,0 +1,1 @@
+Báo cáo lưu chuyển tiền tệ quý 4 năm 2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG ghi nhận lưu chuyển tiền thuần từ hoạt động tài chính năm nay đạt (38.988.400.000) VND [C4]. Tuy nhiên, các bằng chứng hiện tại (chunk C1, C2, C3, C4) thiếu chi tiết cụ thể về số tiền trả nợ vay cụ thể để có thể đánh giá toàn diện khả năng trả nợ.

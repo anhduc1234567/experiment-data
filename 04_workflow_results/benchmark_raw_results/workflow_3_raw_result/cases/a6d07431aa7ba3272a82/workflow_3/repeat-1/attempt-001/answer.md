@@ -1,0 +1,1 @@
+Báo cáo tài chính quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn được phát hành vào ngày 20 tháng 01 năm 2025 [N1].

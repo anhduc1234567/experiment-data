@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong tài liệu [C1] và [C2] chưa đầy đủ số liệu về lưu chuyển tiền thuần từ hoạt động kinh doanh năm 2024 của Tổng Công ty Cổ phần Phong Phú để đánh giá khả năng tự tài trợ.

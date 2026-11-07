@@ -1,0 +1,1 @@
+Tổng Công ty đang đánh giá rủi ro thanh khoản ở mức thấp [N1].

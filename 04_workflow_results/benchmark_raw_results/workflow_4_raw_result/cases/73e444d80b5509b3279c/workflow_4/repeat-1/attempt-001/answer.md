@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu hiện tại không đầy đủ để tính toán khả năng thanh toán hiện hành và thanh toán nhanh của Tổng công ty Thiết bị điện Đông Anh trên Bảng cân đối kế toán Quý 4 2024 [C2, C5], do thiếu số liệu về **nợ ngắn hạn**.

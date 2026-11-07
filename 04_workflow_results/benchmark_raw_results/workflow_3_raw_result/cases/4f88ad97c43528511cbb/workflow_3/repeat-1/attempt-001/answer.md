@@ -1,0 +1,1 @@
+Rủi ro ngoại tệ trong hoạt động của Tổng Công ty phát sinh từ việc giá trị hợp lý hoặc các luồng tiền trong tương lai của một công cụ tài chính biến động theo những thay đổi của tỷ giá ngoại tệ, liên quan chủ yếu tới một số chi phí, thu nhập, các khoản vay của Tổng Công ty bằng đồng tiền khác với đồng tiền hạch toán của Tổng Công ty [N1].

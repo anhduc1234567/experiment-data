@@ -1,0 +1,1 @@
+Bằng chứng hiện tại từ Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần chưa cung cấp đầy đủ thông tin về tổng lợi nhuận kế toán trước thuế hoặc lợi nhuận sau thuế trong Báo cáo kết quả hoạt động kinh doanh hợp nhất năm tài chính 2024 (chỉ có dữ liệu về lợi nhuận trước thuế tại [C2] chưa rõ kỳ và doanh thu tại [C1]).

@@ -1,0 +1,1 @@
+Tổng tài sản ngắn hạn (Mã số 100) của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần tại thời điểm cuối quý 4 năm 2024 (ngày 31/12/2024) theo Báo cáo tài chính hợp nhất Quý 4 2024 là 1.562.030.097.086 VND [C1].

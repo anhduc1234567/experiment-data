@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu cụ thể về số dư khoản phải thu ngắn hạn và tổng tài sản ngắn hạn tại thời điểm cuối kỳ trong Báo cáo tài chính quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương để có thể tính tỷ trọng [C1], [C2].

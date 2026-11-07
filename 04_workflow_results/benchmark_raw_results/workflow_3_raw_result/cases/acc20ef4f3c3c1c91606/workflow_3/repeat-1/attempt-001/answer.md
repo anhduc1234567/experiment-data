@@ -1,0 +1,5 @@
+Dựa trên Báo cáo lưu chuyển tiền tệ (theo phương pháp gián tiếp) [G6], lưu chuyển tiền thuần từ hoạt động kinh doanh (Mã số 20) của công ty trong **năm trước** âm (trị giá **(4.379.663.565) VND**), trong khi **năm nay** dương (trị giá **36.158.929.436 VND**). Do câu hỏi đề cập đến "cả hai năm" nhưng dữ liệu năm nay dương, dưới đây là các yếu tố chính dẫn đến lưu chuyển tiền thuần từ hoạt động kinh doanh âm trong **năm trước**: 
+- **Lợi nhuận trước thuế** [G6] âm lớn: **(48.187.112.561) VND** (Mã số 01).
+- **Các khoản phải trả** [G6] giảm mạnh: làm giảm lưu chuyển tiền **(129.681.581.233) VND** (Mã số 11).
+- **Tiền lãi vay đã trả** [G6]: chi **(32.756.430.799) VND** (Mã số 14).
+- Các yếu tố này áp đảo các khoản điều chỉnh tăng tiền như khấu hao (5.635.453.354 VND), dự phòng (15.376.626.292 VND), chi phí lãi vay (38.076.798.251 VND), giảm các khoản phải thu (72.535.026.437 VND) và giảm hàng tồn kho (98.854.789.486 VND).

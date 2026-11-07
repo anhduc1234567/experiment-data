@@ -1,0 +1,1 @@
+Tiền và các khoản tương đương tiền cuối kỳ năm 2024 là 123.381.740.914 VND [G1, G2].

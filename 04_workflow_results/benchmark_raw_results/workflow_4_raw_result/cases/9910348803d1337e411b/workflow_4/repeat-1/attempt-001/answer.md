@@ -1,0 +1,1 @@
+Hoạt động chính của Công ty Cổ phần Khoáng sản Bắc Kạn trong Quý 4/2024 bao gồm: Khai thác quặng sắt; Khai thác quặng kim loại quý hiếm; Sản xuất kim loại màu và kim loại quý; Bán buôn kim loại và quặng kim loại; Thăm dò khoáng sản; Chưng, tinh cất và pha chế các loại rượu; Sản xuất đồ uống không cồn [C2].

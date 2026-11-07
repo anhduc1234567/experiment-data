@@ -1,0 +1,3 @@
+- Lợi nhuận sau thuế chưa phân phối (Mã số 421) cuối quý (31/12/2024): 86.966.597.162 VND [G1] (Trang 5).
+- Lợi nhuận sau thuế chưa phân phối đầu năm: 33.055.147.517 VND [G1] (Trang 5).
+- Thay đổi: Tăng thêm 53.911.449.645 VND (tương đương 86.966.597.162 - 33.055.147.517) [G1] (Trang 5).

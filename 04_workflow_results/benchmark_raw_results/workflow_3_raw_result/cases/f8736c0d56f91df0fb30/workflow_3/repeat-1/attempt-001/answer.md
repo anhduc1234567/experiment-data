@@ -1,0 +1,3 @@
+- **Lợi nhuận sau thuế của cổ đông Công ty mẹ năm 2024**: 365.717.565.199 VND [G1]
+- **Lợi nhuận sau thuế của cổ đông Công ty mẹ năm 2023**: 311.362.639.035 VND [G1]
+- **Mức tăng trưởng**: 365.717.565.199 - 311.362.639.035 = 54.354.926.164 VND [G1]

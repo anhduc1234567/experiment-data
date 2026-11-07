@@ -1,0 +1,1 @@
+Dự phòng tổn thất cho các khoản đầu tư vào công ty con được trích lập khi công ty con bị lỗ, với mức... [N1]

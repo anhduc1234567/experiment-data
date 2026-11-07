@@ -1,0 +1,1 @@
+Số dư thuế và các khoản phải nộp nhà nước (trong đó bao gồm thuế thu nhập doanh nghiệp) tại thời điểm cuối kỳ (31/12/2024) là 23.375.210.141 VND [G1] (trang 1, 2, 3, 4, 5).

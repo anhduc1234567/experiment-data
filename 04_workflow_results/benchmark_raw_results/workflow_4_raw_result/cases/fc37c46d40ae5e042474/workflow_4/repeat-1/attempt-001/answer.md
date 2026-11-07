@@ -1,0 +1,1 @@
+Theo thuyết minh Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh, các bên liên quan bao gồm Tập đoàn Điện lực Việt Nam (EVN) - cổ đông chính chiếm 46,49% vốn điều lệ, các công ty thuộc Tập đoàn Điện lực Việt Nam, các cổ đông góp vốn, cùng với các thành viên trong Hội đồng Quản trị và Ban Giám đốc của Tổng Công ty [C1], [C3].

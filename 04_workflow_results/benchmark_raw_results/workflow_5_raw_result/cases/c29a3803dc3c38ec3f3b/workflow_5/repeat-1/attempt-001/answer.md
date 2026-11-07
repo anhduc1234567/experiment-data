@@ -1,0 +1,1 @@
+Tên đầy đủ của công ty trong Báo cáo tài chính Quý 4/2024 là **Công ty Cổ phần Khoáng sản Bắc Kạn** [C1].

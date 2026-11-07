@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa đủ số liệu chi tiết về các khoản chi trả nợ gốc vay trong lưu chuyển tiền tệ hoặc thuyết minh năm 2024 của Tổng Công ty Cổ phần Phong Phú để đưa ra con số chính xác [C1], [C2].

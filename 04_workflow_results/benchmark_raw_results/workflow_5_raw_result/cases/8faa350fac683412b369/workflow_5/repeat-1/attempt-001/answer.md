@@ -1,0 +1,1 @@
+Dựa trên Bảng cân đối kế toán Quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn tại ngày 31 tháng 12 năm 2024 [C2], phần bằng chứng hiện tại chưa cung cấp các số liệu cụ thể về số dư nợ ngắn hạn và tổng nợ phải trả. Do đó, không đủ cơ sở để tính tỷ lệ nợ ngắn hạn trên tổng nợ phải trả.

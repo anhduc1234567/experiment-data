@@ -1,0 +1,1 @@
+Theo Báo cáo kết quả hoạt động kinh doanh Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, thu nhập khác (mã số 31) là 1.229.156.620 đồng [C2]. Bằng chứng đã cung cấp không có đầy đủ số liệu về tổng lợi nhuận (thiếu thông tin cụ thể về các chỉ tiêu tổng lợi nhuận kế toán trước thuế hoặc lợi nhuận sau thuế toàn kỳ trên cùng một bảng) [C1, C2].

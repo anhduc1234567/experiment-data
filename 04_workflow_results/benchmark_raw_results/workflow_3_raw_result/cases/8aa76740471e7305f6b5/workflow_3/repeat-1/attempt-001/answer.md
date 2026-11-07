@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, ngữ cảnh chỉ đề cập đến định nghĩa về công ty liên kết [N1] mà không cung cấp danh sách cụ thể các công ty liên kết cũng như tỷ lệ sở hữu của công ty TNHH Coats Phong Phú. Do đó, dữ liệu trong context hiện tại chưa đủ để trả lời câu hỏi này.

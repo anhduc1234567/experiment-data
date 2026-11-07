@@ -1,0 +1,1 @@
+Tính đến ngày 24 tháng 01 năm 2025, Chủ tịch Hội đồng quản trị (Hội đồng Quản lý) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là ông Nguyễn Đức Quân (được bổ nhiệm ngày 10 tháng 5 năm 2024) [N1].

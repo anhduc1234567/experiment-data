@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại [C1] chưa đủ dữ liệu về lưu chuyển tiền thuần từ hoạt động kinh doanh của Tổng công ty Thiết bị Điện Đông Anh - Công ty Cổ phần Quý 4 2024 do đoạn trích bị dừng lại ở chỉ tiêu lợi nhuận trước thuế.

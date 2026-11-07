@@ -1,0 +1,1 @@
+Bằng chứng hiện tại từ Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh không cung cấp thông tin về chi phí bảo hành sản phẩm và chi phí quản lý doanh nghiệp từ Báo cáo kết quả hoạt động kinh doanh hợp nhất và Thuyết minh BCTC [C1], [C2].

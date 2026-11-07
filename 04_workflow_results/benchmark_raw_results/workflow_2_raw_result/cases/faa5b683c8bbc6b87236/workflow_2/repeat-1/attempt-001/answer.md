@@ -1,0 +1,1 @@
+Nguyên giá hàng tồn kho (Hàng tồn kho - Mã số 141) tại thời điểm cuối quý IV/2024 (31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là 88.566.669.300 VND [G1].

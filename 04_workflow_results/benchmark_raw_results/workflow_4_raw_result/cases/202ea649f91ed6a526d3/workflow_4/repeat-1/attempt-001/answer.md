@@ -1,0 +1,1 @@
+Số dư cuối kỳ của khoản người mua trả tiền trước ngắn hạn từ bên liên quan là Tập đoàn Dệt May Việt Nam trong Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú là 21.442.860 [C1].

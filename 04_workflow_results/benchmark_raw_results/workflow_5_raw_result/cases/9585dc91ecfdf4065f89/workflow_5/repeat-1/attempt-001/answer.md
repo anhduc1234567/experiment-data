@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất từ Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn ([C1]) không cung cấp số liệu cụ thể về doanh thu thuần, giá vốn hàng bán, lợi nhuận gộp và lợi nhuận sau thuế TNDN của Quý 4/2024 và Quý 4/2023 để tính toán biên lợi nhuận gộp và biên lợi nhuận ròng.

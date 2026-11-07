@@ -1,0 +1,1 @@
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ của Công ty Cổ phần Khoáng sản Bắc Kạn trong quý IV/2024 là 47.520.762.944 đồng và quý IV/2023 là 8.425.762.117 đồng [C2]. Mức tăng trưởng (chênh lệch) là 39.095.000.827 đồng [C2].

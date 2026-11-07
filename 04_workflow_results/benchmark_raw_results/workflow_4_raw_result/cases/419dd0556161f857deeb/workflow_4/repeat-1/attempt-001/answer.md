@@ -1,0 +1,1 @@
+Ngân hàng cung cấp khoản vay ngắn hạn lớn nhất tại ngày 31/12/2024 cho Tổng Công ty Thiết bị Điện Đông Anh là Ngân hàng TMCP Công thương Việt Nam với số dư 63.293.828.910 VND [C1].

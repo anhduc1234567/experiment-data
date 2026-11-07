@@ -1,0 +1,1 @@
+Context không cung cấp đầy đủ số liệu về khoản phải trả ngắn hạn khác trong BCTC Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, do bằng chứng chỉ dừng lại ở chỉ tiêu tài sản ngắn hạn, tiền và các khoản tương đương tiền [C1], [C2].

@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế thu nhập doanh nghiệp của Công ty Cổ phần Khoáng sản Bắc Kạn trong quý 4/2024 là 29.990.104.893 đồng, tăng 28.027.488.415 đồng (tương đương khoảng 28 tỷ đồng) so với mức 1.962.616.478 đồng của quý 4/2023 [C1].

@@ -1,0 +1,1 @@
+Khoản mục phải trả người bán ngắn hạn cuối năm 2024 (tại ngày 31/12/2024) của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần là **365.386.187.763 VND** [G1].

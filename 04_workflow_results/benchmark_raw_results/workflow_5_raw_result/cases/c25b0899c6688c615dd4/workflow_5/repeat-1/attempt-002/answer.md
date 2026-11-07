@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn thiếu thông tin chi tiết về các khoản đầu tư vào công ty liên kết, công ty con và đầu tư góp vốn vào đơn vị khác cũng như các thuyết minh chi tiết liên quan đến nội dung này [C1, C2, C3, C4].

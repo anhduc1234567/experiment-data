@@ -1,0 +1,1 @@
+Tổng vay và nợ thuê tài chính ngắn hạn hợp nhất của Tổng công ty Thiết bị điện Đông Anh tại thời điểm đầu năm (01/01/2024) là 144.194.005.749 VND và tại thời điểm cuối năm (31/12/2024) là 63.293.828.910 VND [C1].

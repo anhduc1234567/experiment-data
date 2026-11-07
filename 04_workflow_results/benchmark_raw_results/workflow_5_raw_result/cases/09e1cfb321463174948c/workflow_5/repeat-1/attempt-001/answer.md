@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong ngữ cảnh không chứa số liệu về Tổng nợ phải trả và chỉ chứa thông tin một phần về Vốn chủ sở hữu [C2], do đó thiếu dữ liệu để tính toán tỷ lệ D/E ratio cho Quý 4 năm 2024.

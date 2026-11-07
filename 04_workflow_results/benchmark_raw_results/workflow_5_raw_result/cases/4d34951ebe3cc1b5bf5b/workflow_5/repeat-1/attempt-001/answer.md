@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp, ngữ cảnh hiện tại không chứa số liệu về tổng nợ phải trả, vốn chủ sở hữu và tổng tài sản trên Bảng cân đối kế toán Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1, C2, C3]. Do đó, không đủ bằng chứng để đánh giá cơ cấu nguồn vốn và khả năng thanh toán dài hạn.

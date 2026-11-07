@@ -1,0 +1,1 @@
+Tên đầy đủ của công ty là Tổng Công ty Cổ phần Phong Phú [C1].

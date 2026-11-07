@@ -1,0 +1,153 @@
+{
+  "contract": {
+    "workflow": "workflow_1",
+    "model": "gemini-3.5-flash-lite",
+    "temperature": 0.0,
+    "thinking_level": "minimal",
+    "use_memory": false,
+    "tools": [
+      "retrieve_report_supplement_tool"
+    ],
+    "notes_top_k": 3,
+    "retrieval_device": "mps",
+    "source_sha256": "a166c94710d38cc777361907a53f8d9a4ed5732f35f0dd054de9a3a78a8d093f",
+    "dataset_sha256": "583c7126a593215f8d8aa4960716b73dfab80fa6346f853fe10f8e3e8ef0fa4f",
+    "collection": "financial_md_chunks",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "reports": {
+      "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024": {
+        "company_name": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG",
+        "report_type": "Báo cáo tài chính riêng",
+        "report_time": "Quý 4/2024",
+        "sector": "Bất động sản",
+        "file_id": "dau_tu_APEC.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/dau_tu_APEC.md/normalized.json",
+        "normalized_sha256": "1aef389c93d462aa5e03c6188fd45c012af36775781ceb31d68d8c8101db75c3",
+        "graph_status": "verified",
+        "qdrant_status": "ready",
+        "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+        "created_at": "2026-10-26T15:13:25.213930+00:00",
+        "note_chunks": 153,
+        "qdrant_collection": "financial_md_chunks",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "qdrant_indexed_at": "2026-10-27T16:55:29.575285+00:00",
+        "notes_chunk_config": {
+          "max_chars": 800,
+          "min_chars": 200,
+          "overlap_chars": 100,
+          "hard_max_chars": 800
+        },
+        "supplement_chunks": 153,
+        "supplement_section_chunks": {
+          "Giới thiệu": 12,
+          "THUYẾT MINH BÁO CÁO TÀI CHÍNH": 141
+        },
+        "supplement_contract": "intro_notes_separate_800_v1",
+        "graph_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_rebuild/20261027-233617/backup/reports/dau_tu_APEC.md/normalized.json",
+        "graph_normalized_sha256": "dedffc47a9a3e55c1f4883e99d4bb98461e88b9711bec6504fffe278cb2d6b85",
+        "supplement_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/dau_tu_APEC.md/normalized.json",
+        "supplement_normalized_sha256": "1aef389c93d462aa5e03c6188fd45c012af36775781ceb31d68d8c8101db75c3"
+      },
+      "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024": {
+        "company_name": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN",
+        "report_type": "BÁO CÁO TÀI CHÍNH HỢP NHẤT",
+        "report_time": "Quý 4 2024",
+        "sector": "Công nghiệp",
+        "file_id": "dong_anh.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/dong_anh.md/normalized.json",
+        "normalized_sha256": "102536111fb594b18019befe4ad9863f07e98efcf3a3059f81f72906e24ee602",
+        "graph_status": "verified",
+        "qdrant_status": "ready",
+        "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+        "created_at": "2026-10-26T15:13:25.213930+00:00",
+        "note_chunks": 109,
+        "qdrant_collection": "financial_md_chunks",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "qdrant_indexed_at": "2026-10-27T16:55:29.575285+00:00",
+        "notes_chunk_config": {
+          "max_chars": 800,
+          "min_chars": 200,
+          "overlap_chars": 100,
+          "hard_max_chars": 800
+        },
+        "supplement_chunks": 109,
+        "supplement_section_chunks": {
+          "Giới thiệu": 1,
+          "THUYẾT MINH BÁO CÁO TÀI CHÍNH": 108
+        },
+        "supplement_contract": "intro_notes_separate_800_v1",
+        "graph_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_rebuild/20261027-233617/backup/reports/dong_anh.md/normalized.json",
+        "graph_normalized_sha256": "434d776700a9905ba6f2b56223d6cf0028ef9472755ef637cfc01060e30cc308",
+        "supplement_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/dong_anh.md/normalized.json",
+        "supplement_normalized_sha256": "102536111fb594b18019befe4ad9863f07e98efcf3a3059f81f72906e24ee602"
+      },
+      "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024": {
+        "company_name": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ",
+        "report_type": "Báo cáo tài chính",
+        "report_time": "Quý 4/2024",
+        "sector": "Hàng tiêu dùng thiết yếu",
+        "file_id": "phong_phu.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/phong_phu.md/normalized.json",
+        "normalized_sha256": "8586ac11045633df33c18a155f3900063cff6baec3bc5df6f34b82a81eeb171d",
+        "graph_status": "verified",
+        "qdrant_status": "ready",
+        "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+        "created_at": "2026-10-26T15:13:25.213930+00:00",
+        "note_chunks": 170,
+        "qdrant_collection": "financial_md_chunks",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "qdrant_indexed_at": "2026-10-27T16:55:29.575285+00:00",
+        "notes_chunk_config": {
+          "max_chars": 800,
+          "min_chars": 200,
+          "overlap_chars": 100,
+          "hard_max_chars": 800
+        },
+        "supplement_chunks": 170,
+        "supplement_section_chunks": {
+          "Giới thiệu": 10,
+          "THUYẾT MINH BÁO CÁO TÀI CHÍNH": 160
+        },
+        "supplement_contract": "intro_notes_separate_800_v1",
+        "graph_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_rebuild/20261027-233617/backup/reports/phong_phu.md/normalized.json",
+        "graph_normalized_sha256": "c24d32e23503b4f32f08e26b61a852eb4cd454dc20661bc2cca59c3b2f5ee2d6",
+        "supplement_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/phong_phu.md/normalized.json",
+        "supplement_normalized_sha256": "8586ac11045633df33c18a155f3900063cff6baec3bc5df6f34b82a81eeb171d"
+      },
+      "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024": {
+        "company_name": "Công ty Cổ phần Khoáng sản Bắc Kạn",
+        "report_type": "Báo cáo tài chính",
+        "report_time": "Quý 4/2024",
+        "sector": "Nguyên vật liệu",
+        "file_id": "BKC_24Q4.md",
+        "normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/BKC_24Q4.md/normalized.json",
+        "normalized_sha256": "6742649df8c71c9f267ceae4a90fad3147b2832082e28393369daa8ce7442fd8",
+        "graph_status": "verified",
+        "qdrant_status": "ready",
+        "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+        "created_at": "2026-10-26T15:13:25.213930+00:00",
+        "note_chunks": 67,
+        "qdrant_collection": "financial_md_chunks",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "qdrant_indexed_at": "2026-10-27T16:55:29.575285+00:00",
+        "notes_chunk_config": {
+          "max_chars": 800,
+          "min_chars": 200,
+          "overlap_chars": 100,
+          "hard_max_chars": 800
+        },
+        "supplement_chunks": 67,
+        "supplement_section_chunks": {
+          "Giới thiệu": 6,
+          "THUYẾT MINH BÁO CÁO TÀI CHÍNH": 61
+        },
+        "supplement_contract": "intro_notes_separate_800_v1",
+        "graph_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_rebuild/20261027-233617/backup/reports/BKC_24Q4.md/normalized.json",
+        "graph_normalized_sha256": "758e392cd5f8312bbf82eda3bf2a806fa00536a2c489736ff0a192de4f296795",
+        "supplement_normalized_path": "/Users/hnaduc/workspace/code/ftu-qa/agent_demo/data/outputs/graph_builder_v2_eval/runs/20261026-215032-1041fb1b/reports/BKC_24Q4.md/normalized.json",
+        "supplement_normalized_sha256": "6742649df8c71c9f267ceae4a90fad3147b2832082e28393369daa8ce7442fd8"
+      }
+    }
+  },
+  "created_at": "2026-11-04T14:33:16.114994+00:00"
+}

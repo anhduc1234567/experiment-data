@@ -1,0 +1,1 @@
+Báo cáo tài chính hợp nhất quý 4/2024 của Tổng Công ty Cổ phần Phong Phú được lập trên cơ sở kế toán dồn tích (trừ các thông tin liên quan đến các luồng tiền) [C1].

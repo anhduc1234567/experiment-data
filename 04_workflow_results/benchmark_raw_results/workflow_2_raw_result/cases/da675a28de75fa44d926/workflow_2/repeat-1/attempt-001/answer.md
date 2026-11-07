@@ -1,0 +1,1 @@
+Giá vốn hàng bán lũy kế từ đầu năm đến cuối quý này năm 2024 (Quý 4 2024) của Tổng công ty Thiết bị điện Đông Anh - CTCP là **1.916.592.138.721 VND** [G1] (trang 6).

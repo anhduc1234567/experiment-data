@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, vốn chủ sở hữu tại thời điểm cuối quý (31/12/2024) là 236.970.843.970 VND và số đầu năm là 183.059.394.325 VND [C3]. Tuy nhiên, các thông tin về tổng nợ phải trả, tổng tài sản và cơ cấu nguồn vốn không đầy đủ trong các bằng chứng được cung cấp để đánh giá toàn diện mức độ an toàn tài chính.

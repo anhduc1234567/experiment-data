@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất chỉ đề cập đến mục "12. Lợi thế thương mại" [C1] nhưng thiếu nội dung chi tiết về số liệu phân bổ lợi thế thương mại, ảnh hưởng đến lợi nhuận và số dư tài sản trên Bảng cân đối kế toán Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1].

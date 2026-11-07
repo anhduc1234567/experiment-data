@@ -1,0 +1,1 @@
+Bằng chứng hiện tại từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn không chứa thông tin hoặc số liệu về thu nhập khác, các khoản thu từ tiền thuê xưởng, thanh lý tài sản và tổng lợi nhuận từ Báo cáo kết quả hoạt động kinh doanh và thuyết minh liên quan năm 2024 [C1], [C2], [C3]. Do thiếu dữ liệu trong context, không thể cung cấp số liệu theo yêu cầu.

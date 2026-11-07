@@ -1,0 +1,1 @@
+Số dư khoản mục Tiền và các khoản tương đương tiền tại thời điểm cuối kỳ (ngày 31/12/2024) trên Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh là 8.510.613.197 VND [C2].

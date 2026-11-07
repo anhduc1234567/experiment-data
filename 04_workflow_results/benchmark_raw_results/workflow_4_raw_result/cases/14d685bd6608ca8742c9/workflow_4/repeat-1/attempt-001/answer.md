@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ (Quý 4/2024), chỉ tiêu Hàng tồn kho của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là 474.117.608.966 đồng, giảm so với số đầu năm là 528.207.406.021 đồng [C1].

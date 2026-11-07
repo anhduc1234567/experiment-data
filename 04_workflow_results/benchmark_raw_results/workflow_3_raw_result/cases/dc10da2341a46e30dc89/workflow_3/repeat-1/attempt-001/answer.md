@@ -1,0 +1,1 @@
+Context hiện tại không cung cấp định nghĩa chi tiết về 'công ty con' theo chính sách kế toán của Công ty cổ phần Đầu tư Châu Á - Thái Bình Dương [N2].

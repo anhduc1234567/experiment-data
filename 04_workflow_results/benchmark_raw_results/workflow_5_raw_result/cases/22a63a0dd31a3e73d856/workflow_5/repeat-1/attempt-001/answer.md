@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất từ Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần, không có thông tin hoặc số liệu cụ thể về chỉ tiêu "hàng mua đang đi đường" tại thời điểm cuối năm 2024 [C1], [C2].

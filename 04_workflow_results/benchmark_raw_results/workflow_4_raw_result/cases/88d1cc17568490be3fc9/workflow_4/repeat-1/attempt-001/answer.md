@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, tiền mặt của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần là 1.689.015.107 VND và tiền gửi ngân hàng không kỳ hạn là 6.821.598.090 VND [C1].

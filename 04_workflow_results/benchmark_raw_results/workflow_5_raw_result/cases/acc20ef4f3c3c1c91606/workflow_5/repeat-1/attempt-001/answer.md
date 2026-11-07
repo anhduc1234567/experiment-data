@@ -1,0 +1,1 @@
+Dựa trên các tài liệu đã truy xuất, bằng chứng không cung cấp đầy đủ số liệu về lưu chuyển tiền thuần từ hoạt động kinh doanh cũng như các thuyết minh chi tiết để phân tích nguyên nhân chính của chỉ tiêu này trong Quý 4/2024 và các năm trước. Bằng chứng chỉ ghi nhận Lợi nhuận trước thuế năm nay là (9.805.992.079) VND và năm trước là (48.187.112.561) VND [C1].

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng đã truy xuất, tài liệu không cung cấp chỉ tiêu "Giá vốn hàng bán" cho năm 2024 trong báo cáo kết quả hoạt động kinh doanh hợp nhất của Tổng công ty Thiết bị điện Đông Anh. Bằng chứng hiện có chỉ cung cấp thông tin về Doanh thu bán hàng và cung cấp dịch vụ [C2] và thông tin chung về Tổng công ty [C1].

@@ -1,0 +1,1 @@
+Chi phí bán hàng hợp nhất của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần trong Quý 4 năm 2024 là 32.353.556.234 VND, trong đó chi phí nhân viên bán hàng là 1.963.756.341 VND, chi phí bảo hành là 24.252.306.563 VND, và chi phí bằng tiền khác là 6.137.493.330 VND [C1].

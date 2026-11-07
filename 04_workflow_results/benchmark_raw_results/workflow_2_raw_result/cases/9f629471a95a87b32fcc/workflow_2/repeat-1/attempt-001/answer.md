@@ -1,0 +1,1 @@
+Loại báo cáo tài chính được công bố của Công ty Cổ phần Khoáng sản Bắc Kạn trong Quý 4/2024 là **BCTC riêng** (dành cho TCNY không có Công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc) [N1].

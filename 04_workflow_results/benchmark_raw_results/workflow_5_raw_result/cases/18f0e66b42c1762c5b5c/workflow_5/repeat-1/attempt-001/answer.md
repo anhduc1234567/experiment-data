@@ -1,0 +1,1 @@
+Phải thu ngắn hạn của khách hàng là các bên liên quan tại số cuối quý là 275.253.189.812 đồng và số đầu năm là 209.482.288.841 đồng [C1].

@@ -1,0 +1,1 @@
+Tại thời điểm cuối quý 4/2024, giá gốc đầu tư vào công ty liên doanh Công ty TNHH Coats Phong Phú là 85.253.638.578 đồng [C2]. Tổng giá gốc đầu tư vào công ty liên doanh, liên kết của Tổng Công ty Cổ phần Phong Phú cuối kỳ là 641.856.168.732 đồng [C1].

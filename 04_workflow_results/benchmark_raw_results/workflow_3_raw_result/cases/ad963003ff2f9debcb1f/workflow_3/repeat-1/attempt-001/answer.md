@@ -1,0 +1,1 @@
+Dựa trên các tài liệu được cung cấp trong ngữ cảnh, không có dữ liệu hoặc thông tin đầy đủ để đánh giá toàn diện tầm quan trọng của chính sách ghi nhận doanh thu đối với tính chính xác của báo cáo kết quả kinh doanh ngoài các đoạn thuyết minh ngắn gọn về điều kiện ghi nhận doanh thu bán hàng và cung cấp dịch vụ [N1].

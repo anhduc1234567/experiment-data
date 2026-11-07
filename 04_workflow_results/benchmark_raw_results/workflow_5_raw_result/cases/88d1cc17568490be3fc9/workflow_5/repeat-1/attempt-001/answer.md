@@ -1,0 +1,1 @@
+Tại ngày 31 tháng 12 năm 2024, chỉ tiêu Tiền và các khoản tương đương tiền hợp nhất của Tổng công ty Thiết bị điện Đông Anh là 8.510.613.197 VND (trong đó Tiền mặt là 1.689.015.107 VND và Tiền gửi ngân hàng không kỳ hạn là 6.821.598.090 VND) [C1].

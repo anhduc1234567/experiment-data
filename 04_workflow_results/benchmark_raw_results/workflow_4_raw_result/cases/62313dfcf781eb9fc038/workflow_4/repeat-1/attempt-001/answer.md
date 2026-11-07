@@ -1,0 +1,1 @@
+Dựa trên bằng chứng đã cung cấp, Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú có đề cập đến mục "7. Hàng tồn kho" [C1], tuy nhiên **context hiện tại chưa cung cấp số liệu cụ thể** về hàng tồn kho đầu năm và cuối kỳ để thực hiện việc so sánh sự thay đổi.

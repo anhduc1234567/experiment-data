@@ -1,0 +1,1 @@
+Các khoản mục được bao gồm trong giá gốc của chi phí sản xuất kinh doanh dở dang của các dự án bất động sản bao gồm: các chi phí thuê nhà thầu thực hiện các hạng mục của dự án bất động sản và các chi phí có liên quan trực tiếp khác [N5] (Trang 14).

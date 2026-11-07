@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn không chứa số liệu về "lợi nhuận sau thuế chưa phân phối" tại thời điểm cuối quý và đầu năm để thực hiện so sánh [C1], [C2].

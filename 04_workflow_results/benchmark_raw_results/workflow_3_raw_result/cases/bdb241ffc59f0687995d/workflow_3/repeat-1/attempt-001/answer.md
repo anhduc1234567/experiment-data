@@ -1,0 +1,1 @@
+Vốn điều lệ của Công ty Cổ phần Khoáng sản Bắc Kạn là **117.377.280.000 đồng** [N2]. Con số này cũng tương ứng với chỉ tiêu Vốn góp của chủ sở hữu (mã số 411) tại ngày 31/12/2024 trên Bảng cân đối kế toán Quý 4/2024 [G1].

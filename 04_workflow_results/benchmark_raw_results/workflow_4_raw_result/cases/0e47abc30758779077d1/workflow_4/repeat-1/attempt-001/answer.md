@@ -1,0 +1,5 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, thuế giá trị gia tăng (GTGT) áp dụng cho các sản phẩm và dịch vụ như sau: [C1]
+* Bán thành phẩm máy biến áp: 8% [C1]
+* Dịch vụ sửa chữa: 8% [C1]
+* Dịch vụ vận chuyển: 8% [C1]
+* Bán hàng hóa, vật tư: 8% hoặc 10% [C1]

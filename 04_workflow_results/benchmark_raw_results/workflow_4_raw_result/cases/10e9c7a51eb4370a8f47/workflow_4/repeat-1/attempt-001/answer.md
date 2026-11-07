@@ -1,0 +1,1 @@
+Tại ngày 31 tháng 12 năm 2024, tổng tài sản ngắn hạn (Mã số 100) trên Bảng cân đối kế toán hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú là 1.766.228.572.070 VND, và số đầu năm là 1.657.799.775.904 VND [C3].

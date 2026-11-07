@@ -1,0 +1,1 @@
+Tổng giá trị khấu hao lũy kế (giá trị hao mòn lũy kế) của tài sản cố định hữu hình cuối kỳ (tại ngày 31 tháng 12 năm 2024) là **(1.344.739.009.124) VND** [G1] (Trang 2).

@@ -1,0 +1,5 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, vai trò và trách nhiệm của Ban Tổng Giám đốc trong việc ngăn chặn gian lận và sai phạm tài chính được quy định cụ thể như sau:
+
+* **Đảm bảo sổ sách kế toán:** Ban Tổng Giám đốc đảm bảo các sổ kế toán thích hợp được lưu giữ đầy đủ để phản ánh tình hình tài chính của Công ty với mức độ chính xác hợp lý tại bất kỳ thời điểm nào và tuân thủ chế độ kế toán áp dụng [N1].
+* **Quản lý và bảo vệ tài sản:** Ban Tổng Giám đốc chịu trách nhiệm quản lý các tài sản của Công ty, từ đó thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và các vi phạm khác [N1].
+* **Cam kết về tính trung thực:** Ban Tổng Giám đốc chịu trách nhiệm khẳng định Báo cáo tài chính riêng phản ánh trung thực và hợp lý tình hình tài chính, kết quả hoạt động kinh doanh của Công ty tại thời điểm ngày 31/12/2024 [N2].

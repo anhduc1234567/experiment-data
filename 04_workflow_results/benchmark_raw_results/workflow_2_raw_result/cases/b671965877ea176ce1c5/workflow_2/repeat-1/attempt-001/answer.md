@@ -1,0 +1,1 @@
+Thời gian khấu hao đối với cơ sở hạ tầng được phân loại là bất động sản đầu tư là **30 năm** [N1].

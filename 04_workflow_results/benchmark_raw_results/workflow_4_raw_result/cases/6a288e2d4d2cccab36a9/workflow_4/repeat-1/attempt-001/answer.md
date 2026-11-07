@@ -1,0 +1,1 @@
+Chi phí xây dựng cơ bản dở dang cuối kỳ Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn là 11.902.048.907 đồng, tăng so với số đầu năm là 6.595.777.186 đồng [C1]. Bằng chứng hiện tại không cung cấp đầy đủ thuyết minh chi tiết để đánh giá tác động cụ thể đến kế hoạch mở rộng của công ty [C1].

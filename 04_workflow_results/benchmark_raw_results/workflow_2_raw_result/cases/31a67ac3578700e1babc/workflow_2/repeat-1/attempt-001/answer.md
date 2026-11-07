@@ -1,0 +1,1 @@
+Mã cổ phiếu của Công ty Cổ phần Khoáng sản Bắc Kạn là **BKC** [N1].

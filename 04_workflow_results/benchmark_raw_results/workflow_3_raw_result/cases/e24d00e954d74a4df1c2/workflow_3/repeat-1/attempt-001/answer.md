@@ -1,0 +1,3 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần, thông tin về rủi ro thanh khoản được ghi nhận tại Thuyết minh BCTC như sau:
+
+- **Chính sách và biện pháp quản lý:** Tổng Công ty không thực hiện các biện pháp phòng ngừa rủi ro thanh khoản do thiếu thị trường mua các công cụ tài chính [N2]. Ban Giám đốc xem xét và thống nhất áp dụng các chính sách quản lý rủi ro này [N2].

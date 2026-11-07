@@ -1,0 +1,3 @@
+- Số dư các khoản phải thu ngắn hạn từ các bên liên quan tại ngày 31/12/2024: 603.687.756.541 VND [N1].
+- Tổng số dư phải thu ngắn hạn của khách hàng tại ngày 31/12/2024: 855.094.953.808 VND [G1].
+- Tỷ lệ phần trăm các khoản phải thu ngắn hạn từ các bên liên quan so với tổng phải thu ngắn hạn của khách hàng cuối năm 2024: (603.687.756.541 / 855.094.953.808) * 100 = 70,60%.

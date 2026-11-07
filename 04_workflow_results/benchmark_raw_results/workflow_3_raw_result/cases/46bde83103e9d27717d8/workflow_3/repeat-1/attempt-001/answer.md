@@ -1,0 +1,3 @@
+- Tổng lợi nhuận kế toán trước thuế lũy kế đến quý IV năm 2024 (cả năm 2024): (9.805.992.079) VND [G1].
+- Tổng lợi nhuận kế toán trước thuế lũy kế đến quý IV tahun 2023 (cả năm 2023): (48.187.112.561) VND [G1].
+- So sánh và đánh giá: Số lỗ năm 2024 đã giảm so với năm 2023 (từ mức lỗ gần 48,19 tỷ đồng xuống còn khoảng 9,81 tỷ đồng). Phép tính thay đổi: (-9.805.992.079) - (-48.187.112.561) = 38.381.120.482 VND, cho thấy tình hình kinh doanh đã cải thiện [G1].

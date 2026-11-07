@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng công ty Cổ phần Phong Phú ([C1], [C2], [C3]), tài liệu không chứa thông tin về báo cáo kiểm toán cũng như không nêu nguyên nhân dẫn đến ý kiến kiểm toán ngoại trừ trong kỳ.

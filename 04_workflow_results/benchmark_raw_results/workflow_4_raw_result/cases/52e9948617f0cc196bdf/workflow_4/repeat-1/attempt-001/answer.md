@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, bằng chứng được cung cấp (Báo cáo lưu chuyển tiền tệ) hiện chưa chứa thông tin chi tiết về số tiền lãi vay đã trả trong năm [C3].

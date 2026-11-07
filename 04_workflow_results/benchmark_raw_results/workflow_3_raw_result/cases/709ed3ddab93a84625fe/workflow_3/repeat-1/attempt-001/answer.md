@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, dự phòng tổn thất cho các khoản đầu tư vào công ty con được trích lập khi công ty con bị lỗ [N1].

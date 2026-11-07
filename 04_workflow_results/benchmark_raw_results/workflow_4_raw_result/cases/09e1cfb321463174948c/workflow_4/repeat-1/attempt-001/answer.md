@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về Tổng số nợ phải trả và Tổng số vốn chủ sở hữu trên Bảng cân đối kế toán hợp nhất tại ngày 31/12/2024 của TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN để tính tỷ lệ D/E.

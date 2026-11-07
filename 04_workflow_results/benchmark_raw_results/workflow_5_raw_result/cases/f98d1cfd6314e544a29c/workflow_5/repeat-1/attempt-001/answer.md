@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không có đủ thông tin và thuyết minh số liệu chi tiết về dự phòng giảm giá các khoản đầu tư vào công cụ vốn của đơn vị khác trong Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG [C1], [C2].

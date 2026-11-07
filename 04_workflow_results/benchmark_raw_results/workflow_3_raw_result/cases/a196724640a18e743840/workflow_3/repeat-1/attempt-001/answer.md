@@ -1,0 +1,1 @@
+Theo Bảng cân đối kế toán tại Quý 4/2024, giá trị tài sản cố định hữu hình cuối kỳ (số cuối năm) là 16.326.198.818 VND (bao gồm nguyên giá 24.034.952.927 VND và giá trị hao mòn lũy kế (7.708.754.109) VND) [G1].

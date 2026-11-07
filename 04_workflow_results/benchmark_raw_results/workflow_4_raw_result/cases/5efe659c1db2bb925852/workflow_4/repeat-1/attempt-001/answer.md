@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn thiếu thông tin chi tiết về số liệu cụ thể của hàng tồn kho bao gồm nguyên vật liệu và thành phẩm tại thời điểm cuối kỳ và đầu năm. Do đó, không đủ cơ sở để phân tích sự thay đổi cơ cấu và tác động của hàng tồn kho [C1], [C2].

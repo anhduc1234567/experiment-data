@@ -1,0 +1,1 @@
+Tổng các khoản vay và nợ thuê tài chính ngắn hạn của Tổng Công ty Cổ phần Phong Phú tại thời điểm cuối kỳ (31/12/2024) là 374.262.338.235 VND [G1] (trang 3).

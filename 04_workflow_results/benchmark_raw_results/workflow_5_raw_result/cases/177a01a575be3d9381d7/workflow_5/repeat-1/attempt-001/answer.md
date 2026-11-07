@@ -1,0 +1,1 @@
+Tại thời điểm Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG (Báo cáo tài chính riêng), các khoản mục thuộc vốn chủ sở hữu bao gồm Vốn góp của chủ sở hữu (840.839.760.000 đồng) và tổng Vốn chủ sở hữu là 884.244.721.299 đồng (số cuối năm) [C1]. Bằng chứng được cung cấp không đề cập đến quỹ đầu tư phát triển và các quỹ khác [C1, C2, C3].

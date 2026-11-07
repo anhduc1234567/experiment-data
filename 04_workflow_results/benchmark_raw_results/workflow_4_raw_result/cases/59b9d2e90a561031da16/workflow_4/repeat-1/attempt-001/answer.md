@@ -1,0 +1,1 @@
+Phần lợi nhuận phát sinh sau ngày đầu tư của Công ty TNHH Coats Phong Phú tại thời điểm số cuối quý là 311.747.220.573 VNĐ [C2].

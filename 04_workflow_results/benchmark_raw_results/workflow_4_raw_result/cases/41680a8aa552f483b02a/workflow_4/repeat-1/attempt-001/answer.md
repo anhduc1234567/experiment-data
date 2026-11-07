@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư của Tổng công ty Cổ phần Phong Phú trên Báo cáo lưu chuyển tiền tệ hợp nhất lũy kế từ đầu năm đến cuối quý năm 2024 là 339.201.459.357 VND và năm 2023 là 181.296.910.320 VND [C1]. Bằng chứng đã truy xuất không cung cấp thông tin chi tiết về nguyên nhân thay đổi của chỉ tiêu này.

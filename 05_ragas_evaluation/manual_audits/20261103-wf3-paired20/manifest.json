@@ -1,0 +1,16 @@
+{
+  "workflow": "workflow_3",
+  "selection": "same case IDs as 20261103-wf4-random20; sampled from available WF4 scores, not from WF3 performance",
+  "n": 20,
+  "reviewer": "assistant, one 0/2/4 rating divided by 4, not Gemini or financial-expert gold",
+  "paid_api_calls": 0,
+  "mean_reference_based_review": 0.675,
+  "counts": {
+    "0": 4,
+    "1": 11,
+    "0.5": 5
+  },
+  "wf4_paired_review_mean": 0.375,
+  "source_check_Q59": "Markdown dau_tu_APEC.md lines 371,381,389; positive current operating cash flow and negative prior year. Requires PDF confirmation before changing benchmark.",
+  "limits": "19 APEC/1 Dong Anh; no claim on full421 or all workflows; known WF4 review and workflow identity, not blinded."
+}

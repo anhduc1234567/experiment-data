@@ -1,0 +1,14 @@
+{
+  "client_and_embedding_seconds": 7.297905500017805,
+  "model_events": [
+    {
+      "index": 1,
+      "kind": "model_load",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "device": "cpu",
+      "elapsed_seconds": 4.137382124987198
+    }
+  ],
+  "cpu_reranker_load_or_move_seconds": 0.6675274169829208,
+  "mps_reranker_load_or_move_seconds": 1.6076768749917392
+}

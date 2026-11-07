@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, các đoạn trích dẫn ([C1], [C2], [C3]) không chứa thông tin về chỉ tiêu tài sản cố định hữu hình và giá trị còn lại của tài sản này tại ngày 31/12/2024. Do đó, context thiếu dữ liệu để chứng minh kết luận cho chỉ tiêu này.

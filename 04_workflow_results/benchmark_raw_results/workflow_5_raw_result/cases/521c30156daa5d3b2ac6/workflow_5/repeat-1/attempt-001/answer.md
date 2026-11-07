@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương không chứa thông tin về Chủ tịch Hội đồng Quản lý của công ty [C1], [C2].

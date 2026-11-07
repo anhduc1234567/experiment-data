@@ -1,0 +1,1 @@
+Tính đến ngày 24 tháng 01 năm 2025, Tổng Giám đốc của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là **Bà Nguyễn Phương Dung** [N1], [N4], [N5].

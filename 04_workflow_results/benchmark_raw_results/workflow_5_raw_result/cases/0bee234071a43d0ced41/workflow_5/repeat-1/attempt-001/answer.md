@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2]) không chứa số liệu về chỉ tiêu chi phí tài chính cho năm 2024 của Tổng Công ty Cổ phần Phong Phú. Do đó, context hiện tại thiếu dữ liệu để trả lời câu hỏi.

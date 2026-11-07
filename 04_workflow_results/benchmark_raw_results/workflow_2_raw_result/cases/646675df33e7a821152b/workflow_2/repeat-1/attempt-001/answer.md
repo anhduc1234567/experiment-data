@@ -1,0 +1,1 @@
+Dựa trên các tài liệu trong context được cung cấp, không có thông tin về tên công ty con có tỷ lệ góp vốn 100%.

@@ -1,0 +1,1 @@
+Tổng tài sản ngắn hạn tại thời điểm cuối quý 4 năm 2024 (tại ngày 31/12/2024) của TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN là 1.562.030.097.086 VND [G1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn ([C1]) không chứa thông tin về các khoản thuế và phải nộp Nhà nước trên Bảng cân đối kế toán cũng như các thuyết minh liên quan để đánh giá khả năng thanh toán. Do đó, context hiện tại còn thiếu dữ liệu để trả lời câu hỏi này.

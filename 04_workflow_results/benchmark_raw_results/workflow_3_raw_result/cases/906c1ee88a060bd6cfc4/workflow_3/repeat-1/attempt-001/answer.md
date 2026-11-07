@@ -1,0 +1,6 @@
+Dựa trên các tài liệu đã cung cấp, thông tin liên quan đến hợp nhất kinh doanh và lợi thế thương mại của Tập đoàn như sau: 
+
+- **Phương pháp kế toán hợp nhất kinh doanh**: Tài sản đã mua, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh được ghi nhận theo giá trị hợp lý tại ngày nắm giữ quyền kiểm soát [N1]. Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất ban đầu được xác định trên cơ sở tỷ lệ của các cổ đông không kiểm soát trong giá trị hợp lý của tài sản, nợ phải trả và nợ tiềm tàng được ghi nhận [N2].
+- **Phương pháp ghi nhận và phân bổ lợi thế thương mại**: Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian 10 năm. Trường hợp có bằng chứng cho thấy lợi thế thương mại bị tổn thất lớn hơn số phân bổ thông thường, số tổn thất phát sinh thực tế sẽ được ghi nhận trong năm [N1].
+- **Ảnh hưởng đến cấu trúc tài chính (trên Bảng cân đối kế toán hợp nhất tại ngày 31/12/2024)**:
+  - Chỉ tiêu **Lợi thế thương mại (Mã số 269, Thuyết minh V.12)** ghi nhận số cuối quý là **6.889.138.340 VND** và số đầu năm là **10.825.788.821 VND** [G1], nằm trong cơ cấu Tài sản dài hạn của Tập đoàn.

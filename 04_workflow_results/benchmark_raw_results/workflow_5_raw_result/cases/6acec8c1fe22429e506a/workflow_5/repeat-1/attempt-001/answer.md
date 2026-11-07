@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, không có đủ thông tin hoặc dữ liệu chi tiết về các khoản đầu tư vào công ty con, thuyết minh về giảm đầu tư, thoái vốn cũng như các định hướng chiến lược dài hạn liên quan [C1], [C2], [C3], [C4].

@@ -1,0 +1,3 @@
+Nguyên giá tài sản cố định hữu hình cuối kỳ trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú gồm:
+- Nguyên giá tài sản cố định hữu hình trên Bảng cân đối kế toán [C2]: 2.301.518.088.117 VND (số cuối kỳ) và 2.287.317.961.521 VND (số đầu năm).
+- Ngoài ra, tại thuyết minh mục 9 (Tài sản cố định thuê tài chính), nguyên giá số cuối kỳ là 122.118.650.662 VND và số đầu năm là 100.459.854.557 VND [C1].

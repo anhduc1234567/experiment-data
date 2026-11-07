@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp [C1], [C2] không chứa dữ liệu hoặc thông tin về chỉ tiêu thuế và các khoản phải nộp ngân sách nhà nước tại thời điểm cuối quý 4 năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn.

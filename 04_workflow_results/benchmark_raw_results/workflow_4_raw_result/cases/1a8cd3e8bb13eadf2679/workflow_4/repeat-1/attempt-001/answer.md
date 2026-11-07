@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1] chỉ chứa thông tin về phần "12. Lợi thế thương mại" và không cung cấp số liệu về Lợi nhuận sau thuế chưa phân phối tại thời điểm đầu kỳ và cuối kỳ. Do đó, context hiện tại thiếu dữ liệu để trả lời câu hỏi này.

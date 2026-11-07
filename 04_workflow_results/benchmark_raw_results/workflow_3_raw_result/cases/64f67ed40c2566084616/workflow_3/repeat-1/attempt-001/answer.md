@@ -1,0 +1,1 @@
+Tổng Công ty áp dụng phương pháp khấu hao đường thẳng dựa trên thời gian hữu dụng ước tính đối với tài sản cố định hữu hình, phù hợp với Thông tư số 45/2013/TT-BTC ngày 25/4/2013 và Thông tư số 147/2016/TT-BTC [N1].

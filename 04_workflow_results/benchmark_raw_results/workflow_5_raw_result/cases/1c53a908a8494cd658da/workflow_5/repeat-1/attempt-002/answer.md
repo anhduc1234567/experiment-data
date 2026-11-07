@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn thiếu thông tin về doanh thu từ khoáng sản và tổng doanh thu [C1], [C2], do đó không thể xác định hoặc tính toán tỷ trọng doanh thu theo yêu cầu.

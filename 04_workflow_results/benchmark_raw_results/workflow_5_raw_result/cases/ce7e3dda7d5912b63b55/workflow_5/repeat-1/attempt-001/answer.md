@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2]) chưa đầy đủ để xác định số liệu cụ thể của chỉ tiêu thuế thu nhập cá nhân phải nộp cuối kỳ trong bảng cân đối kế toán hoặc phần thuyết minh nợ phải trả ngắn hạn của Tổng Công ty Cổ phần Phong Phú Quý 4/2024; ngữ cảnh chỉ đề cập đến mục "15. Thuế và các khoản phải nộp Nhà nước" [C2] nhưng chưa cung cấp nội dung chi tiết bên dưới.

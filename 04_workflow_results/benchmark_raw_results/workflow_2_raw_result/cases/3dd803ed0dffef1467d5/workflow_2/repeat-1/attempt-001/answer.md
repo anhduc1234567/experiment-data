@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4 năm 2024 của Tổng công ty Cổ phần Phong Phú, một doanh nghiệp được coi là bên liên quan (bao gồm công ty con) nếu có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định các chính sách tài chính và hoạt động, hoặc cùng chịu sự kiểm soát chung hay ảnh hưởng đáng kể chung [N4].

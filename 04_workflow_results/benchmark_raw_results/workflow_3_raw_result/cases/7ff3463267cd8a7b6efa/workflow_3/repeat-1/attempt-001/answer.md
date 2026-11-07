@@ -1,0 +1,1 @@
+Theo Thuyết minh Báo cáo tài chính [N1], lãi cơ bản trên cổ phiếu của Tổng Công ty được tính bằng cách chia lợi nhuận sau thuế của Tổng Công ty sau khi trích quỹ khen thưởng, phúc lợi cho tổng số bình quân số cổ phiếu phổ thông lưu hành trong kỳ, không bao gồm số cổ phiếu được Tổng Công ty mua lại và giữ làm cổ phiếu ngân quỹ.

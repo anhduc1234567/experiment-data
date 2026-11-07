@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần trên Báo cáo lưu chuyển tiền tệ hợp nhất lũy kế năm hiện tại (Quý 4 năm 2024) là -85.025.437.582 VND và năm trước là -72.183.863.396 VND [C1].

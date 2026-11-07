@@ -1,0 +1,1 @@
+Dựa trên dữ liệu được cung cấp trong Báo cáo tài chính, phần thông tin về các công ty con chưa hiển thị đầy đủ tỷ lệ quyền biểu quyết do văn bản bị cắt cụt [N1]. Do đó, thiếu dữ liệu để liệt kê chính xác các công ty con mà APEC Investment có tỷ lệ biểu quyết trên 90%.

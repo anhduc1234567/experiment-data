@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư lũy kế năm nay (Quý 4 2024) là -85.025.437.582 VND và năm trước là -72.183.863.396 VND [C2].

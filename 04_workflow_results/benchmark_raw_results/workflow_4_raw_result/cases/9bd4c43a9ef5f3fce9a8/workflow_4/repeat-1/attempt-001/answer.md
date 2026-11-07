@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu hoặc thuyết minh chi tiết về các khoản phải thu ngắn hạn khác, phải thu dài hạn khác và hợp tác kinh doanh trong Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [C1], [C2], [C3].

@@ -1,0 +1,1 @@
+Dựa trên tài liệu cung cấp, công ty con của Tập đoàn Phong Phú hoạt động trong lĩnh vực sản xuất, mua bán bông, xơ, sợi tại TP.Thủ Đức có địa chỉ tại 48 Tăng Nhơn Phú, Phường Tăng Nhơn Phú B, TP.Thủ Đức, TP.HCM [N2].

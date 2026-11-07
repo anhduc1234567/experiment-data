@@ -1,0 +1,1 @@
+Tên đầy đủ của công ty là Công ty Cổ phần Khoáng sản Bắc Kạn [N1], [N2], [N5].

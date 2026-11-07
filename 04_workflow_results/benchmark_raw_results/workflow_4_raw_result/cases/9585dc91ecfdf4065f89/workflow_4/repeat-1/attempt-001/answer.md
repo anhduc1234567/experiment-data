@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk [C1]) chỉ chứa số liệu về lợi nhuận sau thuế TNDN và nguyên nhân chênh lệch, nhưng thiếu dữ liệu về doanh thu thuần, giá vốn hàng bán và lợi nhuận gộp cho cả quý 4/2024 và quý 4/2023 của Công ty Cổ phần Khoáng sản Bắc Kạn. Do đó, không đủ cơ sở để tính toán biên lợi nhuận gộp và biên lợi nhuận ròng [C1].

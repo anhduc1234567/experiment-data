@@ -1,0 +1,1 @@
+Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG được lập trên cơ sở kế toán dồn tích (trừ các thông tin liên quan đến các luồng tiền) [C1].

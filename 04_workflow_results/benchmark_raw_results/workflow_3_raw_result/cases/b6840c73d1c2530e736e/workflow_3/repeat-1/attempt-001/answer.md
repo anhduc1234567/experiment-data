@@ -1,0 +1,6 @@
+- **Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác** (Mã số 24) theo Báo cáo lưu chuyển tiền tệ [G1]:
+  - Năm nay: 76.000.000.000 VND
+  - Năm trước: 121.200.000.000 VND
+- **Phép tính và đánh giá sự thay đổi**: 
+  - Thay đổi tuyệt đối = 76.000.000.000 - 121.200.000.000 = -45.200.000.000 VND.
+  - Chỉ tiêu này giảm 45.200.000.000 VND (tương đương giảm khoảng 37,3%) giữa năm nay và năm trước.

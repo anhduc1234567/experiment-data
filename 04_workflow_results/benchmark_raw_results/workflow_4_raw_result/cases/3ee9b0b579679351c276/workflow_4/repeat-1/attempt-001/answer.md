@@ -1,0 +1,1 @@
+Theo thuyết minh Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, tài sản cố định là máy móc thiết bị thuê tài chính có số năm khấu hao từ 06 năm đến 10 năm [C1].

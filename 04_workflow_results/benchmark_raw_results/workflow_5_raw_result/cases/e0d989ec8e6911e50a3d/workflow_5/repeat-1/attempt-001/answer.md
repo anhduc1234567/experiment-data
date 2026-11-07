@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh, vốn điều lệ của Tổng công ty là 324.863.920.000 VND (chia thành 32.486.392 cổ phần với mệnh giá 10.000 VND/cổ phần) [C1]. Cổ đông lớn nhất là Tập đoàn Điện lực Việt Nam (EVN) nắm giữ 46,49% vốn điều lệ, trong khi các cổ đông khác nắm giữ 53,51% vốn điều lệ [C1].

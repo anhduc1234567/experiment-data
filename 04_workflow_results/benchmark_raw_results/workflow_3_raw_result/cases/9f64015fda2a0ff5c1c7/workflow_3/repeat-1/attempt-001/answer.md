@@ -1,0 +1,3 @@
+Dựa trên Báo cáo lưu chuyển tiền tệ (Quý 4 năm 2024), lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế từ đầu năm đến cuối quý của công ty đạt **72.219.495.035 VND** (Năm trước: 108.308.852.701 VND) [G4]. 
+
+Số liệu này cho thấy hoạt động kinh doanh của công ty tạo ra dòng tiền thuần dương, phản ánh khả năng tự chủ tài chính cơ bản từ hoạt động cốt lõi trong việc trang trải các nghĩa vụ ngắn hạn, trả lãi vay, nộp thuế và tái đầu tư mà không phụ thuộc hoàn toàn vào các nguồn tài chính bên ngoài.

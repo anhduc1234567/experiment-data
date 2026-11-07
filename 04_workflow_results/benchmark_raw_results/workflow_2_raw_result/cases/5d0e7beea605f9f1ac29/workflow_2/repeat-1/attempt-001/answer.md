@@ -1,0 +1,1 @@
+Các khoản phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi [N1].

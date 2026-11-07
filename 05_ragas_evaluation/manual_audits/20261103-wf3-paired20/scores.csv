@@ -1,0 +1,21 @@
+question_number,case_id,question,reviewer_score,wf4_reviewer_score,reference_issue,review_reason
+76,227025fde034006058c8,"Phân tích tiềm năng rủi ro của Công ty APEC Investment khi một số công ty con có hoạt động chính là đầu tư, kinh doanh bất động sản.",0,0,False,"Không phân tích rủi ro, từ chối vì thiếu chi tiết công ty con."
+106,321c70c157e0c1f14e3b,Khoản mục tiền và các khoản tương đương tiền cuối kỳ là bao nhiêu?,1,0,False,Trả đúng số tiền cuối kỳ 8.510.613.197; WF4 không trả được.
+104,3445ce137322fac8bb34,Chi phí bán hàng dự án được phân bổ như thế nào?,1,1,False,Đúng nguyên tắc phân bổ chi phí theo số căn hộ bàn giao.
+63,42f56f7db2e53a9231af,Lưu chuyển tiền thuần từ hoạt động đầu tư năm hiện tại là bao nhiêu VND?,1,0,False,Đúng lưu chuyển tiền đầu tư 40.218.532.929; WF4 không trả được.
+9,d0d6095ed75585ad8463,Ngày bổ nhiệm Kế toán trưởng (Quyền) của công ty là khi nào?,1,1,False,Ngày bổ nhiệm khớp.
+83,ced8802a8feda3cb4f41,Phân tích các yếu tố mà công ty sử dụng để xác định giá trị hợp lý của chứng khoán kinh doanh cho mục đích lập dự phòng.,0.5,0.5,False,Trả hai nhánh niêm yết/UPCOM; thiếu nhánh không giao dịch/hủy niêm yết như WF4.
+11,2f4f4a8ee02013912132,Các Báo cáo tài chính được phê duyệt dựa trên chuẩn mực và hệ thống kế toán nào?,1,1,False,Đủ chuẩn mực/chế độ kế toán Việt Nam và thông tư; dùng cùng cách chấm WF4.
+44,177a01a575be3d9381d7,Đánh giá tác động của việc không có quỹ đầu tư phát triển hoặc các quỹ khác thuộc vốn chủ sở hữu đến chiến lược tăng trưởng của công ty.,0.5,0,False,"Xác nhận đúng các quỹ bằng 0, nhưng không đánh giá tác động tăng trưởng. Reference cũng suy diễn từ việc không có quỹ sang không tái đầu tư, chưa đủ căn cứ."
+96,b11569802405c1518d4f,Phân biệt giữa phải thu thương mại và phải thu khác theo chính sách kế toán của Công ty.,1,1,False,Phân biệt đúng hai loại phải thu.
+2,4fb6a0cc855aa98595f8,Địa chỉ trụ sở chính của Công ty APEC Investment là ở đâu?,1,1,False,Địa chỉ khớp đầy đủ.
+5,f70f49755e61cd9dec80,Có bao nhiêu thành viên Hội đồng Quản lý được bổ nhiệm hoặc bổ nhiệm lại vào ngày 10 tháng 5 năm 2024?,0,1,False,Trả 4 nhưng chính chú thích lại bổ sung người thứ năm cùng ngày; sai đáp án đếm và tự mâu thuẫn.
+35,eef0b45446e03c130a8f,Đánh giá rủi ro thanh khoản ngắn hạn dựa trên sự thay đổi của các khoản phải trả người bán ngắn hạn và người mua trả tiền trước ngắn hạn.,0.5,0.5,False,Đủ bốn số và tính giảm đúng; phần đánh giá thanh khoản còn hạn chế so với yêu cầu/reference.
+75,efd13b193aa9d74b3941,Đánh giá mức độ đa dạng hóa hoạt động kinh doanh của Công ty APEC Investment dựa trên các công ty con.,0,0,False,Nêu một công ty con và khoản đầu tư nhưng không đánh giá được đa dạng hóa.
+59,acc20ef4f3c3c1c91606,Đánh giá các yếu tố chính dẫn đến lưu chuyển tiền thuần từ hoạt động kinh doanh âm trong cả hai năm.,0.5,0,True,Theo reference chỉ khớp một phần nguyên nhân năm trước; nhưng nguồn xác nhận WF3 đúng khi bác tiền đề âm cả hai năm. Không coi điểm khớp reference thấp là lỗi hệ thống ở câu này.
+65,2d599816885a61c09d6d,So sánh tiền thu từ đi vay và tiền chi trả nợ gốc vay trong năm hiện tại.,1,0.5,False,Đúng số và so sánh trả gốc vượt vay 38.988.400.000.
+82,3a6105785a7ef6fb73ea,Giải thích cơ sở dồn tích trong lập Báo cáo tài chính.,0.5,0,False,"Nêu báo cáo áp dụng dồn tích trừ lưu chuyển tiền, chưa giải thích nguyên tắc ghi nhận khi phát sinh."
+26,9249eeeeff102d35a912,Tỷ lệ tài sản cố định trên tổng tài sản dài hạn cuối kỳ là bao nhiêu phần trăm?,1,0,False,"Đúng tổng TSCĐ, mẫu số và tỷ lệ 2,41%; WF4 dùng chỉ tiêu hữu hình và không tính."
+98,f98d1cfd6314e544a29c,Đánh giá mức độ chặt chẽ của chính sách kế toán về dự phòng giảm giá các khoản đầu tư vào công cụ vốn của đơn vị khác.,0,0,False,Chưa nêu hai cơ sở xác định dự phòng hoặc đánh giá mức chặt chẽ; chủ yếu mô tả ghi nhận giá gốc.
+21,5c05e1fa0608804e958c,Phân tích rủi ro tiềm ẩn khi dự phòng phải thu ngắn hạn khó đòi tăng lên đáng kể.,1,0,False,"Đúng số dự phòng, tính biến động và giải thích rủi ro; có giới hạn hợp lý với chi tiết không có nguồn."
+34,d49c2f6d0393a3f4ecb7,Tỷ lệ nợ dài hạn trên tổng nợ phải trả cuối kỳ là bao nhiêu phần trăm?,1,0,False,"Đủ tử/mẫu và tính tỷ lệ 27,16%; WF4 từ chối."

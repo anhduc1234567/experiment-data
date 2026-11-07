@@ -1,0 +1,1 @@
+Tổng nợ phải trả cuối kỳ (tại ngày 31/12/2024) là 778.449.407.564 VND [G1] (trang 5).

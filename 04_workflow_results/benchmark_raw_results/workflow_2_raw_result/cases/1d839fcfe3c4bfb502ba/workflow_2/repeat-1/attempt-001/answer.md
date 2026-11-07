@@ -1,0 +1,3 @@
+- Dự phòng các khoản phải thu ngắn hạn khó đòi (*) (Mã số 137): Số cuối quý (31/12/2024) là (74.593.686.815) VND, giảm so với số đầu năm (01/01/2024) là (95.180.977.729) VND [G1].
+- Phép tính biến động: (74.593.686.815) - (95.180.977.729) = giảm 20.587.290.914 VND.
+- Đánh giá: Mức độ rủi ro liên quan đến dự phòng phải thu khó đòi giảm trong kỳ (số dư dự phòng giảm 20.587.290.914 VND), cho thấy rủi ro tổn thất từ nợ khó đòi có chiều hướng giảm hoặc các khoản nợ đã được thu hồi/xử lý.

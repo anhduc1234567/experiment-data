@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo lưu chuyển tiền tệ Quý 4/2024) chỉ thể hiện chỉ tiêu **Lợi nhuận trước thuế** (Mã số 01) là (9.805.992.079) VND cho năm nay và (48.187.112.561) VND cho năm trước [C1]. Context hiện tại thiếu thông tin về Lợi nhuận sau thuế thu nhập doanh nghiệp.

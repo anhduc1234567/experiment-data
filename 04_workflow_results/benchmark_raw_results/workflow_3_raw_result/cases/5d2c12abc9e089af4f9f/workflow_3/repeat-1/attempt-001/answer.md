@@ -1,0 +1,1 @@
+Tổng nợ phải trả cuối kỳ (tại ngày 31/12/2024) của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ là **1.723.371.365.814 VND** (Mã số 300, C - NỢ PHẢI TRẢ) [G1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin về doanh thu theo ngành nghề, lĩnh vực kinh doanh, doanh thu thuần và cơ cấu hoạt động của Tổng Công ty Cổ phần Phong Phú trong Báo cáo tài chính Quý 4/2024. Do đó, ngữ cảnh hiện tại thiếu dữ liệu để trả lời câu hỏi.

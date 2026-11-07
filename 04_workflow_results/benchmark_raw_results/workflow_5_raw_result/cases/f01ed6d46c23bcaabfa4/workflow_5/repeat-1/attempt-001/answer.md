@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ Quý 4 2024 (31/12/2024), các khoản phải thu ngắn hạn hợp nhất của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần là 816.863.896.596 VND [C1] và tổng tài sản ngắn hạn hợp nhất là 1.562.030.097.086 VND [C2].

@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (chunk C1) chỉ chứa thông tin về đặc điểm hoạt động và lịch sử hình thành của Công ty Cổ phần Khoáng sản Bắc Kạn, hoàn toàn thiếu dữ liệu về lợi nhuận sau thuế TNDN của Quý 4/2024 và Quý 4/2023. Do đó, không đủ cơ sở để tính tỷ lệ tăng trưởng và nhận xét hiệu quả kinh doanh [C1].

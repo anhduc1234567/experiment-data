@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ các chunk [C1] và [C2]) không chứa thông tin về chỉ tiêu tổng nguyên giá tài sản cố định hữu hình cuối kỳ trên bảng Cân đối kế toán hoặc phần Thuyết minh chi tiết tài sản cố định hữu hình Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần. Do đó, không đủ dữ liệu để trả lời câu hỏi.

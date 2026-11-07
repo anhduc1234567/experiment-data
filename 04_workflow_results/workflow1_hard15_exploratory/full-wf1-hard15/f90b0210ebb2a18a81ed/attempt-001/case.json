@@ -1,0 +1,11 @@
+{
+  "case_id": "f90b0210ebb2a18a81ed",
+  "question_number": 52,
+  "question": "Phân tích ảnh hưởng của chi phí lãi vay đến tổng lợi nhuận kế toán trước thuế của công ty.",
+  "reference": "Chi phí lãi vay là một phần đáng kể trong chi phí tài chính của công ty. Trong năm 2024, chi phí lãi vay là 26.984.670.021 VND, và năm 2023 là 38.076.798.251 VND. Các khoản chi phí lãi vay này trực tiếp làm giảm lợi nhuận thuần từ hoạt động kinh doanh và do đó làm giảm tổng lợi nhuận kế toán trước thuế. Mặc dù chi phí lãi vay đã giảm trong năm 2024 so với 2023, nó vẫn là một gánh nặng tài chính đáng kể, đặc biệt khi công ty đã lỗ trước thuế trong năm 2023. Sự giảm của chi phí lãi vay trong năm 2024 đã góp phần vào sự cải thiện tổng lợi nhuận kế toán trước thuế từ mức âm sang dương.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0006",
+  "source_file": "dau_tu_APEC.md",
+  "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+  "selection_topic": "Lãi vay và lợi nhuận"
+}

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại chunk [C1] thuộc Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú mới chỉ đề cập đến tiêu đề "19b. Vay và nợ thuê tài chính dài hạn" và một phần bảng số liệu, nhưng chưa đầy đủ chi tiết về số dư cụ thể của các khoản vay và nợ thuê tài chính ngắn hạn và dài hạn để đưa ra con số chính xác.

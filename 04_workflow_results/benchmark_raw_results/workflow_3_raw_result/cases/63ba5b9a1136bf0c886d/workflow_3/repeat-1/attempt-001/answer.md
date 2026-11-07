@@ -1,0 +1,1 @@
+Tiền và các khoản tương đương tiền cuối kỳ hiện tại (tại ngày 31/12/2024) là **8.510.613.197 VND** [G1, G2] (Trang 1, 7).

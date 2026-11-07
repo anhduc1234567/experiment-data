@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, tài liệu có đề cập đến mục "4.12 Thuế và các khoản phải nộp, phải thu Nhà nước" [C1], tuy nhiên phần bằng chứng hiện tại không chứa số liệu chi tiết về số dư thuế và các khoản phải nộp Nhà nước tại thời điểm cuối kỳ [C1, C2]. Do đó, ngữ cảnh hiện tại thiếu thông tin để cung cấp chính xác số liệu theo yêu cầu.

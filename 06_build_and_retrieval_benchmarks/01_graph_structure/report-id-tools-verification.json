@@ -1,0 +1,116 @@
+{
+  "status": "verified",
+  "key": "company|type|times",
+  "queries": [
+    {
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính hợp nhất đã được kiểm toán|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông|Báo cáo tài chính tổng hợp|Quý 1 2026",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN Á CHÂU|BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ|Quý 2 2026",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Ngân hàng Thương mại Cổ phần Bắc Á|Báo cáo tài chính riêng lẻ giữa niên độ|Bán niên",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Chíp Sáng|Báo cáo tài chính|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Công nghệ cao Traphaco|Báo cáo tài chính|Năm 2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Nhựa Đà Nẵng|Báo cáo tài chính|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Thể thao Ngôi sao Geru|Báo cáo tài chính tổng hợp đã được kiểm toán|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính riêng|Quý 2/2026",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Lilama 10|Báo cáo tài chính đã được kiểm toán|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Sông Đà 7.02|Báo cáo tài chính|Năm 2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Sữa Việt Nam|Báo cáo tài chính riêng|Năm 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Sữa Việt Nam|Báo cáo tài chính hợp nhất giữa niên độ|Quý 2 2025",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG|Báo cáo tài chính riêng|Quý 4/2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "TỔNG CÔNG TY THIẾT BỊ ĐIỆN ĐÔNG ANH - CÔNG TY CỔ PHẦN|BÁO CÁO TÀI CHÍNH HỢP NHẤT|Quý 4 2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "Công ty Cổ phần Tập đoàn Hòa Phát|Báo cáo tài chính hợp nhất|Năm 2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+      "hits": 3,
+      "status": "ok"
+    },
+    {
+      "report_id": "CÔNG TY CỔ PHẦN MAY VÀ XUẤT NHẬP KHẨU PHÚC NGUYỄN|BẢNG CÂN ĐỐI KẾ TOÁN|Năm 2025",
+      "hits": 0,
+      "status": "ok"
+    }
+  ],
+  "context_without_file_id": true,
+  "points_unchanged": 1924,
+  "tool_args": {
+    "retrieve_financial_notes_tool": [
+      "report_id",
+      "queries",
+      "top_k"
+    ],
+    "search_analysis_history_tool": [
+      "report_id",
+      "query_text",
+      "agent_name",
+      "top_k"
+    ]
+  }
+}

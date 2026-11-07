@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các chunk [C1], [C2], và [C3] không chứa số liệu hoặc thông tin về các khoản mục chi phí dịch vụ mua ngoài và chi phí quản lý doanh nghiệp trong Báo cáo kết quả hoạt động kinh doanh hợp nhất và Thuyết minh báo cáo tài chính Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh.

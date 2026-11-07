@@ -1,0 +1,1 @@
+Tại Quý 4/2024, các khoản phải thu ngắn hạn của khách hàng của Công ty Cổ phần Khoáng sản Bắc Kạn ghi nhận số cuối quý là 21.634.113.469 đồng và số đầu năm là 74.215.295.676 đồng [C1]. Các khoản phải thu dài hạn của khách hàng không có số liệu cụ thể [C2]. Bằng chứng đã cung cấp không có thuyết minh chi tiết về rủi ro tín dụng của các khoản phải thu này [C1], [C2], [C3].

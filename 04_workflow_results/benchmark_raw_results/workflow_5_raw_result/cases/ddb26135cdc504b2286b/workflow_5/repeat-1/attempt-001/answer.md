@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa số liệu về nợ ngắn hạn và nợ dài hạn tại thời điểm cuối kỳ Quý 4/2024 từ bảng Cân đối kế toán để thực hiện so sánh [C1], [C2], [C3].

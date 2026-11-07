@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú không chứa thông tin về danh sách các công ty con và công ty liên kết [C1], [C2], [C3].

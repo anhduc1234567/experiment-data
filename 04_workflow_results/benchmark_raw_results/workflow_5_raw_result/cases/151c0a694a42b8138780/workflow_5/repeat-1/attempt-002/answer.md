@@ -1,0 +1,1 @@
+Tổng doanh thu bán hàng và cung cấp dịch vụ của Công ty Cổ phần Khoáng sản Bắc Kạn năm 2024 là **567.481.233.266 đồng** và năm 2023 là **439.951.065.783 đồng** [C1], [C2].

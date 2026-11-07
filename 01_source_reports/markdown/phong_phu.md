@@ -1,0 +1,1469 @@
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+PHONG PHU CORPORATION
+
+# CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+**THE SOCIALIST REPUBLIC OF VIETNAM**
+**Độc lập - Tự do - Hạnh phúc**
+*Independence - Freedom - Happiness*
+
+![Tông Công Ty CP Phong Phú Digital Signature](page_1_image_1_v2.jpg)
+
+Số: 36 /PP-TCKT
+No.: 36 /PP-TCKT
+
+Thành phố Hồ Chí Minh, ngày 24 tháng 01 năm 2025
+*Ho Chi Minh City, 24 January 2025*
+
+# CÔNG BỐ THÔNG TIN ĐỊNH KỲ BÁO CÁO TÀI CHÍNH
+REGULAR DISCLOSURE OF INFORMATION ON FINANCIAL REPORTS
+
+Kính gửi: Sở Giao dịch Chứng khoán Hà Nội (HNX)
+*To: Hanoi Stock Exchange (HNX)*
+
+Thực hiện quy định tại khoản 3, khoản 4 Điều 14 Thông tư số 96/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán, Tổng Công Ty Cổ phần Phong Phú (MCK: PPH) thực hiện công bố thông tin báo cáo tài chính (BCTC) quý 4/ 2024 với Sở Giao dịch Chứng khoán Hà Nội như sau:
+
+*Complying with the provisions of Clause 3, Article 14 of Circular No. 96/2020/TT-BTC dated November 16<sup>th</sup>, 2020 of the Ministry of Finance guiding information disclosure on the stock market, Phong Phu Corporation (Stock code: PPH) would like to disclose the Financial Statements in Quarter IV of 2024 with Hanoi Stock Exchange as follows:*
+
+1. **Tên tổ chức/ *Name of Organization*:** TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ/ *Phong Phu Corporation*
+* Mã chứng khoán/ *Stock code*: PPH
+* Địa chỉ/ *Address*: 48 Tăng Nhơn Phú, Kp18, Phường Tăng Nhơn Phú B, Tp. Thủ Đức, Tp. HCM/ *No. 48 Tang Nhon Phu Street, Quarter 18, Tang Nhon Phu B Ward, Thu Duc City, Ho Chi Minh City, Vietnam.*
+* Điện thoại liên hệ/ *Tel*: 02822101693 Fax:     
+* Email:      Website: www.phongphucorp.com
+
+2. **Nội dung thông tin công bố/ *Content of information disclosure*:**
+
+- BCTC quý 4/năm 2024 theo quy định tại khoản 3 Điều 14 Thông tư số 96/2020/TT-BTC gồm/ *Financial Statements in Quarter IV of 2024 in accordance with Clause 3, Article 14 of Circular No. 96/2020/TT-BTC, including:*
+
+* [ ] BCTC riêng (Tổ chức không có công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc)/ *Separate Financial Statements (Listed organizations has no subsidiaries and superior accounting units have affiliated units);*
+
+* [x] BCTC hợp nhất (Tổ chức có công ty con)/ *Consolidated Financial Statements (Listed organizations have subsidiaries);*
+
+* [ ] BCTC tổng hợp (Tổ chức có đơn vị kế toán trực thuộc tổ chức bộ máy kế toán riêng)/ *Combined Financial Statements (Listed organizations has an accounting units directly under its own accounting system).*
+
+- Các trường hợp thuộc diện phải giải trình nguyên nhân/ *Cases in which the cause must be explained:*
+
+![Seal of Phong Phu Corporation](page_1_seal_1_v2.jpg)
+
++ Tổ chức kiểm toán đưa ra ý kiến không phải là ý kiến chấp nhận toàn phần đối với BCTC (đối với BCTC được kiểm toán năm) / *The auditing organization expresses an opinion that is not a fully accepted opinion for financial statements (for audited financial statements in 2024):*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [ ]
+
+Văn bản giải trình trong trường hợp tích có / *Explanatory documents in case of a "Yes" answer:*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [ ]
+
++ Lợi nhuận sau thuế trong kỳ báo cáo có sự chênh lệch trước và sau kiểm toán từ 5% trở lên, chuyển từ lỗ sang lãi hoặc ngược lại (đối với BCTC được kiểm toán năm)/ *Profit after tax in the reporting period has a difference before and after the audit of 5% or more, converted from loss to profit or vice versa (for audited financial statements in 2024):*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [ ]
+
+Văn bản giải trình trong trường hợp tích có/ *Explanatory documents in case of a "Yes" answer:*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [ ]
+
++ Lợi nhuận sau thuế thu nhập doanh nghiệp tại Báo cáo kết quả kinh doanh của kỳ báo cáo có thay đổi từ 10% trở lên so với báo cáo cùng kỳ năm trước?/ *The profit after corporate income tax in the business performance statement of the reporting period changes by 10% or more compared to the same period of the previous year?*
+
+* Có/ *Yes* [x]
+* Không/ *No* [ ]
+
+Văn bản giải trình trong trường hợp tích có/ *Explanatory documents in case of a "Yes" answer:*
+
+* Có/ *Yes* [x]
+* Không/ *No* [ ]
+
++ Lợi nhuận sau thuế trong kỳ báo cáo có bị lỗ, chuyển từ lãi ở báo cáo cùng kỳ năm trước sang lỗ ở kỳ này hoặc ngược lại? / *The profit after tax in the reporting period suffered a loss, converted from profit in the same period last year to a loss in this period or vice versa?*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [x]
+
+Văn bản giải trình trong trường hợp tích có/ *Explanatory documents in case of a "Yes" answer:*
+
+* Có/ *Yes* [ ]
+* Không/ *No* [ ]
+
+Thông tin này được công bố trên trang thông tin điện tử của Công ty vào ngày: 24/01/2025 tại đường dẫn/ *This information was published on the Company's website on 24 January 2025 at the link:* http://www.phongphucorp.com/shareholder/bao-cao-tai-chinh.html.
+
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung thông tin công bố./ *We hereby commit that the information published above is true and take full responsibility before the law for the content of the published information.*
+
+**Đại diện tổ chức/ *Organization Representative***
+**Người đại diện theo pháp luật/ *Legal Representative***
+*(Ký, ghi rõ họ tên, chức vụ, đóng dấu)*
+*(Signature, full name, position, and company seal)*
+
+**TỔNG GIÁM ĐỐC/ GENERAL DIRECTOR**
+[signature: Dương Khuê]
+
+![seal of TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ](page_2_seal_1_v2.jpg)
+
+**Dương Khuê**
+
+-----------Page 0
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, Khu phố 18, Phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. HCM.
+**BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024**
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+# BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+Tại ngày 31 tháng 12 năm 2024
+
+Đơn vị tính : VND
+
+
+| CHỈ TIÊU<br/>1                                | Mã số<br/>2 | Thuyết minh<br/>3 | Số cuối quý<br/>4   | Số đầu năm<br/>5    |
+| --------------------------------------------- | ----------- | ----------------- | ------------------- | ------------------- |
+| A- TÀI SẢN NGẮN HẠN                           | 100         |                   | 1.766.228.572.070   | 1.657.799.775.904   |
+| I. Tiền và các khoản tương đương tiền         | 110         | V.1               | 123.381.740.914     | 74.073.059.413      |
+| 1. Tiền                                       | 111         |                   | 72.781.740.914      | 67.797.035.859      |
+| 2. Các khoản tương đương tiền                 | 112         |                   | 50.600.000.000      | 6.276.023.554       |
+| II. Đầu tư tài chính ngắn hạn                 | 120         | V.2               | 546.189.593.362     | 490.656.983.597     |
+| 1. Chứng khoán kinh doanh                     | 121         |                   | -                   | -                   |
+| 2. Dự phòng giảm giá chứng khoán kinh doanh   | 122         |                   | -                   | -                   |
+| 3. Đầu tư nắm giữ đến ngày đáo hạn            | 123         |                   | 546.189.593.362     | 490.656.983.597     |
+| III. Các khoản phải thu ngắn hạn              | 130         |                   | 489.256.350.391     | 495.303.760.934     |
+| 1. Phải thu ngắn hạn của khách hàng           | 131         | V.3               | 437.267.811.751     | 374.560.508.379     |
+| 2. Trả trước cho người bán ngắn hạn           | 132         | V.4               | 21.623.063.707      | 8.220.335.833       |
+| 3. Phải thu nội bộ ngắn hạn                   | 133         |                   | -                   | -                   |
+| 4. Phải thu theo tiến độ KH hợp đồng xây dựng | 134         |                   | -                   | -                   |
+| 5. Phải thu về cho vay ngắn hạn               | 135         |                   | -                   | -                   |
+| 6. Phải thu ngắn hạn khác                     | 136         | V.5               | 54.837.551.162      | 136.997.473.022     |
+| 7. Dự phòng các khoản phải thu khó đòi        | 137         |                   | (24.486.403.456)    | (25.111.525.365)    |
+| 8. Tài sản thiếu chờ xử lý                    | 139         |                   | 14.327.227          | 636.969.065         |
+| IV. Hàng hoá tồn kho                          | 140         |                   | 601.007.721.345     | 595.755.494.721     |
+| 1. Hàng hoá tồn kho                           | 141         | V.6               | 607.962.909.452     | 605.029.837.217     |
+| 2. Dự phòng giảm giá hàng tồn kho             | 149         |                   | (6.955.188.107)     | (9.274.342.496)     |
+| V. Tài sản ngắn hạn khác                      | 150         |                   | 6.393.166.058       | 2.010.477.239       |
+| 1. Chi phí trả trước ngắn hạn                 | 151         | V.7               | 1.467.153.797       | 1.166.896.503       |
+| 2. Thuế GTGT được khấu trừ                    | 152         |                   | 4.718.243.246       | 635.811.721         |
+| 3. Thuế và các khoản phải thu Nhà Nước        | 153         | V.15              | 207.769.015         | 207.769.015         |
+| 4. Giao dịch mua bán lại trái phiếu Chính phủ | 154         |                   | -                   | -                   |
+| 5. Tài sản ngắn hạn khác                      | 155         |                   | -                   | -                   |
+| B - TÀI SẢN DÀI HẠN                           | 200         |                   | 1.804.768.871.621   | 1.880.979.683.897   |
+| I. Các khoản phải thu dài hạn                 | 210         |                   | 3.940.070.645       | 1.948.001.131       |
+| 1. Phải thu dài hạn của khách hàng            | 211         |                   | -                   | -                   |
+| 2. Trả trước cho người bán dài hạn            | 212         |                   | -                   | -                   |
+| 3. Vốn kinh doanh ở đơn vị trực thuộc         | 213         |                   | -                   | -                   |
+| 4. Phải thu nội bộ dài hạn                    | 214         |                   | -                   | -                   |
+| 5. Phải thu về cho vay dài hạn                | 215         |                   | -                   | -                   |
+| 6. Phải thu dài hạn khác                      | 216         | V.5               | 3.940.070.645       | 1.948.001.131       |
+| 7. Dự phòng phải thu dài hạn khó đòi          | 219         |                   | -                   | -                   |
+| II. Tài sản cố định                           | 220         |                   | 1.054.372.239.700   | 1.139.015.542.078   |
+| 1. TSCĐ hữu hình                              | 221         | V.8               | 942.578.952.397     | 1.045.043.899.121   |
+| - Nguyên giá                                  | 222         |                   | 2.287.317.961.521   | 2.301.518.088.117   |
+| - Giá trị hao mòn luỹ kế                      | 223         |                   | (1.344.739.009.124) | (1.256.474.188.996) |
+
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+-----------Page 1
+
+| CHỈ TIÊU                                        | Mã số | Thuyết minh | Số cuối quý       | Số đầu năm        |
+| ----------------------------------------------- | ----- | ----------- | ----------------- | ----------------- |
+| 2. TSCĐ thuê tài chính                          | 224   | V.9         | 111.684.730.902   | 93.851.024.744    |
+| - Nguyên giá                                    | 225   |             | 122.118.650.662   | 100.459.854.557   |
+| - Giá trị hao mòn luỹ kế                        | 226   |             | (10.433.919.760)  | (6.608.829.813)   |
+| 3. TSCĐ vô hình                                 | 227   | V.10        | 108.556.401       | 120.618.213       |
+| - Nguyên giá                                    | 228   |             | 583.927.273       | 583.927.273       |
+| - Giá trị hao mòn luỹ kế                        | 229   |             | (475.370.872)     | (463.309.060)     |
+| III. Bất động sản đầu tư                        | 230   |             | -                 | -                 |
+| - Nguyên giá                                    | 231   |             | -                 | -                 |
+| - Giá trị hao mòn luỹ kế                        | 232   |             | -                 | -                 |
+| IV. Tài sản dở dang dài hạn                     | 240   | V.11        | 6.882.372.470     | 1.703.961.819     |
+| 1. Chi phí sản xuất, kinh doanh dở dang dài hạn | 241   |             | -                 | -                 |
+| 2. Chi phí xây dựng cơ bản dở dang              | 242   |             | 6.882.372.470     | 1.703.961.819     |
+| V. Đầu tư tài chính dài hạn                     | 250   |             | 715.351.737.795   | 715.157.944.519   |
+| 1. Đầu tư vào công ty con                       | 251   |             | -                 | -                 |
+| 2. Đầu tư vào công ty liên doanh, liên kết      | 252   | V.2         | 641.856.168.732   | 631.403.652.016   |
+| 3. Đầu tư góp vốn vào đơn vị khác               | 253   | V.2         | 105.929.737.637   | 105.929.737.637   |
+| 4. Dự phòng giảm giá đầu tư tài chính dài hạn   | 254   |             | (32.434.168.574)  | (22.175.445.134)  |
+| 5. Đầu tư nắm giữ đến ngày đáo hạn              | 255   |             | -                 | -                 |
+| VI. Tài sản dài hạn khác                        | 260   |             | 24.222.451.011    | 23.154.234.350    |
+| 1. Chi phí trả trước dài hạn                    | 261   | V.7         | 17.333.312.671    | 12.328.445.529    |
+| 2. Tài sản thuế thu nhập hoãn lại               | 262   |             | -                 | -                 |
+| 3. Thiết bị, vật tư, phụ tùng thay thế dài hạn  | 263   |             | -                 | -                 |
+| 4. Tài sản dài hạn khác                         | 268   |             | -                 | -                 |
+| 5. Lợi thế thương mại                           | 269   | V.12        | 6.889.138.340     | 10.825.788.821    |
+| TỔNG CỘNG TÀI SẢN                               | 270   |             | 3.570.997.443.691 | 3.538.779.459.801 |
+| C - NỢ PHẢI TRẢ                                 | 300   |             | 1.723.371.365.814 | 1.833.561.213.190 |
+| I. Nợ ngắn hạn                                  | 310   |             | 1.102.159.138.959 | 1.238.083.921.984 |
+| 1. Phải trả người bán ngắn hạn                  | 311   | V.13        | 264.764.073.637   | 262.271.396.369   |
+| 2. Người mua trả tiền trước ngắn hạn            | 312   | V.14        | 139.593.283.024   | 137.439.253.933   |
+| 3. Thuế và các khoản phải nộp Nhà Nước          | 313   | V.15        | 33.918.780.022    | 181.375.380.935   |
+| 4. Phải trả cho người lao động                  | 314   | V.16        | 68.112.150.907    | 61.778.793.622    |
+| 5. Chi phí phải trả ngắn hạn                    | 315   | V.17        | 10.383.298.588    | 8.423.087.802     |
+| 6. Phải trả nội bộ ngắn hạn                     | 316   |             | -                 | -                 |
+| 7. Phải trả tiến độ KH của hợp đồng xây dựng    | 317   |             | -                 | -                 |
+| 8. Doanh thu chưa thực hiện ngắn hạn            | 318   |             | 4.029.941.115     | 3.440.009.981     |
+| 9. Phải trả ngắn hạn khác                       | 319   | V.18        | 131.061.198.322   | 103.246.176.287   |
+| 10. Vay và nợ thuê tài chính ngắn hạn           | 320   | V.19        | 374.262.338.235   | 402.583.798.387   |
+| 11. Dự phòng phải trả ngắn hạn                  | 321   | V.20        | 62.473.188.366    | 62.473.188.366    |
+| 12. Quỹ khen thưởng, phúc lợi                   | 322   | V.21        | 13.560.886.743    | 15.052.836.302    |
+| 13. Quỹ bình ổn giá                             | 323   |             | -                 | -                 |
+| 14. Giao dịch mua bán lại trái phiếu Chính phủ  | 324   |             | -                 | -                 |
+| II. Nợ dài hạn                                  | 330   |             | 621.212.226.855   | 595.477.291.206   |
+| 1. Phải trả người bán dài hạn                   | 331   |             | -                 | -                 |
+| 2. Người mua trả tiền trước dài hạn             | 332   |             | -                 | -                 |
+| 3. Chi phí phải trả dài hạn                     | 333   |             | -                 | -                 |
+| 4. Phải trả nội bộ về vốn kinh doanh            | 334   |             | -                 | -                 |
+| 5. Phải trả nội bộ dài hạn                      | 335   |             | -                 | -                 |
+| 6. Doanh thu chưa thực hiện dài hạn             | 336   |             | 20.497.647.770    | 24.487.076.071    |
+| 7. Phải trả dài hạn khác                        | 337   | V.18        | 12.926.000.000    | 9.926.000.000     |
+| 8. Vay và nợ thuê tài chính dài hạn             | 338   | V.19        | 587.788.579.085   | 561.064.215.135   |
+
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+-----------Page 2
+
+| CHỈ TIÊU                                       | Mã số | Thuyết minh | Số cuối quý       | Số đầu năm        |
+| ---------------------------------------------- | ----- | ----------- | ----------------- | ----------------- |
+| 9. Trái phiếu chuyển đổi                       | 339   |             | -                 | -                 |
+| 10. Cổ phiếu ưu đãi                            | 340   |             | -                 | -                 |
+| 11. Thuế thu nhập hoãn lại phải trả            | 341   |             | -                 | -                 |
+| 12. Dự phòng phải trả dài hạn                  | 342   | V.20        | -                 | -                 |
+| 13. Quỹ phát triển khoa học công nghệ          | 343   |             | -                 | -                 |
+| D- VỐN CHỦ SỞ HỮU                              | 400   |             | 1.847.626.077.877 | 1.705.218.246.611 |
+| I. Vốn chủ sở hữu                              | 410   |             | 1.847.626.077.877 | 1.705.218.246.611 |
+| 1. Vốn đầu tư của chủ sở hữu                   | 411   | V.22        | 746.708.910.000   | 746.708.910.000   |
+| - Cổ phiếu phổ thông có quyền biểu quyết       | 411a  |             | 746.708.910.000   | 746.708.910.000   |
+| - Cổ phiếu ưu đãi                              | 411b  |             | -                 | -                 |
+| 2. Thặng dư vốn cổ phần                        | 412   | V.22        | 32.368.276.001    | 32.368.276.001    |
+| 3. Quyền chọn chuyển đổi trái phiếu            | 413   |             | -                 | -                 |
+| 4. Vốn khác của chủ sở hữu                     | 414   |             | -                 | -                 |
+| 5. Cổ phiếu quỹ                                | 415   |             | -                 | -                 |
+| 6. Chênh lệch đánh giá lại tài sản             | 416   |             | -                 | -                 |
+| 7. Chênh lệch tỷ giá hối đoái                  | 417   |             | -                 | -                 |
+| 8. Quỹ đầu tư phát triển                       | 418   | V.22        | 512.396.290.709   | 471.023.935.263   |
+| 9. Quỹ hỗ trợ sắp xếp doanh nghiệp             | 419   |             | -                 | -                 |
+| 10. Quỹ khác thuộc vốn chủ sở hữu              | 420   | V.22        | -                 | -                 |
+| 11. Lợi nhuận sau thuế chưa phân phối          | 421   | V.22        | 518.548.231.553   | 424.786.792.618   |
+| - LNST chưa phân phối lũy kế đến cuối kỳ trước | 421a  |             | 303.184.092.798   | 424.786.792.618   |
+| - LNST chưa phân phối kỳ này                   | 421b  |             | 215.364.138.755   |                   |
+| 12. Nguồn vốn đầu tư xây dựng cơ bản           | 422   |             | -                 | -                 |
+| 13. Lợi ích cổ đông không kiểm soát            | 429   | V.23        | 37.604.369.614    | 30.330.332.729    |
+| TỔNG CỘNG NGUỒN VỐN                            | 440   |             | 3.570.997.443.691 | 3.538.779.459.801 |
+
+
+
+Thành phố Hồ Chí Minh, ngày 24 tháng 01 năm 2025
+
+**NGƯỜI LẬP BIỂU**        **KẾ TOÁN TRƯỞNG**        **TỔNG GIÁM ĐỐC**
+
+![signature: Trần Lan Anh](page_6_image_1_v2.jpg)
+
+![signature: Lê Thị Tú Anh](page_6_image_2_v2.jpg)
+
+![seal of TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ](page_6_image_3_v2.jpg)
+
+**Trần Lan Anh**
+
+**Lê Thị Tú Anh**
+
+**Dương Khuê**
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+-----------Page 3
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, Khu phố 18, Phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. HCM.
+**BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024**
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+# BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+## QUÝ 4 NĂM 2024
+
+Đơn vị tính: VND
+
+
+| CHI TIÊU                                               | Mã số | TM    | Quý 4/2024      | Quý 4/2023      | Lũy kế từ đầu năm đến cuối kỳ này<br/>Năm 2024 | Lũy kế từ đầu năm đến cuối kỳ này<br/>Năm 2023 |
+| ------------------------------------------------------ | ----- | ----- | --------------- | --------------- | ---------------------------------------------- | ---------------------------------------------- |
+| 1. Doanh thu bán hàng và cung cấp dịch vụ              | 01    | VI.1  | 561.118.510.425 | 524.416.794.834 | 2.238.054.501.804                              | 1.754.522.756.502                              |
+| 2. Các khoản giảm trừ                                  | 02    | VI.2  | 460.116.531     | 1.083.600.647   | 5.377.071.122                                  | 5.141.359.865                                  |
+| 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ     | 10    |       | 560.658.393.894 | 523.333.194.187 | 2.232.677.430.682                              | 1.749.381.396.637                              |
+| 4. Giá vốn hàng bán                                    | 11    | VI.3  | 446.749.446.487 | 438.827.738.679 | 1.803.527.972.601                              | 1.401.637.434.862                              |
+| 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ       | 20    |       | 113.908.947.407 | 84.505.455.508  | 429.149.458.081                                | 347.743.961.775                                |
+| 6. Doanh thu hoạt động tài chính                       | 21    | VI.4  | 10.608.319.963  | 17.344.983.091  | 46.655.901.465                                 | 43.283.518.454                                 |
+| 7. Chi phí tài chính                                   | 22    | VI.5  | 24.169.807.500  | 20.098.358.924  | 100.877.952.896                                | 87.735.875.529                                 |
+| Trong đó: chi phí lãi vay                              | 23    |       | 13.835.056.156  | 15.571.277.008  | 54.671.580.549                                 | 59.352.205.703                                 |
+| 8. Phần lãi hoặc lỗ trong công ty liên kết, liên doanh | 24    | V2b   | 91.054.531.322  | 48.486.069.204  | 343.707.103.466                                | 320.268.114.578                                |
+| 9. Chi phí bán hàng                                    | 25    | VI.6  | 26.013.409.788  | 25.664.625.124  | 88.390.177.071                                 | 77.059.549.951                                 |
+| 10. Chi phí quản lý doanh nghiệp                       | 26    | VI.7  | 49.481.664.993  | 60.820.989.107  | 258.205.156.185                                | 221.824.872.170                                |
+| 11. Lợi nhuận thuần từ hoạt động kinh doanh            | 30    |       | 115.906.916.411 | 43.752.534.648  | 372.039.176.860                                | 324.675.297.157                                |
+| 12. Thu nhập khác                                      | 31    | VI.8  | 3.483.658.301   | 2.037.037       | 8.896.409.053                                  | 124.867.296                                    |
+| 13. Chi phí khác                                       | 32    | VI.9  | 195.162.806     | 487.663.708     | 4.507.003.474                                  | 5.065.667.225                                  |
+| 14. Lợi nhuận khác                                     | 40    |       | 3.288.495.495   | (485.626.671)   | 4.389.405.579                                  | (4.940.799.929)                                |
+| 15. Tổng lợi nhuận kế toán trước thuế                  | 50    |       | 119.195.411.906 | 43.266.907.977  | 376.428.582.439                                | 319.734.497.228                                |
+| 16. Chi phí thuế thu nhập doanh nghiệp hiện hành       | 51    |       | 1.071.257.729   | 1.029.362.446   | 3.986.598.341                                  | 2.991.362.446                                  |
+| 18. Lợi nhuận sau thuế thu nhập doanh nghiệp           | 60    |       | 118.124.154.177 | 42.237.545.531  | 372.441.984.098                                | 316.743.134.782                                |
+| 19. Lợi nhuận sau thuế của cổ đông của công ty mẹ      | 61    |       | 116.408.590.365 | 40.597.746.139  | 365.717.565.199                                | 311.362.639.035                                |
+| 20. Lợi nhuận sau thuế của cổ đông không kiểm soát     | 62    |       | 1.715.563.812   | 1.639.799.392   | 6.724.418.899                                  | 5.380.495.747                                  |
+| 21. Lãi cơ bản trên cổ phiếu                           | 70    | VI.10 | 1.508           | 496             | 4.451                                          | 3.865                                          |
+
+
+
+Thành phố Hồ Chí Minh, ngày 24 tháng 01 năm 2025
+
+* **NGƯỜI LẬP BIỂU**:
+  ![Chữ ký Trần Lan Anh](page_7_image_2_v2.jpg)
+  **Trần Lan Anh**
+* **KẾ TOÁN TRƯỞNG**:
+  ![Chữ ký Lê Thị Tú Anh](page_7_image_1_v2.jpg)
+  **Lê Thị Tú Anh**
+* **GIÁM ĐỐC**:
+  ![Con dấu và chữ ký Giám đốc](page_7_image_3_v2.jpg)
+  **Dương Khuê**
+
+-----------Page 4
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+
+Địa chỉ: 48 Tăng Nhơn Phú, Khu phố 18, Phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. HCM.
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+
+Cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024
+
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+
+(Theo phương pháp trực tiếp)
+QUÝ 4 NĂM 2024
+
+Đơn vị tính: VND
+
+
+| STT  | CHỈ TIÊU                                                                                | Mã số | Thuyết minh | QUÝ 4<br/>Năm 2024 | QUÝ 4<br/>Năm 2023 | Lũy kế từ đầu năm đến cuối quý<br/>Năm 2024 | Lũy kế từ đầu năm đến cuối quý<br/>Năm 2023 |
+| ---- | --------------------------------------------------------------------------------------- | ----- | ----------- | ------------------ | ------------------ | ------------------------------------------- | ------------------------------------------- |
+| I.   | Lưu chuyển tiền từ hoạt động kinh doanh                                                 |       |             |                    |                    |                                             |                                             |
+| 1.   | Tiền thu bán hàng, cung cấp dịch vụ và doanh thu khác                                   | 01    |             | 616.949.157.704    | 935.463.517.056    | 2.217.684.050.142                           | 1.754.850.618.972                           |
+| 2.   | Tiền chi trả cho người cung cấp hàng hóa và dịch vụ                                     | 02    |             | (395.534.090.762)  | (657.558.295.363)  | (1.567.758.431.239)                         | (1.159.328.167.373)                         |
+| 3.   | Tiền chi trả cho người lao động                                                         | 03    |             | (82.081.734.061)   | (138.762.004.759)  | (343.929.480.021)                           | (286.941.243.984)                           |
+| 4.   | Tiền chi trả lãi vay                                                                    | 04    |             | (23.366.257.486)   | (30.572.928.092)   | (63.002.729.473)                            | (72.441.948.889)                            |
+| 5.   | Tiền chi nộp thuế thu nhập doanh nghiệp                                                 | 05    |             | (2.135.955.138)    | (1.975.100.079)    | (3.874.434.936)                             | (2.615.862.864)                             |
+| 6.   | Tiền thu khác từ hoạt động kinh doanh                                                   | 06    |             | 8.014.432.352      | 25.825.001.452     | 33.293.993.591                              | 41.507.478.016                              |
+| 7.   | Tiền chi khác cho hoạt động kinh doanh                                                  | 07    |             | (64.812.936.265)   | (71.575.987.284)   | (321.388.157.358)                           | (112.234.392.320)                           |
+|      | Lưu chuyển tiền thuần từ hoạt động kinh doanh                                           | 20    |             | 57.032.616.344     | 60.844.202.931     | (48.975.189.294)                            | 162.796.481.558                             |
+| II.  | Lưu chuyển tiền từ hoạt động đầu tư                                                     |       |             |                    |                    |                                             |                                             |
+| 1.   | Tiền chi để mua sắm, xây dựng tài sản cố định và các tài sản dài hạn khác               | 21    |             | (12.571.406.127)   | (15.257.208.587)   | (66.466.642.389)                            | (71.486.280.383)                            |
+| 2.   | Tiền thu từ thanh lý, nhượng bán tài sản cố định và các tài sản dài hạn khác            | 22    |             | 701.481.481        | 374.074.074        | 6.614.753.382                               | 9.641.619.530                               |
+| 3.   | Tiền chi cho vay, mua các công cụ nợ của đơn vị khác                                    | 23    |             | (215.000.000.000)  | (503.656.983.597)  | (1.024.175.656.331)                         | (956.286.972.597)                           |
+| 4.   | Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác                            | 24    |             | 225.000.000.000    | 495.629.989.000    | 968.656.983.597                             | 738.629.989.000                             |
+| 5.   | Tiền chi đầu tư, góp vốn vào đơn vị khác                                                | 25    |             |                    |                    | (21.591.240.000)                            |                                             |
+| 6.   | Tiền thu hồi đầu tư, góp vốn vào đơn vị khác                                            | 26    |             |                    |                    |                                             |                                             |
+| 7.   | Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia                                     | 27    |             | 18.239.150.684     | 167.428.342.668    | 476.163.261.098                             | 460.798.554.770                             |
+|      | Lưu chuyển tiền thuần từ hoạt động đầu tư                                               | 30    |             | 16.369.226.038     | 144.518.213.558    | 339.201.459.357                             | 181.296.910.320                             |
+| III. | Lưu chuyển tiền từ hoạt động tài chính                                                  |       |             |                    |                    |                                             |                                             |
+| 1.   | Tiền thu từ phát hành cổ phiếu, nhận góp vốn của chủ sở hữu                             | 31    |             |                    |                    |                                             |                                             |
+| 2.   | Tiền chi trả góp vốn cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành | 32    |             |                    |                    |                                             |                                             |
+| 3.   | Tiền vay ngắn hạn, dài hạn nhận được                                                    | 33    |             | 242.003.392.571    | 463.595.780.713    | 1.038.451.179.150                           | 891.442.182.771                             |
+| 4.   | Tiền chi trả nợ gốc vay                                                                 | 34    |             | (224.267.249.801)  | (512.412.389.134)  | (1.072.942.242.493)                         | (952.388.423.120)                           |
+| 5.   | Tiền chi trả nợ thuê tài chính                                                          | 35    |             | (1.148.000.000)    | (4.682.397.297)    | (22.518.654.105)                            | (11.733.609.790)                            |
+| 6.   | Cổ tức, lợi nhuận đã trả cho chủ sở hữu                                                 | 36    |             | (16.877.807.950)   | (125.152.040.742)  | (183.909.683.778)                           | (269.712.883.792)                           |
+|      | Lưu chuyển tiền thuần từ hoạt động tài chính                                            | 40    |             | (289.665.180)      | (178.651.046.460)  | (240.919.401.226)                           | (342.392.733.931)                           |
+|      | Lưu chuyển tiền thuần trong kỳ                                                          | 50    |             | 73.112.177.202     | 26.711.370.029     | 49.306.868.837                              | 1.700.657.947                               |
+|      | Tiền và tương đương tiền đầu kỳ                                                         | 60    | V.1         | 50.269.482.112     | 47.361.689.384     | 74.073.059.413                              | 72.369.002.941                              |
+|      | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ                                 | 61    |             | 81.600             |                    | 1.812.664                                   | 3.398.525                                   |
+|      | Tiền và tương đương tiền cuối kỳ                                                        | 70    | V.1         | 123.381.740.914    | 74.073.059.413     | 123.381.740.914                             | 74.073.059.413                              |
+
+
+
+Thành phố Hồ Chí Minh, ngày 24 tháng 01 năm 2025
+
+**NGƯỜI LẬP BIỂU** | **KẾ TOÁN TRƯỞNG** | **TỔNG GIÁM ĐỐC**
+--- | --- | ---
+![signature](page_8_image_1_v2.jpg) |  ![signature](page_8_image_2_v2.jpg) |  ![seal and signature](page_8_image_3_v2.jpg)
+**Trần Lan Anh** |  **Lê Thị Tú Anh** |  **Dương Khuê**
+
+Báo cáo này phải được đọc cùng với Bản thuyết minh Báo cáo tài chính hợp nhất
+-----------Page 5
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+# BẢN THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+## I. ĐẶC ĐIỂM HOẠT ĐỘNG
+
+### 1. Hình thức sở hữu vốn
+Tổng Công ty cổ phần Phong Phú (sau đây gọi tắt là "Tổng Công ty" hay "Công ty mẹ") là công ty cổ phần.
+
+### 2. Lĩnh vực kinh doanh
+Tổng Công ty kinh doanh trong nhiều lĩnh vực khác nhau.
+
+### 3. Ngành nghề kinh doanh
+Hoạt động kinh doanh chính của Tổng Công ty là: Sản xuất, mua bán sợi, vải, khăn, chỉ may, chỉ thêu, sản phẩm may mặc và thời trang (trừ tẩy, nhuộm, hồ in trên sản phẩm dệt, may đan, gia công hàng đã qua sử dụng); Nhuộm và hoàn tất vải; Mua bán hóa chất, thuốc nhuộm (trừ hóa chất có tính độc hại mạnh); Mua bán máy móc thiết bị, vật tư, phụ tùng, phụ liệu ngành dệt – nhuộm – may; Sản xuất sợi, sợi nhân tạo (trừ tái chế thải); Buôn bán tơ, xơ, sợi dệt, hàng may mặc; Sản xuất và kinh doanh nước khoáng, bia, rượu, nước giải khát các loại; Sản xuất và kinh doanh các loại bao bì phục vụ cho ngành bia rượu, nước giải khát; Kinh doanh dịch vụ vận tải,..
+
+### 4. Chu kỳ sản xuất, kinh doanh thông thường
+Chu kỳ sản xuất kinh doanh thông thường của Tổng Công ty không quá 12 tháng.
+
+### 5. Cấu trúc Tập đoàn
+Tập đoàn bao gồm hợp Công ty mẹ và 02 công ty con chịu sự kiểm soát của Công ty mẹ. Công ty con được hợp nhất trong Báo cáo tài chính hợp nhất này.
+
+### 5a. Danh sách Công ty con được hợp nhất
+
+
+| Tên công ty                       | Địa chỉ trụ sở chính                                         | Hoạt động kinh doanh chính                                                                                           | Tỷ lệ lợi ích<br/>Số cuối quý | Tỷ lệ lợi ích<br/>Số đầu năm | Tỷ lệ quyền biểu quyết<br/>Số cuối quý | Tỷ lệ quyền biểu quyết<br/>Số đầu năm |
+| --------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------- | -------------------------------------- | ------------------------------------- |
+| Công ty CP Dệt Gia dụng Phong Phú | Thôn Hạnh Trí, Xã Quảng Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận | Sản xuất, mua bán bông, xơ, sợi, vải, sản phẩm may mặc. Mua bán hóa chất thuốc nhuộm, máy móc thiết bị ngành dệt may | 90.00%                        | 90.00%                       | 90.00%                                 | 90.00%                                |
+| Công ty CP Nam Dương Phú          | 48 Tăng Nhơn Phú, Phường Tăng Nhơn Phú B, TP.Thủ Đức, TP.HCM | Sản xuất, mua bán bông, xơ, sợi                                                                                      | 96,28%                        | 96,95%                       | 96,28%                                 | 96,95%                                |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+-----------Page 6
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### 5b. Danh sách các Công ty liên kết được phản ánh trong Báo cáo tài chính hợp nhất theo phương pháp vốn chủ sở hữu
+
+
+| Tên công ty                                                 | Địa chỉ trụ sở chính                                                     | Hoạt động kinh doanh chính                                                                | Tỷ lệ vốn góp | Tỷ lệ quyền biểu quyết |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------- | ---------------------- |
+| Công ty TNHH Coats Phong Phú                                | Số 48 Tăng Nhơn Phú, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh | Sản xuất, mua bán bông, xơ, sợi                                                           | 35.65%        | 35.65%                 |
+| Công ty cổ phần đầu tư phát triển nhà và đô thị HUD Sài Gòn | Số 159 Điện Biên Phủ, quận Bình Thạnh, TP. Hồ Chí Minh                   | Đầu tư, xây dựng, kinh doanh bất động sản                                                 | 21.51%        | 21.51%                 |
+| Công ty cổ phần may Đà Lạt                                  | Số 09 Phù Đổng Thiên Vương, TP.Đà Lạt, tỉnh Lâm Đồng                     | Sản xuất, kinh doanh sản phẩm dệt may, nguyên phụ liệu, máy móc thiết bị ngành dệt may    | 40.00%        | 40.00%                 |
+| Công ty cổ phần phát triển nhà Phong Phú Daewon Thủ Đức     | Số 378 Minh Khai, phường Vĩnh Tuy, quận Hai Bà Trưng, TP. Hà Nội         | Kinh doanh dịch vụ vận chuyển, giao nhận                                                  | 47.64%        | 47.64%                 |
+| Công ty cổ phần xúc tiến thương mại và đầu tư Phong Phú     | Số 168B Bùi Thị Xuân, phường Phạm Ngũ Lão, quận 1, TP. Hồ Chí Minh       | Sản xuất, kinh doanh bông nguyên liệu nhập khẩu; sản xuất và xuất khẩu các loại khăn bông | 31.71%        | 31.71%                 |
+| Công ty cổ phần dệt Đông Nam                                | Số 727 Âu Cơ, phường Tân Thành, quận Tân Phú, TP. Hồ Chí Minh            | Sản xuất các sản phẩm dệt                                                                 | 35.99%        | 35.99%                 |
+| Công ty cổ phần dệt may Nha Trang                           | Xã Vĩnh Phương, TP. Nha Trang, tỉnh Khánh Hòa                            | Sản xuất các sản phẩm dệt                                                                 | 23.89%        | 23.89%                 |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất | 
+-----------Page 7
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## II. NĂM TÀI CHÍNH, ĐƠN VỊ TIỀN TỆ SỬ DỤNG TRONG KẾ TOÁN
+
+### 1. Năm tài chính
+Năm tài chính của Tập đoàn bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm.
+
+### 2. Đơn vị tiền tệ sử dụng trong kế toán
+Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam (VND) do phần lớn các nghiệp vụ được thực hiện bằng đơn vị tiền tệ VND.
+
+## III. CHUẨN MỰC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG
+
+### 1. Chế độ kế toán áp dụng
+Ngày 22 tháng 12 năm 2014, Bộ Tài chính đã ban hành Thông tư số 200/2014/TT-BTC hướng dẫn Chế độ kế toán doanh nghiệp thay thế Quyết định số 15/2006/QĐ-BTC ngày 20 tháng 3 năm 2006 của Bộ trưởng Bộ Tài chính và Thông tư số 244/2009/TT-BTC ngày 31 tháng 12 năm 2009 của Bộ Tài chính cũng như Thông tư số 202/2014/TT-BTC thay thế cho phần XIII - Thông tư số 161/2007/TT-BTC ngày 31 tháng 12 năm 2007 của Bộ Tài chính hướng dẫn lập và trình bày Báo cáo tài chính hợp nhất theo Chuẩn mực kế toán Việt Nam số 25 "Báo cáo tài chính hợp nhất và kế toán các khoản đầu tư vào công ty con". Các Thông tư này có hiệu lực áp dụng cho quý bắt đầu vào hoặc sau ngày 01 tháng 01 năm 2015. Tập đoàn áp dụng các Chuẩn mực kế toán, các Thông tư này và các thông tư khác hướng dẫn thực hiện Chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+### 2. Tuyên bố về việc tuân thủ Chuẩn mực kế toán và Chế độ kế toán
+Ban Tổng Giám đốc đảm bảo đã tuân thủ yêu cầu của các chuẩn mực kế toán, Chế độ kế toán doanh nghiệp Việt Nam được ban hành theo Thông tư số 200/2014/TT-BTC ngày 22 tháng 12 năm 2014, Thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 cũng như các thông tư khác hướng dẫn thực hiện chuẩn mực kế toán của Bộ Tài chính trong việc lập và trình bày Báo cáo tài chính hợp nhất.
+
+## IV. CÁC CHÍNH SÁCH KẾ TOÁN ÁP DỤNG
+
+### 1. Cơ sở lập Báo cáo tài chính hợp nhất
+Báo cáo tài chính hợp nhất được lập trên cơ sở kế toán dồn tích (trừ các thông tin liên quan đến các luồng tiền).
+
+### 2. Cơ sở hợp nhất
+Báo cáo tài chính hợp nhất bao gồm Báo cáo tài chính tổng hợp của Công ty mẹ và Báo cáo tài chính của các công ty con. Công ty con là đơn vị chịu sự kiểm soát của Công ty mẹ. Sự kiểm soát tồn tại khi Công ty mẹ có khả năng trực tiếp hay gián tiếp chi phối các chính sách tài chính và hoạt động của công ty con để thu được các lợi ích kinh tế từ các hoạt động này. Khi xác định quyền kiểm soát có tính đến quyền biểu quyết tiềm năng phát sinh từ các quyền chọn mua hoặc các công cụ nợ và công cụ vốn có thể chuyển đổi thành cổ phiếu phổ thông tại ngày kết thúc quý.
+
+Kết quả hoạt động kinh doanh của các công ty con được mua lại hoặc bán đi trong năm được trình bày trong Báo cáo kết quả hoạt động kinh doanh hợp nhất từ ngày mua hoặc cho đến ngày bán khoản đầu tư ở công ty con đó.
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất*
+8
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+**Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)**
+
+---
+
+Báo cáo tài chính của công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và áp dụng các chính sách kế toán thống nhất cho các giao dịch và sự kiện cùng loại trong những hoàn cảnh tương tự. Trong trường hợp chính sách kế toán của công ty con khác với chính sách kế toán áp dụng thống nhất trong Tập đoàn thì Báo cáo tài chính của công ty con sẽ có những điều chỉnh thích hợp trước khi sử dụng cho việc lập Báo cáo tài chính hợp nhất.
+
+Số dư các tài khoản trên Bảng cân đối kế toán giữa các công ty trong cùng Tập đoàn, các giao dịch nội bộ, các khoản lãi nội bộ chưa thực hiện phát sinh từ các giao dịch này phải được loại trừ hoàn toàn. Các khoản lỗ chưa thực hiện phát sinh từ các giao dịch nội bộ cũng được loại bỏ trừ khi chi phí tạo nên khoản lỗ đó không thể thu hồi được.
+
+Lợi ích của cổ đông không kiểm soát thể hiện phần lãi hoặc lỗ trong kết quả kinh doanh và tài sản thuần của công ty con không được nắm giữ bởi Tập đoàn và được trình bày ở khoản mục riêng trên Báo cáo kết quả hoạt động kinh doanh hợp nhất và trên Bảng cân đối kế toán hợp nhất (thuộc phần vốn chủ sở hữu).
+
+### 3. Các giao dịch bằng ngoại tệ
+Các giao dịch phát sinh bằng ngoại tệ được chuyển đổi theo tỷ giá tại ngày phát sinh giao dịch. Số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc quý được quy đổi theo tỷ giá tại ngày này.
+
+Chênh lệch tỷ giá phát sinh trong năm từ các giao dịch bằng ngoại tệ được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính. Chênh lệch tỷ giá do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc quý sau khi bù trừ chênh lệch tăng và chênh lệch giảm được ghi nhận vào doanh thu hoạt động tài chính hoặc chi phí tài chính.
+
+Tỷ giá sử dụng để đánh giá lại số dư các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc quý được xác định theo nguyên tắc sau:
+*   Đối với các khoản ngoại tệ gửi ngân hàng: tỷ giá mua ngoại tệ của ngân hàng nơi Tập đoàn mở tài khoản ngoại tệ.
+*   Đối với các khoản mục tiền tệ có gốc ngoại tệ được phân loại là tài sản khác: tỷ giá mua ngoại tệ của từng ngân hàng.
+*   Đối với các khoản mục tiền tệ có gốc ngoại tệ được phân loại là nợ phải trả: tỷ giá bán ngoại tệ của từng ngân hàng (Ngân hàng Tập đoàn thường xuyên có giao dịch).
+
+### 4. Tiền và các khoản tương đương tiền
+Tiền bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn. Các khoản tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu tư, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo.
+
+### 5. Các khoản đầu tư tài chính
+**Các khoản đầu tư vào công ty liên doanh, liên kết**
+*Công ty liên doanh*
+Công ty liên doanh là doanh nghiệp được thành lập trên cơ sở thỏa thuận trên hợp đồng mà theo đó Tập đoàn và các bên tham gia thực hiện hoạt động kinh tế trên cơ sở đồng kiểm soát. Đồng kiểm soát được hiểu là việc đưa ra các quyết định mang tính chiến lược liên quan đến các chính sách hoạt động và tài chính của công ty liên doanh phải có sự đồng thuận của các bên tham gia liên doanh.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+9
+
+**TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ**
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+Tập đoàn ghi nhận lợi ích của mình trong cơ sở kinh doanh đồng kiểm soát theo phương pháp vốn chủ sở hữu.
+
+## Công ty liên kết
+Công ty liên kết là doanh nghiệp mà Tập đoàn có ảnh hưởng đáng kể nhưng không có quyền kiểm soát đối với các chính sách tài chính và hoạt động. Ảnh hưởng đáng kể thể hiện ở quyền tham gia vào việc đưa ra các quyết định về chính sách tài chính và hoạt động của doanh nghiệp nhận đầu tư nhưng không kiểm soát các chính sách này.
+
+Các khoản đầu tư vào các công ty liên kết được ghi nhận theo phương pháp vốn chủ sở hữu.
+
+## Các khoản đầu tư vào công cụ vốn của đơn vị khác
+Đầu tư vào công cụ vốn của đơn vị khác bao gồm các khoản đầu tư công cụ vốn nhưng Tập đoàn không có quyền kiểm soát, đồng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên được đầu tư.
+
+Các khoản đầu tư vào công cụ vốn của đơn vị khác được ghi nhận ban đầu theo giá gốc, bao gồm giá mua hoặc khoản góp vốn cộng các chi phí trực tiếp liên quan đến hoạt động đầu tư.
+
+Dự phòng tổn thất cho các khoản đầu tư vào công cụ vốn của đơn vị khác được trích lập như sau:
+*   Đối với khoản đầu tư vào cổ phiếu niêm yết hoặc giá trị hợp lý khoản đầu tư được xác định tin cậy, việc lập dự phòng dựa trên giá trị thị trường của cổ phiếu.
+*   Đối với khoản đầu tư không xác định được giá trị hợp lý tại thời điểm báo cáo, việc lập dự phòng được thực hiện căn cứ vào khoản lỗ của bên được đầu tư với mức trích lập bằng chênh lệch giữa vốn góp thực tế của các bên tại đơn vị khác và vốn chủ sở hữu thực có nhân với tỷ lệ góp vốn của Tập đoàn so với tổng số vốn góp thực tế của các bên tại đơn vị khác.
+
+Tăng, giảm số dư dự phòng tổn thất đầu tư vào công cụ vốn của đơn vị khác cần phải trích lập tại ngày kết thúc quý được ghi nhận vào chi phí tài chính.
+
+# 6. Các khoản phải thu
+Các khoản nợ phải thu được trình bày theo giá trị ghi sổ trừ đi các khoản dự phòng phải thu khó đòi.
+
+Dự phòng phải thu khó đòi được lập cho từng khoản nợ phải thu khó đòi căn cứ vào tuổi nợ quá hạn của các khoản nợ hoặc dự kiến mức tổn thất có thể xảy ra, cụ thể như sau:
+*   Đối với nợ phải thu quá hạn thanh toán:
+    - 30% giá trị đối với khoản nợ phải thu quá hạn từ trên 06 tháng đến dưới 01 năm.
+    - 50% giá trị đối với khoản nợ phải thu quá hạn từ 01 năm đến dưới 02 năm.
+    - 70% giá trị đối với khoản nợ phải thu quá hạn từ 02 năm đến dưới 03 năm.
+    - 100% giá trị đối với khoản nợ phải thu quá hạn từ 03 năm trở lên.
+*   Đối với nợ phải thu chưa quá hạn thanh toán nhưng khó có khả năng thu hồi: căn cứ vào dự kiến mức tổn thất để lập dự phòng.
+
+Tăng, giảm số dư dự phòng nợ phải thu khó đòi cần phải trích lập tại ngày kết thúc quý được ghi nhận vào chi phí quản lý doanh nghiệp.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+10
+
+**TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ**
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### 7. Hàng tồn kho
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được.
+
+Giá gốc hàng tồn kho được xác định như sau:
+*   Nguyên vật liệu, hàng hóa: bao gồm chi phí mua và các chi phí liên quan trực tiếp khác phát sinh để có được hàng tồn kho ở địa điểm và trạng thái hiện tại.
+*   Thành phẩm: bao gồm chi phí nguyên vật liệu, nhân công trực tiếp và chi phí sản xuất chung có liên quan trực tiếp được phân bổ dựa trên mức độ hoạt động bình thường.
+*   Chi phí sản xuất kinh doanh dở dang bao gồm:
+    - Xây dựng dự án bất động sản: bao gồm chi phí xây dựng, lãi vay, quyền sử dụng đất và các chi phí có liên quan trực tiếp khác.
+    - Sản xuất sản phẩm: bao gồm chi phí nguyên vật liệu chính, chi phí nhân công và các chi phí có liên quan trực tiếp khác.
+
+Giá gốc của hàng tồn kho được tính theo phương pháp bình quân gia quyền và được hạch toán theo phương pháp kê khai thường xuyên.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong kỳ sản xuất, kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí ước tính cần thiết cho việc tiêu thụ chúng.
+
+Dự phòng giảm giá hàng tồn kho được lập cho từng mặt hàng tồn kho có giá gốc lớn hơn giá trị thuần có thể thực hiện được. Tăng, giảm số dư dự phòng giảm giá hàng tồn kho cần phải trích lập tại ngày kết thúc quý được ghi nhận vào giá vốn hàng bán.
+
+### 8. Chi phí trả trước
+Chi phí trả trước bao gồm các chi phí thực tế đã phát sinh nhưng có liên quan đến kết quả hoạt động sản xuất kinh doanh của nhiều kỳ kế toán.
+
+### 9. Tài sản cố định hữu hình
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá tài sản cố định hữu hình bao gồm toàn bộ các chi phí mà Tập đoàn phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Các chi phí phát sinh sau ghi nhận ban đầu chỉ được ghi tăng nguyên giá tài sản cố định nếu các chi phí này chắc chắn làm tăng lợi ích kinh tế trong tương lai do sử dụng tài sản đó. Các chi phí phát sinh không thỏa mãn điều kiện trên được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa sổ và lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chi phí trong năm.
+
+Tài sản cố định hữu hình được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Số năm khấu hao của các loại tài sản cố định hữu hình như sau:
+
+
+| Loại tài sản cố định            | Số năm  |
+| ------------------------------- | ------- |
+| Nhà cửa, vật kiến trúc          | 05 — 50 |
+| Máy móc và thiết bị             | 08 — 15 |
+| Phương tiện vận tải, truyền dẫn | 06 — 12 |
+| Thiết bị, dụng cụ quản lý       | 03 — 05 |
+| Tài sản cố định hữu hình khác   | 03 — 05 |
+
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất*
+11
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+**Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)**
+
+### 10. Tài sản cố định thuê tài chính
+Thuê tài sản được phân loại là thuê tài chính nếu phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản thuộc về người đi thuê. Tài sản cố định thuê tài chính được thể hiện theo nguyên giá trừ hao mòn lũy kế. Nguyên giá tài sản cố định thuê tài chính là giá thấp hơn giữa giá trị hợp lý của tài sản thuê tại thời điểm khởi đầu của hợp đồng thuê và giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu. Tỷ lệ chiết khấu để tính giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu cho việc thuê tài sản là lãi suất ngầm định trong hợp đồng thuê tài sản hoặc lãi suất ghi trong hợp đồng. Trong trường hợp không thể xác định được lãi suất ngầm định trong hợp đồng thuê thì sử dụng lãi suất tiền vay tại thời điểm khởi đầu việc thuê tài sản.
+
+Tài sản cố định thuê tài chính được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Trong trường hợp không chắc chắn Tập đoàn sẽ có quyền sở hữu tài sản khi hết hạn hợp đồng thuê thì tài sản cố định sẽ được khấu hao theo thời gian ngắn hơn giữa thời gian thuê và thời gian hữu dụng ước tính. Số năm khấu hao của máy móc thiết bị thuê tài chính từ 06 năm đến 10 năm.
+
+### 11. Bất động sản đầu tư
+Bất động sản đầu tư của một phần của nhà chung cư thuộc sở hữu Tập đoàn được sử dụng nhằm mục đích thu lợi từ việc cho thuê. Bất động sản đầu tư cho thuê được thể hiện theo nguyên giá trừ hao mòn lũy kế.
+
+Bất động sản đầu tư sử dụng để cho thuê được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính. Số năm khấu hao của cơ sở hạ tầng là bất động sản đầu tư trong 30 năm.
+
+### 12. Tài sản cố định vô hình
+Tài sản cố định vô hình được thể hiện theo nguyên giá trừ hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm toàn bộ các chi phí mà Tập đoàn phải bỏ ra để có được tài sản cố định tính đến thời điểm đưa tài sản đó vào trạng thái sẵn sàng sử dụng. Chi phí liên quan đến tài sản cố định vô hình phát sinh sau khi ghi nhận ban đầu được ghi nhận là chi phí sản xuất, kinh doanh trong kỳ trừ khi các chi phí này gắn liền với một tài sản cố định vô hình cụ thể và làm tăng lợi ích kinh tế từ các tài sản này.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, nguyên giá và giá trị hao mòn lũy kế được xóa sổ và lãi, lỗ phát sinh do thanh lý được ghi nhận vào thu nhập hay chi phí trong năm.
+
+Tài sản cố định vô hình của Tập đoàn chỉ có chương trình phần mềm.
+
+### 13. Chi phí xây dựng cơ bản dở dang
+Chi phí xây dựng cơ bản dở dang phản ánh các chi phí liên quan trực tiếp (bao gồm cả chi phí lãi vay có liên quan phù hợp với chính sách kế toán của Tập đoàn) đến các tài sản đang trong quá trình xây dựng, máy móc thiết bị đang lắp đặt để phục vụ cho mục đích sản xuất, cho thuê và quản lý cũng như chi phí liên quan đến việc sửa chữa tài sản cố định đang thực hiện. Các tài sản này được ghi nhận theo giá gốc và không được tính khấu hao.
+
+### 14. Hợp nhất kinh doanh và lợi thế thương mại
+Việc hợp nhất kinh doanh được kế toán theo phương pháp mua. Giá phí hợp nhất kinh doanh bao gồm: giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do Tập đoàn phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+12
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+**BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024**
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+**Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)**
+
+nhất kinh doanh. Tài sản đã mua, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh được ghi nhận theo giá trị hợp lý tại ngày nắm giữ quyền kiểm soát.
+
+Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong 10 năm. Khi có bằng chứng cho thấy lợi thế thương mại bị tổn thất lớn hơn số phân bổ thì số phân bổ trong năm là số tổn thất phát sinh.
+
+Lợi ích của cổ đông không kiểm soát tại ngày hợp nhất kinh doanh ban đầu được xác định trên cơ sở tỷ lệ của các cổ đông không kiểm soát trong giá trị hợp lý của tài sản, nợ phải trả và nợ tiềm tàng được ghi nhận.
+
+## 15. Các khoản nợ phải trả và chi phí phải trả
+Các khoản nợ phải trả và chi phí phải trả được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được. Chi phí phải trả được ghi nhận dựa trên các ước tính hợp lý về số tiền phải trả.
+
+## 16. Vốn chủ sở hữu
+### Vốn góp của chủ sở hữu
+Vốn góp của chủ sở hữu được ghi nhận theo số vốn thực tế đã góp của các cổ đông của Tổng Công ty.
+
+### Thặng dư vốn cổ phần
+Thặng dư vốn cổ phần được ghi nhận theo số chênh lệch giữa giá phát hành và mệnh giá cổ phiếu khi phát hành lần đầu hoặc phát hành bổ sung, chênh lệch giữa giá tái phát hành và giá trị sổ sách của cổ phiếu quỹ và cấu phần vốn của trái phiếu chuyển đổi khi đáo hạn. Chi phí trực tiếp liên quan đến việc phát hành bổ sung cổ phiếu và tái phát hành cổ phiếu quỹ được ghi giảm thặng dư vốn cổ phần.
+
+### Vốn khác của chủ sở hữu
+Vốn khác được hình thành do bổ sung từ kết quả hoạt động kinh doanh, đánh giá lại tài sản và giá trị còn lại giữa giá trị hợp lý của các tài sản được tặng, biếu, tài trợ sau khi trừ các khoản thuế phải nộp (nếu có) liên quan đến các tài sản này.
+
+### Cổ phiếu quỹ
+Khi mua lại cổ phiếu do Tổng Công ty phát hành, khoản tiền trả bao gồm cả các chi phí liên quan đến giao dịch được ghi nhận là cổ phiếu quỹ và được phản ánh là một khoản giảm trừ trong vốn chủ sở hữu. Khi tái phát hành, chênh lệch giữa giá tái phát hành và giá sổ sách của cổ phiếu quỹ được ghi vào khoản mục "Thặng dư vốn cổ phần".
+
+## 17. Phân phối lợi nhuận
+Lợi nhuận sau thuế thu nhập doanh nghiệp được phân phối cho các cổ đông sau khi đã trích lập các quỹ theo Điều lệ của Tổng Công ty cũng như các quy định của pháp luật và đã được Đại hội đồng cổ đông phê duyệt.
+
+Việc phân phối lợi nhuận cho các cổ đông được cân nhắc đến các khoản mục phi tiền tệ nằm trong lợi nhuận sau thuế chưa phân phối có thể ảnh hưởng đến luồng tiền và khả năng chi trả cổ tức như lãi do đánh giá lại tài sản mang đi góp vốn, lãi do đánh giá lại các khoản mục tiền tệ, các công cụ tài chính và các khoản mục phi tiền tệ khác.
+
+Cổ tức được ghi nhận là nợ phải trả khi được Đại hội đồng cổ đông phê duyệt.
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất*
+13
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+**Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)**
+
+### 18. Ghi nhận doanh thu và thu nhập
+***Doanh thu bán hàng hoá, thành phẩm***
+Doanh thu bán hàng hóa, thành phẩm được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+*   Tập đoàn đã đã chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu hàng hóa, sản phẩm cho người mua.
+*   Tập đoàn đã không còn nắm giữ quyền quản lý hàng hóa, sản phẩm như người sở hữu hàng hóa, sản phẩm hoặc quyền kiểm soát hàng hóa, sản phẩm.
+*   Doanh thu được xác định tương đối chắc chắn. Khi hợp đồng quy định người mua được quyền trả lại hàng hóa, sản phẩm đã mua theo những điều kiện cụ thể, doanh thu chỉ được ghi nhận khi những điều kiện cụ thể đó không còn tồn tại và người mua không được quyền trả lại hàng hóa, sản phẩm (trừ trường hợp khách hàng có quyền trả lại hàng hóa, sản phẩm dưới hình thức đổi lại để lấy hàng hóa, dịch vụ khác).
+*   Tập đoàn đã đã hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán hàng.
+*   Xác định được chi phí liên quan đến giao dịch bán hàng.
+
+***Doanh thu cung cấp dịch vụ***
+Doanh thu cung cấp dịch vụ được ghi nhận khi đồng thời thỏa mãn các điều kiện sau:
+*   Doanh thu được xác định tương đối chắc chắn. Khi hợp đồng quy định người mua được quyền trả lại dịch vụ đã mua theo những điều kiện cụ thể, doanh thu chỉ được ghi nhận khi những điều kiện cụ thể đó không còn tồn tại và người mua không được quyền trả lại dịch vụ đã cung cấp.
+*   Tập đoàn đã đã hoặc sẽ thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó.
+*   Xác định được phần công việc đã hoàn thành vào thời điểm báo cáo.
+*   Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch cung cấp dịch vụ đó.
+
+Trường hợp dịch vụ được thực hiện trong nhiều kỳ thì doanh thu được ghi nhận trong kỳ được căn cứ vào kết quả phần công việc đã hoàn thành vào ngày kết thúc kỳ kế toán.
+
+***Doanh thu bán bất động sản***
+Doanh thu bán bất động sản mà Tập đoàn đã là chủ đầu tư được ghi nhận khi thỏa mãn đồng thời tất cả các điều kiện sau:
+*   Bất động sản đã hoàn thành toàn bộ và bàn giao cho người mua, Tập đoàn đã đã chuyển giao rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản cho người mua.
+*   Tập đoàn đã không còn nắm giữ quyền quản lý bất động sản như người sở hữu bất động sản hoặc quyền kiểm soát bất động sản.
+*   Doanh thu được xác định tương đối chắc chắn.
+*   Tập đoàn đã thu được hoặc sẽ thu được lợi ích kinh tế từ giao dịch bán bất động sản.
+*   Xác định được chi phí liên quan đến giao dịch bán bất động sản.
+
+Trường hợp khách hàng có quyền hoàn thiện nội thất của bất động sản và Tập đoàn đã thực hiện việc hoàn thiện nội thất của bất động sản theo đúng thiết kế, mẫu mã, yêu cầu của khách hàng theo một hợp đồng hoàn thiện nội thất bất động sản riêng thì doanh thu được ghi nhận khi hoàn thành, bàn giao phần xây thô cho khách hàng.
+
+***Cổ tức và lợi nhuận được chia***
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+14
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+Cổ tức và lợi nhuận được chia được ghi nhận khi Tập đoàn đã được quyền nhận cổ tức hoặc lợi nhuận từ việc góp vốn. Cổ tức được nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm, không ghi nhận giá trị cổ phiếu nhận được.
+
+## 19. Các khoản giảm trừ doanh thu
+Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại phát sinh cùng kỳ tiêu thụ sản phẩm, hàng hóa, dịch vụ được điều chỉnh giảm doanh thu của kỳ phát sinh.
+
+## 20. Chi phí đi vay
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay. Chi phí đi vay được ghi nhận vào chi phí khi phát sinh.
+
+## 21. Các khoản chi phí
+Chi phí là những khoản làm giảm lợi ích kinh tế được ghi nhận tại thời điểm giao dịch phát sinh hoặc khi có khả năng tương đối chắc chắn sẽ phát sinh trong tương lai không phân biệt đã chi tiền hay chưa.
+
+Các khoản chi phí và khoản doanh thu do nó tạo ra phải được ghi nhận đồng thời theo nguyên tắc phù hợp. Trong trường hợp nguyên tắc phù hợp xung đột với nguyên tắc thận trọng, chi phí được ghi nhận căn cứ vào bản chất và quy định của các chuẩn mực kế toán để đảm bảo phản ánh giao dịch một cách trung thực, hợp lý.
+
+## 22. Bên liên quan
+Các bên được coi là liên quan nếu một bên có khả năng kiểm soát hoặc có ảnh hưởng đáng kể đối với bên kia trong việc ra quyết định các chính sách tài chính và hoạt động. Các bên cũng được xem là bên liên quan nếu cùng chịu sự kiểm soát chung hay chịu ảnh hưởng đáng kể chung.
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+15
+
+**TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ**
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+# V. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+## 1. Tiền và các khoản tương đương tiền
+
+
+|                       | Số cuối quý     | Số đầu năm     |
+| --------------------- | --------------- | -------------- |
+| Tiền mặt              | 2.640.733.697   | 1.598.777.712  |
+| Tiền gửi ngân hàng    | 70.141.007.217  | 66.198.258.147 |
+| Các khoản tương đương | 50.600.000.000  | 6.276.023.554  |
+| Cộng                  | 123.381.740.914 | 74.073.059.413 |
+
+
+
+## 2. Các khoản đầu tư tài chính
+
+Các khoản đầu tư tài chính của Tập đoàn bao gồm đầu tư nắm giữ đến ngày đáo hạn, đầu tư vào công ty liên doanh, liên kết và đầu tư góp vốn vào đơn vị khác. Thông tin về các khoản đầu tư tài chính của tập đoàn như sau:
+
+### 2a. Đầu tư nắm giữ đến ngày đáo hạn
+Khoản tiền gửi có kỳ hạn tại các ngân hàng.
+
+### 2b. Đầu tư vào công ty liên doanh, liên kết
+
+
+|                                                             | Số cuối quý<br/>Giá gốc | Số cuối quý<br/>Lợi nhuận phát sinh sau ngày đầu tư | Số cuối quý<br/>Cộng | Số đầu năm<br/>Giá gốc | Số đầu năm<br/>Lợi nhuận phát sinh sau ngày đầu tư | Số đầu năm<br/>Cộng |
+| ----------------------------------------------------------- | ----------------------- | --------------------------------------------------- | -------------------- | ---------------------- | -------------------------------------------------- | ------------------- |
+| Công ty TNHH Coats Phong Phú                                | 85.253.638.578          | 311.747.220.573                                     | 397.000.859.151      | 85.253.638.578         | 332.359.745.569                                    | 417.613.384.147     |
+| Công ty cổ phần đầu tư phát triển nhà và đô thị HUD Sài Gòn | 10.000.000.000          | 17.274.574                                          | 10.017.274.574       | 10.000.000.000         | 6.480.835                                          | 10.006.480.835      |
+| Công ty cổ phần may Đà Lạt                                  | 6.769.616.000           | (1.636.287.334)                                     | 5.133.328.666        | 6.769.616.000          | (1.932.024.300)                                    | 4.837.591.700       |
+| Công ty cổ phần phát triển nhà Phong Phú Daewon Thủ Đức     | 144.586.200.608         | (14.459.605.232)                                    | 130.126.595.376      | 144.586.200.608        | (14.610.737.957)                                   | 129.975.462.651     |
+| Công ty cổ phần Xúc tiến Thương mại và Đầu tư Phong Phú     | 6.800.516.237           | (6.800.516.237)                                     | -                    | 6.800.516.237          | (6.800.516.237)                                    | -                   |
+| Công ty cổ phần Dệt Đông Nam                                | 46.888.561.208          | 13.398.005.144                                      | 60.286.566.352       | 25.297.321.208         | 12.296.906.425                                     | 37.594.227.633      |
+| Công ty cổ phần Dệt May Nha Trang                           | 70.968.627.165          | (31.677.082.552)                                    | 39.291.544.613       | 70.968.627.165         | (39.592.122.115)                                   | 31.376.505.050      |
+| Cộng                                                        | 371.267.159.796         | 270.589.008.936                                     | 641.856.168.732      | 349.675.919.796        | 281.727.732.221                                    | 631.403.652.016     |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất 16
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+**BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024**
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+Giá trị phần sở hữu của Tập đoàn tại các công ty liên doanh, liên kết như sau:
+
+
+|                                                             | Giá trị phần sở hữu đầu năm | Tăng vốn trong kỳ | Phần lãi hoặc lỗ trong kỳ | Cổ tức, lợi nhuận được chia trong kỳ | Điều chỉnh tăng, giảm khác | Giá trị phần sở hữu cuối kỳ |
+| ----------------------------------------------------------- | --------------------------- | ----------------- | ------------------------- | ------------------------------------ | -------------------------- | --------------------------- |
+| Công ty TNHH Coats Phong Phú                                | 417.613.384.147             | -                 | 334.333.003.949           | (354.945.528.945)                    | -                          | 397.000.859.151             |
+| Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị HUD Sài Gòn | 10.006.480.834              | -                 | 10.793.740                | -                                    | -                          | 10.017.274.574              |
+| Công ty Cổ phần May Đà Lạt                                  | 4.837.591.700               | -                 | 295.736.966               | -                                    | -                          | 5.133.328.666               |
+| Công ty Cổ phần Phát triển Nhà Phong Phú Daewon Thủ Đức     | 129.975.462.651             | -                 | 151.132.725               | -                                    | -                          | 130.126.595.376             |
+| Công ty Cổ phần Xúc tiến Thương mại và Đầu tư Phong Phú     | -                           | -                 | -                         | -                                    | -                          | -                           |
+| Công ty Cổ phần Dệt Đông Nam                                | 37.594.227.632              | 21.591.240.000    | 1.101.098.719             | -                                    | -                          | 60.286.566.352              |
+| Công ty Cổ phần Dệt may Nha Trang                           | 31.376.505.052              | -                 | 7.815.337.367             | -                                    | 99.702.195                 | 39.291.544.613              |
+| Cộng                                                        | 631.403.652.016             | 21.591.240.000    | 343.707.103.466           | (354.945.528.945)                    | 99.702.195                 | 641.856.168.732             |
+
+
+
+### 2c. Đầu tư góp vốn vào đơn vị khác
+
+
+|                                                         | Số cuối quý<br/>Giá gốc | Số cuối quý<br/>Dự phòng | Số đầu năm<br/>Giá gốc | Số đầu năm<br/>Dự phòng |
+| ------------------------------------------------------- | ----------------------- | ------------------------ | ---------------------- | ----------------------- |
+| Công ty cổ phần nguyên phụ liệu dệt may Bình An         | 13.027.052.451          | (1.423.365.164)          | 13.027.052.451         | (246.155.288)           |
+| Công ty CP dệt may Liên Phương                          | 32.288.540.334          | (8.743.594.143)          | 32.288.540.334         | -                       |
+| Công ty CP ĐTPT Gia Định                                | 12.533.634.095          | -                        | 12.533.634.095         | -                       |
+| Công ty cổ phần dệt may Gia Định Phong Phú              | 5.852.355.319           | (5.852.355.319)          | 5.852.355.319          | (5.852.355.319)         |
+| Công ty cổ phần Len Việt Nam                            | 1.337.103.882           | (933.710.073)            | 1.337.103.882          | (949.900.491)           |
+| Công ty TNHH sản xuất kinh doanh nguyên liệu dệt may VN | 11.282.879.453          | (10.683.281.723)         | 11.282.879.453         | (10.508.383.656)        |
+| Công ty CP Sài Gòn Rạch Giá                             | 2.984.184.383           | (2.984.184.383)          | 2.984.184.383          | (2.804.972.611)         |
+| Công ty cổ phần Hưng Phú                                | 1.813.677.769           | (1.813.677.769)          | 1.813.677.769          | (1.813.677.769)         |
+| Công ty cổ phần phát triển đô thị dệt may Nam Định      | 7.500.000.000           | -                        | 7.500.000.000          | -                       |
+| Công ty cổ phần Phước Lộc                               | 3.216.754.481           | -                        | 3.216.754.481          | -                       |
+| Công ty CP quốc tế Phong Phú                            | 14.093.555.470          | -                        | 14.093.555.470         | -                       |
+| Cộng                                                    | 105.929.737.637         | (32.434.168.574)         | 105.929.737.637        | (22.175.445.134)        |
+
+
+
+#### Dự phòng cho các khoản đầu tư góp vốn vào đơn vị khác
+
+
+|                                | Năm 2024       |
+| ------------------------------ | -------------- |
+| Số đầu năm                     | 22.175.445.134 |
+| Trích lập/(Hoàn nhập) dự phòng | 10.258.723.440 |
+| Số cuối quý                    | 32.434.168.574 |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+17
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### 3. Phải thu ngắn hạn của khách hàng
+
+
+|                                                    | Số cuối quý         | Số đầu năm          |
+| -------------------------------------------------- | ------------------- | ------------------- |
+| *Phải thu các bên liên quan*                       | **275.253.189.812** | **209.482.288.841** |
+| Tập đoàn Dệt May Việt Nam                          | 82.425.600          | 16.044.508          |
+| Công ty TNHH Coats Phong Phú                       | 262.239.956.872     | 196.535.436.993     |
+| Công ty CP xúc tiến thương mại và Đầu tư Phong Phú | 12.930.807.340      | 12.930.807.340      |
+| *Phải thu các khách hàng khác*                     | **162.014.621.939** | **165.078.219.538** |
+| Các khách hàng khác                                | 162.014.621.939     | 165.078.219.538     |
+| **Cộng**                                           | **437.267.811.751** | **374.560.508.379** |
+
+
+
+### 4. Trả trước cho người bán ngắn hạn
+
+
+|                                                             | Số cuối quý        | Số đầu năm        |
+| ----------------------------------------------------------- | ------------------ | ----------------- |
+| *Trả trước cho người bán khác*                              | **21.623.063.707** | **8.220.335.833** |
+| Công ty Cổ phần Dệt Đông Quang                              | 127.464.624        | 1.332.815.915     |
+| Olam Global Agri Pte Ltd                                    | -                  | 1.090.921.650     |
+| Olam International Limited                                  | -                  | 932.307.200       |
+| Công ty TNHH Thương mại Dịch vụ Kỹ thuật Văn Khoa           | 2.360.897.266      | 889.230.636       |
+| Công ty CP Dệt May Hoàng Thị Loan - Trả trước tiền gia công | 10.000.000.000     | -                 |
+| Các nhà cung cấp khác                                       | 9.134.701.817      | 3.975.060.432     |
+| **Cộng**                                                    | **21.623.063.707** | **8.220.335.833** |
+
+
+
+### 5. Phải thu ngắn hạn/dài hạn khác
+#### 5a. Phải thu ngắn hạn khác
+
+
+|                                                                                                         | Số cuối quý<br/>Giá trị | Số cuối quý<br/>Dự phòng | Số đầu năm<br/>Giá trị | Số đầu năm<br/>Dự phòng |
+| ------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ | ---------------------- | ----------------------- |
+| *Phải thu các tổ chức và cá nhân khác*                                                                  | **54.837.551.162**      | **(19.534.309.268)**     | **136.997.473.022**    | **(19.534.309.268)**    |
+| - Công ty CP đầu tư phát triển Phong Phước Lợi nhuận hợp tác dự án Đông Mai                             | -                       | -                        | 74.071.866.212         | -                       |
+| - Công ty cổ phần đầu tư phát triển Phong Phước - Phải thu tiền chậm thanh toán                         | -                       | -                        | 11.448.047.374         | -                       |
+| - Tổng Công ty Nông Nghiệp Sài Gòn TNHH MTV - Phải thu tiền hợp tác kinh doanh của Dự án Láng Le Bàu Cò | 43.532.895.759          | (16.291.758.178)         | 43.532.895.759         | (16.291.758.178)        |
+| - Lãi tiền thuê tài sản                                                                                 | 354.507.539             | -                        | 400.801.124            | -                       |
+| - Tạm ứng                                                                                               | 5.341.881.094           | -                        | 2.868.812.602          | -                       |
+| - Cổ tức được chia                                                                                      | 1.651.686.000           | -                        | -                      | -                       |
+| - Các khoản phải thu ngắn hạn khác                                                                      | 3.956.580.770           | (3.242.551.090)          | 4.675.049.951          | (3.242.551.090)         |
+| **Cộng**                                                                                                | **54.837.551.162**      | **(19.534.309.268)**     | **136.997.473.022**    | **(19.534.309.268)**    |
+
+
+
+![seal](page_21_seal_1_v2.jpg)
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+18
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 5b. Phải thu dài hạn khác
+
+
+|                                                                                                         | Số cuối quý<br/>Giá trị | Số cuối quý<br/>Dự phòng | Số đầu năm<br/>Giá trị | Số đầu năm<br/>Dự phòng |
+| ------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------ | ---------------------- | ----------------------- |
+| **Phải thu các tổ chức và cá nhân khác**                                                                | **3.940.070.645**       | **-**                    | **1.948.001.131**      | **-**                   |
+| - Các khoản ký quỹ dài hạn                                                                              | -                       | -                        | 76.332.598             | -                       |
+| - Tổng Công ty Nông Nghiệp Sài Gòn TNHH MTV - Phải thu tiền hợp tác kinh doanh của Dự án Tăng Phú House | 307.066.666             |                          |                        |                         |
+| - Phải thu dài hạn khác                                                                                 | 3.633.003.979           | -                        | 1.871.668.533          | -                       |
+| **Cộng**                                                                                                | **3.940.070.645**       | **-**                    | **1.948.001.131**      | **-**                   |
+
+
+
+## 6. Hàng tồn kho
+
+
+|                                      | Số cuối quý<br/>Giá gốc | Số cuối quý<br/>Dự phòng | Số đầu năm<br/>Giá gốc | Số đầu năm<br/>Dự phòng |
+| ------------------------------------ | ----------------------- | ------------------------ | ---------------------- | ----------------------- |
+| Hàng mua đang đi trên đường          | -                       | -                        | 6.365.471.268          | -                       |
+| Nguyên liệu, vật liệu                | 136.636.089.821         | (2.069.136.181)          | 142.189.822.926        | (4.121.336.108)         |
+| Chi phí sản xuất, kinh doanh dở dang | 142.647.829.387         | (1.685.911.923)          | 147.408.669.776        | (2.648.094.987)         |
+| Chi phí dở dang dự án                | 187.766.564.464         | -                        | 187.766.564.464        | -                       |
+| Thành phẩm                           | 128.704.264.411         | (3.200.140.004)          | 103.289.248.610        | (2.504.911.401)         |
+| Hàng hóa                             | 8.502.593.673           | -                        | 15.464.971.717         | -                       |
+| Hàng gửi đi bán                      | 3.705.567.696           | -                        | 2.545.088.456          | -                       |
+| **Cộng**                             | **607.962.909.452**     | **(6.955.188.107)**      | **605.029.837.217**    | **(9.274.342.496)**     |
+
+
+
+Tình hình biến động dự phòng giảm giá hàng tồn kho như sau:
+
+
+|                       | Năm 2024          |
+| --------------------- | ----------------- |
+| Số đầu năm            | 9.274.342.496     |
+| Trích lập/(hoàn nhập) | (2.319.154.389)   |
+| **Số cuối kỳ**        | **6.955.188.107** |
+
+
+
+## 7. Chi phí trả trước ngắn hạn/dài hạn
+### 7a. Chi phí trả trước ngắn hạn
+
+
+|                                     | Số cuối quý       | Số đầu năm        |
+| ----------------------------------- | ----------------- | ----------------- |
+| Chi phí công cụ, dụng cụ            | 944.852.135       | 98.529.935        |
+| Các chi phí trả trước ngắn hạn khác | 522.301.662       | 1.068.366.568     |
+| **Cộng**                            | **1.467.153.797** | **1.166.896.503** |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+19
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 7b. Chi phí trả trước dài hạn
+
+
+|                                      | Số cuối quý    | Số đầu năm     |
+| ------------------------------------ | -------------- | -------------- |
+| Quyền sử dụng đất                    | 3.918.367.320  | 5.387.755.080  |
+| Công cụ, dụng cụ                     | 4.081.443.840  | 781.824.424    |
+| Chi phí sửa chữa, nâng cấp nhà xưởng | 6.671.859.609  | 3.865.643.888  |
+| Các chi phí trả trước dài hạn khác   | 2.661.641.902  | 2.293.222.137  |
+| Cộng                                 | 17.333.312.671 | 12.328.445.529 |
+
+
+
+## 8. Tài sản cố định hữu hình
+
+Thông tin về biến động tài sản cố định hữu hình được trình bày ở phụ lục 01
+
+## 9. Tài sản cố định thuê tài chính
+
+
+|                                     | Nguyên giá       | Giá trị hao mòn | Giá trị còn lại |
+| ----------------------------------- | ---------------- | --------------- | --------------- |
+| Số đầu năm                          | 100.459.854.557  | 6.608.829.813   | 93.851.024.744  |
+| Tăng trong năm                      | 35.376.428.559   |                 |                 |
+| Giảm do mua lại TSCĐ thuê tài chính | (13.717.632.454) | (3.919.311.638) |                 |
+| Khấu hao trong kỳ                   |                  | 7.744.401.585   |                 |
+| Số cuối kỳ                          | 122.118.650.662  | 10.433.919.760  | 111.684.730.902 |
+
+
+
+## 10. Tài sản cố định vô hình
+
+
+|                   | Nguyên giá  | Giá trị hao mòn | Giá trị còn lại |
+| ----------------- | ----------- | --------------- | --------------- |
+| Số đầu năm        | 583.927.273 | 463.309.060     | 120.618.213     |
+| Khấu hao trong kỳ | -           | 12.061.812      |                 |
+| Số cuối kỳ        | 583.927.273 | 475.370.872     | 108.556.401     |
+
+
+
+## 11. Chi phí xây dựng cơ bản dở dang
+
+
+|                      | Số cuối quý   | Số đầu năm    |
+| -------------------- | ------------- | ------------- |
+| Chi phí mua sắm TSCĐ | 2.749.604.835 | -             |
+| XDCB dở dang         | 4.132.767.635 | 1.703.961.819 |
+| Cộng                 | 6.882.372.470 | 1.703.961.819 |
+
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất* 20
+
+**TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ**
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### Phụ lục 01: biến động tài sản cố định hữu hình
+
+
+| Khoản mục                                     | Nhà cửa, vật kiến trúc | Máy móc và thiết bị   | Phương tiện vận tải, truyền dẫn | Thiết bị, dụng cụ quản lý | Cộng                  |
+| --------------------------------------------- | ---------------------- | --------------------- | ------------------------------- | ------------------------- | --------------------- |
+| **Nguyên giá**                                |                        |                       |                                 |                           |                       |
+| Số đầu năm                                    | 677.853.624.328        | 1.563.669.884.123     | 48.598.813.213                  | 11.395.766.453            | 2.301.518.088.117     |
+| Mua trong kỳ                                  | -                      | 6.631.108.833         | 8.222.677.573                   | -                         | 14.853.786.406        |
+| Tăng do chuyển từ tài sản thuê tài chính sang | -                      | 13.717.632.454        | -                               | -                         | 13.717.632.454        |
+| Thanh lý, nhượng bán                          | -                      | (47.835.909.548)      | (50.750.000)                    | -                         | (47.886.659.548)      |
+| **Số cuối kỳ**                                | **677.853.624.328**    | **1.541.297.829.954** | **56.770.740.786**              | **11.395.766.453**        | **2.287.317.961.521** |
+| **Giá trị hao mòn**                           |                        |                       |                                 |                           |                       |
+| Số đầu năm                                    | 241.993.998.440        | 978.677.119.384       | 29.247.412.660                  | 6.555.658.512             | 1.256.474.188.996     |
+| Khấu hao trong kỳ                             | 27.516.296.055         | 98.567.899.251        | 4.155.136.445                   | 603.601.797               | 130.842.933.548       |
+| Tăng do chuyển từ tài sản thuê tài chính sang | -                      | 3.919.311.638         | -                               | -                         | 3.919.311.638         |
+| Thanh lý, nhượng bán                          | -                      | (46.446.675.058)      | (50.750.000)                    | -                         | (46.497.425.058)      |
+| **Số cuối kỳ**                                | **269.510.294.495**    | **1.034.717.655.215** | **33.351.799.105**              | **7.159.260.309**         | **1.344.739.009.124** |
+| **Giá trị còn lại**                           |                        |                       |                                 |                           |                       |
+| Số đầu năm                                    | 435.859.625.888        | 584.992.764.739       | 19.351.400.553                  | 4.840.107.941             | 1.045.043.899.121     |
+| **Số cuối kỳ**                                | **408.343.329.833**    | **506.580.174.739**   | **23.418.941.681**              | **4.236.506.144**         | **942.578.952.397**   |
+
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất*
+21
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 12. Lợi thế thương mại
+
+| **Nguyên giá**      |                |
+| ------------------- | -------------- |
+| Số đầu năm          | 61.306.069.300 |
+| Tăng trong kỳ       | -              |
+| Giảm trong kỳ       | -              |
+| Số cuối kỳ          | 61.306.069.300 |
+| **Số đã phân bổ**   |                |
+| Số đầu năm          | 50.480.280.479 |
+| Phân bổ trong kỳ    | 3.936.650.481  |
+| Giảm trong kỳ       | -              |
+| Số cuối kỳ          | 54.416.930.960 |
+| **Giá trị còn lại** |                |
+| Số đầu năm          | 10.825.788.821 |
+| Số cuối kỳ          | 6.889.138.340  |
+
+
+
+## 13. Phải trả người bán ngắn hạn/dài hạn
+### 13a. Phải trả người bán ngắn hạn
+
+|                                    | Số cuối quý         | Số đầu năm          |
+| ---------------------------------- | ------------------- | ------------------- |
+| **Phải trả các bên liên quan**     | **162.450.722.684** | **153.417.756.091** |
+| Công ty TNHH Coats Phong Phú       | 160.984.769.508     | 113.580.209.519     |
+| Công ty cổ phần dệt may Nha Trang  | 1.465.953.176       | 39.837.546.572      |
+| **Phải trả các nhà cung cấp khác** | **102.313.350.953** | **108.853.640.278** |
+| Các nhà cung cấp khác              | 102.313.350.953     | 108.853.640.278     |
+| **Cộng**                           | **264.764.073.637** | **262.271.396.369** |
+
+
+
+## 14. Người mua trả tiền trước ngắn hạn
+
+|                                                                                                               | Số cuối quý         | Số đầu năm          |
+| ------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- |
+| **Trả trước của các bên liên quan**                                                                           | **21.442.860**      | **21.442.860**      |
+| Tập đoàn dệt may Việt Nam                                                                                     | 21.442.860          | 21.442.860          |
+| **Trả trước của các khách hàng khác**                                                                         | **139.571.840.164** | **137.417.811.073** |
+| Tiền thu của khách hàng liên quan đến chuyển nhượng các nhà liên kế Dự án Phát triển khu nhà ở dự án Tăng Phú | 115.401.827.748     | 115.401.827.748     |
+| Công ty TNHH SXKD Nguyên Liệu dệt may VN                                                                      | 9.962.577.900       | 9.962.577.900       |
+| Các khách hàng khác                                                                                           | 14.207.434.516      | 12.053.405.425      |
+| **Cộng**                                                                                                      | **139.593.283.024** | **137.439.253.933** |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất 22
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 15. Thuế và các khoản phải nộp Nhà nước
+
+
+|                            | Số cuối quý<br/>Phải nộp | Số cuối quý<br/>Phải thu | Số đầu năm<br/>Phải nộp | Số đầu năm<br/>Phải thu |
+| -------------------------- | ------------------------ | ------------------------ | ----------------------- | ----------------------- |
+| Thuế GTGT hàng bán nội địa | 2.400.564.140            | -                        | 382.180.812             | -                       |
+| Thuế thu nhập doanh nghiệp | 1.141.525.851            | 207.769.015              | 1.029.362.446           | 207.769.015             |
+| Thuế thu nhập cá nhân      | 1.467.873.104            | -                        | 4.713.948.795           | -                       |
+| Thuế tài nguyên            | 13.833.610               | -                        | 12.833.450              | -                       |
+| Tiền thuê đất              | 28.894.983.317           | -                        | 175.237.055.432         | -                       |
+| Cộng                       | 33.918.780.022           | 207.769.015              | 181.375.380.935         | 207.769.015             |
+
+
+
+## 16. Phải trả người lao động
+
+Các khoản tiền lương, phụ cấp, tiền thưởng,... còn phải trả cho công nhân viên.
+
+## 17. Chi phí phải trả ngắn hạn
+
+
+|                                      | Số cuối quý    | Số đầu năm    |
+| ------------------------------------ | -------------- | ------------- |
+| Phải trả các tổ chức và cá nhân khác | 10.383.298.588 | 8.423.087.802 |
+| Chi phí trả lãi vay phải trả         | 976.018.244    | 868.496.364   |
+| Chi phí hoa hồng                     | 1.216.074.453  | 1.024.077.158 |
+| Chi phí doanh số hỗ trợ siêu thị     | 347.068.683    | 428.339.058   |
+| Chi phí chế độ cho nhân viên         | -              | 683.775.592   |
+| Chi phí dịch vụ                      | 3.552.006.566  | 3.408.494.183 |
+| Chi phí khác                         | 4.292.130.642  | 2.009.905.447 |
+| Cộng                                 | 10.383.298.588 | 8.423.087.802 |
+
+
+
+## 18. Phải trả ngắn hạn/dài hạn khác
+### 18a. Phải trả ngắn hạn khác
+
+
+|                                                                            | Số cuối quý     | Số đầu năm      |
+| -------------------------------------------------------------------------- | --------------- | --------------- |
+| Phải trả các bên liên quan                                                 | 55.203.190.148  | 40.488.480.033  |
+| Tập đoàn Dệt may Việt Nam - Phải trả tiền lãi vay                          | 2.794.184.998   | 3.079.684.033   |
+| Tập đoàn Dệt may Việt Nam - Phải trả tiền cổ tức                           | 52.372.314.400  | 37.408.796.000  |
+| Phải trả các đơn vị và cá nhân khác                                        | 75.858.008.174  | 62.757.696.254  |
+| Công ty CP Phát triển Đầu tư An Tâm - Nhận góp vốn                         | 19.500.000.000  | 19.500.000.000  |
+| Kinh phí công đoàn, bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp | 2.063.763.371   | 2.878.143.399   |
+| Cổ tức, lợi nhuận phải trả                                                 | 53.293.689.860  | 37.954.590.235  |
+| Nhận ký quỹ ngắn hạn                                                       | 73.400.000      | -               |
+| Các khoản phải trả ngắn hạn khác                                           | 927.154.943     | 2.424.962.620   |
+| Cộng                                                                       | 131.061.198.322 | 103.246.176.287 |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+23
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### 18b. Phải trả dài hạn khác
+
+
+|                                                               | Số cuối quý        | Số đầu năm        |
+| ------------------------------------------------------------- | ------------------ | ----------------- |
+| **Phải trả các tổ chức và cá nhân khác**                      | **12.926.000.000** | **9.926.000.000** |
+| Công ty CP Dệt may Liên Phương - Nhận góp vốn dài hạn         | 5.226.000.000      | 5.226.000.000     |
+| Công ty TNHH SXTM Vĩnh Phương - Nhận ký quỹ, ký cược dài hạn  | 4.700.000.000      | 4.700.000.000     |
+| Công ty TNHH MTV Sợi Tân Thành - Nhận ký quỹ, ký cược dài hạn | 3.000.000.000      | -                 |
+| **Cộng**                                                      | **12.926.000.000** | **9.926.000.000** |
+
+
+
+### 19. Vay và nợ thuê tài chính ngắn hạn/dài hạn
+
+#### 19a. Vay và nợ thuê tài chính ngắn hạn
+
+
+|                                                                            | Số cuối quý         | Số đầu năm          |
+| -------------------------------------------------------------------------- | ------------------- | ------------------- |
+| **Vay và nợ thuê tài chính ngắn hạn phải trả các bên liên quan**           | **16.438.837.322**  | **14.250.503.699**  |
+| Tập đoàn Dệt may Việt Nam (ADB)                                            | 16.438.837.322      | 14.250.503.699      |
+| **Vay và nợ thuê tài chính ngắn hạn phải trả các tổ chức và cá nhân khác** | **357.823.500.913** | **388.333.294.688** |
+| Vay ngắn hạn ngân hàng                                                     | 281.070.539.960     | 305.420.464.768     |
+| - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam                             | 8.980.019.302       | -                   |
+| - Ngân hàng TMCP Công thương Việt Nam                                      | 94.654.835.424      | 65.080.657.370      |
+| - Ngân hàng TMCP Ngoại thương Việt Nam                                     | 168.538.506.791     | 184.337.182.129     |
+| - Ngân hàng TMCP Á Châu                                                    | 8.897.178.443       | 49.938.994.448      |
+| - Ngân hàng TMCP Quốc tế Việt Nam                                          | -                   | 6.063.630.821       |
+| Vay ngắn hạn tổ chức và cá nhân khác                                       | 71.472.960.953      | 70.632.567.208      |
+| Vay dài hạn đến hạn trả                                                    | -                   | 1.920.000.000       |
+| Nợ thuê tài chính đến hạn trả                                              | 5.280.000.000       | 10.360.262.712      |
+| **Cộng**                                                                   | **374.262.338.235** | **402.583.798.387** |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất 24
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+### 19b. Vay và nợ thuê tài chính dài hạn
+
+
+|                                                                            | Số cuối quý         | Số đầu năm          |
+| -------------------------------------------------------------------------- | ------------------- | ------------------- |
+| **Vay dài hạn ngân hàng**                                                  | **6.325.404.134**   | **-**               |
+| - Ngân hàng TMCP Ngoại thương Việt Nam                                     | 6.325.404.134       | -                   |
+| **Vay và nợ thuê tài chính dài hạn phải trả các bên liên quan**            | **516.330.778.162** | **509.186.881.533** |
+| - Tập đoàn Dệt may Việt Nam (ADB)                                          | 516.330.778.162     | 509.186.881.533     |
+| **Nợ thuê tài chính**                                                      | **65.132.396.789**  | **51.877.333.602**  |
+| - Công ty TNHH MTV Cho Thuê Tài Chính Ngân Hàng TMCP Ngoại Thương Việt Nam | 65.132.396.789      | 51.829.355.539      |
+| - Công ty Cho Thuê Tài Chính TNHH MTV Quốc Tế Chailease                    | -                   | 47.978.063          |
+| **Cộng**                                                                   | **587.788.579.085** | **561.064.215.135** |
+
+
+
+### 20. Dự phòng phải trả ngắn hạn/dài hạn
+Dự phòng nợ phải trả ngắn hạn liên quan đến khoản tổn thất cho Tổng Công ty Nông nghiệp Sài Gòn – TNHH MTV dựa trên xác định thiệt hại tại thời điểm chuyển nhượng của dự án Khu nhà ở tại Khu phố 4, Phường Phước Long B, TP. Thủ Đức, TP.HCM.
+
+### 21. Quỹ khen thưởng, phúc lợi
+
+
+|                                   | Số cuối quý        | Số đầu năm         |
+| --------------------------------- | ------------------ | ------------------ |
+| Quỹ khen thưởng                   | 8.223.221.239      | 11.568.294.582     |
+| Quỹ phúc lợi                      | 1.916.424.285      | 657.094.501        |
+| Quỹ thưởng Ban quản lý, điều hành | 3.421.241.219      | 2.827.447.219      |
+| **Cộng**                          | **13.560.886.743** | **15.052.836.302** |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+25
+
+**TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ**
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Ban thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 22. Vốn chủ sở hữu
+
+*Bảng đối chiếu biến động của vốn chủ sở hữu*
+
+
+|                                                | Vốn đầu tưcủa chủ sở hữu | Thặng dư vốncổ phần | Quỹ đầu tưphát triển | Lợi nhuận sauthuế chưa phânphối | Lợi ích cổđông khôngkiểm soát | Cộng              |
+| ---------------------------------------------- | ------------------------ | ------------------- | -------------------- | ------------------------------- | ----------------------------- | ----------------- |
+| Số dư đầu năm nay                              | 746.708.910.000          | 32.368.276.001      | 471.023.935.263      | 424.786.792.618                 | 30.330.332.729                | 1.705.218.246.611 |
+| Lợi nhuận trong kỳ                             |                          |                     |                      | 365.717.565.199                 | 6.724.418.899                 | 372.441.984.098   |
+| Trích lập các quỹ trong kỳ                     |                          |                     | 41.372.355.446       | (40.345.387.576)                | 1.889.617.986                 | 2.916.585.856     |
+| Chi thù lao Hội đồng quản trị và Ban kiểm soát |                          |                     |                      | (1.011.644.444)                 |                               | (1.011.644.444)   |
+| Chia cổ tức                                    |                          |                     |                      | (186.677.227.500)               | (1.600.000.000)               | (188.277.227.500) |
+| Tăng do đầu tư                                 |                          |                     |                      |                                 | 260.000.000                   | 260.000.000       |
+| Các khoản điều chỉnh khác                      |                          |                     |                      | 99.702.196                      |                               | 99.702.196        |
+| Số dư cuối kỳ                                  | 746.708.910.000          | 32.368.276.001      | 512.396.290.709      | 518.548.231.553                 | 37.604.369.614                | 1.847.626.077.877 |
+
+
+*Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất*
+26
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 22a. Chi tiết vốn góp của chủ sở hữu
+
+
+|                           | Số cuối quý     | Số đầu năm      |
+| ------------------------- | --------------- | --------------- |
+| Tập đoàn Dệt may Việt Nam | 374.087.960.000 | 374.087.960.000 |
+| Các cổ đông khác          | 372.620.950.000 | 372.620.950.000 |
+| Cộng                      | 746.708.910.000 | 746.708.910.000 |
+
+
+
+## 22b. Cổ phiếu
+
+
+|                                     | Số cuối quý | Số đầu năm |
+| ----------------------------------- | ----------- | ---------- |
+| Số lượng cổ phiếu đăng ký phát hành | 74.670.891  | 74.670.891 |
+| Số lượng cổ phiếu đã phát hành      | 74.670.891  | 74.670.891 |
+| - Cổ phiếu phổ thông                | 74.670.891  | 74.670.891 |
+| - Cổ phiếu ưu đãi                   | -           | -          |
+| Số lượng cổ phiếu được mua lại      | -           | -          |
+| - Cổ phiếu phổ thông                | -           | -          |
+| - Cổ phiếu ưu đãi                   | -           | -          |
+| Số lượng cổ phiếu đang lưu hành     | 74.670.891  | 74.670.891 |
+| - Cổ phiếu phổ thông                | 74.670.891  | 74.670.891 |
+| - Cổ phiếu ưu đãi                   | -           | -          |
+
+
+
+Mệnh giá cổ phiếu đang lưu hành: 10.000 VND.
+
+# VI. THÔNG TIN BỔ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+## 1. Doanh thu bán hàng và cung cấp dịch vụ
+
+
+|                                            | Năm 2024          | Năm 2023          |
+| ------------------------------------------ | ----------------- | ----------------- |
+| Doanh thu bán thành phẩm                   | 1.824.172.245.220 | 1.467.398.508.766 |
+| Doanh thu bán hàng hóa và cung cấp dịch vụ | 413.733.610.587   | 286.504.370.392   |
+| Doanh thu bất động sản                     | 148.645.997       | 619.877.344       |
+| Cộng                                       | 2.238.054.501.804 | 1.754.522.756.502 |
+
+
+
+## 2. Các khoản giảm trừ doanh thu
+
+
+|                     | Năm 2024      | Năm 2023      |
+| ------------------- | ------------- | ------------- |
+| Hàng bán bị trả lại | 5.377.071.122 | 5.141.359.865 |
+| Cộng                | 5.377.071.122 | 5.141.359.865 |
+
+
+
+## 3. Giá vốn hàng bán
+
+
+|                                            | Năm 2024          | Năm 2023          |
+| ------------------------------------------ | ----------------- | ----------------- |
+| Giá vốn của thành phẩm đã bán              | 1.489.568.197.518 | 1.174.997.101.258 |
+| Giá vốn của hàng hóa, dịch vụ đã cung cấp  | 316.278.929.472   | 233.627.689.675   |
+| Giá vốn bất động sản                       | -                 | 645.454.545       |
+| Dự phòng/(hoàn nhập) giảm giá hàng tồn kho | (2.319.154.389)   | (7.632.810.616)   |
+| Cộng                                       | 1.803.527.972.601 | 1.401.637.434.862 |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+27
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP. Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 4. Doanh thu hoạt động tài chính
+
+
+|                                    | Năm 2024           | Năm 2023           |
+| ---------------------------------- | ------------------ | ------------------ |
+| Lãi tiền gửi không kỳ hạn          | 388.039.101        | 130.590.492        |
+| Lãi tiền gửi có kỳ hạn             | 22.999.727.575     | 24.839.409.805     |
+| Cổ tức, lợi nhuận được chia        | 9.751.686.000      | 8.841.570.000      |
+| Lãi chênh lệch tỷ giá đã thực hiện | 13.516.448.789     | 9.471.948.157      |
+| **Cộng**                           | **46.655.901.465** | **43.283.518.454** |
+
+
+
+## 5. Chi phí tài chính
+
+
+|                                                 | Năm 2024            | Năm 2023           |
+| ----------------------------------------------- | ------------------- | ------------------ |
+| Chi phí lãi vay                                 | 54.671.580.549      | 59.352.205.703     |
+| Lỗ chênh lệch tỷ giá đã thực hiện               | 1.665.454.463       | 6.700.054.973      |
+| Lỗ chênh lệch tỷ giá chưa thực hiện             | 24.866.432.632      | 16.843.485.309     |
+| Chi phí thanh lý các khoản đầu tư               | -                   | 20.000.000         |
+| Dự phòng/(hoàn nhập) các khoản đầu tư tài chính | 10.258.723.440      | 4.820.129.544      |
+| Chi phí hỗ trợ giảm lãi chậm thanh toán         | 9.415.761.812       | -                  |
+| **Cộng**                                        | **100.877.952.896** | **87.735.875.529** |
+
+
+
+## 6. Chi phí bán hàng
+
+
+|                               | Năm 2024           | Năm 2023           |
+| ----------------------------- | ------------------ | ------------------ |
+| Chi phí cho nhân viên         | 24.363.711.615     | 16.077.726.894     |
+| Chi phí nguyên liệu, vật liệu | 1.498.671.565      | 874.318.567        |
+| Chi phí dịch vụ mua ngoài     | 46.243.773.737     | 45.943.073.992     |
+| Chi phí khác                  | 16.284.020.154     | 14.164.430.498     |
+| **Cộng**                      | **88.390.177.071** | **77.059.549.951** |
+
+
+
+## 7. Chi phí quản lý doanh nghiệp
+
+
+|                                          | Năm 2024            | Năm 2023            |
+| ---------------------------------------- | ------------------- | ------------------- |
+| Chi phí cho nhân viên                    | 89.516.492.801      | 75.068.159.456      |
+| Chi phí nguyên liệu, vật liệu            | 7.895.156.769       | 5.319.515.531       |
+| Chi phí thuế và lệ phí                   | 80.618.334.105      | 78.918.175.060      |
+| Chi phí khấu hao tài sản cố định         | 4.318.714.172       | 4.433.240.780       |
+| Chi phí phân bổ lợi thế thương mại       | 3.936.650.481       | 3.936.650.480       |
+| Dự phòng/(hoàn nhập) nợ phải thu khó đòi | (625.121.911)       | 4.658.590.671       |
+| Chi phí dịch vụ mua ngoài                | 61.227.428.083      | 42.197.113.300      |
+| Chi phí khác                             | 11.317.501.685      | 7.293.426.892       |
+| **Cộng**                                 | **258.205.156.185** | **221.824.872.170** |
+
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+28
+
+# TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ
+Địa chỉ: 48 Tăng Nhơn Phú, khu phố 18, phường Tăng Nhơn Phú B, TP.Thủ Đức, TP. Hồ Chí Minh
+BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 4 NĂM 2024
+Cho năm kết thúc ngày 31 tháng 12 năm 2024
+Bản thuyết minh Báo cáo tài chính hợp nhất (tiếp theo)
+
+## 8. Thu nhập khác
+
+
+|                                          | Năm 2024          | Năm 2023        |
+| ---------------------------------------- | ----------------- | --------------- |
+| Lãi thanh lý, nhượng bán tài sản cố định | 4.422.439.004     | -               |
+| Tiền bồi thường                          | 4.349.767.835     | -               |
+| Tiền phạt vi phạm hợp đồng               | -                 | 60.000.000      |
+| Thu nhập khác                            | 124.202.214       | 64.867.296      |
+| **Cộng**                                 | **8.896.409.053** | **124.867.296** |
+
+
+
+## 9. Chi phí khác
+
+
+|                                    | Năm 2024          | Năm 2023          |
+| ---------------------------------- | ----------------- | ----------------- |
+| Chi phí thanh lý tài sản cố định   | -                 | 1.688.605.636     |
+| Tiền phạt vi phạm hành chính, thuế | 3.796.721.900     | -                 |
+| Chi phí hỗ trợ                     | -                 | 2.564.726.758     |
+| Chi phí khác                       | 710.281.574       | 812.334.831       |
+| **Cộng**                           | **4.507.003.474** | **5.065.667.225** |
+
+
+
+## 10. Lãi cơ bản/suy giảm trên cổ phiếu
+
+
+|                                                                            | Năm 2024         | Năm 2023         |
+| -------------------------------------------------------------------------- | ---------------- | ---------------- |
+| Lợi nhuận kế toán sau thuế thu nhập doanh nghiệp của cổ đông công ty mẹ    | 365.717.565.199  | 311.362.639.035  |
+| Trích quỹ khen thưởng, phúc lợi, thù lao Hội đồng quản trị, ban kiểm soát  | (33.331.237.649) | (22.754.034.333) |
+| Lợi nhuận tính lãi cơ bản/suy giảm trên cổ phiếu                           | 332.386.327.550  | 288.608.604.702  |
+| Số lượng bình quân gia quyền của cổ phiếu phổ thông đang lưu hành trong kỳ | 74.670.891       | 74.670.891       |
+| **Lãi cơ bản/suy giảm trên cổ phiếu**                                      | **4.451**        | **3.865**        |
+
+
+
+TP. Hồ Chí Minh, ngày 24 tháng 01 năm 2025
+
+* **Người lập biểu**: ![signature](page_32_image_1_v2.jpg)
+**Trần Lan Anh**
+* **Kế toán trưởng**: ![signature](page_32_image_3_v2.jpg)
+**Lê Thị Tú Anh**
+* **Tổng Giám đốc**: ![signature](page_32_image_2_v2.jpg) ![stamp](page_32_seal_1_v2.jpg)
+**Dương Khuê**
+
+Bản thuyết minh này là một bộ phận hợp thành và phải được đọc cùng với Báo cáo tài chính hợp nhất
+29

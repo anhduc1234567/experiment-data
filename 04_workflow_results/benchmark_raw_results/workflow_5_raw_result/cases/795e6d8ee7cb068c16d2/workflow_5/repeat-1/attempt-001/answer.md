@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các đoạn trích không chứa số liệu về chỉ tiêu Nợ ngắn hạn và Tổng nợ phải trả trên Bảng cân đối kế toán hợp nhất quý 4 2024 để tính tỷ lệ [C1], [C2], [C3].

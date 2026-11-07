@@ -1,0 +1,1 @@
+Dựa trên các tài liệu đã truy xuất, Bằng chứng hiện tại không chứa thông tin chi tiết và đầy đủ về chỉ tiêu "Tổng vốn chủ sở hữu" tại ngày 31/12/2024 từ Bảng cân đối kế toán hợp nhất [C1, C2]. Do đó, chưa đủ dữ liệu để trả lời chính xác chỉ tiêu này.

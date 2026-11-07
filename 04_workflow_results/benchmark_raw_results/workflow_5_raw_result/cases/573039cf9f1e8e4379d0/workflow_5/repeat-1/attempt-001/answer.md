@@ -1,0 +1,1 @@
+Dự phòng nợ phải trả ngắn hạn của Tổng Công ty Cổ phần Phong Phú liên quan đến khoản tổn thất cho Tổng Công ty Nông nghiệp Sài Gòn – TNHH MTV (Saigon Agriculture Incorporation) dựa trên xác định thiệt hại tại thời điểm chuyển nhượng của dự án Khu nhà ở tại Khu phố 4, Phường Phước Long B, TP. Thủ Đức, TP. HCM [C1].

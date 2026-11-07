@@ -1,0 +1,1 @@
+Tại thời điểm Quý 4/2024 (ngày 31/12/2024) trong Báo cáo tài chính của Công ty Cổ phần Khoáng sản Bắc Kạn, các chỉ tiêu liên quan gồm: Phải trả người bán ngắn hạn (Mã số 311) đạt 93.550.898.695 VND và Người mua trả tiền trước ngắn hạn (Mã số 312) đạt 13.901.758.624 VND [C1]. Số liệu về tổng các khoản nợ ngắn hạn khác không đủ thông tin chi tiết trong các bằng chứng được cung cấp.

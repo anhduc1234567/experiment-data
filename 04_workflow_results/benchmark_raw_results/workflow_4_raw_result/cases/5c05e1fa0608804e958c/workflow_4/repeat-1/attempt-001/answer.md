@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, không có đủ thông tin và dữ liệu về dự phòng phải thu ngắn hạn khó đòi và tổng phải thu ngắn hạn.

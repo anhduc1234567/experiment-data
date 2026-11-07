@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần từ hoạt động đầu tư năm hiện tại của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là **40.218.532.929 VND** (Mã số 30) [G1] (Trang 9).

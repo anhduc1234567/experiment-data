@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, phần thuyết minh về "11. Bất động sản đầu tư cho thuê" không cung cấp số liệu chi tiết về số dư cuối kỳ và số đầu năm [C2].

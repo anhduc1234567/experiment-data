@@ -1,0 +1,1 @@
+Giá trị còn lại của tài sản cố định hữu hình tại ngày 31/12/2024 là 43.631.497.699 VND [G1] (được tính bằng hiệu số giữa Nguyên giá 202.305.110.894 VND [G1] và Giá trị hao mòn lũy kế (158.673.613.195) VND [G1]).

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ các nguồn [C1], [C2], [C3]) có đề cập đến mục "12. Lợi thế thương mại" tại [C1] nhưng thiếu nội dung chi tiết về thuyết minh phân bổ, tác động đến lợi nhuận (chi phí phân bổ) và số dư trên bảng cân đối kế toán Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú. Do đó, không đủ dữ liệu để trả lời đầy đủ các nội dung theo yêu cầu.

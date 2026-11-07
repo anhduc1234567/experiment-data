@@ -1,0 +1,1 @@
+Số dư khoản trả trước cho người bán ngắn hạn tại thời điểm số cuối quý là 21.623.063.707 đồng và số đầu năm là 8.220.335.833 đồng (đối với mục Trả trước cho người bán khác) [C1]. Tuy nhiên, bằng chứng cung cấp chưa đầy đủ để thuyết minh chi tiết toàn bộ nguyên nhân biến động do phần Thuyết minh bị cắt cụt [C1].

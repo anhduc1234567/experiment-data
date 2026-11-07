@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, ngữ cảnh được cung cấp không chứa thông tin về nguyên tắc ghi nhận doanh thu của công ty (phần thuyết minh về chính sách kế toán đối với doanh thu bị thiếu trong dữ liệu).

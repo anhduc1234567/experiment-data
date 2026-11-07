@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính, thông tin về cách lập dự phòng khi giá trị hợp lý của khoản đầu tư vào công cụ vốn của đơn vị khác không thể xác định được hiện chưa đầy đủ trong ngữ cảnh được cung cấp (bị cắt đoạn ở phần "Đối với khoản đầu tư vào cổ phiếu niêm") [N1].

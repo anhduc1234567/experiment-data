@@ -1,0 +1,1 @@
+Tại thời điểm cuối kỳ Quý 4/2024 (ngày 31 tháng 12 năm 2024), nguyên giá tài sản cố định hữu hình đã khấu hao hết nhưng vẫn còn sử dụng của Công ty Cổ phần Khoáng sản Bắc Kạn là 121.033.583.131 đồng [C1]. Bằng chứng hiện tại không cung cấp đầy đủ số liệu về giá trị hao mòn lũy kế của các tài sản này [C1].

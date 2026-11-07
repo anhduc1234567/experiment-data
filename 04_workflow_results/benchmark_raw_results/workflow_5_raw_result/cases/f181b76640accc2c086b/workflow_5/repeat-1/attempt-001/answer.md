@@ -1,0 +1,1 @@
+Nợ ngắn hạn (Mã số 310) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương trên Bảng cân đối kế toán riêng tại thời điểm cuối năm Quý 4/2024 là 566.994.110.452 đồng (số đầu năm là 895.630.596.406 đồng) [C1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin hoặc số liệu về chỉ tiêu "Vay và nợ thuê tài chính ngắn hạn" tại thời điểm cuối kỳ và đầu năm trên Báo cáo tình hình tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG [C1], [C2].

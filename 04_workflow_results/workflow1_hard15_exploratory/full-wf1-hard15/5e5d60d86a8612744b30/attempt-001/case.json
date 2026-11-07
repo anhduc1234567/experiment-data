@@ -1,0 +1,11 @@
+{
+  "case_id": "5e5d60d86a8612744b30",
+  "question_number": 412,
+  "question": "Đánh giá khả năng công ty trả nợ ngắn hạn dựa trên số liệu về phải trả người bán và người mua trả trước.",
+  "reference": "Dựa trên số liệu, khoản phải trả người bán ngắn hạn tăng từ 31.290.918.446 VND lên 93.550.898.695 VND, và người mua trả tiền trước ngắn hạn tăng từ 3.576.509.404 VND lên 13.901.758.624 VND. Sự gia tăng đáng kể ở cả hai khoản mục này cho thấy công ty có thể đang mở rộng hoạt động kinh doanh hoặc quản lý tốt hơn các khoản thanh toán. Mặc dù đây là các khoản nợ ngắn hạn, việc người mua trả tiền trước tăng cho thấy dòng tiền tiềm năng trong tương lai. Để đánh giá đầy đủ khả năng trả nợ ngắn hạn, cần xem xét thêm các tài sản thanh khoản cao như tiền và các khoản tương đương tiền.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0056",
+  "source_file": "backan.md",
+  "report_id": "Công ty Cổ phần Khoáng sản Bắc Kạn|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Khả năng trả nợ"
+}

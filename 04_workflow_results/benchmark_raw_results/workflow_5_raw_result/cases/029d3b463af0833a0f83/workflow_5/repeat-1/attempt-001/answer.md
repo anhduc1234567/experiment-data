@@ -1,0 +1,1 @@
+Công ty Cổ phần Đầu tư Châu Á - Thái Bình Dương được cấp Giấy chứng nhận đăng ký kinh doanh lần đầu ngày 31 tháng 7 năm 2006 bởi Sở Kế hoạch và Đầu tư thành phố Hà Nội [C1].

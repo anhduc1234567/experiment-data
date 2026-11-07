@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng công ty Cổ phần Phong Phú) thiếu thông tin chi tiết về các khoản mục chi phí tài chính, chi phí lãi vay, doanh thu tài chính, lợi nhuận ròng và bản thuyết minh chi tiết về chi phí tài chính để thực hiện phân tích theo kế hoạch tham khảo [C1], [C2], [C3].

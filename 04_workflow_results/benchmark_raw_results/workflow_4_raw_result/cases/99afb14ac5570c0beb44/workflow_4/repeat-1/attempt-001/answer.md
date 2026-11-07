@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, các đoạn trích dẫn (C1, C2, C3) không chứa thông tin về tỷ lệ lợi ích và tỷ lệ quyền biểu quyết của Công ty Cổ phần Nam Dương Phú cũng như phần thuyết minh chi tiết về công ty này. Do đó, phần bằng chứng hiện tại thiếu dữ liệu để trả lời câu hỏi.

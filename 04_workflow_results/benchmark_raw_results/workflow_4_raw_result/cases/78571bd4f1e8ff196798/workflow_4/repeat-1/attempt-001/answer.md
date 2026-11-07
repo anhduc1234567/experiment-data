@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (chunk C1, C2, C3) không chứa thông tin về số liệu tổng số vốn chủ sở hữu cuối kỳ trên Báo cáo tình hình tài chính hợp nhất hoặc Bảng cân đối kế toán Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh. Do đó, phần này bị thiếu trong dữ liệu và không thể trả lời.

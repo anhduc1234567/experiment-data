@@ -1,0 +1,1 @@
+Giá trị tài sản cố định hữu hình cuối kỳ (tại ngày 31/12/2024) của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là 16.326.198.818 VND [G1].

@@ -1,0 +1,1 @@
+Tổng Công ty Cổ phần Phong Phú có tỷ lệ sở hữu là 35.65% tại Công ty TNHH Coats Phong Phú [N1].

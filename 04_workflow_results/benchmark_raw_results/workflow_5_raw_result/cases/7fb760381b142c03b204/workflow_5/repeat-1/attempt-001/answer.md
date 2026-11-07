@@ -1,0 +1,1 @@
+Tổng Công ty Thiết bị Điện Đông Anh giảm thiểu rủi ro tín dụng bằng cách đưa ra các chính sách tín dụng phù hợp, tiếp tục đôn đốc và áp dụng các giải pháp để thu hồi số phải thu còn lại [C1], [C3].

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp trong báo cáo tài chính, không có thông tin về tỷ lệ sở hữu của Tổng Công ty Cổ phần Phong Phú tại công ty liên kết là Công ty TNHH Coats Phong Phú [C1, C2].

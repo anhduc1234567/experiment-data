@@ -1,0 +1,1 @@
+Tại thời điểm cuối năm 2024 (ngày 31/12/2024), ngân hàng cung cấp khoản vay ngắn hạn cho Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần là Ngân hàng TMCP Công thương Việt Nam với số dư là 63.293.828.910 VND [C1].

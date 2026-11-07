@@ -1,0 +1,1 @@
+Lãi cơ bản trên cổ phiếu của Tổng công ty Cổ phần Phong Phú năm nay (Lũy kế từ đầu năm đến cuối kỳ này Năm 2024) là **4.451 VND** [G1] (Trang 5).

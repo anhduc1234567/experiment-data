@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, ngữ cảnh cung cấp không có thông tin chi tiết về phương pháp và thời gian phân bổ lợi thế thương mại [N1, N2].

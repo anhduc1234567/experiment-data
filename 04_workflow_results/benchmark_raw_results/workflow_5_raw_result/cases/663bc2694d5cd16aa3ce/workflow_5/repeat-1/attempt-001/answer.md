@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, Tổng Công ty kinh doanh trong nhiều lĩnh vực khác nhau [C2].

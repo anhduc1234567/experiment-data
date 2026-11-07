@@ -1,0 +1,6 @@
+Chính sách kế toán hàng tồn kho của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần được thuyết minh như sau:
+
+* **Nguyên tắc ghi nhận:** Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được [N1].
+* **Phương pháp tính giá gốc:** Giá gốc hàng tồn kho được xác định theo phương pháp giá bình quân sau từng lần nhập xuất và bao gồm chi phí mua, chi phí chế biến và các chi phí khác liên quan trực tiếp [N1]. Đối với sản phẩm được sản xuất, giá gốc bao gồm chi phí nguyên vật liệu trực tiếp, chi phí nhân công trực tiếp và chi phí sản xuất chung dựa trên mức độ hoạt động bình thường [N1].
+* **Giá trị thuần có thể thực hiện được:** Là giá bán ước tính trong chu kỳ kinh doanh bình thường trừ đi chi phí ước tính để hoàn thành và chi phí bán hàng [N2].
+* **Dự phòng giảm giá hàng tồn kho:** Khi cần thiết, dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm luân chuyển và khiếm khuyết theo Thông tư số 48/2019/TT-BTC [N2]. Số tăng hoặc giảm dự phòng được hạch toán vào giá vốn hàng bán hoặc chi phí quản lý doanh nghiệp trên Báo cáo kết quả hoạt động kinh doanh [N2, N3].

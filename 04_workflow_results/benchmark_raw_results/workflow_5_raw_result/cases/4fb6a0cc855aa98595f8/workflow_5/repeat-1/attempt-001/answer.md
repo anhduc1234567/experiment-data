@@ -1,0 +1,1 @@
+Địa chỉ trụ sở chính của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG là: Tầng 3, tòa nhà Grand Plaza, số 117 Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, thành phố Hà Nội [C2].

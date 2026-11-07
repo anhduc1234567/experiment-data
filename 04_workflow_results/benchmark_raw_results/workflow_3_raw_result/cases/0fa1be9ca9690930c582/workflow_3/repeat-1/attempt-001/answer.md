@@ -1,0 +1,6 @@
+Việc phân loại và hạch toán tài sản thuê tài chính ảnh hưởng trực tiếp đến Bảng cân đối kế toán của công ty qua các chỉ tiêu sau:
+
+- **Tài sản dài hạn (Bảng cân đối kế toán [G1]):** Tài sản cố định (TSCĐ) thuê tài chính được ghi nhận làm tăng tài sản dài hạn của công ty. Cụ thể tại thời điểm 31/12/2024, nguyên giá TSCĐ thuê tài chính là 122.118.650.662 VND, giá trị hao mòn lũy kế là (10.433.919.760) VND, dẫn đến giá trị còn lại là 111.684.730.902 VND (tăng so với mức 93.851.024.744 VND đầu năm) [G1, N1].
+- **Nợ phải trả (Bảng cân đối kế toán [G2]):** Các nghĩa vụ thanh toán tiền thuê được ghi nhận vào các khoản vay và nợ thuê tài chính ngắn hạn (Mã số 320: 374.262.338.235 VND cuối kỳ) và dài hạn (Mã số 338: 587.788.579.085 VND cuối kỳ) [G2].
+
+- **Chính sách kế toán (Thuyết minh [N3]):** Thuê tài sản được phân loại là thuê tài chính nếu phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu thuộc về người đi thuê; tài sản được thể hiện theo nguyên giá trừ hao mòn lũy kế, với nguyên giá tính bằng giá thấp hơn giữa giá trị hợp lý của tài sản thuê và giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu [N3].

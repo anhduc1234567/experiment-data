@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế chưa phân phối hợp nhất tại thời điểm cuối kỳ (31/12/2024) của Tổng công ty Thiết bị điện Đông Anh là 213.498.607.796 đồng và tại thời điểm đầu năm (01/01/2024) là 172.248.062.395 đồng [C1].

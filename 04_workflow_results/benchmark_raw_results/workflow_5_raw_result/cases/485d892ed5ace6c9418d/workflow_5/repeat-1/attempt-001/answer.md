@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, thông tin chi tiết về chỉ tiêu Tài sản cố định hữu hình tại thời điểm cuối kỳ Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú cho biết thông tin về biến động tài sản cố định hữu hình được trình bày ở phụ lục 01 [C1].

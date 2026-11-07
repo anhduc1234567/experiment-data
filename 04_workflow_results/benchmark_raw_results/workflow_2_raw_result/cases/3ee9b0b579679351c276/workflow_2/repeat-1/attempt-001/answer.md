@@ -1,0 +1,1 @@
+Thời gian khấu hao ước tính cho máy móc và thiết bị hữu hình của công ty là từ 08 đến 15 năm [N3]. Đối với máy móc thiết bị thuê tài chính, số năm khấu hao từ 06 năm đến 10 năm [N1].

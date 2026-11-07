@@ -1,0 +1,1 @@
+Bằng chứng hiện tại (chunk [C1]) chưa cung cấp đầy đủ số liệu cho toàn bộ các khoản mục trong chi phí quản lý doanh nghiệp của cả năm 2023 và 2024 (bảng bị cắt cụt ở phần Thuế, phí và lệ phí) để thực hiện so sánh mức giảm.

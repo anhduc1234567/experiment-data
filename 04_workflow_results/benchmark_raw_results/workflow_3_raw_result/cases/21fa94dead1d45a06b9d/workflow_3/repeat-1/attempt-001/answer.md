@@ -1,0 +1,1 @@
+Chi phí công cụ, dụng cụ được phân bổ vào chi phí theo phương pháp đường thẳng với thời gian phân bổ không quá 03 năm [N1].

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, phần Giới thiệu [N1] chỉ nêu tiêu đề "Hội đồng quản trị" nhưng không cung cấp thông tin chi tiết về danh tính Chủ tịch Hội đồng Quản lý (Hội đồng quản trị) tính đến ngày 24 tháng 01 năm 2025. Do thiếu dữ liệu trong context, không thể xác định chính xác.

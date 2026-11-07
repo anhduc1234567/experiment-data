@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, các bằng chứng hiện tại (chunk C1 và C2) chưa cung cấp đầy đủ thông tin về chỉ tiêu "Lưu chuyển tiền thuần từ hoạt động đầu tư" cho kỳ hiện tại [C1, C2].

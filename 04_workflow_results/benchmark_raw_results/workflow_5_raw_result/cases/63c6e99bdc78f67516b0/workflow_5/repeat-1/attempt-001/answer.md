@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh, tài sản cố định vô hình (Mã số 227) có số cuối quý là 13.582.404.102 VND và số đầu năm là 757.752.915 VND [C1] (trang 1). Context thiếu thông tin chi tiết về tài sản cố định hữu hình, nguyên giá, giá trị hao mòn lũy kế và khấu hao lũy kế qua các kỳ.

@@ -1,0 +1,1 @@
+Bằng chứng hiện tại chưa cung cấp đầy đủ số liệu về nợ dài hạn tại thời điểm cuối kỳ Quý 4/2024 (Số cuối năm) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, do thông tin bị cắt cụt ở phần Nợ phải trả [C1, C2]. Do đó, chưa đủ cơ sở để tính tỷ lệ nợ dài hạn trên tổng nợ phải trả.

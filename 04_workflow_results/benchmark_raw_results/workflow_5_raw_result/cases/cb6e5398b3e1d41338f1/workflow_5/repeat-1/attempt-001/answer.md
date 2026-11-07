@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa thông tin cụ thể về số dư thuế giá trị gia tăng được khấu trừ cuối kỳ trên Báo cáo tài chính quý 4 năm 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty cổ phần [C1], [C2], [C3].

@@ -1,0 +1,1 @@
+Khoản người mua trả tiền trước ngắn hạn từ Tập đoàn Dệt May Việt Nam cuối kỳ là 21.442.860 đồng [N1].

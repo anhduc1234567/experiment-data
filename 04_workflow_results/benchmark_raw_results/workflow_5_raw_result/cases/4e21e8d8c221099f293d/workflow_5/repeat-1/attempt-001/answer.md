@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương) chưa chứa số liệu cụ thể cho chỉ tiêu "Tiền và các khoản tương đương tiền cuối kỳ" tại mục V.1 (chỉ có tiêu đề phần thuyết minh) [C2]. Do đó, phần context hiện tại thiếu thông tin để trả lời chính xác số liệu của chỉ tiêu này.

@@ -1,0 +1,11 @@
+{
+  "case_id": "9bd4c43a9ef5f3fce9a8",
+  "question_number": 341,
+  "question": "Phân tích rủi ro từ các khoản phải thu ngắn hạn và dài hạn khác, đặc biệt là các khoản phải thu từ hợp tác kinh doanh.",
+  "reference": "Các khoản phải thu ngắn hạn khác bao gồm các khoản phải thu từ hợp tác kinh doanh dự án Đông Mai (từ đầu năm là 74.071.866.212 VND nhưng cuối kỳ là 0 VND, có thể đã thu hồi) và dự án Láng Le – Bàu Cò (43.532.895.759 VND cuối kỳ và đầu năm). Rủi ro chính là khả năng chậm trễ hoặc không thu hồi được các khoản này, đặc biệt là các khoản phải thu từ hợp tác kinh doanh vốn có tính chất phức tạp và phụ thuộc vào tiến độ dự án. Việc có dự phòng cho khoản phải thu từ dự án Láng Le – Bàu Cò (16.291.758.178 VND cuối kỳ) cho thấy công ty đã đánh giá rủi ro và trích lập dự phòng. Đối với các khoản phải thu dài hạn khác (3.940.070.645 VND cuối kỳ), rủi ro nằm ở thời gian thu hồi kéo dài và các yếu tố kinh tế vĩ mô có thể ảnh hưởng đến khả năng thanh toán của bên nợ. Sự biến động lớn của các khoản phải thu này có thể ảnh hưởng đến dòng tiền và lợi nhuận của công ty nếu không được quản lý hiệu quả.",
+  "difficulty": "Hard_SA",
+  "group_id": "row-0047",
+  "source_file": "phong_phu.md",
+  "report_id": "TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ|Báo cáo tài chính|Quý 4/2024",
+  "selection_topic": "Rủi ro hợp tác kinh doanh"
+}

@@ -1,0 +1,1 @@
+Trong năm 2024 (lũy kế từ đầu năm đến cuối quý), công ty đã chi (1.072.942.242.493) VND để trả nợ gốc vay [G1].

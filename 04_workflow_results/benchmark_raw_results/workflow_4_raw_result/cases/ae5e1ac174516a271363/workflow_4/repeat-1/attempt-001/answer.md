@@ -1,0 +1,1 @@
+Tại ngày 31/12/2024, số lượng cổ phiếu đã bán ra công chúng (cổ phiếu phổ thông) của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần là 32.486.392 cổ phiếu [C1].

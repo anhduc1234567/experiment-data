@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp [C1] chưa đủ thông tin chi tiết về chính sách lập dự phòng giảm giá đầu tư vào công ty con trong Thuyết minh báo cáo tài chính.

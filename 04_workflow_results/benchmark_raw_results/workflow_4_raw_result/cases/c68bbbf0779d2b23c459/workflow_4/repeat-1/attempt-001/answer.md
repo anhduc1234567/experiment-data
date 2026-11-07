@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (từ [C1] và [C2]) không chứa thông tin hoặc số liệu về số dư đầu năm và cuối kỳ của các khoản đầu tư tài chính ngắn hạn trên Bảng cân đối kế toán riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG. Do đó, phần dữ liệu này đang bị thiếu trong ngữ cảnh.

@@ -1,0 +1,1 @@
+Bằng chứng hiện tại chỉ đề cập đến các khoản đầu tư tài chính gồm đầu tư nắm giữ đến ngày đáo hạn (tiền gửi có kỳ hạn) và đầu tư vào công ty liên doanh, liên kết [C1]. Tuy nhiên, các đoạn bằng chứng được cung cấp chưa chứa số liệu cụ thể về giá trị của từng loại hình đầu tư hay tỷ trọng để xác định loại hình đầu tư chiếm ưu thế và đánh giá chiến lược.

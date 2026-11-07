@@ -1,0 +1,1 @@
+Lợi nhuận trước thuế của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (Báo cáo tài chính riêng Quý 4/2024) năm nay là (9.805.992.079) VND và năm trước là (48.187.112.561) VND [C1].

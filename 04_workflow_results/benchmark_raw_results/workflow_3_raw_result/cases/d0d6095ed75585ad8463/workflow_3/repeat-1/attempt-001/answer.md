@@ -1,0 +1,1 @@
+Ngày bổ nhiệm Quyền Kế toán trưởng của công ty là ngày 01 tháng 09 năm 2023 [N1] (Trang 1).

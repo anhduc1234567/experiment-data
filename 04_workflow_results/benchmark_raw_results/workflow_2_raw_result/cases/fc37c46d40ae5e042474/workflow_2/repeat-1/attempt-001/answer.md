@@ -1,0 +1,1 @@
+Các bên liên quan của Tổng Công ty bao gồm: các Công ty thuộc Tập đoàn Điện lực Việt Nam, các cổ đông góp vốn, các thành viên trong Hội đồng Quản trị và Ban Giám đốc của Tổng Công ty [N4].

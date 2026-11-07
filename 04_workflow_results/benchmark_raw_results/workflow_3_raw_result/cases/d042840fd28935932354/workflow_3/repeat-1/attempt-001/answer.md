@@ -1,0 +1,1 @@
+Thời gian sử dụng hữu ích ước tính của máy móc, thiết bị là từ 3 - 20 năm [N1].

@@ -1,0 +1,1 @@
+Tại Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, số dư dự phòng phải thu ngắn hạn khó đòi là (5.755.916.446) đồng [C1]. Tổng giá trị các khoản phải thu quá hạn thanh toán là 2.890.400.620 đồng (trong đó đối tượng nợ là Công ty CP Đầu tư TM& du lịch Báo Nậm) và phải thu các khách hàng khác là 2.865.515.826 đồng [C2].

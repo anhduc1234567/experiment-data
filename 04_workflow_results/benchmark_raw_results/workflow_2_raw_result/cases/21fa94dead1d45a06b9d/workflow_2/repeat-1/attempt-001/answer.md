@@ -1,0 +1,1 @@
+Chi phí công cụ, dụng cụ được phân bổ tối đa không quá 03 năm [N1].

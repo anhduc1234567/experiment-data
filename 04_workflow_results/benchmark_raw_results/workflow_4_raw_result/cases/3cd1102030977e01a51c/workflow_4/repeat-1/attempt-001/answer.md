@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa đầy đủ thông tin về tài sản ngắn hạn và tổng tài sản tại thời điểm cuối Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn để có thể đánh giá toàn diện mức độ đầu tư vào tài sản dài hạn. Do đó, phần số liệu về tài sản ngắn hạn và tổng tài sản hiện đang bị thiếu trong context [C1, C2, C3].

@@ -1,0 +1,1 @@
+Bằng chứng hiện tại (Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) không chứa thông tin chi tiết về chi phí quản lý doanh nghiệp và khoản mục chi phí nhân viên/lương trong chi phí quản lý doanh nghiệp [C1], [C2].

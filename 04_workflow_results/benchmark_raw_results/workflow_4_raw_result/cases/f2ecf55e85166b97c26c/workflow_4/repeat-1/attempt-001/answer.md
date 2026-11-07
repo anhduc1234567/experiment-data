@@ -1,0 +1,1 @@
+Tại thời điểm cuối quý 4 năm 2024 (ngày 31 tháng 12 năm 2024), chỉ tiêu "Đầu tư nắm giữ đến ngày đáo hạn" (mã số 255) của Công ty Cổ phần Khoáng sản Bắc Kạn là 2.000.000.000 VND [C1]. Ngoài ra, chỉ tiêu "Dự phòng đầu tư tài chính dài hạn" là (1.475.086.581) VND [C1].

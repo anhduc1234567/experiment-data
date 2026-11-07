@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, context được cung cấp không chứa thông tin hoặc số liệu về số dư cuối kỳ của khoản đầu tư vào Công ty Cổ phần Dệt may Đông Nam. Do đó, không có đủ dữ liệu để trả lời câu hỏi này.

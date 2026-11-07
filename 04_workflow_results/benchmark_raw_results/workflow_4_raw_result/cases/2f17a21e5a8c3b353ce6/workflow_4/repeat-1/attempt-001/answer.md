@@ -1,0 +1,1 @@
+Tính đến ngày 24/01/2025, Tổng Giám đốc của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là bà Nguyễn Phương Dung [C2]. (Trang 10) [C2]

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa số liệu chi tiết về chi phí bán hàng và chi phí quản lý doanh nghiệp từ Báo cáo kết quả hoạt động kinh doanh Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn [C1], [C2]. Do đó, không đủ cơ sở dữ liệu để truy xuất số liệu và đánh giá hiệu quả quản lý chi phí.

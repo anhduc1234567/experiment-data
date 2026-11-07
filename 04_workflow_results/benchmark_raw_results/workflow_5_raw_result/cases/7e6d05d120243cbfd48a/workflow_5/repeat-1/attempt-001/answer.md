@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) chưa chứa các số liệu cụ thể về khoản vay và nợ thuê tài chính ngắn hạn, tổng tài sản, nợ phải trả, dòng tiền từ hoạt động kinh doanh và hoạt động tài chính [C1, C2]. Do đó, context thiếu thông tin để đánh giá rủi ro tài chính theo yêu cầu.

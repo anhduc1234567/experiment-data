@@ -1,0 +1,1 @@
+Số lượng cổ phiếu đăng ký phát hành và đã bán ra công chúng tại ngày 31/12/2024 là 32.486.392 cổ phiếu phổ thông [N1].

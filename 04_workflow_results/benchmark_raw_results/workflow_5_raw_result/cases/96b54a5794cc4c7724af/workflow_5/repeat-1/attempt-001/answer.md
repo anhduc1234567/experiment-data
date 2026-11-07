@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp từ Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG ([C1], [C2], [C3]) chưa chứa thông tin chi tiết về số liệu nợ dài hạn, tổng tài sản, vốn chủ sở hữu và chi phí lãi vay để đánh giá cấu trúc vốn và rủi ro tài chính theo yêu cầu.

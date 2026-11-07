@@ -1,0 +1,1 @@
+Tổng nợ phải trả cuối quý IV/2024 (tại ngày 31/12/2024) của Công ty Cổ phần Khoáng sản Bắc Kạn là **191.655.689.632 VND** (Mã số 300) [G1].

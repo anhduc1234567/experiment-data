@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, người giữ chức vụ Quyền Kế toán trưởng là bà Vũ Thị Thanh Loan [C1]. Bằng chứng hiện tại chưa cung cấp thông tin chi tiết về các quyết định bổ nhiệm cụ thể hoặc ngày bổ nhiệm của vị trí này.

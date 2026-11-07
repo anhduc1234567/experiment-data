@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần) không chứa dữ liệu về số dư quỹ khen thưởng, phúc lợi tại thời điểm đầu năm và cuối quý. Do đó, không thể cung cấp số liệu theo yêu cầu dựa trên context hiện có.

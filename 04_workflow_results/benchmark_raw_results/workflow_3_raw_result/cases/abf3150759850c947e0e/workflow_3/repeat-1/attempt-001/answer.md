@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế chưa phân phối tại ngày 31/12/2024 là 213.498.607.796 VND [G1].

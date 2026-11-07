@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp không chứa số liệu về chi phí bán hàng và chi phí quản lý doanh nghiệp từ Báo cáo kết quả hoạt động kinh doanh và Thuyết minh BCTC quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn do dữ liệu bị thiếu [C1], [C2].

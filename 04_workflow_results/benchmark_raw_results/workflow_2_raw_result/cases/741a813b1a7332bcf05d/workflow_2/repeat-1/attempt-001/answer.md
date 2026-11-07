@@ -1,0 +1,1 @@
+Tổng doanh thu gộp từ bán hàng và cung cấp dịch vụ trong Quý 4 năm 2024 là 1.225.400.771.502 VND [G1].

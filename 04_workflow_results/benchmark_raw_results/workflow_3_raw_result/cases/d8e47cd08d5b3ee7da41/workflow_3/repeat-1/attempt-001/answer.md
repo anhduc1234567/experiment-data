@@ -1,0 +1,1 @@
+Phương pháp tính giá trị hàng tồn kho mà công ty đang áp dụng là phương pháp thực tế bình quân [N1].

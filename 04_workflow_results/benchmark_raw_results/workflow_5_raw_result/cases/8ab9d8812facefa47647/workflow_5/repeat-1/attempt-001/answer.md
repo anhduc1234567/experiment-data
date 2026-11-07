@@ -1,0 +1,1 @@
+Bằng chứng hiện tại (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) có đề cập đến chỉ tiêu Vốn chủ sở hữu tại Thuyết minh 22 [C2], tuy nhiên các chunk được cung cấp chưa chứa số liệu cụ thể của Vốn chủ sở hữu và Tổng nguồn vốn (hoặc Tổng tài sản) để có thể tính toán tỷ lệ vốn chủ sở hữu trên tổng nguồn vốn.

@@ -1,0 +1,1 @@
+Theo chính sách kế toán của Tổng Công ty Cổ phần Phong Phú, cổ tức được ghi nhận là nợ phải trả khi được Đại hội đồng cổ đông phê duyệt [C2].

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, bằng chứng hiện tại (chunk 69) chỉ liệt kê công ty con là Công ty Cổ phần Apec Land Huế với tỷ lệ vốn góp 99,99% [C1], không có công ty con nào có tỷ lệ góp vốn 100%. Phần bằng chứng được cung cấp chưa đầy đủ để xác định công ty con có tỷ lệ góp vốn 100% [C1].

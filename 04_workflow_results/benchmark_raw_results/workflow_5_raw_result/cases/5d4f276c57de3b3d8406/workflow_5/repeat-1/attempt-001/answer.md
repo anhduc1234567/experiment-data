@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại [C2] (mục 13a) đề cập đến số dư "Phải trả người bán ngắn hạn", tuy nhiên văn bản không chứa số liệu cụ thể cho khoản mục này. Do đó, context thiếu thông tin để xác định số dư "Phải trả người bán ngắn hạn" tại thời điểm cuối kỳ.

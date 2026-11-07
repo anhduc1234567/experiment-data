@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về số dư chi phí trả trước ngắn hạn, tài sản ngắn hạn và nợ ngắn hạn trên Báo cáo tình hình tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị Điện Đông Anh [C1, C2, C3]. Do đó, không đủ dữ liệu để trả lời câu hỏi và phân tích thanh khoản.

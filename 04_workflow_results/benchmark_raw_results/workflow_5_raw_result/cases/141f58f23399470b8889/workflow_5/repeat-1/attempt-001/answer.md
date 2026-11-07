@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa số liệu cụ thể về nguyên giá và khấu hao lũy kế cuối kỳ của tài sản cố định hữu hình của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ trong Quý 4/2024 [C1].

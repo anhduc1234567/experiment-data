@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không cung cấp đầy đủ số dư và biến động cụ thể của các khoản vay và nợ thuê tài chính ngắn hạn và dài hạn trong Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, do phần dữ liệu chi tiết bị thiếu [C1].

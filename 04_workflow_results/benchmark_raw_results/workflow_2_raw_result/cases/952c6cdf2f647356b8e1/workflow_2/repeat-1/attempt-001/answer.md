@@ -1,0 +1,1 @@
+Lợi nhuận gộp quý IV/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là 34.352.002.130 VND [G1] (được tính bằng Doanh thu thuần về bán hàng và cung cấp dịch vụ là 73.486.501.074 VND trừ đi Giá vốn hàng bán là 39.134.498.944 VND [G1]).

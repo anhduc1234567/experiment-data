@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp từ Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng công ty Cổ phần Phong Phú [C1] chưa chứa số liệu cụ thể của chỉ tiêu Tổng vốn chủ sở hữu cuối kỳ, mà chỉ đề cập đến tiêu đề "22. Vốn chủ sở hữu" và "Bảng đối chiếu biến động của vốn chủ sở hữu" [C1].

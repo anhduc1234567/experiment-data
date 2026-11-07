@@ -1,0 +1,1 @@
+Bằng chứng đã cung cấp (phần 8. Tài sản cố định hữu hình) chỉ nêu rằng thông tin về biến động tài sản cố định hữu hình được trình bày ở phụ lục 01 [C1], [C2], nhưng không chứa bảng số liệu chi tiết về giá trị tài sản cố định hữu hình cuối kỳ và đầu năm cũng như các thuyết minh biến động tăng giảm. Do đó, ngữ cảnh hiện tại thiếu dữ liệu để trả lời câu hỏi này.

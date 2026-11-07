@@ -1,0 +1,1 @@
+Dựa trên context đã cung cấp, văn bản không chứa thông tin hoặc phương pháp cụ thể để xác định dự phòng giảm giá cho trường hợp chứng khoán kinh doanh không niêm yết và không có giao dịch [N1].

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú [N1], ngữ cảnh được cung cấp không đề cập đến mã cổ phiếu (mã chứng khoán) của công ty.

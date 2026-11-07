@@ -1,0 +1,1 @@
+Lĩnh vực kinh doanh và hoạt động kinh doanh chính của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là kinh doanh và đầu tư bất động sản [C1].

@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu không chứa đầy đủ thông tin về chỉ tiêu hàng tồn kho trên Bảng cân đối kế toán tại thời điểm cuối kỳ và đầu năm của Tổng công ty Cổ phần Phong Phú (chỉ tiêu hàng tồn kho không hiển thị trong các chunk đã truy xuất [C1], [C2], [C3]). Do đó, không có đủ số liệu để trả lời câu hỏi này.

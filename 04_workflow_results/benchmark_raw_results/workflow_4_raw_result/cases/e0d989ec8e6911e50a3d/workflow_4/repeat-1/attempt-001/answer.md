@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh, cổ đông chính của Tổng công ty là Tập đoàn Điện lực Việt Nam (EVN) nắm giữ 46,49% vốn điều lệ, trong khi các cổ đông khác nắm giữ 53,51% vốn điều lệ [C1].

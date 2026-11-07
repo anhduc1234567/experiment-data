@@ -1,0 +1,1 @@
+Lợi nhuận kế toán trước thuế (hoặc Lợi nhuận trước thuế) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương trên Báo cáo lưu chuyển tiền tệ riêng năm 2024 (Năm nay) là (9.805.992.079) VND và năm 2023 (Năm trước) là (48.187.112.561) VND [C1].

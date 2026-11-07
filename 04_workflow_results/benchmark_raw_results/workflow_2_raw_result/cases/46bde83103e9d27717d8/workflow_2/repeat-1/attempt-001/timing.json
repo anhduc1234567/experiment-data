@@ -1,0 +1,13 @@
+{
+  "e2e_seconds": 8.473393416003091,
+  "search_seconds": 0,
+  "rerank_seconds": 0,
+  "graph_query_seconds": 0.0044575409847311676,
+  "graph_inventory_seconds": 0.005185166985029355,
+  "retrieval_seconds": 0.009642707969760522,
+  "model_load_seconds": 0,
+  "hybrid_search_calls": 0,
+  "rerank_calls": 0,
+  "device_requested": "cpu",
+  "definition": "Online DB inventory/content queries + hybrid search + per-query rerank; excludes LLM, model load, preflight, ingestion and artifact IO."
+}

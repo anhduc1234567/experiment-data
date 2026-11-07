@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, chỉ tiêu Tài sản dở dang dài hạn (Mã số 240) ghi nhận giá trị cuối kỳ là 11.902.048.907 đồng và đầu năm là 6.595.777.186 đồng [C2]. Bằng chứng hiện tại không cung cấp đầy đủ số liệu riêng cho "chi phí xây dựng cơ bản dở dang" cũng như "tổng tài sản" tại Quý 4/2024.

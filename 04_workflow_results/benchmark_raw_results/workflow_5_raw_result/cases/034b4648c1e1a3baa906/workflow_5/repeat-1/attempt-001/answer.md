@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG) chỉ đề cập đến mục "12. Chi phí xây dựng cơ bản dở dang" nhưng chưa nêu chi tiết các khoản mục cấu thành giá gốc của chi phí sản xuất kinh doanh dở dang, công trình dở dang hay bất động sản dở dang trong phần thuyết minh này [C1], [C2].

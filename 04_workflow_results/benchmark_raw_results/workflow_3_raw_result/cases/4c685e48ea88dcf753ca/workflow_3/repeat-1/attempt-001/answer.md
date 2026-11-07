@@ -1,0 +1,1 @@
+Tổng số tiền và các khoản tương đương tiền (bao gồm tiền mặt và tiền gửi ngân hàng không kỳ hạn) tại thời điểm cuối quý IV/2024 (ngày 31/12/2024) là **143.694.292.293 VND** [G1].

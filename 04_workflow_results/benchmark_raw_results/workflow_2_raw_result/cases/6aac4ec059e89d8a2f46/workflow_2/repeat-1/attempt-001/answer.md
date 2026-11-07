@@ -1,0 +1,1 @@
+Tổng giá gốc đầu tư vào công ty liên doanh và liên kết của Tổng công ty Cổ phần Phong Phú tại thời điểm cuối kỳ (31/12/2024) là 641.856.168.732 VND [G1].

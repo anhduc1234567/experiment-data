@@ -1,0 +1,5 @@
+Dựa trên các tài liệu được cung cấp trong Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh - Công ty Cổ phần, thông tin về lãi cơ bản trên cổ phiếu, lợi nhuận phân bổ cho cổ đông sở hữu cổ phiếu phổ thông và số lượng cổ phiếu phổ thông bình quân lưu hành trong kỳ được ghi nhận như sau:
+
+- **Số lượng cổ phiếu phổ thông** (đăng ký phát hành và đã bán ra công chúng) tại ngày 31/12/2024 và 01/01/2024 là **32.486.392** cổ phiếu [C3].
+- Chỉ tiêu về **Lãi cơ bản trên cổ phiếu (*)** có mã số 70 nhưng các đoạn bằng chứng hiện tại [C1], [C4] chưa thể hiện số liệu chi tiết của chỉ tiêu này.
+- Bằng chứng cũng chưa cung cấp số liệu cụ thể về lợi nhuận phân bổ cho cổ đông sở hữu cổ phiếu phổ thông và số lượng cổ phiếu phổ thông bình quân lưu hành trong kỳ để thực hiện tính toán.

@@ -1,0 +1,1 @@
+Dựa trên Báo cáo tài chính Quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, bằng chứng được cung cấp hiện chỉ hiển thị chỉ tiêu Tài sản ngắn hạn (Mã số 100) là 285.416.829.838 VND vào thời điểm cuối quý IV/2024 (ngày 31/12/2024) [C1]. Bằng chứng hiện tại chưa cung cấp đầy đủ thông tin về chỉ tiêu tổng tài sản dài hạn tại thời điểm này.

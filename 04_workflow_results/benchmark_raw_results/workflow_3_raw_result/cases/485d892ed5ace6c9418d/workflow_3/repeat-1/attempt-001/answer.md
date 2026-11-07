@@ -1,0 +1,1 @@
+Giá trị tài sản cố định hữu hình cuối kỳ (tại ngày 31/12/2024) của Tổng công ty Cổ phần Phong Phú là **942.578.952.397 VND** (Thuyết minh V.8, Mã số 221, Trang 2) [G1].

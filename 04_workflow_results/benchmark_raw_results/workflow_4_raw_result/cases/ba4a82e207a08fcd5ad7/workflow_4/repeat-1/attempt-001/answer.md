@@ -1,0 +1,1 @@
+Lĩnh vực và hoạt động kinh doanh chính của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là đầu tư, kinh doanh bất động sản [C1]. Về cơ cấu doanh thu, bằng chứng ghi nhận chỉ tiêu doanh thu bán hàng và cung cấp dịch vụ nhưng chưa cung cấp chi tiết cơ cấu doanh thu theo từng lĩnh vực cụ thể [C2], [C3].

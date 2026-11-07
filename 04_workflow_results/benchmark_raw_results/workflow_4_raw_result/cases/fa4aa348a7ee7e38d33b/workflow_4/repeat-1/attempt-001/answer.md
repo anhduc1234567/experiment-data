@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp trong các tài liệu từ [C1] và [C2] không chứa thông tin về chính sách kế toán, thuyết minh liên quan đến giao dịch bằng ngoại tệ, tỷ giá hối đoái và chênh lệch tỷ giá trong BCTC Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú. Do đó, phần nội dung này đang bị thiếu trong dữ liệu.

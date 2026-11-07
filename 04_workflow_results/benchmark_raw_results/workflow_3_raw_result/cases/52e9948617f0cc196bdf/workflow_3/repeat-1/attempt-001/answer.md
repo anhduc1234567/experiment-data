@@ -1,0 +1,1 @@
+Số tiền lãi vay đã trả trong năm nay (Quý 4/2024) là **26.618.199.989 VND** (ghi nhận là số âm (26.618.199.989) VND trên báo cáo) [G1].

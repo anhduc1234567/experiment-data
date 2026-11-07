@@ -1,0 +1,4 @@
+Dựa trên Báo cáo lưu chuyển tiền tệ năm 2024 của Tổng công ty Cổ phần Phong Phú:
+
+- **Lưu chuyển tiền thuần từ hoạt động kinh doanh** (Lũy kế từ đầu năm đến cuối quý 4 năm 2024): **(48.975.189.294) VND** [G1].
+- **Đánh giá:** Lưu chuyển tiền thuần từ hoạt động kinh doanh trong năm 2024 âm (đạt -48,98 tỷ đồng), cho thấy công ty không có thặng dư dòng tiền từ hoạt động cốt lõi trong kỳ. Do đó, công ty không có khả năng tự tài trợ (dùng dòng tiền thuần từ hoạt động kinh doanh để chi trả cho các hoạt động đầu tư, trả nợ gốc vay hoặc cổ tức) mà phải phụ thuộc vào các nguồn vốn bên ngoài hoặc các nguồn tiền khác (như lưu chuyển tiền từ hoạt động đầu tư đạt 339.201.459.357 VND) [G1, G2].

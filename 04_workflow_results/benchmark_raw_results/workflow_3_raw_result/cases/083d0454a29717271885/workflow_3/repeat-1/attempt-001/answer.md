@@ -1,0 +1,5 @@
+Dựa trên Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần, các thông tin liên quan đến tác động của biến động số dư và tỷ giá ngoại tệ như sau:
+
+- Theo Báo cáo lưu chuyển tiền tệ (phương pháp gián tiếp) [G5], lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ lũy kế từ đầu năm đến cuối quý này là **1.557.193.256 VND** (năm trước là 2.993.350.961 VND).
+- Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ đến tiền và tương đương tiền trong kỳ là **-30.071.691 VND** (năm trước là 20.865.353 VND) [G7].
+- Theo thuyết minh hạch toán ngoại tệ [N1, N2], Tổng công ty đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ tại ngày kết thúc kỳ kế toán (tài sản dùng tỷ giá mua, nợ phải trả dùng tỷ giá bán của ngân hàng thương mại giao dịch thường xuyên) và ghi nhận chênh lệch tỷ giá vào Báo cáo kết quả hoạt động kinh doanh.

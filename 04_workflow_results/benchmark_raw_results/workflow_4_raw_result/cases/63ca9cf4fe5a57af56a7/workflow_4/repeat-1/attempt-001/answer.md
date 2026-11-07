@@ -1,0 +1,1 @@
+Tại thời điểm ngày 31 tháng 12 năm 2024 (số cuối quý), tổng tài sản ngắn hạn (Mã số 100) của Công ty Cổ phần Khoáng sản Bắc Kạn là 285.416.829.838 VND [C1].

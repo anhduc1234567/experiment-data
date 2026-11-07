@@ -1,0 +1,1 @@
+Tập đoàn Điện lực Việt Nam (EVN) nắm giữ tỷ lệ sở hữu là 46,49% vốn điều lệ tại Tổng Công ty Thiết bị điện Đông Anh - Công ty Cổ phần [C1].

@@ -1,0 +1,1 @@
+Chỉ tiêu "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác" trên Báo cáo lưu chuyển tiền tệ riêng của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG Quý 4/2024 là 76.000.000.000 VND và kỳ trước là 121.200.000.000 VND [C1].

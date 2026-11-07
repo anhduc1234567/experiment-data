@@ -1,0 +1,1 @@
+Dựa trên Bảng cân đối kế toán Quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn, phần bằng chứng được cung cấp ([C1], [C2]) chỉ chứa thông tin về tài sản ngắn hạn và tiền và các khoản tương đương tiền. Bằng chứng hiện tại chưa cung cấp số liệu về chỉ tiêu "vay và nợ thuê tài chính ngắn hạn" tại thời điểm cuối quý và đầu năm [C1], [C2].

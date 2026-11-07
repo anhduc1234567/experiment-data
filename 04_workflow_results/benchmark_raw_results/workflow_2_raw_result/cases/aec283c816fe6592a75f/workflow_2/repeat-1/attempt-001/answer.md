@@ -1,0 +1,1 @@
+Hàng tồn kho của TỔNG CÔNG TY CỔ PHẦN PHONG PHÚ cuối kỳ (tại ngày 31 tháng 12 năm 2024) là 601.007.721.345 VND [G1].

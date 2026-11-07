@@ -1,0 +1,1 @@
+Theo thuyết minh Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, điều kiện phân loại tương đương tiền là các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá 03 tháng kể từ ngày đầu tư, có khả năng chuyển đổi dễ dàng thành một lượng tiền xác định và không có rủi ro trong việc chuyển đổi thành tiền tại thời điểm báo cáo [C1].

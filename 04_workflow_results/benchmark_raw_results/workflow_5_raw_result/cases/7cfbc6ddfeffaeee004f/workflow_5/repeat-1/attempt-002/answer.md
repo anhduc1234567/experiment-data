@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (chunk [C1] và [C2]) không chứa số liệu về số dư khoản vay ngắn hạn tại thời điểm cuối quý 4 năm 2024 và đầu năm 2024 của Công ty Cổ phần Khoáng sản Bắc Kạn. Do đó, không đủ thông tin để trả lời và so sánh.

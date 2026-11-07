@@ -1,0 +1,1 @@
+Chu kỳ hoạt động thông thường của hoạt động chuyển nhượng bất động sản của công ty thường trên 12 tháng, bắt đầu từ thời điểm xin giấy phép đầu tư, thực hiện giải phóng mặt bằng, xây dựng cơ bản cho đến thời điểm hoàn thiện [N1].

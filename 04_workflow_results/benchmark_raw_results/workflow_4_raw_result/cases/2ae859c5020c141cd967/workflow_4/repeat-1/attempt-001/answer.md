@@ -1,0 +1,5 @@
+Theo thuyết minh Báo cáo tài chính riêng Quý 4/2024 của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG, chính sách kế toán đối với khoản đầu tư vào công ty con và cổ tức/lợi nhuận được quy định như sau:
+
+- **Cổ tức và lợi nhuận:** Cổ tức và lợi nhuận của các kỳ trước khi khoản đầu tư được mua được hạch toán giảm giá trị khoản đầu tư đó, trong khi cổ tức và lợi nhuận của các kỳ sau khi mua được ghi nhận là doanh thu. Cổ tức nhận bằng cổ phiếu chỉ được theo dõi số lượng cổ phiếu tăng thêm và không ghi nhận giá trị [C1].
+- Đồng thời, cổ tức và lợi nhuận được chia nói chung cũng được ghi nhận khi Công ty được quyền nhận từ việc góp vốn, và cổ tức nhận bằng cổ phiếu cũng chỉ theo dõi số lượng cổ phiếu tăng thêm mà không ghi nhận giá trị [C2].
+- *Lưu ý về thuyết minh:* Bằng chứng không có thuyết minh riêng biệt định nghĩa chi tiết từng bước về "lợi nhuận trước và ngày mua" ngoài quy định hạch toán giảm giá trị đầu tư đối với cổ tức/lợi nhuận của các kỳ trước khi khoản đầu tư được mua [C1].

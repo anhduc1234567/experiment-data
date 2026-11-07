@@ -1,0 +1,1 @@
+Lợi nhuận gộp về bán hàng và cung cấp dịch vụ quý IV/2024 là **34.352.002.130 VND** [G1] (trang 7, 8).

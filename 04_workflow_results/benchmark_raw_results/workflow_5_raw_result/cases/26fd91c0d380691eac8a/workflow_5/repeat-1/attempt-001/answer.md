@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp không chứa thông tin về chỉ tiêu vay và nợ thuê tài chính ngắn hạn tại thời điểm cuối kỳ và đầu năm [C1].

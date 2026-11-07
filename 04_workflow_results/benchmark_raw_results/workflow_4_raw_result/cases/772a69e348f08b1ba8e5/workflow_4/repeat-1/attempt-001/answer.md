@@ -1,0 +1,1 @@
+Lưu chuyển tiền thuần trong kỳ (Quý 4/2024 - lũy kế từ đầu năm đến cuối quý) của Công ty Cổ phần Khoáng sản Bắc Kạn là 115.546.375.843 VND, trong khi cùng kỳ năm trước là 22.932.178.435 VND [C2].

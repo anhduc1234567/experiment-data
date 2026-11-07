@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế thu nhập doanh nghiệp của CÔNG TY CỔ PHẦN ĐẦU TƯ CHÂU Á – THÁI BÌNH DƯƠNG trong quý IV năm 2024 là 12.090.244.768 đồng, và lũy kế đến quý IV năm 2024 là (10.849.716.013) đồng [C1, Trang 7].

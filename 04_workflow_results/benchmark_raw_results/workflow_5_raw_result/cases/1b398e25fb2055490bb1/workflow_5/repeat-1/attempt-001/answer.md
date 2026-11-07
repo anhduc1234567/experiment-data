@@ -1,0 +1,1 @@
+Doanh thu hoạt động tài chính hợp nhất của Tổng Công ty Thiết bị điện Đông Anh trong Quý 4 năm 2024 là 2.685.357.814 VND và Quý 4 năm 2023 là 331.588.925 VND [C2].

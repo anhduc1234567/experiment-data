@@ -1,0 +1,26 @@
+[
+  {
+    "workflow": "workflow_2",
+    "folder": "workflow_2_raw_result",
+    "cases": 421,
+    "successful": 421
+  },
+  {
+    "workflow": "workflow_3",
+    "folder": "workflow_3_raw_result",
+    "cases": 421,
+    "successful": 421
+  },
+  {
+    "workflow": "workflow_4",
+    "folder": "workflow_4_raw_result",
+    "cases": 421,
+    "successful": 421
+  },
+  {
+    "workflow": "workflow_5",
+    "folder": "workflow_5_raw_result",
+    "cases": 421,
+    "successful": 421
+  }
+]

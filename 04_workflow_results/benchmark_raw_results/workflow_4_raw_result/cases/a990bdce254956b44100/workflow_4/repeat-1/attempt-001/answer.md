@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp chỉ chứa thông tin về vay và nợ thuê tài chính dài hạn [C1] và phải trả dài hạn khác [C2], nhưng thiếu dữ liệu cụ thể về số dư cuối kỳ của các khoản vay và nợ thuê tài chính ngắn hạn trên Bảng cân đối kế toán hoặc phần thuyết minh liên quan.

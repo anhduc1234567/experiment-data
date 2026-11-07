@@ -1,0 +1,1 @@
+Số dư cuối quý của Tài sản cố định hữu hình trên Bảng cân đối kế toán hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị điện Đông Anh - Công ty Cổ phần là 303.171.972.863 VND [C1].

@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính riêng Quý 4/2024 của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương, công ty con được liệt kê là Công ty Cổ phần Apec Land Huế với tỷ lệ vốn góp, tỷ lệ lợi ích và tỷ lệ quyền biểu quyết đều là 99,99% [C1].

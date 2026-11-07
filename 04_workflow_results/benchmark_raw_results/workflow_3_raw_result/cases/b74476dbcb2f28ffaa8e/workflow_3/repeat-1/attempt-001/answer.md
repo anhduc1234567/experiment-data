@@ -1,0 +1,4 @@
+- Tiền thu từ đi vay (lũy kế năm nay): 1.926.341.353.549 VND [G1]
+- Tiền trả nợ gốc vay (lũy kế năm nay): 1.879.378.771.365 VND [G1]
+- Phép tính tỷ lệ: (1.879.378.771.365 / 1.926.341.353.549) * 100 = 97,56%
+- Tỷ lệ tiền chi trả nợ gốc vay trên tổng tiền thu từ đi vay lũy kế năm hiện tại là 97,56%.

@@ -1,0 +1,1 @@
+Bằng chứng đã truy xuất không chứa thông tin về số liệu quỹ khen thưởng, phúc lợi tại thời điểm đầu năm và cuối quý từ Bảng cân đối kế toán hợp nhất Quý 4 2024. Do đó, phần này đang bị thiếu trong dữ liệu.

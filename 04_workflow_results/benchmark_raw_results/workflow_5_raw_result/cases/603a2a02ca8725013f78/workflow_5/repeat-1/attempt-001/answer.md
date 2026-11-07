@@ -1,0 +1,1 @@
+Theo thuyết minh chính sách kế toán tại Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng Công ty Thiết bị Điện Đông Anh, doanh thu bán hàng được ghi nhận khi giao hàng và chuyển quyền sở hữu cho người mua [C2].

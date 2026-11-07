@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý IV/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn) thiếu các bảng số liệu chi tiết về doanh thu, lợi nhuận, tài sản, nợ phải trả, vốn chủ sở hữu và lưu chuyển tiền tệ của quý IV/2024 và quý IV/2023 để thực hiện việc tính toán, so sánh và tìm ra khoản mục có mức chênh lệch lớn nhất [C1], [C2], [C3].

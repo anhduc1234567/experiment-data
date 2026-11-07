@@ -1,0 +1,1 @@
+Thời gian khấu hao ước tính (số năm khấu hao) cho nhóm tài sản cố định là máy móc, thiết bị là từ 08 đến 15 năm [C2].

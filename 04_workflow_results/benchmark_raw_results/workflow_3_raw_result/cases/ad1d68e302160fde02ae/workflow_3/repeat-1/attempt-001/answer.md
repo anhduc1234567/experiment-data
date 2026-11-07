@@ -1,0 +1,1 @@
+Lợi nhuận sau thuế thu nhập doanh nghiệp trong Quý 4/2024 là 118.124.154.177 VND, tăng đáng kể so với mức 42.237.545.531 VND của Quý 4/2023 (tăng 75.886.608.646 VND, tương đương khoảng 179,66%) [G1].

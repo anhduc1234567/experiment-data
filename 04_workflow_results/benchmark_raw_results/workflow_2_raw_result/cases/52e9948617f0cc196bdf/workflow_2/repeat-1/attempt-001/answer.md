@@ -1,0 +1,1 @@
+Số tiền lãi vay đã trả trong năm hiện tại (Quý 4/2024, lũy kế cả năm) của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương là (26.618.199.989) VND [G1] (trang 9, 10).

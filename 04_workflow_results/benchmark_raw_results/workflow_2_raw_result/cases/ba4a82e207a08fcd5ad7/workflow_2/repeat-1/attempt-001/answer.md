@@ -1,0 +1,1 @@
+Hoạt động kinh doanh chính của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương (APEC Investment) là: Đầu tư, kinh doanh bất động sản [N1], [N2].

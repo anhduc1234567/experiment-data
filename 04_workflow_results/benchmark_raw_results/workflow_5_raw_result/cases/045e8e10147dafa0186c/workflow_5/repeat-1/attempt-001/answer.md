@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp tại Thuyết minh "15. Thuế và các khoản phải nộp Nhà nước" của Tổng công ty Cổ phần Phong Phú Quý 4/2024 chỉ hiển thị số liệu tổng hợp là 139.593.283.024 và 137.439.253.933 [C1], nhưng context thiếu chi tiết phân chia cụ thể cho thời điểm đầu năm và cuối kỳ nên chưa thể so sánh chính xác.

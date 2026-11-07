@@ -1,0 +1,1 @@
+Theo Báo cáo tài chính Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú, chi phí xây dựng cơ bản dở dang ghi nhận là 6.882.372.470 đồng (đầu kỳ là 1.703.961.819 đồng) [C3]. Về quy định khấu hao tài sản, bất động sản đầu tư cho thuê được khấu hao theo phương pháp đường thẳng dựa trên thời gian hữu dụng ước tính, với số năm khấu hao của cơ sở hạ tầng là 30 năm [C2].

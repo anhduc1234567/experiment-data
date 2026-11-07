@@ -1,0 +1,1 @@
+Căn cứ Bảng cân đối kế toán, khoản mục **Vay và nợ thuê tài chính ngắn hạn** (Mã số 320) tại ngày 31/12/2024 là **16.812.000.000 VND**, giảm đáng kể so với số đầu năm là **102.123.550.000 VND** [G1] (giảm 85.311.550.000 VND). Căn cứ Báo cáo lưu chuyển tiền tệ, dòng tiền chi trả nợ gốc vay (Mã số 34) lũy kế từ đầu năm đến cuối quý 4/2024 là **303.384.104.022 VND** [G2].

@@ -1,0 +1,1 @@
+Dựa trên các bằng chứng được cung cấp, ngữ cảnh hiện tại không chứa dữ liệu về chỉ tiêu "Lưu chuyển tiền thuần từ hoạt động kinh doanh lũy kế đến Quý 4 2024" của Tổng công ty Thiết bị điện Đông Anh - Công ty Cổ phần [C1], [C2].

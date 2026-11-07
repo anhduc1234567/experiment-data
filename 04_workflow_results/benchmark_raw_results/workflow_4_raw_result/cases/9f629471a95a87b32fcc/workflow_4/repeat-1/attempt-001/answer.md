@@ -1,0 +1,1 @@
+Theo tài liệu, Công ty Cổ phần Khoáng sản Bắc Kạn công bố Báo cáo tài chính Quý IV/2024 là **BCTC riêng** (do là Tổ chức niêm yết không có Công ty con và đơn vị kế toán cấp trên có đơn vị trực thuộc) [C1].

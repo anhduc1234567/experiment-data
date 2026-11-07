@@ -1,0 +1,1 @@
+Giá trị còn lại của lợi thế thương mại tại cuối kỳ (ngày 31 tháng 12 năm 2024) trong Báo cáo tài chính hợp nhất Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú là **6.889.138.340** đồng [C2].

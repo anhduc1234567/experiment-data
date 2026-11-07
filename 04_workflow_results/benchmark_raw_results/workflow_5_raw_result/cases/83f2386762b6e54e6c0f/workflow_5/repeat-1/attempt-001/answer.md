@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp ([C1], [C2]) không chứa số liệu cụ thể về dự phòng giảm giá hàng tồn kho và hàng tồn kho thuần trên Bảng cân đối kế toán cũng như thuyết minh trích lập dự phòng trong Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú. Do đó,context thiếu thông tin để đánh giá biến động theo yêu cầu.

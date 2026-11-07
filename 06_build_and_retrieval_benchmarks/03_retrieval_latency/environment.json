@@ -1,0 +1,19 @@
+{
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "machine": "arm64",
+  "torch": "2.14.1",
+  "qdrant_transport": "HTTP localhost",
+  "reports": 4,
+  "device_order": [
+    "cpu",
+    "mps"
+  ],
+  "rerank_batch_size": 8,
+  "rerank_max_length": 1024,
+  "dense_top_k": 20,
+  "bm25_top_k": 20,
+  "rerank_top_k": 1,
+  "warmup_excluded": true,
+  "llm_calls": 0,
+  "db_writes": 0
+}

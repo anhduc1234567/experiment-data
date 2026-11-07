@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Báo cáo tài chính hợp nhất Quý 4 2024 của Tổng công ty Thiết bị điện Đông Anh) chưa chứa thông tin chi tiết về số liệu tăng giảm tài sản cố định trong năm tài chính bao gồm nguyên giá và khấu hao lũy kế từ phần Thuyết minh [C1, C2, C3].

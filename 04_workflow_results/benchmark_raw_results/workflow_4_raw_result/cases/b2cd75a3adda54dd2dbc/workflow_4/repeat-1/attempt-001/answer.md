@@ -1,0 +1,1 @@
+Tại thời điểm cuối quý 4/2024, đầu tư vào công ty TNHH Coats Phong Phú (công ty liên doanh, liên kết) có giá gốc là 85.253.638.578 đồng, lợi nhuận phát sinh sau ngày đầu tư là 311.747.220.573 đồng, cộng là 397.000.859.151 đồng [C2]. Bằng chứng chưa cung cấp đầy đủ số liệu tổng cộng đầu năm cho công ty này [C2].

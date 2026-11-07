@@ -1,0 +1,1 @@
+Bằng chứng được cung cấp (Quý 4/2024 của Tổng Công ty Cổ phần Phong Phú) thiếu thông tin về chi phí tài chính và lợi nhuận ròng [C1], [C2].

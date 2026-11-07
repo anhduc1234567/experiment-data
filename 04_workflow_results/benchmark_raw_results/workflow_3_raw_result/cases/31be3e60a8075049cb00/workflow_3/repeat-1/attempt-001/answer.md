@@ -1,0 +1,1 @@
+Chi phí tài chính lũy kế từ đầu năm đến cuối quý 4/2024 của Công ty Cổ phần Khoáng sản Bắc Kạn là **14.023.771.895 VNĐ** (Năm trước: 11.454.706.926 VNĐ) [G1] (Trang 7).

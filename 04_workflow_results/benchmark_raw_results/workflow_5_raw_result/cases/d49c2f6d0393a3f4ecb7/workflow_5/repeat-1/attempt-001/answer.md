@@ -1,0 +1,1 @@
+Tại thời điểm cuối năm (Quý 4/2024), tổng nợ phải trả của Công ty Cổ phần Đầu tư Châu Á – Thái Bình Dương trên Báo cáo tài chính riêng là 778.449.407.564 đồng [C1]. Trong bằng chứng hiện có, thông tin về số dư nợ dài hạn chưa được cung cấp đầy đủ [C1].

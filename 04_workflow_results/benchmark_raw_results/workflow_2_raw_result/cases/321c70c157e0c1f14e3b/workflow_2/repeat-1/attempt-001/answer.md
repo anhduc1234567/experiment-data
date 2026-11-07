@@ -1,0 +1,1 @@
+Khoản mục tiền và các khoản tương đương tiền cuối kỳ (tại ngày 31/12/2024) là 8.510.613.197 VND [G1].

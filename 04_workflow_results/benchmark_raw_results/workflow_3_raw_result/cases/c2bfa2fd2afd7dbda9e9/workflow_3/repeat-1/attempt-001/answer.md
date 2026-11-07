@@ -1,0 +1,1 @@
+Tổng vốn chủ sở hữu tại ngày 31/12/2024 là **630.248.222.611 VND** (Mã số 400, Bảng Cân đối kế toán) [G1].
